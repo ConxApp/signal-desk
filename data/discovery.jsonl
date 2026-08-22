@@ -135,6 +135,7 @@
 {"date": "2026-05-24", "entity": "figs", "wiki_views": 47}
 {"date": "2026-05-24", "entity": "firstwatch", "wiki_views": 239}
 {"date": "2026-05-24", "entity": "fivebelow", "wiki_views": 226}
+{"date": "2026-05-24", "entity": "flightcentre", "wiki_views": 3}
 {"date": "2026-05-24", "entity": "floordecor", "wiki_views": 56}
 {"date": "2026-05-24", "entity": "flutter", "wiki_views": 212}
 {"date": "2026-05-24", "entity": "footlocker", "wiki_views": 274}
@@ -351,6 +352,7 @@
 {"date": "2026-05-24", "entity": "squishmallows", "wiki_views": 145}
 {"date": "2026-05-24", "entity": "stanley", "wiki_views": 384}
 {"date": "2026-05-24", "entity": "starbucks", "wiki_views": 2193}
+{"date": "2026-05-24", "entity": "starz", "wiki_views": 547}
 {"date": "2026-05-24", "entity": "stellantis", "wiki_views": 3742}
 {"date": "2026-05-24", "entity": "swatch", "wiki_views": 838}
 {"date": "2026-05-24", "entity": "sweetgreen", "wiki_views": 184}
@@ -558,6 +560,7 @@
 {"date": "2026-05-25", "entity": "figs", "wiki_views": 58}
 {"date": "2026-05-25", "entity": "firstwatch", "wiki_views": 300}
 {"date": "2026-05-25", "entity": "fivebelow", "wiki_views": 190}
+{"date": "2026-05-25", "entity": "flightcentre", "wiki_views": 2}
 {"date": "2026-05-25", "entity": "floordecor", "wiki_views": 39}
 {"date": "2026-05-25", "entity": "flutter", "wiki_views": 265}
 {"date": "2026-05-25", "entity": "footlocker", "wiki_views": 228}
@@ -774,6 +777,7 @@
 {"date": "2026-05-25", "entity": "squishmallows", "wiki_views": 149}
 {"date": "2026-05-25", "entity": "stanley", "wiki_views": 364}
 {"date": "2026-05-25", "entity": "starbucks", "wiki_views": 2210}
+{"date": "2026-05-25", "entity": "starz", "wiki_views": 532}
 {"date": "2026-05-25", "entity": "stellantis", "wiki_views": 3788}
 {"date": "2026-05-25", "entity": "swatch", "wiki_views": 664}
 {"date": "2026-05-25", "entity": "sweetgreen", "wiki_views": 174}
@@ -1122,7 +1126,7 @@
 {"date": "2026-05-26", "entity": "pandora", "wiki_views": 221}
 {"date": "2026-05-26", "entity": "papajohns", "wiki_views": 513}
 {"close": 131.0, "date": "2026-05-26", "entity": "paradox", "volume": 121016.0, "wiki_views": 600}
-{"date": "2026-05-26", "entity": "paramount", "wiki_views": 2548}
+{"close": 10.369999885559082, "date": "2026-05-26", "entity": "paramount", "volume": 4730400.0, "wiki_views": 2548}
 {"date": "2026-05-26", "entity": "patagonia", "wiki_views": 363}
 {"close": 44.15999984741211, "date": "2026-05-26", "entity": "paypal", "volume": 13161000.0, "wiki_views": 2249}
 {"close": 96.63999938964844, "date": "2026-05-26", "entity": "pdd", "volume": 9274300.0, "wiki_views": 639}
@@ -1197,6 +1201,7 @@
 {"date": "2026-05-26", "entity": "squishmallows", "wiki_views": 169}
 {"date": "2026-05-26", "entity": "stanley", "wiki_views": 368}
 {"close": 101.41999816894531, "date": "2026-05-26", "entity": "starbucks", "volume": 9099100.0, "wiki_views": 2539}
+{"date": "2026-05-26", "entity": "starz", "wiki_views": 472}
 {"date": "2026-05-26", "entity": "stellantis", "wiki_views": 4469}
 {"date": "2026-05-26", "entity": "swatch", "wiki_views": 815}
 {"date": "2026-05-26", "entity": "sweetgreen", "wiki_views": 198}
@@ -1404,6 +1409,7 @@
 {"date": "2026-05-27", "entity": "figs", "wiki_views": 58}
 {"date": "2026-05-27", "entity": "firstwatch", "wiki_views": 126}
 {"date": "2026-05-27", "entity": "fivebelow", "wiki_views": 234}
+{"date": "2026-05-27", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-05-27", "entity": "floordecor", "wiki_views": 71}
 {"date": "2026-05-27", "entity": "flutter", "wiki_views": 296}
 {"date": "2026-05-27", "entity": "footlocker", "wiki_views": 270}
@@ -1545,7 +1551,7 @@
 {"date": "2026-05-27", "entity": "pandora", "wiki_views": 220}
 {"date": "2026-05-27", "entity": "papajohns", "wiki_views": 494}
 {"close": 128.0, "date": "2026-05-27", "entity": "paradox", "volume": 112194.0, "wiki_views": 566}
-{"date": "2026-05-27", "entity": "paramount", "wiki_views": 2901}
+{"close": 10.619999885559082, "date": "2026-05-27", "entity": "paramount", "volume": 7290000.0, "wiki_views": 2901}
 {"date": "2026-05-27", "entity": "patagonia", "wiki_views": 1231}
 {"close": 43.7599983215332, "date": "2026-05-27", "entity": "paypal", "volume": 14170300.0, "wiki_views": 2275}
 {"close": 86.61000061035156, "date": "2026-05-27", "entity": "pdd", "volume": 40364400.0, "wiki_views": 722}
@@ -1620,6 +1626,7 @@
 {"date": "2026-05-27", "entity": "squishmallows", "wiki_views": 163}
 {"date": "2026-05-27", "entity": "stanley", "wiki_views": 443}
 {"close": 102.0999984741211, "date": "2026-05-27", "entity": "starbucks", "volume": 8901400.0, "wiki_views": 2352}
+{"date": "2026-05-27", "entity": "starz", "wiki_views": 819}
 {"date": "2026-05-27", "entity": "stellantis", "wiki_views": 4518}
 {"date": "2026-05-27", "entity": "swatch", "wiki_views": 753}
 {"date": "2026-05-27", "entity": "sweetgreen", "wiki_views": 225}
@@ -1827,6 +1834,7 @@
 {"date": "2026-05-28", "entity": "figs", "wiki_views": 81}
 {"date": "2026-05-28", "entity": "firstwatch", "wiki_views": 150}
 {"date": "2026-05-28", "entity": "fivebelow", "wiki_views": 444}
+{"date": "2026-05-28", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-05-28", "entity": "floordecor", "wiki_views": 47}
 {"date": "2026-05-28", "entity": "flutter", "wiki_views": 245}
 {"date": "2026-05-28", "entity": "footlocker", "wiki_views": 285}
@@ -1968,7 +1976,7 @@
 {"date": "2026-05-28", "entity": "pandora", "wiki_views": 241}
 {"date": "2026-05-28", "entity": "papajohns", "wiki_views": 537}
 {"close": 127.5, "date": "2026-05-28", "entity": "paradox", "volume": 71789.0, "wiki_views": 514}
-{"date": "2026-05-28", "entity": "paramount", "wiki_views": 2746}
+{"close": 10.8100004196167, "date": "2026-05-28", "entity": "paramount", "volume": 5717000.0, "wiki_views": 2746}
 {"date": "2026-05-28", "entity": "patagonia", "wiki_views": 2736}
 {"close": 44.459999084472656, "date": "2026-05-28", "entity": "paypal", "volume": 17132700.0, "wiki_views": 2540}
 {"close": 83.02999877929688, "date": "2026-05-28", "entity": "pdd", "volume": 27541500.0, "wiki_views": 1120}
@@ -2043,6 +2051,7 @@
 {"date": "2026-05-28", "entity": "squishmallows", "wiki_views": 205}
 {"date": "2026-05-28", "entity": "stanley", "wiki_views": 412}
 {"close": 100.75, "date": "2026-05-28", "entity": "starbucks", "volume": 6261500.0, "wiki_views": 2573}
+{"date": "2026-05-28", "entity": "starz", "wiki_views": 598}
 {"date": "2026-05-28", "entity": "stellantis", "wiki_views": 4118}
 {"date": "2026-05-28", "entity": "swatch", "wiki_views": 632}
 {"date": "2026-05-28", "entity": "sweetgreen", "wiki_views": 249}
@@ -2250,6 +2259,7 @@
 {"date": "2026-05-29", "entity": "figs", "wiki_views": 105}
 {"date": "2026-05-29", "entity": "firstwatch", "wiki_views": 151}
 {"date": "2026-05-29", "entity": "fivebelow", "wiki_views": 368}
+{"date": "2026-05-29", "entity": "flightcentre", "wiki_views": 4}
 {"date": "2026-05-29", "entity": "floordecor", "wiki_views": 39}
 {"date": "2026-05-29", "entity": "flutter", "wiki_views": 238}
 {"date": "2026-05-29", "entity": "footlocker", "wiki_views": 264}
@@ -2391,7 +2401,7 @@
 {"date": "2026-05-29", "entity": "pandora", "wiki_views": 303}
 {"date": "2026-05-29", "entity": "papajohns", "wiki_views": 618}
 {"close": 126.80000305175781, "date": "2026-05-29", "entity": "paradox", "volume": 165149.0, "wiki_views": 493}
-{"date": "2026-05-29", "entity": "paramount", "wiki_views": 2687}
+{"close": 10.609999656677246, "date": "2026-05-29", "entity": "paramount", "volume": 6996700.0, "wiki_views": 2687}
 {"date": "2026-05-29", "entity": "patagonia", "wiki_views": 2294}
 {"close": 44.75, "date": "2026-05-29", "entity": "paypal", "volume": 18833300.0, "wiki_views": 3125}
 {"close": 84.44000244140625, "date": "2026-05-29", "entity": "pdd", "volume": 35211300.0, "wiki_views": 1034}
@@ -2466,6 +2476,7 @@
 {"date": "2026-05-29", "entity": "squishmallows", "wiki_views": 201}
 {"date": "2026-05-29", "entity": "stanley", "wiki_views": 380}
 {"close": 99.16000366210938, "date": "2026-05-29", "entity": "starbucks", "volume": 8206600.0, "wiki_views": 2503}
+{"date": "2026-05-29", "entity": "starz", "wiki_views": 585}
 {"date": "2026-05-29", "entity": "stellantis", "wiki_views": 3754}
 {"date": "2026-05-29", "entity": "swatch", "wiki_views": 663}
 {"date": "2026-05-29", "entity": "sweetgreen", "wiki_views": 418}
@@ -2673,6 +2684,7 @@
 {"date": "2026-05-30", "entity": "figs", "wiki_views": 50}
 {"date": "2026-05-30", "entity": "firstwatch", "wiki_views": 220}
 {"date": "2026-05-30", "entity": "fivebelow", "wiki_views": 227}
+{"date": "2026-05-30", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-05-30", "entity": "floordecor", "wiki_views": 29}
 {"date": "2026-05-30", "entity": "flutter", "wiki_views": 180}
 {"date": "2026-05-30", "entity": "footlocker", "wiki_views": 234}
@@ -2889,6 +2901,7 @@
 {"date": "2026-05-30", "entity": "squishmallows", "wiki_views": 164}
 {"date": "2026-05-30", "entity": "stanley", "wiki_views": 293}
 {"date": "2026-05-30", "entity": "starbucks", "wiki_views": 1839}
+{"date": "2026-05-30", "entity": "starz", "wiki_views": 502}
 {"date": "2026-05-30", "entity": "stellantis", "wiki_views": 3374}
 {"date": "2026-05-30", "entity": "swatch", "wiki_views": 598}
 {"date": "2026-05-30", "entity": "sweetgreen", "wiki_views": 151}
@@ -3096,6 +3109,7 @@
 {"date": "2026-05-31", "entity": "figs", "wiki_views": 37}
 {"date": "2026-05-31", "entity": "firstwatch", "wiki_views": 296}
 {"date": "2026-05-31", "entity": "fivebelow", "wiki_views": 245}
+{"date": "2026-05-31", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-05-31", "entity": "floordecor", "wiki_views": 27}
 {"date": "2026-05-31", "entity": "flutter", "wiki_views": 188}
 {"date": "2026-05-31", "entity": "footlocker", "wiki_views": 210}
@@ -3312,6 +3326,7 @@
 {"date": "2026-05-31", "entity": "squishmallows", "wiki_views": 178}
 {"date": "2026-05-31", "entity": "stanley", "wiki_views": 366}
 {"date": "2026-05-31", "entity": "starbucks", "wiki_views": 2038}
+{"date": "2026-05-31", "entity": "starz", "wiki_views": 606}
 {"date": "2026-05-31", "entity": "stellantis", "wiki_views": 3250}
 {"date": "2026-05-31", "entity": "swatch", "wiki_views": 750}
 {"date": "2026-05-31", "entity": "sweetgreen", "wiki_views": 152}
@@ -3519,6 +3534,7 @@
 {"date": "2026-06-01", "entity": "figs", "wiki_views": 47}
 {"date": "2026-06-01", "entity": "firstwatch", "wiki_views": 206}
 {"date": "2026-06-01", "entity": "fivebelow", "wiki_views": 205}
+{"date": "2026-06-01", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-06-01", "entity": "floordecor", "wiki_views": 39}
 {"date": "2026-06-01", "entity": "flutter", "wiki_views": 284}
 {"date": "2026-06-01", "entity": "footlocker", "wiki_views": 253}
@@ -3660,7 +3676,7 @@
 {"date": "2026-06-01", "entity": "pandora", "wiki_views": 205}
 {"date": "2026-06-01", "entity": "papajohns", "wiki_views": 563}
 {"close": 123.80000305175781, "date": "2026-06-01", "entity": "paradox", "volume": 153941.0, "wiki_views": 563}
-{"date": "2026-06-01", "entity": "paramount", "wiki_views": 2367}
+{"close": 10.979999542236328, "date": "2026-06-01", "entity": "paramount", "volume": 7128000.0, "wiki_views": 2367}
 {"date": "2026-06-01", "entity": "patagonia", "wiki_views": 2125}
 {"close": 45.189998626708984, "date": "2026-06-01", "entity": "paypal", "volume": 16231000.0, "wiki_views": 2303}
 {"close": 87.23999786376953, "date": "2026-06-01", "entity": "pdd", "volume": 14075800.0, "wiki_views": 616}
@@ -3735,6 +3751,7 @@
 {"date": "2026-06-01", "entity": "squishmallows", "wiki_views": 177}
 {"date": "2026-06-01", "entity": "stanley", "wiki_views": 340}
 {"close": 96.51000213623047, "date": "2026-06-01", "entity": "starbucks", "volume": 8191500.0, "wiki_views": 2077}
+{"date": "2026-06-01", "entity": "starz", "wiki_views": 526}
 {"date": "2026-06-01", "entity": "stellantis", "wiki_views": 3387}
 {"date": "2026-06-01", "entity": "swatch", "wiki_views": 652}
 {"date": "2026-06-01", "entity": "sweetgreen", "wiki_views": 149}
@@ -3942,6 +3959,7 @@
 {"date": "2026-06-02", "entity": "figs", "wiki_views": 57}
 {"date": "2026-06-02", "entity": "firstwatch", "wiki_views": 199}
 {"date": "2026-06-02", "entity": "fivebelow", "wiki_views": 231}
+{"date": "2026-06-02", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-06-02", "entity": "floordecor", "wiki_views": 39}
 {"date": "2026-06-02", "entity": "flutter", "wiki_views": 295}
 {"date": "2026-06-02", "entity": "footlocker", "wiki_views": 237}
@@ -4083,7 +4101,7 @@
 {"date": "2026-06-02", "entity": "pandora", "wiki_views": 204}
 {"date": "2026-06-02", "entity": "papajohns", "wiki_views": 637}
 {"close": 122.5999984741211, "date": "2026-06-02", "entity": "paradox", "volume": 98697.0, "wiki_views": 516}
-{"date": "2026-06-02", "entity": "paramount", "wiki_views": 2582}
+{"close": 10.779999732971191, "date": "2026-06-02", "entity": "paramount", "volume": 8088700.0, "wiki_views": 2582}
 {"date": "2026-06-02", "entity": "patagonia", "wiki_views": 2479}
 {"close": 44.529998779296875, "date": "2026-06-02", "entity": "paypal", "volume": 11441400.0, "wiki_views": 2389}
 {"close": 88.18000030517578, "date": "2026-06-02", "entity": "pdd", "volume": 8915900.0, "wiki_views": 574}
@@ -4158,6 +4176,7 @@
 {"date": "2026-06-02", "entity": "squishmallows", "wiki_views": 149}
 {"date": "2026-06-02", "entity": "stanley", "wiki_views": 362}
 {"close": 95.51000213623047, "date": "2026-06-02", "entity": "starbucks", "volume": 9546600.0, "wiki_views": 2125}
+{"date": "2026-06-02", "entity": "starz", "wiki_views": 564}
 {"date": "2026-06-02", "entity": "stellantis", "wiki_views": 3443}
 {"date": "2026-06-02", "entity": "swatch", "wiki_views": 617}
 {"date": "2026-06-02", "entity": "sweetgreen", "wiki_views": 152}
@@ -4365,6 +4384,7 @@
 {"date": "2026-06-03", "entity": "figs", "wiki_views": 38}
 {"date": "2026-06-03", "entity": "firstwatch", "wiki_views": 189}
 {"date": "2026-06-03", "entity": "fivebelow", "wiki_views": 256}
+{"date": "2026-06-03", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-06-03", "entity": "floordecor", "wiki_views": 47}
 {"date": "2026-06-03", "entity": "flutter", "wiki_views": 270}
 {"date": "2026-06-03", "entity": "footlocker", "wiki_views": 225}
@@ -4506,7 +4526,7 @@
 {"date": "2026-06-03", "entity": "pandora", "wiki_views": 194}
 {"date": "2026-06-03", "entity": "papajohns", "wiki_views": 546}
 {"close": 127.0, "date": "2026-06-03", "entity": "paradox", "volume": 279600.0, "wiki_views": 472}
-{"date": "2026-06-03", "entity": "paramount", "wiki_views": 5154}
+{"close": 10.449999809265137, "date": "2026-06-03", "entity": "paramount", "volume": 6224000.0, "wiki_views": 5154}
 {"date": "2026-06-03", "entity": "patagonia", "wiki_views": 1163}
 {"close": 42.61000061035156, "date": "2026-06-03", "entity": "paypal", "volume": 19227300.0, "wiki_views": 2298}
 {"close": 85.4000015258789, "date": "2026-06-03", "entity": "pdd", "volume": 10755900.0, "wiki_views": 602}
@@ -4581,6 +4601,7 @@
 {"date": "2026-06-03", "entity": "squishmallows", "wiki_views": 170}
 {"date": "2026-06-03", "entity": "stanley", "wiki_views": 398}
 {"close": 95.88999938964844, "date": "2026-06-03", "entity": "starbucks", "volume": 8541800.0, "wiki_views": 2312}
+{"date": "2026-06-03", "entity": "starz", "wiki_views": 441}
 {"date": "2026-06-03", "entity": "stellantis", "wiki_views": 3393}
 {"date": "2026-06-03", "entity": "swatch", "wiki_views": 568}
 {"date": "2026-06-03", "entity": "sweetgreen", "wiki_views": 175}
@@ -4788,6 +4809,7 @@
 {"date": "2026-06-04", "entity": "figs", "wiki_views": 41}
 {"date": "2026-06-04", "entity": "firstwatch", "wiki_views": 162}
 {"date": "2026-06-04", "entity": "fivebelow", "wiki_views": 299}
+{"date": "2026-06-04", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-06-04", "entity": "floordecor", "wiki_views": 44}
 {"date": "2026-06-04", "entity": "flutter", "wiki_views": 355}
 {"date": "2026-06-04", "entity": "footlocker", "wiki_views": 227}
@@ -4929,7 +4951,7 @@
 {"date": "2026-06-04", "entity": "pandora", "wiki_views": 252}
 {"date": "2026-06-04", "entity": "papajohns", "wiki_views": 571}
 {"close": 131.0, "date": "2026-06-04", "entity": "paradox", "volume": 408399.0, "wiki_views": 414}
-{"date": "2026-06-04", "entity": "paramount", "wiki_views": 3391}
+{"close": 10.680000305175781, "date": "2026-06-04", "entity": "paramount", "volume": 4881900.0, "wiki_views": 3391}
 {"date": "2026-06-04", "entity": "patagonia", "wiki_views": 836}
 {"close": 42.75, "date": "2026-06-04", "entity": "paypal", "volume": 11255700.0, "wiki_views": 2322}
 {"close": 85.87999725341797, "date": "2026-06-04", "entity": "pdd", "volume": 7072100.0, "wiki_views": 598}
@@ -5004,6 +5026,7 @@
 {"date": "2026-06-04", "entity": "squishmallows", "wiki_views": 185}
 {"date": "2026-06-04", "entity": "stanley", "wiki_views": 367}
 {"close": 94.13999938964844, "date": "2026-06-04", "entity": "starbucks", "volume": 7524400.0, "wiki_views": 2910}
+{"date": "2026-06-04", "entity": "starz", "wiki_views": 432}
 {"date": "2026-06-04", "entity": "stellantis", "wiki_views": 3194}
 {"date": "2026-06-04", "entity": "swatch", "wiki_views": 604}
 {"date": "2026-06-04", "entity": "sweetgreen", "wiki_views": 130}
@@ -5211,6 +5234,7 @@
 {"date": "2026-06-05", "entity": "figs", "wiki_views": 67}
 {"date": "2026-06-05", "entity": "firstwatch", "wiki_views": 193}
 {"date": "2026-06-05", "entity": "fivebelow", "wiki_views": 250}
+{"date": "2026-06-05", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-06-05", "entity": "floordecor", "wiki_views": 38}
 {"date": "2026-06-05", "entity": "flutter", "wiki_views": 294}
 {"date": "2026-06-05", "entity": "footlocker", "wiki_views": 210}
@@ -5352,7 +5376,7 @@
 {"date": "2026-06-05", "entity": "pandora", "wiki_views": 256}
 {"date": "2026-06-05", "entity": "papajohns", "wiki_views": 564}
 {"close": 129.1999969482422, "date": "2026-06-05", "entity": "paradox", "volume": 155355.0, "wiki_views": 447}
-{"date": "2026-06-05", "entity": "paramount", "wiki_views": 3417}
+{"close": 10.220000267028809, "date": "2026-06-05", "entity": "paramount", "volume": 14616000.0, "wiki_views": 3417}
 {"date": "2026-06-05", "entity": "patagonia", "wiki_views": 653}
 {"close": 41.290000915527344, "date": "2026-06-05", "entity": "paypal", "volume": 23894900.0, "wiki_views": 2267}
 {"close": 85.06999969482422, "date": "2026-06-05", "entity": "pdd", "volume": 7418500.0, "wiki_views": 661}
@@ -5427,6 +5451,7 @@
 {"date": "2026-06-05", "entity": "squishmallows", "wiki_views": 206}
 {"date": "2026-06-05", "entity": "stanley", "wiki_views": 388}
 {"close": 95.29000091552734, "date": "2026-06-05", "entity": "starbucks", "volume": 7623300.0, "wiki_views": 2995}
+{"date": "2026-06-05", "entity": "starz", "wiki_views": 489}
 {"date": "2026-06-05", "entity": "stellantis", "wiki_views": 3291}
 {"date": "2026-06-05", "entity": "swatch", "wiki_views": 726}
 {"date": "2026-06-05", "entity": "sweetgreen", "wiki_views": 141}
@@ -5850,6 +5875,7 @@
 {"date": "2026-06-06", "entity": "squishmallows", "wiki_views": 192}
 {"date": "2026-06-06", "entity": "stanley", "wiki_views": 340}
 {"date": "2026-06-06", "entity": "starbucks", "wiki_views": 2240}
+{"date": "2026-06-06", "entity": "starz", "wiki_views": 433}
 {"date": "2026-06-06", "entity": "stellantis", "wiki_views": 3100}
 {"date": "2026-06-06", "entity": "swatch", "wiki_views": 887}
 {"date": "2026-06-06", "entity": "sweetgreen", "wiki_views": 221}
@@ -6057,6 +6083,7 @@
 {"date": "2026-06-07", "entity": "figs", "wiki_views": 36}
 {"date": "2026-06-07", "entity": "firstwatch", "wiki_views": 251}
 {"date": "2026-06-07", "entity": "fivebelow", "wiki_views": 224}
+{"date": "2026-06-07", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-06-07", "entity": "floordecor", "wiki_views": 45}
 {"date": "2026-06-07", "entity": "flutter", "wiki_views": 189}
 {"date": "2026-06-07", "entity": "footlocker", "wiki_views": 200}
@@ -6273,6 +6300,7 @@
 {"date": "2026-06-07", "entity": "squishmallows", "wiki_views": 215}
 {"date": "2026-06-07", "entity": "stanley", "wiki_views": 374}
 {"date": "2026-06-07", "entity": "starbucks", "wiki_views": 2249}
+{"date": "2026-06-07", "entity": "starz", "wiki_views": 842}
 {"date": "2026-06-07", "entity": "stellantis", "wiki_views": 3246}
 {"date": "2026-06-07", "entity": "swatch", "wiki_views": 814}
 {"date": "2026-06-07", "entity": "sweetgreen", "wiki_views": 135}
@@ -6480,6 +6508,7 @@
 {"date": "2026-06-08", "entity": "figs", "wiki_views": 64}
 {"date": "2026-06-08", "entity": "firstwatch", "wiki_views": 199}
 {"date": "2026-06-08", "entity": "fivebelow", "wiki_views": 237}
+{"date": "2026-06-08", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-06-08", "entity": "floordecor", "wiki_views": 47}
 {"date": "2026-06-08", "entity": "flutter", "wiki_views": 321}
 {"date": "2026-06-08", "entity": "footlocker", "wiki_views": 242}
@@ -6621,7 +6650,7 @@
 {"date": "2026-06-08", "entity": "pandora", "wiki_views": 244}
 {"date": "2026-06-08", "entity": "papajohns", "wiki_views": 546}
 {"close": 130.1999969482422, "date": "2026-06-08", "entity": "paradox", "volume": 153477.0, "wiki_views": 441}
-{"date": "2026-06-08", "entity": "paramount", "wiki_views": 3194}
+{"close": 10.390000343322754, "date": "2026-06-08", "entity": "paramount", "volume": 8844000.0, "wiki_views": 3194}
 {"date": "2026-06-08", "entity": "patagonia", "wiki_views": 588}
 {"close": 41.2599983215332, "date": "2026-06-08", "entity": "paypal", "volume": 16778100.0, "wiki_views": 2413}
 {"close": 82.62000274658203, "date": "2026-06-08", "entity": "pdd", "volume": 9416600.0, "wiki_views": 517}
@@ -6696,6 +6725,7 @@
 {"date": "2026-06-08", "entity": "squishmallows", "wiki_views": 202}
 {"date": "2026-06-08", "entity": "stanley", "wiki_views": 437}
 {"close": 94.81999969482422, "date": "2026-06-08", "entity": "starbucks", "volume": 7306400.0, "wiki_views": 2094}
+{"date": "2026-06-08", "entity": "starz", "wiki_views": 508}
 {"date": "2026-06-08", "entity": "stellantis", "wiki_views": 3359}
 {"date": "2026-06-08", "entity": "swatch", "wiki_views": 735}
 {"date": "2026-06-08", "entity": "sweetgreen", "wiki_views": 140}
@@ -7044,7 +7074,7 @@
 {"date": "2026-06-09", "entity": "pandora", "wiki_views": 212}
 {"date": "2026-06-09", "entity": "papajohns", "wiki_views": 501}
 {"close": 131.5, "date": "2026-06-09", "entity": "paradox", "volume": 588876.0, "wiki_views": 439}
-{"date": "2026-06-09", "entity": "paramount", "wiki_views": 2774}
+{"close": 10.239999771118164, "date": "2026-06-09", "entity": "paramount", "volume": 8326800.0, "wiki_views": 2774}
 {"date": "2026-06-09", "entity": "patagonia", "wiki_views": 515}
 {"close": 41.459999084472656, "date": "2026-06-09", "entity": "paypal", "volume": 17585000.0, "wiki_views": 2464}
 {"close": 81.93000030517578, "date": "2026-06-09", "entity": "pdd", "volume": 7162200.0, "wiki_views": 527}
@@ -7119,6 +7149,7 @@
 {"date": "2026-06-09", "entity": "squishmallows", "wiki_views": 228}
 {"date": "2026-06-09", "entity": "stanley", "wiki_views": 456}
 {"close": 97.41000366210938, "date": "2026-06-09", "entity": "starbucks", "volume": 10619700.0, "wiki_views": 2063}
+{"date": "2026-06-09", "entity": "starz", "wiki_views": 445}
 {"date": "2026-06-09", "entity": "stellantis", "wiki_views": 3966}
 {"date": "2026-06-09", "entity": "swatch", "wiki_views": 621}
 {"date": "2026-06-09", "entity": "sweetgreen", "wiki_views": 131}
@@ -7326,6 +7357,7 @@
 {"date": "2026-06-10", "entity": "figs", "wiki_views": 44}
 {"date": "2026-06-10", "entity": "firstwatch", "wiki_views": 218}
 {"date": "2026-06-10", "entity": "fivebelow", "wiki_views": 315}
+{"date": "2026-06-10", "entity": "flightcentre", "wiki_views": 2}
 {"date": "2026-06-10", "entity": "floordecor", "wiki_views": 21}
 {"date": "2026-06-10", "entity": "flutter", "wiki_views": 275}
 {"date": "2026-06-10", "entity": "footlocker", "wiki_views": 266}
@@ -7467,7 +7499,7 @@
 {"date": "2026-06-10", "entity": "pandora", "wiki_views": 228}
 {"date": "2026-06-10", "entity": "papajohns", "wiki_views": 504}
 {"close": 134.39999389648438, "date": "2026-06-10", "entity": "paradox", "volume": 95815.0, "wiki_views": 437}
-{"date": "2026-06-10", "entity": "paramount", "wiki_views": 2877}
+{"close": 10.3100004196167, "date": "2026-06-10", "entity": "paramount", "volume": 6066300.0, "wiki_views": 2877}
 {"date": "2026-06-10", "entity": "patagonia", "wiki_views": 440}
 {"close": 40.70000076293945, "date": "2026-06-10", "entity": "paypal", "volume": 14669100.0, "wiki_views": 5222}
 {"close": 81.81999969482422, "date": "2026-06-10", "entity": "pdd", "volume": 5680400.0, "wiki_views": 503}
@@ -7542,6 +7574,7 @@
 {"date": "2026-06-10", "entity": "squishmallows", "wiki_views": 201}
 {"date": "2026-06-10", "entity": "stanley", "wiki_views": 375}
 {"close": 98.76000213623047, "date": "2026-06-10", "entity": "starbucks", "volume": 8724700.0, "wiki_views": 2245}
+{"date": "2026-06-10", "entity": "starz", "wiki_views": 434}
 {"date": "2026-06-10", "entity": "stellantis", "wiki_views": 3910}
 {"date": "2026-06-10", "entity": "swatch", "wiki_views": 584}
 {"date": "2026-06-10", "entity": "sweetgreen", "wiki_views": 150}
@@ -7749,6 +7782,7 @@
 {"date": "2026-06-11", "entity": "figs", "wiki_views": 37}
 {"date": "2026-06-11", "entity": "firstwatch", "wiki_views": 152}
 {"date": "2026-06-11", "entity": "fivebelow", "wiki_views": 337}
+{"date": "2026-06-11", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-06-11", "entity": "floordecor", "wiki_views": 41}
 {"date": "2026-06-11", "entity": "flutter", "wiki_views": 330}
 {"date": "2026-06-11", "entity": "footlocker", "wiki_views": 232}
@@ -7890,7 +7924,7 @@
 {"date": "2026-06-11", "entity": "pandora", "wiki_views": 219}
 {"date": "2026-06-11", "entity": "papajohns", "wiki_views": 791}
 {"close": 133.39999389648438, "date": "2026-06-11", "entity": "paradox", "volume": 94142.0, "wiki_views": 387}
-{"date": "2026-06-11", "entity": "paramount", "wiki_views": 2569}
+{"close": 10.489999771118164, "date": "2026-06-11", "entity": "paramount", "volume": 6901400.0, "wiki_views": 2569}
 {"date": "2026-06-11", "entity": "patagonia", "wiki_views": 413}
 {"close": 41.2400016784668, "date": "2026-06-11", "entity": "paypal", "volume": 14757100.0, "wiki_views": 5715}
 {"close": 81.30000305175781, "date": "2026-06-11", "entity": "pdd", "volume": 10188500.0, "wiki_views": 486}
@@ -7965,6 +7999,7 @@
 {"date": "2026-06-11", "entity": "squishmallows", "wiki_views": 222}
 {"date": "2026-06-11", "entity": "stanley", "wiki_views": 410}
 {"close": 102.27999877929688, "date": "2026-06-11", "entity": "starbucks", "volume": 10434800.0, "wiki_views": 2127}
+{"date": "2026-06-11", "entity": "starz", "wiki_views": 459}
 {"date": "2026-06-11", "entity": "stellantis", "wiki_views": 3189}
 {"date": "2026-06-11", "entity": "swatch", "wiki_views": 523}
 {"date": "2026-06-11", "entity": "sweetgreen", "wiki_views": 172}
@@ -8172,6 +8207,7 @@
 {"date": "2026-06-12", "entity": "figs", "wiki_views": 49}
 {"date": "2026-06-12", "entity": "firstwatch", "wiki_views": 121}
 {"date": "2026-06-12", "entity": "fivebelow", "wiki_views": 310}
+{"date": "2026-06-12", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-06-12", "entity": "floordecor", "wiki_views": 46}
 {"date": "2026-06-12", "entity": "flutter", "wiki_views": 519}
 {"date": "2026-06-12", "entity": "footlocker", "wiki_views": 202}
@@ -8313,7 +8349,7 @@
 {"date": "2026-06-12", "entity": "pandora", "wiki_views": 204}
 {"date": "2026-06-12", "entity": "papajohns", "wiki_views": 726}
 {"close": 132.6999969482422, "date": "2026-06-12", "entity": "paradox", "volume": 133305.0, "wiki_views": 451}
-{"date": "2026-06-12", "entity": "paramount", "wiki_views": 3333}
+{"close": 10.470000267028809, "date": "2026-06-12", "entity": "paramount", "volume": 4767900.0, "wiki_views": 3333}
 {"date": "2026-06-12", "entity": "patagonia", "wiki_views": 401}
 {"close": 41.529998779296875, "date": "2026-06-12", "entity": "paypal", "volume": 12304100.0, "wiki_views": 5196}
 {"close": 81.55999755859375, "date": "2026-06-12", "entity": "pdd", "volume": 6117300.0, "wiki_views": 458}
@@ -8388,6 +8424,7 @@
 {"date": "2026-06-12", "entity": "squishmallows", "wiki_views": 239}
 {"date": "2026-06-12", "entity": "stanley", "wiki_views": 346}
 {"close": 103.04000091552734, "date": "2026-06-12", "entity": "starbucks", "volume": 5305500.0, "wiki_views": 2018}
+{"date": "2026-06-12", "entity": "starz", "wiki_views": 449}
 {"date": "2026-06-12", "entity": "stellantis", "wiki_views": 3580}
 {"date": "2026-06-12", "entity": "swatch", "wiki_views": 572}
 {"date": "2026-06-12", "entity": "sweetgreen", "wiki_views": 157}
@@ -8811,6 +8848,7 @@
 {"date": "2026-06-13", "entity": "squishmallows", "wiki_views": 271}
 {"date": "2026-06-13", "entity": "stanley", "wiki_views": 311}
 {"date": "2026-06-13", "entity": "starbucks", "wiki_views": 1833}
+{"date": "2026-06-13", "entity": "starz", "wiki_views": 451}
 {"date": "2026-06-13", "entity": "stellantis", "wiki_views": 3690}
 {"date": "2026-06-13", "entity": "swatch", "wiki_views": 606}
 {"date": "2026-06-13", "entity": "sweetgreen", "wiki_views": 161}
@@ -9018,6 +9056,7 @@
 {"date": "2026-06-14", "entity": "figs", "wiki_views": 33}
 {"date": "2026-06-14", "entity": "firstwatch", "wiki_views": 152}
 {"date": "2026-06-14", "entity": "fivebelow", "wiki_views": 262}
+{"date": "2026-06-14", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-06-14", "entity": "floordecor", "wiki_views": 29}
 {"date": "2026-06-14", "entity": "flutter", "wiki_views": 299}
 {"date": "2026-06-14", "entity": "footlocker", "wiki_views": 220}
@@ -9234,6 +9273,7 @@
 {"date": "2026-06-14", "entity": "squishmallows", "wiki_views": 244}
 {"date": "2026-06-14", "entity": "stanley", "wiki_views": 384}
 {"date": "2026-06-14", "entity": "starbucks", "wiki_views": 1866}
+{"date": "2026-06-14", "entity": "starz", "wiki_views": 467}
 {"date": "2026-06-14", "entity": "stellantis", "wiki_views": 3479}
 {"date": "2026-06-14", "entity": "swatch", "wiki_views": 617}
 {"date": "2026-06-14", "entity": "sweetgreen", "wiki_views": 159}
@@ -9441,6 +9481,7 @@
 {"date": "2026-06-15", "entity": "figs", "wiki_views": 34}
 {"date": "2026-06-15", "entity": "firstwatch", "wiki_views": 111}
 {"date": "2026-06-15", "entity": "fivebelow", "wiki_views": 211}
+{"date": "2026-06-15", "entity": "flightcentre", "wiki_views": 2}
 {"date": "2026-06-15", "entity": "floordecor", "wiki_views": 33}
 {"date": "2026-06-15", "entity": "flutter", "wiki_views": 405}
 {"date": "2026-06-15", "entity": "footlocker", "wiki_views": 218}
@@ -9582,7 +9623,7 @@
 {"date": "2026-06-15", "entity": "pandora", "wiki_views": 191}
 {"date": "2026-06-15", "entity": "papajohns", "wiki_views": 640}
 {"close": 131.10000610351562, "date": "2026-06-15", "entity": "paradox", "volume": 192075.0, "wiki_views": 466}
-{"date": "2026-06-15", "entity": "paramount", "wiki_views": 3693}
+{"close": 10.489999771118164, "date": "2026-06-15", "entity": "paramount", "volume": 10877700.0, "wiki_views": 3693}
 {"date": "2026-06-15", "entity": "patagonia", "wiki_views": 384}
 {"close": 42.4900016784668, "date": "2026-06-15", "entity": "paypal", "volume": 22555300.0, "wiki_views": 4049}
 {"close": 83.55000305175781, "date": "2026-06-15", "entity": "pdd", "volume": 7589400.0, "wiki_views": 452}
@@ -9657,6 +9698,7 @@
 {"date": "2026-06-15", "entity": "squishmallows", "wiki_views": 211}
 {"date": "2026-06-15", "entity": "stanley", "wiki_views": 350}
 {"close": 101.58999633789062, "date": "2026-06-15", "entity": "starbucks", "volume": 7054400.0, "wiki_views": 2246}
+{"date": "2026-06-15", "entity": "starz", "wiki_views": 468}
 {"date": "2026-06-15", "entity": "stellantis", "wiki_views": 3748}
 {"date": "2026-06-15", "entity": "swatch", "wiki_views": 540}
 {"date": "2026-06-15", "entity": "sweetgreen", "wiki_views": 146}
@@ -10005,7 +10047,7 @@
 {"date": "2026-06-16", "entity": "pandora", "wiki_views": 209}
 {"date": "2026-06-16", "entity": "papajohns", "wiki_views": 750}
 {"close": 129.1999969482422, "date": "2026-06-16", "entity": "paradox", "volume": 116779.0, "wiki_views": 484}
-{"date": "2026-06-16", "entity": "paramount", "wiki_views": 3009}
+{"close": 10.300000190734863, "date": "2026-06-16", "entity": "paramount", "volume": 7950100.0, "wiki_views": 3009}
 {"date": "2026-06-16", "entity": "patagonia", "wiki_views": 335}
 {"close": 43.650001525878906, "date": "2026-06-16", "entity": "paypal", "volume": 19507100.0, "wiki_views": 3997}
 {"close": 81.58999633789062, "date": "2026-06-16", "entity": "pdd", "volume": 7925600.0, "wiki_views": 486}
@@ -10080,6 +10122,7 @@
 {"date": "2026-06-16", "entity": "squishmallows", "wiki_views": 214}
 {"date": "2026-06-16", "entity": "stanley", "wiki_views": 381}
 {"close": 101.68000030517578, "date": "2026-06-16", "entity": "starbucks", "volume": 6646100.0, "wiki_views": 2191}
+{"date": "2026-06-16", "entity": "starz", "wiki_views": 458}
 {"date": "2026-06-16", "entity": "stellantis", "wiki_views": 3534}
 {"date": "2026-06-16", "entity": "swatch", "wiki_views": 569}
 {"date": "2026-06-16", "entity": "sweetgreen", "wiki_views": 144}
@@ -10287,6 +10330,7 @@
 {"date": "2026-06-17", "entity": "figs", "wiki_views": 30}
 {"date": "2026-06-17", "entity": "firstwatch", "wiki_views": 184}
 {"date": "2026-06-17", "entity": "fivebelow", "wiki_views": 249}
+{"date": "2026-06-17", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-06-17", "entity": "floordecor", "wiki_views": 32}
 {"date": "2026-06-17", "entity": "flutter", "wiki_views": 319}
 {"date": "2026-06-17", "entity": "footlocker", "wiki_views": 250}
@@ -10428,7 +10472,7 @@
 {"date": "2026-06-17", "entity": "pandora", "wiki_views": 201}
 {"date": "2026-06-17", "entity": "papajohns", "wiki_views": 756}
 {"close": 127.9000015258789, "date": "2026-06-17", "entity": "paradox", "volume": 96967.0, "wiki_views": 440}
-{"date": "2026-06-17", "entity": "paramount", "wiki_views": 2549}
+{"close": 9.979999542236328, "date": "2026-06-17", "entity": "paramount", "volume": 9025100.0, "wiki_views": 2549}
 {"date": "2026-06-17", "entity": "patagonia", "wiki_views": 485}
 {"close": 42.08000183105469, "date": "2026-06-17", "entity": "paypal", "volume": 19133700.0, "wiki_views": 3651}
 {"close": 79.86000061035156, "date": "2026-06-17", "entity": "pdd", "volume": 5454600.0, "wiki_views": 434}
@@ -10503,6 +10547,7 @@
 {"date": "2026-06-17", "entity": "squishmallows", "wiki_views": 224}
 {"date": "2026-06-17", "entity": "stanley", "wiki_views": 345}
 {"close": 99.81999969482422, "date": "2026-06-17", "entity": "starbucks", "volume": 6932300.0, "wiki_views": 2046}
+{"date": "2026-06-17", "entity": "starz", "wiki_views": 426}
 {"date": "2026-06-17", "entity": "stellantis", "wiki_views": 3799}
 {"date": "2026-06-17", "entity": "swatch", "wiki_views": 535}
 {"date": "2026-06-17", "entity": "sweetgreen", "wiki_views": 337}
@@ -10710,6 +10755,7 @@
 {"date": "2026-06-18", "entity": "figs", "wiki_views": 38}
 {"date": "2026-06-18", "entity": "firstwatch", "wiki_views": 180}
 {"date": "2026-06-18", "entity": "fivebelow", "wiki_views": 230}
+{"date": "2026-06-18", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-06-18", "entity": "floordecor", "wiki_views": 38}
 {"date": "2026-06-18", "entity": "flutter", "wiki_views": 257}
 {"date": "2026-06-18", "entity": "footlocker", "wiki_views": 226}
@@ -10851,7 +10897,7 @@
 {"date": "2026-06-18", "entity": "pandora", "wiki_views": 215}
 {"date": "2026-06-18", "entity": "papajohns", "wiki_views": 530}
 {"close": 125.69999694824219, "date": "2026-06-18", "entity": "paradox", "volume": 108702.0, "wiki_views": 462}
-{"date": "2026-06-18", "entity": "paramount", "wiki_views": 2492}
+{"close": 9.9399995803833, "date": "2026-06-18", "entity": "paramount", "volume": 28105400.0, "wiki_views": 2492}
 {"date": "2026-06-18", "entity": "patagonia", "wiki_views": 368}
 {"close": 42.5099983215332, "date": "2026-06-18", "entity": "paypal", "volume": 27215200.0, "wiki_views": 3500}
 {"close": 79.55999755859375, "date": "2026-06-18", "entity": "pdd", "volume": 11026100.0, "wiki_views": 375}
@@ -10926,6 +10972,7 @@
 {"date": "2026-06-18", "entity": "squishmallows", "wiki_views": 209}
 {"date": "2026-06-18", "entity": "stanley", "wiki_views": 338}
 {"close": 100.6500015258789, "date": "2026-06-18", "entity": "starbucks", "volume": 10603900.0, "wiki_views": 2005}
+{"date": "2026-06-18", "entity": "starz", "wiki_views": 414}
 {"date": "2026-06-18", "entity": "stellantis", "wiki_views": 3442}
 {"date": "2026-06-18", "entity": "swatch", "wiki_views": 520}
 {"date": "2026-06-18", "entity": "sweetgreen", "wiki_views": 126}
@@ -11349,6 +11396,7 @@
 {"date": "2026-06-19", "entity": "squishmallows", "wiki_views": 233}
 {"date": "2026-06-19", "entity": "stanley", "wiki_views": 282}
 {"date": "2026-06-19", "entity": "starbucks", "wiki_views": 1785}
+{"date": "2026-06-19", "entity": "starz", "wiki_views": 379}
 {"date": "2026-06-19", "entity": "stellantis", "wiki_views": 3354}
 {"date": "2026-06-19", "entity": "swatch", "wiki_views": 575}
 {"date": "2026-06-19", "entity": "sweetgreen", "wiki_views": 140}
@@ -11556,6 +11604,7 @@
 {"date": "2026-06-20", "entity": "figs", "wiki_views": 38}
 {"date": "2026-06-20", "entity": "firstwatch", "wiki_views": 204}
 {"date": "2026-06-20", "entity": "fivebelow", "wiki_views": 205}
+{"date": "2026-06-20", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-06-20", "entity": "floordecor", "wiki_views": 52}
 {"date": "2026-06-20", "entity": "flutter", "wiki_views": 172}
 {"date": "2026-06-20", "entity": "footlocker", "wiki_views": 201}
@@ -11772,6 +11821,7 @@
 {"date": "2026-06-20", "entity": "squishmallows", "wiki_views": 264}
 {"date": "2026-06-20", "entity": "stanley", "wiki_views": 340}
 {"date": "2026-06-20", "entity": "starbucks", "wiki_views": 1702}
+{"date": "2026-06-20", "entity": "starz", "wiki_views": 352}
 {"date": "2026-06-20", "entity": "stellantis", "wiki_views": 3314}
 {"date": "2026-06-20", "entity": "swatch", "wiki_views": 495}
 {"date": "2026-06-20", "entity": "sweetgreen", "wiki_views": 129}
@@ -11979,6 +12029,7 @@
 {"date": "2026-06-21", "entity": "figs", "wiki_views": 47}
 {"date": "2026-06-21", "entity": "firstwatch", "wiki_views": 258}
 {"date": "2026-06-21", "entity": "fivebelow", "wiki_views": 240}
+{"date": "2026-06-21", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-06-21", "entity": "floordecor", "wiki_views": 35}
 {"date": "2026-06-21", "entity": "flutter", "wiki_views": 351}
 {"date": "2026-06-21", "entity": "footlocker", "wiki_views": 172}
@@ -12195,6 +12246,7 @@
 {"date": "2026-06-21", "entity": "squishmallows", "wiki_views": 249}
 {"date": "2026-06-21", "entity": "stanley", "wiki_views": 347}
 {"date": "2026-06-21", "entity": "starbucks", "wiki_views": 1853}
+{"date": "2026-06-21", "entity": "starz", "wiki_views": 403}
 {"date": "2026-06-21", "entity": "stellantis", "wiki_views": 3333}
 {"date": "2026-06-21", "entity": "swatch", "wiki_views": 586}
 {"date": "2026-06-21", "entity": "sweetgreen", "wiki_views": 122}
@@ -12543,7 +12595,7 @@
 {"date": "2026-06-22", "entity": "pandora", "wiki_views": 227}
 {"date": "2026-06-22", "entity": "papajohns", "wiki_views": 602}
 {"close": 123.9000015258789, "date": "2026-06-22", "entity": "paradox", "volume": 69042.0, "wiki_views": 444}
-{"date": "2026-06-22", "entity": "paramount", "wiki_views": 2345}
+{"close": 9.890000343322754, "date": "2026-06-22", "entity": "paramount", "volume": 8102900.0, "wiki_views": 2345}
 {"date": "2026-06-22", "entity": "patagonia", "wiki_views": 373}
 {"close": 42.34000015258789, "date": "2026-06-22", "entity": "paypal", "volume": 13179000.0, "wiki_views": 3182}
 {"close": 78.11000061035156, "date": "2026-06-22", "entity": "pdd", "volume": 8468300.0, "wiki_views": 569}
@@ -12618,6 +12670,7 @@
 {"date": "2026-06-22", "entity": "squishmallows", "wiki_views": 231}
 {"date": "2026-06-22", "entity": "stanley", "wiki_views": 337}
 {"close": 100.1500015258789, "date": "2026-06-22", "entity": "starbucks", "volume": 5731000.0, "wiki_views": 2200}
+{"date": "2026-06-22", "entity": "starz", "wiki_views": 442}
 {"date": "2026-06-22", "entity": "stellantis", "wiki_views": 3169}
 {"date": "2026-06-22", "entity": "swatch", "wiki_views": 660}
 {"date": "2026-06-22", "entity": "sweetgreen", "wiki_views": 226}
@@ -12966,7 +13019,7 @@
 {"date": "2026-06-23", "entity": "pandora", "wiki_views": 241}
 {"date": "2026-06-23", "entity": "papajohns", "wiki_views": 522}
 {"close": 124.4000015258789, "date": "2026-06-23", "entity": "paradox", "volume": 93345.0, "wiki_views": 488}
-{"date": "2026-06-23", "entity": "paramount", "wiki_views": 2280}
+{"close": 9.720000267028809, "date": "2026-06-23", "entity": "paramount", "volume": 7896600.0, "wiki_views": 2280}
 {"date": "2026-06-23", "entity": "patagonia", "wiki_views": 343}
 {"close": 41.70000076293945, "date": "2026-06-23", "entity": "paypal", "volume": 13930000.0, "wiki_views": 4442}
 {"close": 76.55999755859375, "date": "2026-06-23", "entity": "pdd", "volume": 9089200.0, "wiki_views": 488}
@@ -13041,6 +13094,7 @@
 {"date": "2026-06-23", "entity": "squishmallows", "wiki_views": 204}
 {"date": "2026-06-23", "entity": "stanley", "wiki_views": 364}
 {"close": 101.05000305175781, "date": "2026-06-23", "entity": "starbucks", "volume": 6001600.0, "wiki_views": 2017}
+{"date": "2026-06-23", "entity": "starz", "wiki_views": 372}
 {"date": "2026-06-23", "entity": "stellantis", "wiki_views": 3043}
 {"date": "2026-06-23", "entity": "swatch", "wiki_views": 542}
 {"date": "2026-06-23", "entity": "sweetgreen", "wiki_views": 149}
@@ -13248,6 +13302,7 @@
 {"date": "2026-06-24", "entity": "figs", "wiki_views": 78}
 {"date": "2026-06-24", "entity": "firstwatch", "wiki_views": 175}
 {"date": "2026-06-24", "entity": "fivebelow", "wiki_views": 282}
+{"date": "2026-06-24", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-06-24", "entity": "floordecor", "wiki_views": 48}
 {"date": "2026-06-24", "entity": "flutter", "wiki_views": 257}
 {"date": "2026-06-24", "entity": "footlocker", "wiki_views": 219}
@@ -13389,7 +13444,7 @@
 {"date": "2026-06-24", "entity": "pandora", "wiki_views": 205}
 {"date": "2026-06-24", "entity": "papajohns", "wiki_views": 505}
 {"close": 125.0, "date": "2026-06-24", "entity": "paradox", "volume": 116358.0, "wiki_views": 393}
-{"date": "2026-06-24", "entity": "paramount", "wiki_views": 2432}
+{"close": 9.75, "date": "2026-06-24", "entity": "paramount", "volume": 5872000.0, "wiki_views": 2432}
 {"date": "2026-06-24", "entity": "patagonia", "wiki_views": 316}
 {"close": 42.47999954223633, "date": "2026-06-24", "entity": "paypal", "volume": 15478100.0, "wiki_views": 2777}
 {"close": 75.73999786376953, "date": "2026-06-24", "entity": "pdd", "volume": 7943800.0, "wiki_views": 501}
@@ -13464,6 +13519,7 @@
 {"date": "2026-06-24", "entity": "squishmallows", "wiki_views": 213}
 {"date": "2026-06-24", "entity": "stanley", "wiki_views": 378}
 {"close": 103.52999877929688, "date": "2026-06-24", "entity": "starbucks", "volume": 6989500.0, "wiki_views": 2006}
+{"date": "2026-06-24", "entity": "starz", "wiki_views": 383}
 {"date": "2026-06-24", "entity": "stellantis", "wiki_views": 2999}
 {"date": "2026-06-24", "entity": "swatch", "wiki_views": 481}
 {"date": "2026-06-24", "entity": "sweetgreen", "wiki_views": 148}
@@ -13671,6 +13727,7 @@
 {"date": "2026-06-25", "entity": "figs", "wiki_views": 58}
 {"date": "2026-06-25", "entity": "firstwatch", "wiki_views": 178}
 {"date": "2026-06-25", "entity": "fivebelow", "wiki_views": 246}
+{"date": "2026-06-25", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-06-25", "entity": "floordecor", "wiki_views": 44}
 {"date": "2026-06-25", "entity": "flutter", "wiki_views": 245}
 {"date": "2026-06-25", "entity": "footlocker", "wiki_views": 175}
@@ -13812,7 +13869,7 @@
 {"date": "2026-06-25", "entity": "pandora", "wiki_views": 281}
 {"date": "2026-06-25", "entity": "papajohns", "wiki_views": 451}
 {"close": 124.9000015258789, "date": "2026-06-25", "entity": "paradox", "volume": 85922.0, "wiki_views": 450}
-{"date": "2026-06-25", "entity": "paramount", "wiki_views": 2322}
+{"close": 9.430000305175781, "date": "2026-06-25", "entity": "paramount", "volume": 6645400.0, "wiki_views": 2322}
 {"date": "2026-06-25", "entity": "patagonia", "wiki_views": 404}
 {"close": 42.380001068115234, "date": "2026-06-25", "entity": "paypal", "volume": 10371600.0, "wiki_views": 2423}
 {"close": 73.30000305175781, "date": "2026-06-25", "entity": "pdd", "volume": 15677400.0, "wiki_views": 465}
@@ -13887,6 +13944,7 @@
 {"date": "2026-06-25", "entity": "squishmallows", "wiki_views": 228}
 {"date": "2026-06-25", "entity": "stanley", "wiki_views": 346}
 {"close": 103.16000366210938, "date": "2026-06-25", "entity": "starbucks", "volume": 6853500.0, "wiki_views": 1855}
+{"date": "2026-06-25", "entity": "starz", "wiki_views": 436}
 {"date": "2026-06-25", "entity": "stellantis", "wiki_views": 3085}
 {"date": "2026-06-25", "entity": "swatch", "wiki_views": 468}
 {"date": "2026-06-25", "entity": "sweetgreen", "wiki_views": 226}
@@ -14235,7 +14293,7 @@
 {"date": "2026-06-26", "entity": "pandora", "wiki_views": 221}
 {"date": "2026-06-26", "entity": "papajohns", "wiki_views": 518}
 {"close": 124.9000015258789, "date": "2026-06-26", "entity": "paradox", "volume": 50666.0, "wiki_views": 489}
-{"date": "2026-06-26", "entity": "paramount", "wiki_views": 2249}
+{"close": 9.640000343322754, "date": "2026-06-26", "entity": "paramount", "volume": 7282800.0, "wiki_views": 2249}
 {"date": "2026-06-26", "entity": "patagonia", "wiki_views": 363}
 {"close": 44.290000915527344, "date": "2026-06-26", "entity": "paypal", "volume": 33246300.0, "wiki_views": 2685}
 {"close": 76.55000305175781, "date": "2026-06-26", "entity": "pdd", "volume": 11322300.0, "wiki_views": 462}
@@ -14310,6 +14368,7 @@
 {"date": "2026-06-26", "entity": "squishmallows", "wiki_views": 232}
 {"date": "2026-06-26", "entity": "stanley", "wiki_views": 413}
 {"close": 104.5999984741211, "date": "2026-06-26", "entity": "starbucks", "volume": 17150800.0, "wiki_views": 1804}
+{"date": "2026-06-26", "entity": "starz", "wiki_views": 414}
 {"date": "2026-06-26", "entity": "stellantis", "wiki_views": 3529}
 {"date": "2026-06-26", "entity": "swatch", "wiki_views": 502}
 {"date": "2026-06-26", "entity": "sweetgreen", "wiki_views": 140}
@@ -14733,6 +14792,7 @@
 {"date": "2026-06-27", "entity": "squishmallows", "wiki_views": 222}
 {"date": "2026-06-27", "entity": "stanley", "wiki_views": 348}
 {"date": "2026-06-27", "entity": "starbucks", "wiki_views": 1635}
+{"date": "2026-06-27", "entity": "starz", "wiki_views": 389}
 {"date": "2026-06-27", "entity": "stellantis", "wiki_views": 3046}
 {"date": "2026-06-27", "entity": "swatch", "wiki_views": 586}
 {"date": "2026-06-27", "entity": "sweetgreen", "wiki_views": 115}
@@ -15156,6 +15216,7 @@
 {"date": "2026-06-28", "entity": "squishmallows", "wiki_views": 261}
 {"date": "2026-06-28", "entity": "stanley", "wiki_views": 366}
 {"date": "2026-06-28", "entity": "starbucks", "wiki_views": 1793}
+{"date": "2026-06-28", "entity": "starz", "wiki_views": 434}
 {"date": "2026-06-28", "entity": "stellantis", "wiki_views": 3657}
 {"date": "2026-06-28", "entity": "swatch", "wiki_views": 530}
 {"date": "2026-06-28", "entity": "sweetgreen", "wiki_views": 150}
@@ -15504,7 +15565,7 @@
 {"date": "2026-06-29", "entity": "pandora", "wiki_views": 210}
 {"date": "2026-06-29", "entity": "papajohns", "wiki_views": 482}
 {"close": 127.0, "date": "2026-06-29", "entity": "paradox", "volume": 78644.0, "wiki_views": 556}
-{"date": "2026-06-29", "entity": "paramount", "wiki_views": 2663}
+{"close": 9.819999694824219, "date": "2026-06-29", "entity": "paramount", "volume": 7001500.0, "wiki_views": 2663}
 {"date": "2026-06-29", "entity": "patagonia", "wiki_views": 389}
 {"close": 44.380001068115234, "date": "2026-06-29", "entity": "paypal", "volume": 16684300.0, "wiki_views": 2491}
 {"close": 76.54000091552734, "date": "2026-06-29", "entity": "pdd", "volume": 6733700.0, "wiki_views": 462}
@@ -15579,6 +15640,7 @@
 {"date": "2026-06-29", "entity": "squishmallows", "wiki_views": 209}
 {"date": "2026-06-29", "entity": "stanley", "wiki_views": 300}
 {"close": 104.05999755859375, "date": "2026-06-29", "entity": "starbucks", "volume": 6788800.0, "wiki_views": 1769}
+{"date": "2026-06-29", "entity": "starz", "wiki_views": 612}
 {"date": "2026-06-29", "entity": "stellantis", "wiki_views": 3266}
 {"date": "2026-06-29", "entity": "swatch", "wiki_views": 455}
 {"date": "2026-06-29", "entity": "sweetgreen", "wiki_views": 152}
@@ -15786,6 +15848,7 @@
 {"date": "2026-06-30", "entity": "figs", "wiki_views": 31}
 {"date": "2026-06-30", "entity": "firstwatch", "wiki_views": 147}
 {"date": "2026-06-30", "entity": "fivebelow", "wiki_views": 282}
+{"date": "2026-06-30", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-06-30", "entity": "floordecor", "wiki_views": 71}
 {"date": "2026-06-30", "entity": "flutter", "wiki_views": 288}
 {"date": "2026-06-30", "entity": "footlocker", "wiki_views": 1429}
@@ -15927,7 +15990,7 @@
 {"date": "2026-06-30", "entity": "pandora", "wiki_views": 210}
 {"date": "2026-06-30", "entity": "papajohns", "wiki_views": 447}
 {"close": 132.10000610351562, "date": "2026-06-30", "entity": "paradox", "volume": 102455.0, "wiki_views": 508}
-{"date": "2026-06-30", "entity": "paramount", "wiki_views": 2484}
+{"close": 9.859999656677246, "date": "2026-06-30", "entity": "paramount", "volume": 14379400.0, "wiki_views": 2484}
 {"date": "2026-06-30", "entity": "patagonia", "wiki_views": 359}
 {"close": 43.18000030517578, "date": "2026-06-30", "entity": "paypal", "volume": 14229600.0, "wiki_views": 2425}
 {"close": 76.27999877929688, "date": "2026-06-30", "entity": "pdd", "volume": 5659300.0, "wiki_views": 408}
@@ -16002,6 +16065,7 @@
 {"date": "2026-06-30", "entity": "squishmallows", "wiki_views": 193}
 {"date": "2026-06-30", "entity": "stanley", "wiki_views": 343}
 {"close": 102.19000244140625, "date": "2026-06-30", "entity": "starbucks", "volume": 7140000.0, "wiki_views": 1772}
+{"date": "2026-06-30", "entity": "starz", "wiki_views": 654}
 {"date": "2026-06-30", "entity": "stellantis", "wiki_views": 3062}
 {"date": "2026-06-30", "entity": "swatch", "wiki_views": 448}
 {"date": "2026-06-30", "entity": "sweetgreen", "wiki_views": 141}
@@ -16209,6 +16273,7 @@
 {"date": "2026-07-01", "entity": "figs", "wiki_views": 54}
 {"date": "2026-07-01", "entity": "firstwatch", "wiki_views": 153}
 {"date": "2026-07-01", "entity": "fivebelow", "wiki_views": 235}
+{"date": "2026-07-01", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-07-01", "entity": "floordecor", "wiki_views": 68}
 {"date": "2026-07-01", "entity": "flutter", "wiki_views": 372}
 {"date": "2026-07-01", "entity": "footlocker", "wiki_views": 913}
@@ -16350,7 +16415,7 @@
 {"date": "2026-07-01", "entity": "pandora", "wiki_views": 255}
 {"date": "2026-07-01", "entity": "papajohns", "wiki_views": 491}
 {"close": 132.1999969482422, "date": "2026-07-01", "entity": "paradox", "volume": 125236.0, "wiki_views": 447}
-{"date": "2026-07-01", "entity": "paramount", "wiki_views": 2169}
+{"close": 10.170000076293945, "date": "2026-07-01", "entity": "paramount", "volume": 7970800.0, "wiki_views": 2169}
 {"date": "2026-07-01", "entity": "patagonia", "wiki_views": 336}
 {"close": 44.06999969482422, "date": "2026-07-01", "entity": "paypal", "volume": 22969600.0, "wiki_views": 2557}
 {"close": 82.5199966430664, "date": "2026-07-01", "entity": "pdd", "volume": 10212500.0, "wiki_views": 409}
@@ -16425,6 +16490,7 @@
 {"date": "2026-07-01", "entity": "squishmallows", "wiki_views": 202}
 {"date": "2026-07-01", "entity": "stanley", "wiki_views": 308}
 {"close": 103.38999938964844, "date": "2026-07-01", "entity": "starbucks", "volume": 7464100.0, "wiki_views": 2112}
+{"date": "2026-07-01", "entity": "starz", "wiki_views": 417}
 {"date": "2026-07-01", "entity": "stellantis", "wiki_views": 3466}
 {"date": "2026-07-01", "entity": "swatch", "wiki_views": 401}
 {"date": "2026-07-01", "entity": "sweetgreen", "wiki_views": 142}
@@ -16632,6 +16698,7 @@
 {"date": "2026-07-02", "entity": "figs", "wiki_views": 40}
 {"date": "2026-07-02", "entity": "firstwatch", "wiki_views": 149}
 {"date": "2026-07-02", "entity": "fivebelow", "wiki_views": 277}
+{"date": "2026-07-02", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-07-02", "entity": "floordecor", "wiki_views": 57}
 {"date": "2026-07-02", "entity": "flutter", "wiki_views": 254}
 {"date": "2026-07-02", "entity": "footlocker", "wiki_views": 312}
@@ -16773,7 +16840,7 @@
 {"date": "2026-07-02", "entity": "pandora", "wiki_views": 243}
 {"date": "2026-07-02", "entity": "papajohns", "wiki_views": 451}
 {"close": 132.1999969482422, "date": "2026-07-02", "entity": "paradox", "volume": 80444.0, "wiki_views": 440}
-{"date": "2026-07-02", "entity": "paramount", "wiki_views": 2324}
+{"close": 10.390000343322754, "date": "2026-07-02", "entity": "paramount", "volume": 5750500.0, "wiki_views": 2324}
 {"date": "2026-07-02", "entity": "patagonia", "wiki_views": 337}
 {"close": 45.470001220703125, "date": "2026-07-02", "entity": "paypal", "volume": 14785400.0, "wiki_views": 2222}
 {"close": 82.38999938964844, "date": "2026-07-02", "entity": "pdd", "volume": 8488000.0, "wiki_views": 422}
@@ -16848,6 +16915,7 @@
 {"date": "2026-07-02", "entity": "squishmallows", "wiki_views": 212}
 {"date": "2026-07-02", "entity": "stanley", "wiki_views": 320}
 {"close": 104.2699966430664, "date": "2026-07-02", "entity": "starbucks", "volume": 7950200.0, "wiki_views": 1723}
+{"date": "2026-07-02", "entity": "starz", "wiki_views": 455}
 {"date": "2026-07-02", "entity": "stellantis", "wiki_views": 3032}
 {"date": "2026-07-02", "entity": "swatch", "wiki_views": 410}
 {"date": "2026-07-02", "entity": "sweetgreen", "wiki_views": 126}
@@ -17055,6 +17123,7 @@
 {"date": "2026-07-03", "entity": "figs", "wiki_views": 34}
 {"date": "2026-07-03", "entity": "firstwatch", "wiki_views": 211}
 {"date": "2026-07-03", "entity": "fivebelow", "wiki_views": 239}
+{"date": "2026-07-03", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-07-03", "entity": "floordecor", "wiki_views": 39}
 {"date": "2026-07-03", "entity": "flutter", "wiki_views": 235}
 {"date": "2026-07-03", "entity": "footlocker", "wiki_views": 233}
@@ -17271,6 +17340,7 @@
 {"date": "2026-07-03", "entity": "squishmallows", "wiki_views": 252}
 {"date": "2026-07-03", "entity": "stanley", "wiki_views": 294}
 {"date": "2026-07-03", "entity": "starbucks", "wiki_views": 1732}
+{"date": "2026-07-03", "entity": "starz", "wiki_views": 409}
 {"date": "2026-07-03", "entity": "stellantis", "wiki_views": 2896}
 {"date": "2026-07-03", "entity": "swatch", "wiki_views": 426}
 {"date": "2026-07-03", "entity": "sweetgreen", "wiki_views": 106}
@@ -17478,6 +17548,7 @@
 {"date": "2026-07-04", "entity": "figs", "wiki_views": 37}
 {"date": "2026-07-04", "entity": "firstwatch", "wiki_views": 158}
 {"date": "2026-07-04", "entity": "fivebelow", "wiki_views": 201}
+{"date": "2026-07-04", "entity": "flightcentre", "wiki_views": 2}
 {"date": "2026-07-04", "entity": "floordecor", "wiki_views": 18}
 {"date": "2026-07-04", "entity": "flutter", "wiki_views": 150}
 {"date": "2026-07-04", "entity": "footlocker", "wiki_views": 239}
@@ -17694,6 +17765,7 @@
 {"date": "2026-07-04", "entity": "squishmallows", "wiki_views": 224}
 {"date": "2026-07-04", "entity": "stanley", "wiki_views": 314}
 {"date": "2026-07-04", "entity": "starbucks", "wiki_views": 1634}
+{"date": "2026-07-04", "entity": "starz", "wiki_views": 401}
 {"date": "2026-07-04", "entity": "stellantis", "wiki_views": 2712}
 {"date": "2026-07-04", "entity": "swatch", "wiki_views": 461}
 {"date": "2026-07-04", "entity": "sweetgreen", "wiki_views": 85}
@@ -18117,6 +18189,7 @@
 {"date": "2026-07-05", "entity": "squishmallows", "wiki_views": 245}
 {"date": "2026-07-05", "entity": "stanley", "wiki_views": 352}
 {"date": "2026-07-05", "entity": "starbucks", "wiki_views": 2561}
+{"date": "2026-07-05", "entity": "starz", "wiki_views": 456}
 {"date": "2026-07-05", "entity": "stellantis", "wiki_views": 2939}
 {"date": "2026-07-05", "entity": "swatch", "wiki_views": 480}
 {"date": "2026-07-05", "entity": "sweetgreen", "wiki_views": 102}
@@ -18324,6 +18397,7 @@
 {"date": "2026-07-06", "entity": "figs", "wiki_views": 55}
 {"date": "2026-07-06", "entity": "firstwatch", "wiki_views": 176}
 {"date": "2026-07-06", "entity": "fivebelow", "wiki_views": 224}
+{"date": "2026-07-06", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-07-06", "entity": "floordecor", "wiki_views": 72}
 {"date": "2026-07-06", "entity": "flutter", "wiki_views": 269}
 {"date": "2026-07-06", "entity": "footlocker", "wiki_views": 234}
@@ -18465,7 +18539,7 @@
 {"date": "2026-07-06", "entity": "pandora", "wiki_views": 264}
 {"date": "2026-07-06", "entity": "papajohns", "wiki_views": 467}
 {"close": 129.89999389648438, "date": "2026-07-06", "entity": "paradox", "volume": 61415.0, "wiki_views": 446}
-{"date": "2026-07-06", "entity": "paramount", "wiki_views": 2034}
+{"close": 10.09000015258789, "date": "2026-07-06", "entity": "paramount", "volume": 6825500.0, "wiki_views": 2034}
 {"date": "2026-07-06", "entity": "patagonia", "wiki_views": 356}
 {"close": 45.09000015258789, "date": "2026-07-06", "entity": "paypal", "volume": 11504700.0, "wiki_views": 2337}
 {"close": 83.73999786376953, "date": "2026-07-06", "entity": "pdd", "volume": 8328800.0, "wiki_views": 437}
@@ -18540,6 +18614,7 @@
 {"date": "2026-07-06", "entity": "squishmallows", "wiki_views": 194}
 {"date": "2026-07-06", "entity": "stanley", "wiki_views": 337}
 {"close": 102.11000061035156, "date": "2026-07-06", "entity": "starbucks", "volume": 7404200.0, "wiki_views": 1976}
+{"date": "2026-07-06", "entity": "starz", "wiki_views": 431}
 {"date": "2026-07-06", "entity": "stellantis", "wiki_views": 3059}
 {"date": "2026-07-06", "entity": "swatch", "wiki_views": 450}
 {"date": "2026-07-06", "entity": "sweetgreen", "wiki_views": 120}
@@ -18747,6 +18822,7 @@
 {"date": "2026-07-07", "entity": "figs", "wiki_views": 39}
 {"date": "2026-07-07", "entity": "firstwatch", "wiki_views": 142}
 {"date": "2026-07-07", "entity": "fivebelow", "wiki_views": 221}
+{"date": "2026-07-07", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-07-07", "entity": "floordecor", "wiki_views": 44}
 {"date": "2026-07-07", "entity": "flutter", "wiki_views": 280}
 {"date": "2026-07-07", "entity": "footlocker", "wiki_views": 230}
@@ -18888,7 +18964,7 @@
 {"date": "2026-07-07", "entity": "pandora", "wiki_views": 230}
 {"date": "2026-07-07", "entity": "papajohns", "wiki_views": 460}
 {"close": 131.10000610351562, "date": "2026-07-07", "entity": "paradox", "volume": 70792.0, "wiki_views": 477}
-{"date": "2026-07-07", "entity": "paramount", "wiki_views": 2056}
+{"close": 9.9399995803833, "date": "2026-07-07", "entity": "paramount", "volume": 4327400.0, "wiki_views": 2056}
 {"date": "2026-07-07", "entity": "patagonia", "wiki_views": 398}
 {"close": 45.650001525878906, "date": "2026-07-07", "entity": "paypal", "volume": 10213900.0, "wiki_views": 2233}
 {"close": 82.52999877929688, "date": "2026-07-07", "entity": "pdd", "volume": 5984800.0, "wiki_views": 460}
@@ -18963,6 +19039,7 @@
 {"date": "2026-07-07", "entity": "squishmallows", "wiki_views": 225}
 {"date": "2026-07-07", "entity": "stanley", "wiki_views": 268}
 {"close": 103.61000061035156, "date": "2026-07-07", "entity": "starbucks", "volume": 5556600.0, "wiki_views": 1764}
+{"date": "2026-07-07", "entity": "starz", "wiki_views": 385}
 {"date": "2026-07-07", "entity": "stellantis", "wiki_views": 3078}
 {"date": "2026-07-07", "entity": "swatch", "wiki_views": 424}
 {"date": "2026-07-07", "entity": "sweetgreen", "wiki_views": 152}
@@ -19170,6 +19247,7 @@
 {"date": "2026-07-08", "entity": "figs", "wiki_views": 40}
 {"date": "2026-07-08", "entity": "firstwatch", "wiki_views": 106}
 {"date": "2026-07-08", "entity": "fivebelow", "wiki_views": 241}
+{"date": "2026-07-08", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-07-08", "entity": "floordecor", "wiki_views": 56}
 {"date": "2026-07-08", "entity": "flutter", "wiki_views": 370}
 {"date": "2026-07-08", "entity": "footlocker", "wiki_views": 290}
@@ -19311,7 +19389,7 @@
 {"date": "2026-07-08", "entity": "pandora", "wiki_views": 221}
 {"date": "2026-07-08", "entity": "papajohns", "wiki_views": 651}
 {"close": 128.89999389648438, "date": "2026-07-08", "entity": "paradox", "volume": 142263.0, "wiki_views": 652}
-{"date": "2026-07-08", "entity": "paramount", "wiki_views": 2058}
+{"close": 9.75, "date": "2026-07-08", "entity": "paramount", "volume": 6541300.0, "wiki_views": 2058}
 {"date": "2026-07-08", "entity": "patagonia", "wiki_views": 391}
 {"close": 44.529998779296875, "date": "2026-07-08", "entity": "paypal", "volume": 9601100.0, "wiki_views": 2310}
 {"close": 84.73999786376953, "date": "2026-07-08", "entity": "pdd", "volume": 8246600.0, "wiki_views": 503}
@@ -19386,6 +19464,7 @@
 {"date": "2026-07-08", "entity": "squishmallows", "wiki_views": 185}
 {"date": "2026-07-08", "entity": "stanley", "wiki_views": 321}
 {"close": 103.87000274658203, "date": "2026-07-08", "entity": "starbucks", "volume": 7084100.0, "wiki_views": 1797}
+{"date": "2026-07-08", "entity": "starz", "wiki_views": 457}
 {"date": "2026-07-08", "entity": "stellantis", "wiki_views": 3034}
 {"date": "2026-07-08", "entity": "swatch", "wiki_views": 447}
 {"date": "2026-07-08", "entity": "sweetgreen", "wiki_views": 145}
@@ -19593,6 +19672,7 @@
 {"date": "2026-07-09", "entity": "figs", "wiki_views": 47}
 {"date": "2026-07-09", "entity": "firstwatch", "wiki_views": 145}
 {"date": "2026-07-09", "entity": "fivebelow", "wiki_views": 222}
+{"date": "2026-07-09", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-07-09", "entity": "floordecor", "wiki_views": 39}
 {"date": "2026-07-09", "entity": "flutter", "wiki_views": 515}
 {"date": "2026-07-09", "entity": "footlocker", "wiki_views": 298}
@@ -19734,7 +19814,7 @@
 {"date": "2026-07-09", "entity": "pandora", "wiki_views": 261}
 {"date": "2026-07-09", "entity": "papajohns", "wiki_views": 506}
 {"close": 133.0, "date": "2026-07-09", "entity": "paradox", "volume": 144436.0, "wiki_views": 580}
-{"date": "2026-07-09", "entity": "paramount", "wiki_views": 2166}
+{"close": 9.329999923706055, "date": "2026-07-09", "entity": "paramount", "volume": 18873900.0, "wiki_views": 2166}
 {"date": "2026-07-09", "entity": "patagonia", "wiki_views": 339}
 {"close": 45.31999969482422, "date": "2026-07-09", "entity": "paypal", "volume": 9104900.0, "wiki_views": 2197}
 {"close": 85.87999725341797, "date": "2026-07-09", "entity": "pdd", "volume": 4625800.0, "wiki_views": 468}
@@ -19809,6 +19889,7 @@
 {"date": "2026-07-09", "entity": "squishmallows", "wiki_views": 206}
 {"date": "2026-07-09", "entity": "stanley", "wiki_views": 430}
 {"close": 106.41000366210938, "date": "2026-07-09", "entity": "starbucks", "volume": 7012700.0, "wiki_views": 1959}
+{"date": "2026-07-09", "entity": "starz", "wiki_views": 459}
 {"date": "2026-07-09", "entity": "stellantis", "wiki_views": 2997}
 {"date": "2026-07-09", "entity": "swatch", "wiki_views": 420}
 {"date": "2026-07-09", "entity": "sweetgreen", "wiki_views": 152}
@@ -20157,7 +20238,7 @@
 {"date": "2026-07-10", "entity": "pandora", "wiki_views": 258}
 {"date": "2026-07-10", "entity": "papajohns", "wiki_views": 546}
 {"close": 132.0, "date": "2026-07-10", "entity": "paradox", "volume": 154873.0, "wiki_views": 528}
-{"date": "2026-07-10", "entity": "paramount", "wiki_views": 2284}
+{"close": 9.40999984741211, "date": "2026-07-10", "entity": "paramount", "volume": 9351900.0, "wiki_views": 2284}
 {"date": "2026-07-10", "entity": "patagonia", "wiki_views": 487}
 {"close": 46.31999969482422, "date": "2026-07-10", "entity": "paypal", "volume": 10639400.0, "wiki_views": 2124}
 {"close": 85.12999725341797, "date": "2026-07-10", "entity": "pdd", "volume": 4294400.0, "wiki_views": 375}
@@ -20232,6 +20313,7 @@
 {"date": "2026-07-10", "entity": "squishmallows", "wiki_views": 216}
 {"date": "2026-07-10", "entity": "stanley", "wiki_views": 381}
 {"close": 106.01000213623047, "date": "2026-07-10", "entity": "starbucks", "volume": 4686900.0, "wiki_views": 1899}
+{"date": "2026-07-10", "entity": "starz", "wiki_views": 526}
 {"date": "2026-07-10", "entity": "stellantis", "wiki_views": 3026}
 {"date": "2026-07-10", "entity": "swatch", "wiki_views": 414}
 {"date": "2026-07-10", "entity": "sweetgreen", "wiki_views": 129}
@@ -20439,6 +20521,7 @@
 {"date": "2026-07-11", "entity": "figs", "wiki_views": 41}
 {"date": "2026-07-11", "entity": "firstwatch", "wiki_views": 203}
 {"date": "2026-07-11", "entity": "fivebelow", "wiki_views": 222}
+{"date": "2026-07-11", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-07-11", "entity": "floordecor", "wiki_views": 30}
 {"date": "2026-07-11", "entity": "flutter", "wiki_views": 281}
 {"date": "2026-07-11", "entity": "footlocker", "wiki_views": 230}
@@ -20655,6 +20738,7 @@
 {"date": "2026-07-11", "entity": "squishmallows", "wiki_views": 198}
 {"date": "2026-07-11", "entity": "stanley", "wiki_views": 330}
 {"date": "2026-07-11", "entity": "starbucks", "wiki_views": 1815}
+{"date": "2026-07-11", "entity": "starz", "wiki_views": 484}
 {"date": "2026-07-11", "entity": "stellantis", "wiki_views": 3048}
 {"date": "2026-07-11", "entity": "swatch", "wiki_views": 430}
 {"date": "2026-07-11", "entity": "sweetgreen", "wiki_views": 91}
@@ -21078,6 +21162,7 @@
 {"date": "2026-07-12", "entity": "squishmallows", "wiki_views": 215}
 {"date": "2026-07-12", "entity": "stanley", "wiki_views": 319}
 {"date": "2026-07-12", "entity": "starbucks", "wiki_views": 1694}
+{"date": "2026-07-12", "entity": "starz", "wiki_views": 553}
 {"date": "2026-07-12", "entity": "stellantis", "wiki_views": 2967}
 {"date": "2026-07-12", "entity": "swatch", "wiki_views": 467}
 {"date": "2026-07-12", "entity": "sweetgreen", "wiki_views": 88}
@@ -21426,7 +21511,7 @@
 {"date": "2026-07-13", "entity": "pandora", "wiki_views": 309}
 {"date": "2026-07-13", "entity": "papajohns", "wiki_views": 555}
 {"close": 131.6999969482422, "date": "2026-07-13", "entity": "paradox", "volume": 63672.0, "wiki_views": 454}
-{"date": "2026-07-13", "entity": "paramount", "wiki_views": 2790}
+{"close": 9.550000190734863, "date": "2026-07-13", "entity": "paramount", "volume": 10841700.0, "wiki_views": 2790}
 {"date": "2026-07-13", "entity": "patagonia", "wiki_views": 447}
 {"close": 47.650001525878906, "date": "2026-07-13", "entity": "paypal", "volume": 20294200.0, "wiki_views": 2005}
 {"close": 84.55999755859375, "date": "2026-07-13", "entity": "pdd", "volume": 8048700.0, "wiki_views": 409}
@@ -21501,6 +21586,7 @@
 {"date": "2026-07-13", "entity": "squishmallows", "wiki_views": 192}
 {"date": "2026-07-13", "entity": "stanley", "wiki_views": 334}
 {"close": 107.33999633789062, "date": "2026-07-13", "entity": "starbucks", "volume": 6278500.0, "wiki_views": 1789}
+{"date": "2026-07-13", "entity": "starz", "wiki_views": 492}
 {"date": "2026-07-13", "entity": "stellantis", "wiki_views": 3217}
 {"date": "2026-07-13", "entity": "swatch", "wiki_views": 446}
 {"date": "2026-07-13", "entity": "sweetgreen", "wiki_views": 144}
@@ -21708,6 +21794,7 @@
 {"date": "2026-07-14", "entity": "figs", "wiki_views": 41}
 {"date": "2026-07-14", "entity": "firstwatch", "wiki_views": 120}
 {"date": "2026-07-14", "entity": "fivebelow", "wiki_views": 251}
+{"date": "2026-07-14", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-07-14", "entity": "floordecor", "wiki_views": 30}
 {"date": "2026-07-14", "entity": "flutter", "wiki_views": 332}
 {"date": "2026-07-14", "entity": "footlocker", "wiki_views": 261}
@@ -21849,7 +21936,7 @@
 {"date": "2026-07-14", "entity": "pandora", "wiki_views": 277}
 {"date": "2026-07-14", "entity": "papajohns", "wiki_views": 578}
 {"close": 130.39999389648438, "date": "2026-07-14", "entity": "paradox", "volume": 168561.0, "wiki_views": 464}
-{"date": "2026-07-14", "entity": "paramount", "wiki_views": 2883}
+{"close": 9.119999885559082, "date": "2026-07-14", "entity": "paramount", "volume": 7986500.0, "wiki_views": 2883}
 {"date": "2026-07-14", "entity": "patagonia", "wiki_views": 410}
 {"close": 47.369998931884766, "date": "2026-07-14", "entity": "paypal", "volume": 9416000.0, "wiki_views": 1927}
 {"close": 83.91000366210938, "date": "2026-07-14", "entity": "pdd", "volume": 8887200.0, "wiki_views": 360}
@@ -21924,6 +22011,7 @@
 {"date": "2026-07-14", "entity": "squishmallows", "wiki_views": 243}
 {"date": "2026-07-14", "entity": "stanley", "wiki_views": 438}
 {"close": 106.16999816894531, "date": "2026-07-14", "entity": "starbucks", "volume": 5153200.0, "wiki_views": 1947}
+{"date": "2026-07-14", "entity": "starz", "wiki_views": 417}
 {"date": "2026-07-14", "entity": "stellantis", "wiki_views": 3020}
 {"date": "2026-07-14", "entity": "swatch", "wiki_views": 401}
 {"date": "2026-07-14", "entity": "sweetgreen", "wiki_views": 181}
@@ -22131,6 +22219,7 @@
 {"date": "2026-07-15", "entity": "figs", "wiki_views": 48}
 {"date": "2026-07-15", "entity": "firstwatch", "wiki_views": 157}
 {"date": "2026-07-15", "entity": "fivebelow", "wiki_views": 225}
+{"date": "2026-07-15", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-07-15", "entity": "floordecor", "wiki_views": 42}
 {"date": "2026-07-15", "entity": "flutter", "wiki_views": 303}
 {"date": "2026-07-15", "entity": "footlocker", "wiki_views": 305}
@@ -22272,7 +22361,7 @@
 {"date": "2026-07-15", "entity": "pandora", "wiki_views": 288}
 {"date": "2026-07-15", "entity": "papajohns", "wiki_views": 545}
 {"close": 131.10000610351562, "date": "2026-07-15", "entity": "paradox", "volume": 151934.0, "wiki_views": 426}
-{"date": "2026-07-15", "entity": "paramount", "wiki_views": 2614}
+{"close": 9.25, "date": "2026-07-15", "entity": "paramount", "volume": 6546200.0, "wiki_views": 2614}
 {"date": "2026-07-15", "entity": "patagonia", "wiki_views": 357}
 {"close": 55.52000045776367, "date": "2026-07-15", "entity": "paypal", "volume": 90995100.0, "wiki_views": 3629}
 {"close": 85.73999786376953, "date": "2026-07-15", "entity": "pdd", "volume": 7095200.0, "wiki_views": 356}
@@ -22347,6 +22436,7 @@
 {"date": "2026-07-15", "entity": "squishmallows", "wiki_views": 276}
 {"date": "2026-07-15", "entity": "stanley", "wiki_views": 488}
 {"close": 105.11000061035156, "date": "2026-07-15", "entity": "starbucks", "volume": 4786100.0, "wiki_views": 1855}
+{"date": "2026-07-15", "entity": "starz", "wiki_views": 447}
 {"date": "2026-07-15", "entity": "stellantis", "wiki_views": 3272}
 {"date": "2026-07-15", "entity": "swatch", "wiki_views": 395}
 {"date": "2026-07-15", "entity": "sweetgreen", "wiki_views": 153}
@@ -22554,6 +22644,7 @@
 {"date": "2026-07-16", "entity": "figs", "wiki_views": 37}
 {"date": "2026-07-16", "entity": "firstwatch", "wiki_views": 150}
 {"date": "2026-07-16", "entity": "fivebelow", "wiki_views": 211}
+{"date": "2026-07-16", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-07-16", "entity": "floordecor", "wiki_views": 33}
 {"date": "2026-07-16", "entity": "flutter", "wiki_views": 254}
 {"date": "2026-07-16", "entity": "footlocker", "wiki_views": 353}
@@ -22695,7 +22786,7 @@
 {"date": "2026-07-16", "entity": "pandora", "wiki_views": 235}
 {"date": "2026-07-16", "entity": "papajohns", "wiki_views": 475}
 {"close": 131.10000610351562, "date": "2026-07-16", "entity": "paradox", "volume": 47573.0, "wiki_views": 408}
-{"date": "2026-07-16", "entity": "paramount", "wiki_views": 2498}
+{"close": 9.140000343322754, "date": "2026-07-16", "entity": "paramount", "volume": 9007400.0, "wiki_views": 2498}
 {"date": "2026-07-16", "entity": "patagonia", "wiki_views": 413}
 {"close": 56.72999954223633, "date": "2026-07-16", "entity": "paypal", "volume": 33840900.0, "wiki_views": 2505}
 {"close": 86.68000030517578, "date": "2026-07-16", "entity": "pdd", "volume": 8323400.0, "wiki_views": 413}
@@ -22770,6 +22861,7 @@
 {"date": "2026-07-16", "entity": "squishmallows", "wiki_views": 255}
 {"date": "2026-07-16", "entity": "stanley", "wiki_views": 451}
 {"close": 108.37000274658203, "date": "2026-07-16", "entity": "starbucks", "volume": 6233800.0, "wiki_views": 2010}
+{"date": "2026-07-16", "entity": "starz", "wiki_views": 462}
 {"date": "2026-07-16", "entity": "stellantis", "wiki_views": 3541}
 {"date": "2026-07-16", "entity": "swatch", "wiki_views": 497}
 {"date": "2026-07-16", "entity": "sweetgreen", "wiki_views": 174}
@@ -23118,7 +23210,7 @@
 {"date": "2026-07-17", "entity": "pandora", "wiki_views": 213}
 {"date": "2026-07-17", "entity": "papajohns", "wiki_views": 515}
 {"close": 130.10000610351562, "date": "2026-07-17", "entity": "paradox", "volume": 60020.0, "wiki_views": 575}
-{"date": "2026-07-17", "entity": "paramount", "wiki_views": 2508}
+{"close": 8.75, "date": "2026-07-17", "entity": "paramount", "volume": 12992400.0, "wiki_views": 2508}
 {"date": "2026-07-17", "entity": "patagonia", "wiki_views": 363}
 {"close": 56.560001373291016, "date": "2026-07-17", "entity": "paypal", "volume": 19847300.0, "wiki_views": 2178}
 {"close": 84.13999938964844, "date": "2026-07-17", "entity": "pdd", "volume": 10516800.0, "wiki_views": 382}
@@ -23193,6 +23285,7 @@
 {"date": "2026-07-17", "entity": "squishmallows", "wiki_views": 195}
 {"date": "2026-07-17", "entity": "stanley", "wiki_views": 406}
 {"close": 105.48999786376953, "date": "2026-07-17", "entity": "starbucks", "volume": 7633400.0, "wiki_views": 1835}
+{"date": "2026-07-17", "entity": "starz", "wiki_views": 496}
 {"date": "2026-07-17", "entity": "stellantis", "wiki_views": 3076}
 {"date": "2026-07-17", "entity": "swatch", "wiki_views": 953}
 {"date": "2026-07-17", "entity": "sweetgreen", "wiki_views": 177}
@@ -23616,6 +23709,7 @@
 {"date": "2026-07-18", "entity": "squishmallows", "wiki_views": 217}
 {"date": "2026-07-18", "entity": "stanley", "wiki_views": 358}
 {"date": "2026-07-18", "entity": "starbucks", "wiki_views": 1669}
+{"date": "2026-07-18", "entity": "starz", "wiki_views": 494}
 {"date": "2026-07-18", "entity": "stellantis", "wiki_views": 3086}
 {"date": "2026-07-18", "entity": "swatch", "wiki_views": 647}
 {"date": "2026-07-18", "entity": "sweetgreen", "wiki_views": 112}
@@ -24039,6 +24133,7 @@
 {"date": "2026-07-19", "entity": "squishmallows", "wiki_views": 279}
 {"date": "2026-07-19", "entity": "stanley", "wiki_views": 365}
 {"date": "2026-07-19", "entity": "starbucks", "wiki_views": 1943}
+{"date": "2026-07-19", "entity": "starz", "wiki_views": 542}
 {"date": "2026-07-19", "entity": "stellantis", "wiki_views": 3183}
 {"date": "2026-07-19", "entity": "swatch", "wiki_views": 574}
 {"date": "2026-07-19", "entity": "sweetgreen", "wiki_views": 132}
@@ -24246,6 +24341,7 @@
 {"date": "2026-07-20", "entity": "figs", "wiki_views": 35}
 {"date": "2026-07-20", "entity": "firstwatch", "wiki_views": 137}
 {"date": "2026-07-20", "entity": "fivebelow", "wiki_views": 219}
+{"date": "2026-07-20", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-07-20", "entity": "floordecor", "wiki_views": 40}
 {"date": "2026-07-20", "entity": "flutter", "wiki_views": 257}
 {"date": "2026-07-20", "entity": "footlocker", "wiki_views": 247}
@@ -24387,7 +24483,7 @@
 {"date": "2026-07-20", "entity": "pandora", "wiki_views": 228}
 {"date": "2026-07-20", "entity": "papajohns", "wiki_views": 473}
 {"close": 130.0, "date": "2026-07-20", "entity": "paradox", "volume": 43046.0, "wiki_views": 428}
-{"date": "2026-07-20", "entity": "paramount", "wiki_views": 2505}
+{"close": 8.569999694824219, "date": "2026-07-20", "entity": "paramount", "volume": 9185400.0, "wiki_views": 2505}
 {"date": "2026-07-20", "entity": "patagonia", "wiki_views": 410}
 {"close": 56.81999969482422, "date": "2026-07-20", "entity": "paypal", "volume": 24700800.0, "wiki_views": 2087}
 {"close": 86.05000305175781, "date": "2026-07-20", "entity": "pdd", "volume": 6244300.0, "wiki_views": 405}
@@ -24462,6 +24558,7 @@
 {"date": "2026-07-20", "entity": "squishmallows", "wiki_views": 224}
 {"date": "2026-07-20", "entity": "stanley", "wiki_views": 303}
 {"close": 104.80999755859375, "date": "2026-07-20", "entity": "starbucks", "volume": 6163000.0, "wiki_views": 1809}
+{"date": "2026-07-20", "entity": "starz", "wiki_views": 457}
 {"date": "2026-07-20", "entity": "stellantis", "wiki_views": 3338}
 {"date": "2026-07-20", "entity": "swatch", "wiki_views": 530}
 {"date": "2026-07-20", "entity": "sweetgreen", "wiki_views": 123}
@@ -24669,6 +24766,7 @@
 {"date": "2026-07-21", "entity": "figs", "wiki_views": 38}
 {"date": "2026-07-21", "entity": "firstwatch", "wiki_views": 137}
 {"date": "2026-07-21", "entity": "fivebelow", "wiki_views": 232}
+{"date": "2026-07-21", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-07-21", "entity": "floordecor", "wiki_views": 67}
 {"date": "2026-07-21", "entity": "flutter", "wiki_views": 250}
 {"date": "2026-07-21", "entity": "footlocker", "wiki_views": 205}
@@ -24810,7 +24908,7 @@
 {"date": "2026-07-21", "entity": "pandora", "wiki_views": 206}
 {"date": "2026-07-21", "entity": "papajohns", "wiki_views": 502}
 {"close": 130.89999389648438, "date": "2026-07-21", "entity": "paradox", "volume": 65630.0, "wiki_views": 428}
-{"date": "2026-07-21", "entity": "paramount", "wiki_views": 2539}
+{"close": 8.529999732971191, "date": "2026-07-21", "entity": "paramount", "volume": 9092300.0, "wiki_views": 2539}
 {"date": "2026-07-21", "entity": "patagonia", "wiki_views": 363}
 {"close": 55.849998474121094, "date": "2026-07-21", "entity": "paypal", "volume": 15952100.0, "wiki_views": 2146}
 {"close": 84.83000183105469, "date": "2026-07-21", "entity": "pdd", "volume": 4735900.0, "wiki_views": 380}
@@ -24885,6 +24983,7 @@
 {"date": "2026-07-21", "entity": "squishmallows", "wiki_views": 215}
 {"date": "2026-07-21", "entity": "stanley", "wiki_views": 277}
 {"close": 104.44999694824219, "date": "2026-07-21", "entity": "starbucks", "volume": 5996000.0, "wiki_views": 1971}
+{"date": "2026-07-21", "entity": "starz", "wiki_views": 446}
 {"date": "2026-07-21", "entity": "stellantis", "wiki_views": 4083}
 {"date": "2026-07-21", "entity": "swatch", "wiki_views": 710}
 {"date": "2026-07-21", "entity": "sweetgreen", "wiki_views": 156}
@@ -25092,6 +25191,7 @@
 {"date": "2026-07-22", "entity": "figs", "wiki_views": 40}
 {"date": "2026-07-22", "entity": "firstwatch", "wiki_views": 146}
 {"date": "2026-07-22", "entity": "fivebelow", "wiki_views": 238}
+{"date": "2026-07-22", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-07-22", "entity": "floordecor", "wiki_views": 29}
 {"date": "2026-07-22", "entity": "flutter", "wiki_views": 197}
 {"date": "2026-07-22", "entity": "footlocker", "wiki_views": 206}
@@ -25233,7 +25333,7 @@
 {"date": "2026-07-22", "entity": "pandora", "wiki_views": 197}
 {"date": "2026-07-22", "entity": "papajohns", "wiki_views": 460}
 {"close": 127.5999984741211, "date": "2026-07-22", "entity": "paradox", "volume": 50441.0, "wiki_views": 478}
-{"date": "2026-07-22", "entity": "paramount", "wiki_views": 2760}
+{"close": 8.779999732971191, "date": "2026-07-22", "entity": "paramount", "volume": 11617700.0, "wiki_views": 2760}
 {"date": "2026-07-22", "entity": "patagonia", "wiki_views": 350}
 {"close": 55.5099983215332, "date": "2026-07-22", "entity": "paypal", "volume": 11187000.0, "wiki_views": 2066}
 {"close": 83.58999633789062, "date": "2026-07-22", "entity": "pdd", "volume": 4356300.0, "wiki_views": 489}
@@ -25308,6 +25408,7 @@
 {"date": "2026-07-22", "entity": "squishmallows", "wiki_views": 190}
 {"date": "2026-07-22", "entity": "stanley", "wiki_views": 315}
 {"close": 103.9800033569336, "date": "2026-07-22", "entity": "starbucks", "volume": 5599800.0, "wiki_views": 1822}
+{"date": "2026-07-22", "entity": "starz", "wiki_views": 448}
 {"date": "2026-07-22", "entity": "stellantis", "wiki_views": 3476}
 {"date": "2026-07-22", "entity": "swatch", "wiki_views": 509}
 {"date": "2026-07-22", "entity": "sweetgreen", "wiki_views": 194}
@@ -25656,7 +25757,7 @@
 {"date": "2026-07-23", "entity": "pandora", "wiki_views": 183}
 {"date": "2026-07-23", "entity": "papajohns", "wiki_views": 475}
 {"close": 125.30000305175781, "date": "2026-07-23", "entity": "paradox", "volume": 70697.0, "wiki_views": 423}
-{"date": "2026-07-23", "entity": "paramount", "wiki_views": 2730}
+{"close": 8.489999771118164, "date": "2026-07-23", "entity": "paramount", "volume": 6753000.0, "wiki_views": 2730}
 {"date": "2026-07-23", "entity": "patagonia", "wiki_views": 317}
 {"close": 56.0, "date": "2026-07-23", "entity": "paypal", "volume": 13945300.0, "wiki_views": 2189}
 {"close": 83.30000305175781, "date": "2026-07-23", "entity": "pdd", "volume": 4537500.0, "wiki_views": 432}
@@ -25731,6 +25832,7 @@
 {"date": "2026-07-23", "entity": "squishmallows", "wiki_views": 157}
 {"date": "2026-07-23", "entity": "stanley", "wiki_views": 301}
 {"close": 103.20999908447266, "date": "2026-07-23", "entity": "starbucks", "volume": 6981400.0, "wiki_views": 1796}
+{"date": "2026-07-23", "entity": "starz", "wiki_views": 604}
 {"date": "2026-07-23", "entity": "stellantis", "wiki_views": 3309}
 {"date": "2026-07-23", "entity": "swatch", "wiki_views": 525}
 {"date": "2026-07-23", "entity": "sweetgreen", "wiki_views": 189}
@@ -25938,6 +26040,7 @@
 {"date": "2026-07-24", "entity": "figs", "wiki_views": 45}
 {"date": "2026-07-24", "entity": "firstwatch", "wiki_views": 155}
 {"date": "2026-07-24", "entity": "fivebelow", "wiki_views": 217}
+{"date": "2026-07-24", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-07-24", "entity": "floordecor", "wiki_views": 44}
 {"date": "2026-07-24", "entity": "flutter", "wiki_views": 209}
 {"date": "2026-07-24", "entity": "footlocker", "wiki_views": 200}
@@ -26079,7 +26182,7 @@
 {"date": "2026-07-24", "entity": "pandora", "wiki_views": 189}
 {"date": "2026-07-24", "entity": "papajohns", "wiki_views": 539}
 {"close": 127.5, "date": "2026-07-24", "entity": "paradox", "volume": 48657.0, "wiki_views": 409}
-{"date": "2026-07-24", "entity": "paramount", "wiki_views": 2956}
+{"close": 8.210000038146973, "date": "2026-07-24", "entity": "paramount", "volume": 8476600.0, "wiki_views": 2956}
 {"date": "2026-07-24", "entity": "patagonia", "wiki_views": 286}
 {"close": 56.150001525878906, "date": "2026-07-24", "entity": "paypal", "volume": 11763000.0, "wiki_views": 2293}
 {"close": 82.66000366210938, "date": "2026-07-24", "entity": "pdd", "volume": 4950000.0, "wiki_views": 412}
@@ -26154,6 +26257,7 @@
 {"date": "2026-07-24", "entity": "squishmallows", "wiki_views": 205}
 {"date": "2026-07-24", "entity": "stanley", "wiki_views": 307}
 {"close": 103.25, "date": "2026-07-24", "entity": "starbucks", "volume": 6397200.0, "wiki_views": 1780}
+{"date": "2026-07-24", "entity": "starz", "wiki_views": 497}
 {"date": "2026-07-24", "entity": "stellantis", "wiki_views": 3167}
 {"date": "2026-07-24", "entity": "swatch", "wiki_views": 426}
 {"date": "2026-07-24", "entity": "sweetgreen", "wiki_views": 148}
@@ -26577,6 +26681,7 @@
 {"date": "2026-07-25", "entity": "squishmallows", "wiki_views": 164}
 {"date": "2026-07-25", "entity": "stanley", "wiki_views": 305}
 {"date": "2026-07-25", "entity": "starbucks", "wiki_views": 1678}
+{"date": "2026-07-25", "entity": "starz", "wiki_views": 463}
 {"date": "2026-07-25", "entity": "stellantis", "wiki_views": 3213}
 {"date": "2026-07-25", "entity": "swatch", "wiki_views": 429}
 {"date": "2026-07-25", "entity": "sweetgreen", "wiki_views": 124}
@@ -27000,6 +27105,7 @@
 {"date": "2026-07-26", "entity": "squishmallows", "wiki_views": 170}
 {"date": "2026-07-26", "entity": "stanley", "wiki_views": 281}
 {"date": "2026-07-26", "entity": "starbucks", "wiki_views": 1696}
+{"date": "2026-07-26", "entity": "starz", "wiki_views": 531}
 {"date": "2026-07-26", "entity": "stellantis", "wiki_views": 3335}
 {"date": "2026-07-26", "entity": "swatch", "wiki_views": 462}
 {"date": "2026-07-26", "entity": "sweetgreen", "wiki_views": 115}
@@ -27348,7 +27454,7 @@
 {"date": "2026-07-27", "entity": "pandora", "wiki_views": 195}
 {"date": "2026-07-27", "entity": "papajohns", "wiki_views": 805}
 {"close": 130.60000610351562, "date": "2026-07-27", "entity": "paradox", "volume": 130977.0, "wiki_views": 459}
-{"date": "2026-07-27", "entity": "paramount", "wiki_views": 2403}
+{"close": 8.029999732971191, "date": "2026-07-27", "entity": "paramount", "volume": 18407200.0, "wiki_views": 2403}
 {"date": "2026-07-27", "entity": "patagonia", "wiki_views": 406}
 {"close": 56.06999969482422, "date": "2026-07-27", "entity": "paypal", "volume": 14864400.0, "wiki_views": 2224}
 {"close": 84.8499984741211, "date": "2026-07-27", "entity": "pdd", "volume": 6160800.0, "wiki_views": 404}
@@ -27423,6 +27529,7 @@
 {"date": "2026-07-27", "entity": "squishmallows", "wiki_views": 186}
 {"date": "2026-07-27", "entity": "stanley", "wiki_views": 298}
 {"close": 103.6500015258789, "date": "2026-07-27", "entity": "starbucks", "volume": 5517500.0, "wiki_views": 1916}
+{"date": "2026-07-27", "entity": "starz", "wiki_views": 507}
 {"date": "2026-07-27", "entity": "stellantis", "wiki_views": 3331}
 {"date": "2026-07-27", "entity": "swatch", "wiki_views": 533}
 {"date": "2026-07-27", "entity": "sweetgreen", "wiki_views": 137}
@@ -27630,6 +27737,7 @@
 {"date": "2026-07-28", "entity": "figs", "wiki_views": 58}
 {"date": "2026-07-28", "entity": "firstwatch", "wiki_views": 183}
 {"date": "2026-07-28", "entity": "fivebelow", "wiki_views": 243}
+{"date": "2026-07-28", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-07-28", "entity": "floordecor", "wiki_views": 36}
 {"date": "2026-07-28", "entity": "flutter", "wiki_views": 255}
 {"date": "2026-07-28", "entity": "footlocker", "wiki_views": 232}
@@ -27771,7 +27879,7 @@
 {"date": "2026-07-28", "entity": "pandora", "wiki_views": 245}
 {"date": "2026-07-28", "entity": "papajohns", "wiki_views": 610}
 {"close": 133.6999969482422, "date": "2026-07-28", "entity": "paradox", "volume": 70761.0, "wiki_views": 418}
-{"date": "2026-07-28", "entity": "paramount", "wiki_views": 2297}
+{"close": 8.069999694824219, "date": "2026-07-28", "entity": "paramount", "volume": 15794300.0, "wiki_views": 2297}
 {"date": "2026-07-28", "entity": "patagonia", "wiki_views": 356}
 {"close": 58.31999969482422, "date": "2026-07-28", "entity": "paypal", "volume": 22908900.0, "wiki_views": 2482}
 {"close": 85.70999908447266, "date": "2026-07-28", "entity": "pdd", "volume": 4122100.0, "wiki_views": 457}
@@ -27846,6 +27954,7 @@
 {"date": "2026-07-28", "entity": "squishmallows", "wiki_views": 187}
 {"date": "2026-07-28", "entity": "stanley", "wiki_views": 305}
 {"close": 103.0999984741211, "date": "2026-07-28", "entity": "starbucks", "volume": 7055200.0, "wiki_views": 2022}
+{"date": "2026-07-28", "entity": "starz", "wiki_views": 497}
 {"date": "2026-07-28", "entity": "stellantis", "wiki_views": 3616}
 {"date": "2026-07-28", "entity": "swatch", "wiki_views": 454}
 {"date": "2026-07-28", "entity": "sweetgreen", "wiki_views": 118}
@@ -28053,6 +28162,7 @@
 {"date": "2026-07-29", "entity": "figs", "wiki_views": 58}
 {"date": "2026-07-29", "entity": "firstwatch", "wiki_views": 236}
 {"date": "2026-07-29", "entity": "fivebelow", "wiki_views": 486}
+{"date": "2026-07-29", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-07-29", "entity": "floordecor", "wiki_views": 44}
 {"date": "2026-07-29", "entity": "flutter", "wiki_views": 287}
 {"date": "2026-07-29", "entity": "footlocker", "wiki_views": 246}
@@ -28194,7 +28304,7 @@
 {"date": "2026-07-29", "entity": "pandora", "wiki_views": 199}
 {"date": "2026-07-29", "entity": "papajohns", "wiki_views": 595}
 {"close": 134.5, "date": "2026-07-29", "entity": "paradox", "volume": 88558.0, "wiki_views": 397}
-{"date": "2026-07-29", "entity": "paramount", "wiki_views": 2215}
+{"close": 7.949999809265137, "date": "2026-07-29", "entity": "paramount", "volume": 14341900.0, "wiki_views": 2215}
 {"date": "2026-07-29", "entity": "patagonia", "wiki_views": 298}
 {"close": 58.349998474121094, "date": "2026-07-29", "entity": "paypal", "volume": 18759500.0, "wiki_views": 2401}
 {"close": 88.31999969482422, "date": "2026-07-29", "entity": "pdd", "volume": 11710600.0, "wiki_views": 494}
@@ -28269,6 +28379,7 @@
 {"date": "2026-07-29", "entity": "squishmallows", "wiki_views": 190}
 {"date": "2026-07-29", "entity": "stanley", "wiki_views": 304}
 {"close": 104.13999938964844, "date": "2026-07-29", "entity": "starbucks", "volume": 12546300.0, "wiki_views": 2090}
+{"date": "2026-07-29", "entity": "starz", "wiki_views": 492}
 {"date": "2026-07-29", "entity": "stellantis", "wiki_views": 3652}
 {"date": "2026-07-29", "entity": "swatch", "wiki_views": 435}
 {"date": "2026-07-29", "entity": "sweetgreen", "wiki_views": 171}
@@ -28617,7 +28728,7 @@
 {"date": "2026-07-30", "entity": "pandora", "wiki_views": 171}
 {"date": "2026-07-30", "entity": "papajohns", "wiki_views": 910}
 {"close": 137.0, "date": "2026-07-30", "entity": "paradox", "volume": 120578.0, "wiki_views": 439}
-{"date": "2026-07-30", "entity": "paramount", "wiki_views": 2081}
+{"close": 7.809999942779541, "date": "2026-07-30", "entity": "paramount", "volume": 13565500.0, "wiki_views": 2081}
 {"date": "2026-07-30", "entity": "patagonia", "wiki_views": 290}
 {"close": 57.650001525878906, "date": "2026-07-30", "entity": "paypal", "volume": 11974400.0, "wiki_views": 2081}
 {"close": 87.44000244140625, "date": "2026-07-30", "entity": "pdd", "volume": 5900100.0, "wiki_views": 405}
@@ -28692,6 +28803,7 @@
 {"date": "2026-07-30", "entity": "squishmallows", "wiki_views": 191}
 {"date": "2026-07-30", "entity": "stanley", "wiki_views": 350}
 {"close": 105.8499984741211, "date": "2026-07-30", "entity": "starbucks", "volume": 23417700.0, "wiki_views": 1798}
+{"date": "2026-07-30", "entity": "starz", "wiki_views": 544}
 {"date": "2026-07-30", "entity": "stellantis", "wiki_views": 3982}
 {"date": "2026-07-30", "entity": "swatch", "wiki_views": 491}
 {"date": "2026-07-30", "entity": "sweetgreen", "wiki_views": 131}
@@ -29040,7 +29152,7 @@
 {"date": "2026-07-31", "entity": "pandora", "wiki_views": 167}
 {"date": "2026-07-31", "entity": "papajohns", "wiki_views": 518}
 {"close": 139.89999389648438, "date": "2026-07-31", "entity": "paradox", "volume": 175451.0, "wiki_views": 425}
-{"date": "2026-07-31", "entity": "paramount", "wiki_views": 2005}
+{"close": 7.960000038146973, "date": "2026-07-31", "entity": "paramount", "volume": 15142300.0, "wiki_views": 2005}
 {"date": "2026-07-31", "entity": "patagonia", "wiki_views": 331}
 {"close": 57.209999084472656, "date": "2026-07-31", "entity": "paypal", "volume": 9773000.0, "wiki_views": 2002}
 {"close": 88.55999755859375, "date": "2026-07-31", "entity": "pdd", "volume": 4262900.0, "wiki_views": 468}
@@ -29115,6 +29227,7 @@
 {"date": "2026-07-31", "entity": "squishmallows", "wiki_views": 147}
 {"date": "2026-07-31", "entity": "stanley", "wiki_views": 274}
 {"close": 105.25, "date": "2026-07-31", "entity": "starbucks", "volume": 12393200.0, "wiki_views": 1725}
+{"date": "2026-07-31", "entity": "starz", "wiki_views": 606}
 {"date": "2026-07-31", "entity": "stellantis", "wiki_views": 3332}
 {"date": "2026-07-31", "entity": "swatch", "wiki_views": 459}
 {"date": "2026-07-31", "entity": "sweetgreen", "wiki_views": 183}
@@ -29322,6 +29435,7 @@
 {"date": "2026-08-01", "entity": "figs", "wiki_views": 36}
 {"date": "2026-08-01", "entity": "firstwatch", "wiki_views": 239}
 {"date": "2026-08-01", "entity": "fivebelow", "wiki_views": 274}
+{"date": "2026-08-01", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-08-01", "entity": "floordecor", "wiki_views": 23}
 {"date": "2026-08-01", "entity": "flutter", "wiki_views": 153}
 {"date": "2026-08-01", "entity": "footlocker", "wiki_views": 286}
@@ -29538,6 +29652,7 @@
 {"date": "2026-08-01", "entity": "squishmallows", "wiki_views": 179}
 {"date": "2026-08-01", "entity": "stanley", "wiki_views": 258}
 {"date": "2026-08-01", "entity": "starbucks", "wiki_views": 1719}
+{"date": "2026-08-01", "entity": "starz", "wiki_views": 575}
 {"date": "2026-08-01", "entity": "stellantis", "wiki_views": 3308}
 {"date": "2026-08-01", "entity": "swatch", "wiki_views": 452}
 {"date": "2026-08-01", "entity": "sweetgreen", "wiki_views": 128}
@@ -29745,6 +29860,7 @@
 {"date": "2026-08-02", "entity": "figs", "wiki_views": 43}
 {"date": "2026-08-02", "entity": "firstwatch", "wiki_views": 282}
 {"date": "2026-08-02", "entity": "fivebelow", "wiki_views": 251}
+{"date": "2026-08-02", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-08-02", "entity": "floordecor", "wiki_views": 39}
 {"date": "2026-08-02", "entity": "flutter", "wiki_views": 163}
 {"date": "2026-08-02", "entity": "footlocker", "wiki_views": 249}
@@ -29961,6 +30077,7 @@
 {"date": "2026-08-02", "entity": "squishmallows", "wiki_views": 156}
 {"date": "2026-08-02", "entity": "stanley", "wiki_views": 334}
 {"date": "2026-08-02", "entity": "starbucks", "wiki_views": 1833}
+{"date": "2026-08-02", "entity": "starz", "wiki_views": 577}
 {"date": "2026-08-02", "entity": "stellantis", "wiki_views": 3284}
 {"date": "2026-08-02", "entity": "swatch", "wiki_views": 462}
 {"date": "2026-08-02", "entity": "sweetgreen", "wiki_views": 116}
@@ -30309,7 +30426,7 @@
 {"date": "2026-08-03", "entity": "pandora", "wiki_views": 208}
 {"date": "2026-08-03", "entity": "papajohns", "wiki_views": 576}
 {"close": 142.60000610351562, "date": "2026-08-03", "entity": "paradox", "volume": 136185.0, "wiki_views": 491}
-{"date": "2026-08-03", "entity": "paramount", "wiki_views": 2023}
+{"close": 8.220000267028809, "date": "2026-08-03", "entity": "paramount", "volume": 15180700.0, "wiki_views": 2023}
 {"date": "2026-08-03", "entity": "patagonia", "wiki_views": 464}
 {"close": 57.869998931884766, "date": "2026-08-03", "entity": "paypal", "volume": 9303200.0, "wiki_views": 1983}
 {"close": 90.1500015258789, "date": "2026-08-03", "entity": "pdd", "volume": 6429500.0, "wiki_views": 498}
@@ -30384,6 +30501,7 @@
 {"date": "2026-08-03", "entity": "squishmallows", "wiki_views": 174}
 {"date": "2026-08-03", "entity": "stanley", "wiki_views": 330}
 {"close": 103.37000274658203, "date": "2026-08-03", "entity": "starbucks", "volume": 8830000.0, "wiki_views": 1897}
+{"date": "2026-08-03", "entity": "starz", "wiki_views": 567}
 {"date": "2026-08-03", "entity": "stellantis", "wiki_views": 3899}
 {"date": "2026-08-03", "entity": "swatch", "wiki_views": 456}
 {"date": "2026-08-03", "entity": "sweetgreen", "wiki_views": 130}
@@ -30591,6 +30709,7 @@
 {"date": "2026-08-04", "entity": "figs", "wiki_views": 42}
 {"date": "2026-08-04", "entity": "firstwatch", "wiki_views": 143}
 {"date": "2026-08-04", "entity": "fivebelow", "wiki_views": 287}
+{"date": "2026-08-04", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-08-04", "entity": "floordecor", "wiki_views": 32}
 {"date": "2026-08-04", "entity": "flutter", "wiki_views": 310}
 {"date": "2026-08-04", "entity": "footlocker", "wiki_views": 326}
@@ -30732,7 +30851,7 @@
 {"date": "2026-08-04", "entity": "pandora", "wiki_views": 195}
 {"date": "2026-08-04", "entity": "papajohns", "wiki_views": 499}
 {"close": 145.10000610351562, "date": "2026-08-04", "entity": "paradox", "volume": 137378.0, "wiki_views": 437}
-{"date": "2026-08-04", "entity": "paramount", "wiki_views": 2107}
+{"close": 8.380000114440918, "date": "2026-08-04", "entity": "paramount", "volume": 16253300.0, "wiki_views": 2107}
 {"date": "2026-08-04", "entity": "patagonia", "wiki_views": 346}
 {"close": 58.540000915527344, "date": "2026-08-04", "entity": "paypal", "volume": 10322200.0, "wiki_views": 1990}
 {"close": 91.02999877929688, "date": "2026-08-04", "entity": "pdd", "volume": 6318700.0, "wiki_views": 550}
@@ -30807,6 +30926,7 @@
 {"date": "2026-08-04", "entity": "squishmallows", "wiki_views": 170}
 {"date": "2026-08-04", "entity": "stanley", "wiki_views": 317}
 {"close": 104.97000122070312, "date": "2026-08-04", "entity": "starbucks", "volume": 9530900.0, "wiki_views": 1833}
+{"date": "2026-08-04", "entity": "starz", "wiki_views": 485}
 {"date": "2026-08-04", "entity": "stellantis", "wiki_views": 3219}
 {"date": "2026-08-04", "entity": "swatch", "wiki_views": 423}
 {"date": "2026-08-04", "entity": "sweetgreen", "wiki_views": 141}
@@ -31014,6 +31134,7 @@
 {"date": "2026-08-05", "entity": "figs", "wiki_views": 58}
 {"date": "2026-08-05", "entity": "firstwatch", "wiki_views": 176}
 {"date": "2026-08-05", "entity": "fivebelow", "wiki_views": 229}
+{"date": "2026-08-05", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-08-05", "entity": "floordecor", "wiki_views": 64}
 {"date": "2026-08-05", "entity": "flutter", "wiki_views": 526}
 {"date": "2026-08-05", "entity": "footlocker", "wiki_views": 278}
@@ -31155,7 +31276,7 @@
 {"date": "2026-08-05", "entity": "pandora", "wiki_views": 195}
 {"date": "2026-08-05", "entity": "papajohns", "wiki_views": 527}
 {"close": 146.0, "date": "2026-08-05", "entity": "paradox", "volume": 203674.0, "wiki_views": 433}
-{"date": "2026-08-05", "entity": "paramount", "wiki_views": 2312}
+{"close": 8.760000228881836, "date": "2026-08-05", "entity": "paramount", "volume": 19256300.0, "wiki_views": 2312}
 {"date": "2026-08-05", "entity": "patagonia", "wiki_views": 334}
 {"close": 57.93000030517578, "date": "2026-08-05", "entity": "paypal", "volume": 8523900.0, "wiki_views": 2092}
 {"close": 90.94000244140625, "date": "2026-08-05", "entity": "pdd", "volume": 5167800.0, "wiki_views": 441}
@@ -31230,6 +31351,7 @@
 {"date": "2026-08-05", "entity": "squishmallows", "wiki_views": 161}
 {"date": "2026-08-05", "entity": "stanley", "wiki_views": 300}
 {"close": 106.0, "date": "2026-08-05", "entity": "starbucks", "volume": 7857400.0, "wiki_views": 1892}
+{"date": "2026-08-05", "entity": "starz", "wiki_views": 525}
 {"date": "2026-08-05", "entity": "stellantis", "wiki_views": 3372}
 {"date": "2026-08-05", "entity": "swatch", "wiki_views": 396}
 {"date": "2026-08-05", "entity": "sweetgreen", "wiki_views": 155}
@@ -31437,6 +31559,7 @@
 {"date": "2026-08-06", "entity": "figs", "wiki_views": 64}
 {"date": "2026-08-06", "entity": "firstwatch", "wiki_views": 127}
 {"date": "2026-08-06", "entity": "fivebelow", "wiki_views": 212}
+{"date": "2026-08-06", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-08-06", "entity": "floordecor", "wiki_views": 44}
 {"date": "2026-08-06", "entity": "flutter", "wiki_views": 388}
 {"date": "2026-08-06", "entity": "footlocker", "wiki_views": 278}
@@ -31578,7 +31701,7 @@
 {"date": "2026-08-06", "entity": "pandora", "wiki_views": 218}
 {"date": "2026-08-06", "entity": "papajohns", "wiki_views": 559}
 {"close": 134.89999389648438, "date": "2026-08-06", "entity": "paradox", "volume": 667155.0, "wiki_views": 483}
-{"date": "2026-08-06", "entity": "paramount", "wiki_views": 2336}
+{"close": 9.0600004196167, "date": "2026-08-06", "entity": "paramount", "volume": 13262500.0, "wiki_views": 2336}
 {"date": "2026-08-06", "entity": "patagonia", "wiki_views": 308}
 {"close": 59.779998779296875, "date": "2026-08-06", "entity": "paypal", "volume": 10754100.0, "wiki_views": 1882}
 {"close": 90.8499984741211, "date": "2026-08-06", "entity": "pdd", "volume": 3970300.0, "wiki_views": 428}
@@ -31653,6 +31776,7 @@
 {"date": "2026-08-06", "entity": "squishmallows", "wiki_views": 159}
 {"date": "2026-08-06", "entity": "stanley", "wiki_views": 245}
 {"close": 105.16000366210938, "date": "2026-08-06", "entity": "starbucks", "volume": 6029500.0, "wiki_views": 1784}
+{"date": "2026-08-06", "entity": "starz", "wiki_views": 1135}
 {"date": "2026-08-06", "entity": "stellantis", "wiki_views": 3317}
 {"date": "2026-08-06", "entity": "swatch", "wiki_views": 418}
 {"date": "2026-08-06", "entity": "sweetgreen", "wiki_views": 206}
@@ -31860,6 +31984,7 @@
 {"date": "2026-08-07", "entity": "figs", "wiki_views": 95}
 {"date": "2026-08-07", "entity": "firstwatch", "wiki_views": 152}
 {"date": "2026-08-07", "entity": "fivebelow", "wiki_views": 235}
+{"date": "2026-08-07", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-08-07", "entity": "floordecor", "wiki_views": 45}
 {"date": "2026-08-07", "entity": "flutter", "wiki_views": 304}
 {"date": "2026-08-07", "entity": "footlocker", "wiki_views": 244}
@@ -32001,7 +32126,7 @@
 {"date": "2026-08-07", "entity": "pandora", "wiki_views": 174}
 {"date": "2026-08-07", "entity": "papajohns", "wiki_views": 493}
 {"close": 135.60000610351562, "date": "2026-08-07", "entity": "paradox", "volume": 209574.0, "wiki_views": 479}
-{"date": "2026-08-07", "entity": "paramount", "wiki_views": 2313}
+{"close": 9.1899995803833, "date": "2026-08-07", "entity": "paramount", "volume": 9326900.0, "wiki_views": 2313}
 {"date": "2026-08-07", "entity": "patagonia", "wiki_views": 356}
 {"close": 59.06999969482422, "date": "2026-08-07", "entity": "paypal", "volume": 8413900.0, "wiki_views": 1791}
 {"close": 91.76000213623047, "date": "2026-08-07", "entity": "pdd", "volume": 3747900.0, "wiki_views": 457}
@@ -32076,6 +32201,7 @@
 {"date": "2026-08-07", "entity": "squishmallows", "wiki_views": 169}
 {"date": "2026-08-07", "entity": "stanley", "wiki_views": 274}
 {"close": 105.58000183105469, "date": "2026-08-07", "entity": "starbucks", "volume": 6378200.0, "wiki_views": 1924}
+{"date": "2026-08-07", "entity": "starz", "wiki_views": 1024}
 {"date": "2026-08-07", "entity": "stellantis", "wiki_views": 3631}
 {"date": "2026-08-07", "entity": "swatch", "wiki_views": 448}
 {"date": "2026-08-07", "entity": "sweetgreen", "wiki_views": 205}
@@ -32283,6 +32409,7 @@
 {"date": "2026-08-08", "entity": "figs", "wiki_views": 53}
 {"date": "2026-08-08", "entity": "firstwatch", "wiki_views": 249}
 {"date": "2026-08-08", "entity": "fivebelow", "wiki_views": 261}
+{"date": "2026-08-08", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-08-08", "entity": "floordecor", "wiki_views": 29}
 {"date": "2026-08-08", "entity": "flutter", "wiki_views": 153}
 {"date": "2026-08-08", "entity": "footlocker", "wiki_views": 217}
@@ -32499,6 +32626,7 @@
 {"date": "2026-08-08", "entity": "squishmallows", "wiki_views": 202}
 {"date": "2026-08-08", "entity": "stanley", "wiki_views": 293}
 {"date": "2026-08-08", "entity": "starbucks", "wiki_views": 1651}
+{"date": "2026-08-08", "entity": "starz", "wiki_views": 586}
 {"date": "2026-08-08", "entity": "stellantis", "wiki_views": 3197}
 {"date": "2026-08-08", "entity": "swatch", "wiki_views": 423}
 {"date": "2026-08-08", "entity": "sweetgreen", "wiki_views": 112}
@@ -32706,6 +32834,7 @@
 {"date": "2026-08-09", "entity": "figs", "wiki_views": 71}
 {"date": "2026-08-09", "entity": "firstwatch", "wiki_views": 279}
 {"date": "2026-08-09", "entity": "fivebelow", "wiki_views": 210}
+{"date": "2026-08-09", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-08-09", "entity": "floordecor", "wiki_views": 33}
 {"date": "2026-08-09", "entity": "flutter", "wiki_views": 171}
 {"date": "2026-08-09", "entity": "footlocker", "wiki_views": 302}
@@ -32922,6 +33051,7 @@
 {"date": "2026-08-09", "entity": "squishmallows", "wiki_views": 212}
 {"date": "2026-08-09", "entity": "stanley", "wiki_views": 276}
 {"date": "2026-08-09", "entity": "starbucks", "wiki_views": 1541}
+{"date": "2026-08-09", "entity": "starz", "wiki_views": 590}
 {"date": "2026-08-09", "entity": "stellantis", "wiki_views": 3183}
 {"date": "2026-08-09", "entity": "swatch", "wiki_views": 488}
 {"date": "2026-08-09", "entity": "sweetgreen", "wiki_views": 141}
@@ -33129,6 +33259,7 @@
 {"date": "2026-08-10", "entity": "figs", "wiki_views": 60}
 {"date": "2026-08-10", "entity": "firstwatch", "wiki_views": 178}
 {"date": "2026-08-10", "entity": "fivebelow", "wiki_views": 223}
+{"date": "2026-08-10", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-08-10", "entity": "floordecor", "wiki_views": 57}
 {"date": "2026-08-10", "entity": "flutter", "wiki_views": 277}
 {"date": "2026-08-10", "entity": "footlocker", "wiki_views": 262}
@@ -33270,7 +33401,7 @@
 {"date": "2026-08-10", "entity": "pandora", "wiki_views": 196}
 {"date": "2026-08-10", "entity": "papajohns", "wiki_views": 478}
 {"close": 132.6999969482422, "date": "2026-08-10", "entity": "paradox", "volume": 222226.0, "wiki_views": 453}
-{"date": "2026-08-10", "entity": "paramount", "wiki_views": 1940}
+{"close": 9.270000457763672, "date": "2026-08-10", "entity": "paramount", "volume": 9787600.0, "wiki_views": 1940}
 {"date": "2026-08-10", "entity": "patagonia", "wiki_views": 484}
 {"close": 59.06999969482422, "date": "2026-08-10", "entity": "paypal", "volume": 6707100.0, "wiki_views": 2051}
 {"close": 93.0, "date": "2026-08-10", "entity": "pdd", "volume": 5025400.0, "wiki_views": 533}
@@ -33345,6 +33476,7 @@
 {"date": "2026-08-10", "entity": "squishmallows", "wiki_views": 170}
 {"date": "2026-08-10", "entity": "stanley", "wiki_views": 271}
 {"close": 104.6500015258789, "date": "2026-08-10", "entity": "starbucks", "volume": 4947400.0, "wiki_views": 1763}
+{"date": "2026-08-10", "entity": "starz", "wiki_views": 560}
 {"date": "2026-08-10", "entity": "stellantis", "wiki_views": 3124}
 {"date": "2026-08-10", "entity": "swatch", "wiki_views": 459}
 {"date": "2026-08-10", "entity": "sweetgreen", "wiki_views": 166}
@@ -33552,6 +33684,7 @@
 {"date": "2026-08-11", "entity": "figs", "wiki_views": 64}
 {"date": "2026-08-11", "entity": "firstwatch", "wiki_views": 193}
 {"date": "2026-08-11", "entity": "fivebelow", "wiki_views": 230}
+{"date": "2026-08-11", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-08-11", "entity": "floordecor", "wiki_views": 52}
 {"date": "2026-08-11", "entity": "flutter", "wiki_views": 293}
 {"date": "2026-08-11", "entity": "footlocker", "wiki_views": 271}
@@ -33693,7 +33826,7 @@
 {"date": "2026-08-11", "entity": "pandora", "wiki_views": 186}
 {"date": "2026-08-11", "entity": "papajohns", "wiki_views": 489}
 {"close": 135.3000030517578, "date": "2026-08-11", "entity": "paradox", "volume": 89044.0, "wiki_views": 413}
-{"date": "2026-08-11", "entity": "paramount", "wiki_views": 2206}
+{"close": 9.380000114440918, "date": "2026-08-11", "entity": "paramount", "volume": 8369700.0, "wiki_views": 2206}
 {"date": "2026-08-11", "entity": "patagonia", "wiki_views": 347}
 {"close": 59.0, "date": "2026-08-11", "entity": "paypal", "volume": 9752300.0, "wiki_views": 2351}
 {"close": 90.5, "date": "2026-08-11", "entity": "pdd", "volume": 4260500.0, "wiki_views": 462}
@@ -33768,6 +33901,7 @@
 {"date": "2026-08-11", "entity": "squishmallows", "wiki_views": 165}
 {"date": "2026-08-11", "entity": "stanley", "wiki_views": 327}
 {"close": 106.66000366210938, "date": "2026-08-11", "entity": "starbucks", "volume": 5013300.0, "wiki_views": 1895}
+{"date": "2026-08-11", "entity": "starz", "wiki_views": 603}
 {"date": "2026-08-11", "entity": "stellantis", "wiki_views": 3083}
 {"date": "2026-08-11", "entity": "swatch", "wiki_views": 437}
 {"date": "2026-08-11", "entity": "sweetgreen", "wiki_views": 168}
@@ -33975,6 +34109,7 @@
 {"date": "2026-08-12", "entity": "figs", "wiki_views": 46}
 {"date": "2026-08-12", "entity": "firstwatch", "wiki_views": 150}
 {"date": "2026-08-12", "entity": "fivebelow", "wiki_views": 359}
+{"date": "2026-08-12", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-08-12", "entity": "floordecor", "wiki_views": 66}
 {"date": "2026-08-12", "entity": "flutter", "wiki_views": 223}
 {"date": "2026-08-12", "entity": "footlocker", "wiki_views": 264}
@@ -34116,7 +34251,7 @@
 {"date": "2026-08-12", "entity": "pandora", "wiki_views": 205}
 {"date": "2026-08-12", "entity": "papajohns", "wiki_views": 424}
 {"close": 134.3000030517578, "date": "2026-08-12", "entity": "paradox", "volume": 89695.0, "wiki_views": 371}
-{"date": "2026-08-12", "entity": "paramount", "wiki_views": 2294}
+{"close": 9.5, "date": "2026-08-12", "entity": "paramount", "volume": 15823200.0, "wiki_views": 2294}
 {"date": "2026-08-12", "entity": "patagonia", "wiki_views": 377}
 {"close": 59.20000076293945, "date": "2026-08-12", "entity": "paypal", "volume": 6141400.0, "wiki_views": 2286}
 {"close": 89.04000091552734, "date": "2026-08-12", "entity": "pdd", "volume": 6960800.0, "wiki_views": 474}
@@ -34191,6 +34326,7 @@
 {"date": "2026-08-12", "entity": "squishmallows", "wiki_views": 171}
 {"date": "2026-08-12", "entity": "stanley", "wiki_views": 282}
 {"close": 108.48999786376953, "date": "2026-08-12", "entity": "starbucks", "volume": 3924100.0, "wiki_views": 1989}
+{"date": "2026-08-12", "entity": "starz", "wiki_views": 475}
 {"date": "2026-08-12", "entity": "stellantis", "wiki_views": 2998}
 {"date": "2026-08-12", "entity": "swatch", "wiki_views": 402}
 {"date": "2026-08-12", "entity": "sweetgreen", "wiki_views": 210}
@@ -34398,6 +34534,7 @@
 {"date": "2026-08-13", "entity": "figs", "wiki_views": 47}
 {"date": "2026-08-13", "entity": "firstwatch", "wiki_views": 158}
 {"date": "2026-08-13", "entity": "fivebelow", "wiki_views": 478}
+{"date": "2026-08-13", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-08-13", "entity": "floordecor", "wiki_views": 50}
 {"date": "2026-08-13", "entity": "flutter", "wiki_views": 210}
 {"date": "2026-08-13", "entity": "footlocker", "wiki_views": 229}
@@ -34539,7 +34676,7 @@
 {"date": "2026-08-13", "entity": "pandora", "wiki_views": 236}
 {"date": "2026-08-13", "entity": "papajohns", "wiki_views": 465}
 {"close": 132.39999389648438, "date": "2026-08-13", "entity": "paradox", "volume": 142580.0, "wiki_views": 385}
-{"date": "2026-08-13", "entity": "paramount", "wiki_views": 2159}
+{"close": 9.970000267028809, "date": "2026-08-13", "entity": "paramount", "volume": 15035900.0, "wiki_views": 2159}
 {"date": "2026-08-13", "entity": "patagonia", "wiki_views": 335}
 {"close": 60.59000015258789, "date": "2026-08-13", "entity": "paypal", "volume": 9568900.0, "wiki_views": 2126}
 {"close": 84.16999816894531, "date": "2026-08-13", "entity": "pdd", "volume": 8746800.0, "wiki_views": 466}
@@ -34614,6 +34751,7 @@
 {"date": "2026-08-13", "entity": "squishmallows", "wiki_views": 166}
 {"date": "2026-08-13", "entity": "stanley", "wiki_views": 328}
 {"close": 108.55000305175781, "date": "2026-08-13", "entity": "starbucks", "volume": 5190000.0, "wiki_views": 2060}
+{"date": "2026-08-13", "entity": "starz", "wiki_views": 514}
 {"date": "2026-08-13", "entity": "stellantis", "wiki_views": 3112}
 {"date": "2026-08-13", "entity": "swatch", "wiki_views": 396}
 {"date": "2026-08-13", "entity": "sweetgreen", "wiki_views": 182}
@@ -34821,6 +34959,7 @@
 {"date": "2026-08-14", "entity": "figs", "wiki_views": 47}
 {"date": "2026-08-14", "entity": "firstwatch", "wiki_views": 152}
 {"date": "2026-08-14", "entity": "fivebelow", "wiki_views": 318}
+{"date": "2026-08-14", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-08-14", "entity": "floordecor", "wiki_views": 62}
 {"date": "2026-08-14", "entity": "flutter", "wiki_views": 201}
 {"date": "2026-08-14", "entity": "footlocker", "wiki_views": 229}
@@ -34962,7 +35101,7 @@
 {"date": "2026-08-14", "entity": "pandora", "wiki_views": 197}
 {"date": "2026-08-14", "entity": "papajohns", "wiki_views": 529}
 {"close": 136.1999969482422, "date": "2026-08-14", "entity": "paradox", "volume": 106760.0, "wiki_views": 390}
-{"date": "2026-08-14", "entity": "paramount", "wiki_views": 1944}
+{"close": 10.140000343322754, "date": "2026-08-14", "entity": "paramount", "volume": 10676100.0, "wiki_views": 1944}
 {"date": "2026-08-14", "entity": "patagonia", "wiki_views": 278}
 {"close": 61.65999984741211, "date": "2026-08-14", "entity": "paypal", "volume": 15707800.0, "wiki_views": 2104}
 {"close": 84.79000091552734, "date": "2026-08-14", "entity": "pdd", "volume": 4733100.0, "wiki_views": 720}
@@ -35037,6 +35176,7 @@
 {"date": "2026-08-14", "entity": "squishmallows", "wiki_views": 219}
 {"date": "2026-08-14", "entity": "stanley", "wiki_views": 339}
 {"close": 107.69000244140625, "date": "2026-08-14", "entity": "starbucks", "volume": 3499100.0, "wiki_views": 2095}
+{"date": "2026-08-14", "entity": "starz", "wiki_views": 435}
 {"date": "2026-08-14", "entity": "stellantis", "wiki_views": 3539}
 {"date": "2026-08-14", "entity": "swatch", "wiki_views": 409}
 {"date": "2026-08-14", "entity": "sweetgreen", "wiki_views": 153}
@@ -35244,6 +35384,7 @@
 {"date": "2026-08-15", "entity": "figs", "wiki_views": 32}
 {"date": "2026-08-15", "entity": "firstwatch", "wiki_views": 225}
 {"date": "2026-08-15", "entity": "fivebelow", "wiki_views": 260}
+{"date": "2026-08-15", "entity": "flightcentre", "wiki_views": 2}
 {"date": "2026-08-15", "entity": "floordecor", "wiki_views": 46}
 {"date": "2026-08-15", "entity": "flutter", "wiki_views": 165}
 {"date": "2026-08-15", "entity": "footlocker", "wiki_views": 183}
@@ -35460,6 +35601,7 @@
 {"date": "2026-08-15", "entity": "squishmallows", "wiki_views": 202}
 {"date": "2026-08-15", "entity": "stanley", "wiki_views": 314}
 {"date": "2026-08-15", "entity": "starbucks", "wiki_views": 1890}
+{"date": "2026-08-15", "entity": "starz", "wiki_views": 480}
 {"date": "2026-08-15", "entity": "stellantis", "wiki_views": 3951}
 {"date": "2026-08-15", "entity": "swatch", "wiki_views": 378}
 {"date": "2026-08-15", "entity": "sweetgreen", "wiki_views": 99}
@@ -35883,6 +36025,7 @@
 {"date": "2026-08-16", "entity": "squishmallows", "wiki_views": 191}
 {"date": "2026-08-16", "entity": "stanley", "wiki_views": 281}
 {"date": "2026-08-16", "entity": "starbucks", "wiki_views": 2091}
+{"date": "2026-08-16", "entity": "starz", "wiki_views": 499}
 {"date": "2026-08-16", "entity": "stellantis", "wiki_views": 3563}
 {"date": "2026-08-16", "entity": "swatch", "wiki_views": 469}
 {"date": "2026-08-16", "entity": "sweetgreen", "wiki_views": 127}
@@ -36231,7 +36374,7 @@
 {"date": "2026-08-17", "entity": "pandora", "wiki_views": 231}
 {"date": "2026-08-17", "entity": "papajohns", "wiki_views": 438}
 {"close": 138.3000030517578, "date": "2026-08-17", "entity": "paradox", "volume": 137603.0, "wiki_views": 398}
-{"date": "2026-08-17", "entity": "paramount", "wiki_views": 2115}
+{"close": 10.279999732971191, "date": "2026-08-17", "entity": "paramount", "volume": 6878300.0, "wiki_views": 2115}
 {"date": "2026-08-17", "entity": "patagonia", "wiki_views": 417}
 {"close": 60.470001220703125, "date": "2026-08-17", "entity": "paypal", "volume": 9233700.0, "wiki_views": 2614}
 {"close": 86.94000244140625, "date": "2026-08-17", "entity": "pdd", "volume": 6850600.0, "wiki_views": 655}
@@ -36306,6 +36449,7 @@
 {"date": "2026-08-17", "entity": "squishmallows", "wiki_views": 168}
 {"date": "2026-08-17", "entity": "stanley", "wiki_views": 286}
 {"close": 107.91999816894531, "date": "2026-08-17", "entity": "starbucks", "volume": 5935300.0, "wiki_views": 2183}
+{"date": "2026-08-17", "entity": "starz", "wiki_views": 443}
 {"date": "2026-08-17", "entity": "stellantis", "wiki_views": 3660}
 {"date": "2026-08-17", "entity": "swatch", "wiki_views": 435}
 {"date": "2026-08-17", "entity": "sweetgreen", "wiki_views": 150}
@@ -36654,7 +36798,7 @@
 {"date": "2026-08-18", "entity": "pandora", "wiki_views": 212}
 {"date": "2026-08-18", "entity": "papajohns", "wiki_views": 409}
 {"close": 141.39999389648438, "date": "2026-08-18", "entity": "paradox", "volume": 107201.0, "wiki_views": 462}
-{"date": "2026-08-18", "entity": "paramount", "wiki_views": 2090}
+{"close": 10.430000305175781, "date": "2026-08-18", "entity": "paramount", "volume": 9512600.0, "wiki_views": 2090}
 {"date": "2026-08-18", "entity": "patagonia", "wiki_views": 429}
 {"close": 60.43000030517578, "date": "2026-08-18", "entity": "paypal", "volume": 9911600.0, "wiki_views": 2398}
 {"close": 87.2699966430664, "date": "2026-08-18", "entity": "pdd", "volume": 5317400.0, "wiki_views": 562}
@@ -36729,6 +36873,7 @@
 {"date": "2026-08-18", "entity": "squishmallows", "wiki_views": 187}
 {"date": "2026-08-18", "entity": "stanley", "wiki_views": 550}
 {"close": 106.01000213623047, "date": "2026-08-18", "entity": "starbucks", "volume": 5351000.0, "wiki_views": 2572}
+{"date": "2026-08-18", "entity": "starz", "wiki_views": 506}
 {"date": "2026-08-18", "entity": "stellantis", "wiki_views": 4065}
 {"date": "2026-08-18", "entity": "swatch", "wiki_views": 359}
 {"date": "2026-08-18", "entity": "sweetgreen", "wiki_views": 150}
@@ -36936,6 +37081,7 @@
 {"date": "2026-08-19", "entity": "figs", "wiki_views": 57}
 {"date": "2026-08-19", "entity": "firstwatch", "wiki_views": 162}
 {"date": "2026-08-19", "entity": "fivebelow", "wiki_views": 258}
+{"date": "2026-08-19", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-08-19", "entity": "floordecor", "wiki_views": 56}
 {"date": "2026-08-19", "entity": "flutter", "wiki_views": 250}
 {"date": "2026-08-19", "entity": "footlocker", "wiki_views": 254}
@@ -37077,7 +37223,7 @@
 {"date": "2026-08-19", "entity": "pandora", "wiki_views": 188}
 {"date": "2026-08-19", "entity": "papajohns", "wiki_views": 471}
 {"close": 142.39999389648438, "date": "2026-08-19", "entity": "paradox", "volume": 117968.0, "wiki_views": 450}
-{"date": "2026-08-19", "entity": "paramount", "wiki_views": 1933}
+{"close": 10.600000381469727, "date": "2026-08-19", "entity": "paramount", "volume": 10702700.0, "wiki_views": 1933}
 {"date": "2026-08-19", "entity": "patagonia", "wiki_views": 353}
 {"close": 61.25, "date": "2026-08-19", "entity": "paypal", "volume": 9489000.0, "wiki_views": 2195}
 {"close": 90.19999694824219, "date": "2026-08-19", "entity": "pdd", "volume": 6276900.0, "wiki_views": 609}
@@ -37152,6 +37298,7 @@
 {"date": "2026-08-19", "entity": "squishmallows", "wiki_views": 159}
 {"date": "2026-08-19", "entity": "stanley", "wiki_views": 389}
 {"close": 104.9800033569336, "date": "2026-08-19", "entity": "starbucks", "volume": 6815500.0, "wiki_views": 2068}
+{"date": "2026-08-19", "entity": "starz", "wiki_views": 492}
 {"date": "2026-08-19", "entity": "stellantis", "wiki_views": 3394}
 {"date": "2026-08-19", "entity": "swatch", "wiki_views": 439}
 {"date": "2026-08-19", "entity": "sweetgreen", "wiki_views": 143}
@@ -37359,6 +37506,7 @@
 {"date": "2026-08-20", "entity": "figs", "wiki_views": 51}
 {"date": "2026-08-20", "entity": "firstwatch", "wiki_views": 132}
 {"date": "2026-08-20", "entity": "fivebelow", "wiki_views": 258}
+{"date": "2026-08-20", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-08-20", "entity": "floordecor", "wiki_views": 50}
 {"date": "2026-08-20", "entity": "flutter", "wiki_views": 202}
 {"date": "2026-08-20", "entity": "footlocker", "wiki_views": 261}
@@ -37500,7 +37648,7 @@
 {"date": "2026-08-20", "entity": "pandora", "wiki_views": 217}
 {"date": "2026-08-20", "entity": "papajohns", "wiki_views": 474}
 {"close": 143.89999389648438, "date": "2026-08-20", "entity": "paradox", "volume": 172690.0, "wiki_views": 465}
-{"date": "2026-08-20", "entity": "paramount", "wiki_views": 1913}
+{"close": 10.289999961853027, "date": "2026-08-20", "entity": "paramount", "volume": 9308200.0, "wiki_views": 1913}
 {"date": "2026-08-20", "entity": "patagonia", "wiki_views": 347}
 {"close": 62.29999923706055, "date": "2026-08-20", "entity": "paypal", "volume": 12019600.0, "wiki_views": 2291}
 {"close": 89.5199966430664, "date": "2026-08-20", "entity": "pdd", "volume": 5441300.0, "wiki_views": 458}
@@ -37575,6 +37723,7 @@
 {"date": "2026-08-20", "entity": "squishmallows", "wiki_views": 140}
 {"date": "2026-08-20", "entity": "stanley", "wiki_views": 317}
 {"close": 103.98999786376953, "date": "2026-08-20", "entity": "starbucks", "volume": 7583100.0, "wiki_views": 2226}
+{"date": "2026-08-20", "entity": "starz", "wiki_views": 458}
 {"date": "2026-08-20", "entity": "stellantis", "wiki_views": 3191}
 {"date": "2026-08-20", "entity": "swatch", "wiki_views": 386}
 {"date": "2026-08-20", "entity": "sweetgreen", "wiki_views": 142}
@@ -37782,6 +37931,7 @@
 {"date": "2026-08-21", "entity": "figs", "wiki_views": 43}
 {"date": "2026-08-21", "entity": "firstwatch", "wiki_views": 177}
 {"date": "2026-08-21", "entity": "fivebelow", "wiki_views": 274}
+{"date": "2026-08-21", "entity": "flightcentre", "wiki_views": 1}
 {"date": "2026-08-21", "entity": "floordecor", "wiki_views": 52}
 {"date": "2026-08-21", "entity": "flutter", "wiki_views": 206}
 {"date": "2026-08-21", "entity": "footlocker", "wiki_views": 291}
@@ -37923,7 +38073,7 @@
 {"date": "2026-08-21", "entity": "pandora", "wiki_views": 226}
 {"date": "2026-08-21", "entity": "papajohns", "wiki_views": 500}
 {"date": "2026-08-21", "entity": "paradox", "wiki_views": 578}
-{"date": "2026-08-21", "entity": "paramount", "wiki_views": 1921}
+{"close": 10.350000381469727, "date": "2026-08-21", "entity": "paramount", "volume": 7448700.0, "wiki_views": 1921}
 {"date": "2026-08-21", "entity": "patagonia", "wiki_views": 324}
 {"close": 61.54999923706055, "date": "2026-08-21", "entity": "paypal", "volume": 11479100.0, "wiki_views": 2039}
 {"close": 88.37999725341797, "date": "2026-08-21", "entity": "pdd", "volume": 6878200.0, "wiki_views": 528}
@@ -37998,6 +38148,7 @@
 {"date": "2026-08-21", "entity": "squishmallows", "wiki_views": 137}
 {"date": "2026-08-21", "entity": "stanley", "wiki_views": 350}
 {"close": 107.08000183105469, "date": "2026-08-21", "entity": "starbucks", "volume": 5550000.0, "wiki_views": 2171}
+{"date": "2026-08-21", "entity": "starz", "wiki_views": 456}
 {"date": "2026-08-21", "entity": "stellantis", "wiki_views": 3208}
 {"date": "2026-08-21", "entity": "swatch", "wiki_views": 404}
 {"date": "2026-08-21", "entity": "sweetgreen", "wiki_views": 136}
@@ -38076,7 +38227,7 @@
 {"app_rank": 17, "date": "2026-08-22", "entity": "amazon"}
 {"app_rank": 0, "date": "2026-08-22", "entity": "amc"}
 {"app_rank": 0, "date": "2026-08-22", "entity": "american_air"}
-{"app_rank": 0, "date": "2026-08-22", "entity": "apple", "trends_hit": 5000}
+{"app_rank": 0, "date": "2026-08-22", "entity": "apple", "trends_hit": 500}
 {"app_rank": 0, "date": "2026-08-22", "entity": "aristocrat"}
 {"app_rank": 0, "date": "2026-08-22", "entity": "bestbuy"}
 {"app_rank": 42, "date": "2026-08-22", "entity": "block"}
@@ -38163,7 +38314,7 @@
 {"app_rank": 0, "date": "2026-08-22", "entity": "oscar"}
 {"app_rank": 0, "date": "2026-08-22", "entity": "oura"}
 {"app_rank": 0, "date": "2026-08-22", "entity": "papajohns"}
-{"app_rank": 0, "date": "2026-08-22", "entity": "paramount"}
+{"app_rank": 0, "date": "2026-08-22", "entity": "paramount", "trends_hit": 200}
 {"app_rank": 41, "date": "2026-08-22", "entity": "paypal"}
 {"app_rank": 12, "date": "2026-08-22", "entity": "pdd"}
 {"app_rank": 0, "date": "2026-08-22", "entity": "peloton"}
@@ -38195,6 +38346,7 @@
 {"app_rank": 0, "date": "2026-08-22", "entity": "southwest"}
 {"app_rank": 40, "date": "2026-08-22", "entity": "spotify"}
 {"app_rank": 0, "date": "2026-08-22", "entity": "starbucks"}
+{"app_rank": 0, "date": "2026-08-22", "entity": "starz"}
 {"app_rank": 0, "date": "2026-08-22", "entity": "stellantis"}
 {"app_rank": 0, "date": "2026-08-22", "entity": "sweetgreen"}
 {"app_rank": 0, "date": "2026-08-22", "entity": "taketwo", "trends_hit": 500}
