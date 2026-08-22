@@ -173,7 +173,18 @@ def wikipedia_views(article: str, start: dt.date, end: dt.date) -> dict:
 # ---------------------------------------------------------------------------
 
 _GDELT_LAST = 0.0
-GDELT_GAP = 5.2
+GDELT_GAP = 5.5
+GDELT_TIMEOUT = 15
+
+
+def gdelt_query(q: str) -> str:
+    """GDELT rejects top-level OR without parentheses: '"A" OR "B"' -> '("A" OR "B")'."""
+    q = (q or "").strip()
+    if not q:
+        return q
+    if " OR " in q and not (q.startswith("(") and q.endswith(")")):
+        q = f"({q})"
+    return q
 
 
 def _gdelt(url: str):
@@ -183,7 +194,7 @@ def _gdelt(url: str):
     if wait > 0:
         time.sleep(wait)
     try:
-        raw = _get(url, retries=2)
+        raw = _get(url, retries=1, timeout=GDELT_TIMEOUT)
     except Exception as e:
         _GDELT_LAST = time.time()
         _mark("gdelt", False, type(e).__name__)
@@ -210,7 +221,7 @@ def gdelt_volume(query: str, days: int = 60) -> dict:
     if not query:
         return {}
     url = ("https://api.gdeltproject.org/api/v2/doc/doc?query="
-           f"{quote(query)}&mode=timelinevol&format=json&timespan={days}d")
+           f"{quote(gdelt_query(query))}&mode=timelinevol&format=json&timespan={days}d")
     data = _gdelt(url)
     if not data:
         return {}
@@ -227,7 +238,7 @@ def gdelt_headlines(query: str, days: int = 4, n: int = 6) -> list:
     if not query:
         return []
     url = ("https://api.gdeltproject.org/api/v2/doc/doc?query="
-           f"{quote(query)}&mode=artlist&maxrecords={n}&format=json"
+           f"{quote(gdelt_query(query))}&mode=artlist&maxrecords={n}&format=json"
            f"&timespan={days}d&sort=hybridrel")
     data = _gdelt(url)
     if not data:

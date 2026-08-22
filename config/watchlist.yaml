@@ -131,7 +131,7 @@ entities:
     kind: product
     include: ['\be\.?l\.?f\.? (?:beauty|cosmetics|primer|halo glow|makeup)\b', '\bHalo Glow\b', '\bPower Grip\b']
     exclude: ['\belf bar\b', '\belf on the shelf\b', '\bELF ?QUEST\b']
-    wikipedia: E.l.f._Beauty
+    wikipedia: E.l.f.
     news_query: '"e.l.f. Beauty"'
 
   - key: crocs
@@ -158,7 +158,7 @@ entities:
     kind: product
     include: ['\bIl ?Makiage\b', '\bSpoiled Child\b', '\bOddity Tech\b']
     exclude: []
-    wikipedia: Oddity_Tech
+    wikipedia: Il_Makiage
     news_query: '"Oddity Tech" OR "Il Makiage"'
 
   - key: birkenstock

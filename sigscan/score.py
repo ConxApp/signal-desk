@@ -117,6 +117,8 @@ class DailyObservation:
     volume: float = 0.0
     app_rank: float = 0.0              # App Store top-free rank (0 = not charting)
     trends_hit: int = 0                # appeared in Google Trends daily feed (approx traffic)
+    missing: tuple = ()                # channels NOT observed this day: any of wiki, news, app
+                                       # (absent != zero; the attention engine skips these days)
 
 
 @dataclass

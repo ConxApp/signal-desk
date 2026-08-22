@@ -158,6 +158,11 @@ def to_obs(key: str, rows: list) -> list:
             close=r.get("close", 0.0) or 0.0, volume=r.get("volume", 0.0) or 0.0,
             app_rank=r.get("app_rank", 0.0) or 0.0,
             trends_hit=r.get("trends_hit", 0) or 0,
+            # a channel is "observed" only if the row carries the key — a day with
+            # no Wikipedia number (today's is always a day behind) or no App Store
+            # read is absent, not zero
+            missing=tuple(ch for ch, k in (("wiki", "wiki_views"), ("news", "news_articles"),
+                                           ("app", "app_rank")) if k not in r),
         ))
     return obs
 
@@ -209,15 +214,22 @@ def main():
     idx = app_index(brands)
     best_rank = {}
     apps_seen = {}
+    charts_ok = 0
     for country in ("us", "au"):
-        for a in apple_top_apps(country, 100):
+        chart = apple_top_apps(country, 100)
+        charts_ok += bool(chart)
+        for a in chart:
             k = match_app_name(a["name"], idx)
             if k:
                 best_rank[k] = min(best_rank.get(k, 999), a["rank"])
                 apps_seen.setdefault(k, []).append(f"{a['name']} #{a['rank']} {country.upper()}")
-    for k, r in best_rank.items():
-        dhist.patch(k, ds, app_rank=r)
-    print(f"  app chart matches: {len(best_rank)}")
+    if charts_ok:
+        # Record an explicit observation for EVERY brand that has app names, so
+        # "not on the chart today" (0) is distinguishable from "chart not read".
+        for b in brands:
+            if b.apps:
+                dhist.patch(b.key, ds, app_rank=best_rank.get(b.key, 0))
+    print(f"  app chart matches: {len(best_rank)} (charts read: {charts_ok})")
 
     # 3. Google Trends ----------------------------------------------------------
     trends_raw = {}
@@ -303,24 +315,30 @@ def main():
                 dhist.patch(k, d, close=v["close"], volume=v["volume"])
     print(f"  tickers fetched: {len(px_cache)}  elapsed {elapsed():.0f}s")
 
-    # 8. GDELT news volume (throttled: ~5s each) --------------------------------
+    # 8. GDELT news volume (throttled: ~5s each, hard cap on wall time) --------
     print("=== news volume (GDELT) ===")
     news_n = 0
+    news_t0 = time.time()
+    NEWS_CAP_S = int(os.environ.get("NEWS_CAP_S", "420"))
+
+    def news_ok():
+        return budget_left(240) and (time.time() - news_t0) < NEWS_CAP_S
+
     for e in entities:
-        if not budget_left(240):
+        if not news_ok():
             break
         for d, v in gdelt_volume(e.news_query, days=60).items():
             hist.patch(e.key, d, news_articles=v)
         news_n += 1
     for k in candidates[:25]:
-        if not budget_left(240):
-            print("  ! time budget: stopping news early")
+        if not news_ok():
+            print("  ! news cap reached: stopping news early")
             break
         b = brand_by_key[k]
         for d, v in gdelt_volume(b.news_query, days=60).items():
             dhist.patch(k, d, news_articles=v)
         news_n += 1
-    print(f"  queries: {news_n}  elapsed {elapsed():.0f}s")
+    print(f"  queries: {news_n}  elapsed {elapsed():.0f}s  gdelt={dict(collect.STATUS.get('gdelt', {}))}")
 
     prune(hist, 400)
     prune(dhist, 150)
@@ -385,9 +403,11 @@ def main():
     use_ai = explain_mod.ai_available()
     top_sig = sorted(signals, key=lambda s: -s["rank_score"])[:6]
     top_disc = keep[:10]
+    hl_t0 = time.time()
+    HL_CAP_S = int(os.environ.get("HEADLINES_CAP_S", "150"))
     for item, q in [(s, ent_by_key[s["entity"]].news_query) for s in top_sig] + \
                    [(x, brand_by_key[x["key"]].news_query) for x in top_disc]:
-        if budget_left(90):
+        if budget_left(90) and (time.time() - hl_t0) < HL_CAP_S:
             item["headlines"] = gdelt_headlines(q, days=4, n=6)
         item["explain"] = explain_mod.explain(item, item["headlines"], item.get("examples") or [], use_ai=use_ai)
     for item in signals + keep:

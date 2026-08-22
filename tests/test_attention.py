@@ -82,6 +82,23 @@ c = score_attention(obs_from(series(60), ranks=[0] * 55 + [0, 40, 20, 8, 3]))
 check(c is not None and c.channels.get("app", 0) > 2 and "APP_CLIMBING" in c.flags, "app climbing flag")
 d = score_attention([])
 check(d is None, "empty history -> None")
+# App Store chart only read on the LAST day: the channel must not exist yet (no fake spike),
+# but a brand with 14+ observed chart days (mostly off-chart) CAN spike.
+unobs = obs_from(series(60))
+for o in unobs[:-1]:
+    o.missing = ("app",)
+unobs[-1].app_rank = 3
+f = score_attention(unobs)
+check(f is not None and "app" not in f.channels and "APP_CLIMBING" not in f.flags,
+      f"single observed app day -> no app channel ({f.channels if f else None})")
+check(f is not None and f.app_rank == 3 and any("baseline still forming" in w for w in f.why),
+      "but the chart rank is still reported")
+# Wikipedia is a day behind: a missing 'today' must not read as a -12 sigma crash
+wk = obs_from(series(60))
+wk[-1].wiki_views = 0
+wk[-1].missing = ("wiki",)
+g = score_attention(wk)
+check(g is not None and abs(g.channels.get("wiki", 0)) < 3, f"missing today's wiki -> uses yesterday ({g.channels if g else None})")
 e = score_attention(obs_from(series(10, spike_at=9)))
 check(e is not None and e.attention_z == 0.0, "short history -> no z (baseline not formed)")
 
