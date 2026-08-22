@@ -9,5 +9,8 @@ jobs:
         with: { python-version: '3.12' }
       - run: pip install -r requirements.txt
       - run: python tests/test_score.py
+      - run: python tests/test_attention.py
       - name: Watchlist lint
         run: python -c "import sys; sys.path.insert(0,'.'); from sigscan.run import load_config; e,_,_ = load_config(); [print('WARN', p) for x in e for p in x.lint()]"
+      - name: Dashboard renders from an empty payload
+        run: python -c "import sys; sys.path.insert(0,'.'); from sigscan import dashboard; dashboard.render({'date':'2026-01-01','generated':'','signals':[],'discovered':[],'sources':{},'reddit_enabled':False,'trends_raw':{},'finance_trending':[],'warnings':[],'stats':{}}, '/tmp/x.html'); print(open('/tmp/x.html').read()[:200])"

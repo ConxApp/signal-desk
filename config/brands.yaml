@@ -1,0 +1,986 @@
+# ============================================================================
+# DISCOVERY UNIVERSE — brands and products that map to a listed stock.
+#
+# watchlist.yaml is what YOU asked to track. This file is what the scanner
+# looks through on its own to find names that are trending that you are NOT
+# watching yet. Every entry maps consumer-facing words ("Hoka", "Labubu",
+# "Zepbound") to a ticker, so a burst of attention can be tied to a stock.
+#
+# Fields
+#   key      short id, unique
+#   name     display name
+#   company  listed parent company
+#   ticker   Yahoo-style symbol (AAPL, 9992.HK, WOW.AX, ADS.DE ...). Empty +
+#            private: true = trending-but-not-investable (still reported).
+#   sector   grouping for the dashboard
+#   wiki     exact English Wikipedia article title (tests/check_brands.py validates)
+#   terms    phrases people actually type. Matched case-insensitively on word
+#            boundaries, plurals handled. Prefix with "re:" for a raw regex.
+#   exclude  phrases/regex that veto a match (everyday meanings)
+#   context  for ambiguous names: at least ONE of these must also appear
+#   apps     App Store app names (as listed in the charts) that belong to the brand
+# ============================================================================
+
+defaults:
+  baseline_days: 45
+
+brands:
+
+  # ------------------------------------------------------------ footwear
+  - {key: hoka, name: Hoka, company: Deckers Brands, ticker: DECK, sector: footwear, wiki: Hoka,
+     terms: ['Hoka', 'Clifton 9', 'Clifton 10', 'Bondi 8', 'Bondi 9', 'Speedgoat', 'Hoka Mach']}
+  - {key: ugg, name: UGG, company: Deckers Brands, ticker: DECK, sector: footwear, wiki: UGG_(brand),
+     terms: ['UGG boots', 'Uggs', 'Tasman slipper', 'Ultra Mini'], context: ['ugg', 'boot', 'slipper', 'shoe']}
+  - {key: on_running, name: On Running, company: On Holding, ticker: ONON, sector: footwear, wiki: On_(company),
+     terms: ['On Cloud', 'Cloudmonster', 'Cloudsurfer', 'Cloudtilt', 'Cloudrunner', 'On Running', 'Cloudnova'],
+     exclude: ['on cloud nine', 'on cloud 9']}
+  - {key: nike, name: Nike, company: Nike, ticker: NKE, sector: footwear, wiki: "Nike,_Inc.",
+     terms: ['Nike', 'Air Force 1', 'Air Max', 'Nike Dunk', 'Vomero', 'Pegasus 41', 'Pegasus 42', 'Vaporfly', 'Alphafly'],
+     apps: ['Nike', 'Nike SNKRS']}
+  - {key: jordan, name: Air Jordan, company: Nike, ticker: NKE, sector: footwear, wiki: Air_Jordan,
+     terms: ['Air Jordan', 'Jordan 1', 'Jordan 4', 'Jordan 11', 'Jordans']}
+  - {key: converse, name: Converse, company: Nike, ticker: NKE, sector: footwear, wiki: Converse_(brand),
+     terms: ['Converse', 'Chuck Taylor', 'Chuck 70']}
+  - {key: adidas, name: Adidas, company: Adidas, ticker: ADS.DE, sector: footwear, wiki: Adidas,
+     terms: ['Adidas', 'Samba', 'Gazelle', 'Adizero', 'Ultraboost', 'Yeezy', 'Adidas Campus', 'Superstar shoes'],
+     exclude: ['samba dance', 'samba music', 'gazelle animal'], apps: ['adidas', 'adidas CONFIRMED']}
+  - {key: crocs, name: Crocs, company: Crocs, ticker: CROX, sector: footwear, wiki: Crocs,
+     terms: ['Crocs', 'Jibbitz', 'Croc clogs']}
+  - {key: heydude, name: HEYDUDE, company: Crocs, ticker: CROX, sector: footwear, wiki: Crocs,
+     terms: ['Hey Dude shoes', 'HEYDUDE', 'Hey Dudes']}
+  - {key: birkenstock, name: Birkenstock, company: Birkenstock, ticker: BIRK, sector: footwear, wiki: Birkenstock,
+     terms: ['Birkenstock', 'Birkenstocks', 'Birks', 'Boston clog', 'Arizona sandal']}
+  - {key: skechers, name: Skechers, company: Skechers (private since 2025), ticker: '', private: true, sector: footwear, wiki: Skechers,
+     terms: ['Skechers', 'Skechers Slip-ins']}
+  - {key: newbalance, name: New Balance, company: New Balance (private), ticker: '', private: true, sector: footwear, wiki: New_Balance,
+     terms: ['New Balance', 'NB 990', 'NB 550', '990v6', '9060']}
+  - {key: asics, name: ASICS, company: ASICS, ticker: 7936.T, sector: footwear, wiki: Asics,
+     terms: ['Asics', 'Gel-Kayano', 'Gel-Nimbus', 'Gel Kayano', 'Gel Nimbus', 'Novablast', 'Gel-1130', 'Superblast']}
+  - {key: puma, name: Puma, company: Puma, ticker: PUM.DE, sector: footwear, wiki: Puma_(brand),
+     terms: ['Puma shoes', 'Puma Speedcat', 'Puma Palermo', 'Puma Suede'], context: ['shoe', 'sneaker', 'wear', 'puma']}
+  - {key: vans, name: Vans, company: VF Corporation, ticker: VFC, sector: footwear, wiki: Vans,
+     terms: ['Vans', 'Old Skool', 'Vans Knu Skool'], exclude: ['minivan', 'cargo van', 'camper van', 'moving van', 'the vans'],
+     context: ['shoe', 'sneaker', 'skate', 'checkerboard', 'slip-on', 'slip on', 'old skool', 'wear', 'outfit']}
+  - {key: northface, name: The North Face, company: VF Corporation, ticker: VFC, sector: apparel, wiki: The_North_Face,
+     terms: ['North Face', 'Nuptse']}
+  - {key: timberland, name: Timberland, company: VF Corporation, ticker: VFC, sector: footwear, wiki: Timberland_(company),
+     terms: ['Timberland', 'Timbs']}
+  - {key: drmartens, name: Dr. Martens, company: Dr. Martens, ticker: DOCS.L, sector: footwear, wiki: Dr._Martens,
+     terms: ['Dr Martens', 'Dr. Martens', 'Doc Martens', 'Docs boots']}
+  - {key: allbirds, name: Allbirds, company: Allbirds, ticker: BIRD, sector: footwear, wiki: Allbirds,
+     terms: ['Allbirds']}
+  - {key: salomon, name: Salomon, company: Amer Sports, ticker: AS, sector: footwear, wiki: Salomon_Group,
+     terms: ['Salomon', 'XT-6', 'Speedcross']}
+  - {key: arcteryx, name: "Arc'teryx", company: Amer Sports, ticker: AS, sector: apparel, wiki: "Arc'teryx",
+     terms: ["Arc'teryx", 'Arcteryx', 'Arc teryx']}
+  - {key: brooks, name: Brooks Running, company: Berkshire Hathaway, ticker: BRK-B, sector: footwear, wiki: Brooks_Sports,
+     terms: ['Brooks Ghost', 'Brooks Glycerin', 'Brooks Adrenaline', 'Brooks Hyperion', 'Brooks running']}
+  - {key: footlocker, name: Foot Locker, company: Dick's Sporting Goods, ticker: DKS, sector: retail, wiki: Foot_Locker,
+     terms: ['Foot Locker', 'Footlocker']}
+  - {key: dicks, name: "Dick's Sporting Goods", company: Dick's Sporting Goods, ticker: DKS, sector: retail, wiki: "Dick's_Sporting_Goods",
+     terms: ["Dick's Sporting", 'Dicks Sporting']}
+  - {key: columbia, name: Columbia Sportswear, company: Columbia Sportswear, ticker: COLM, sector: apparel, wiki: Columbia_Sportswear,
+     terms: ['Columbia jacket', 'Columbia Sportswear', 'Columbia Omni-Heat', 'Columbia fleece']}
+  - {key: canadagoose, name: Canada Goose, company: Canada Goose, ticker: GOOS, sector: apparel, wiki: Canada_Goose_Inc.,
+     terms: ['Canada Goose'], exclude: ['geese migration', 'goose poop', 'goose attack']}
+  - {key: moncler, name: Moncler, company: Moncler, ticker: MONC.MI, sector: apparel, wiki: Moncler,
+     terms: ['Moncler']}
+
+  # ------------------------------------------------------------ apparel
+  - {key: lululemon, name: Lululemon, company: Lululemon Athletica, ticker: LULU, sector: apparel, wiki: Lululemon,
+     terms: ['Lululemon', 'Lulu leggings', 'Align leggings', 'Scuba hoodie', 'Define jacket', 'Everywhere belt bag']}
+  - {key: aritzia, name: Aritzia, company: Aritzia, ticker: ATZ.TO, sector: apparel, wiki: Aritzia,
+     terms: ['Aritzia', 'Super Puff', 'Wilfred', 'Babaton'], context: ['aritzia', 'puff', 'jacket', 'pants', 'top', 'dress', 'outfit', 'wear']}
+  - {key: abercrombie, name: Abercrombie & Fitch, company: Abercrombie & Fitch, ticker: ANF, sector: apparel, wiki: Abercrombie_&_Fitch,
+     terms: ['Abercrombie', 'A&F', 'Hollister']}
+  - {key: americaneagle, name: American Eagle / Aerie, company: American Eagle Outfitters, ticker: AEO, sector: apparel, wiki: American_Eagle_Outfitters,
+     terms: ['American Eagle', 'Aerie', 'Offline by Aerie'], exclude: ['bald eagle', 'eagle scout', 'american eagle gold', 'eagle coin']}
+  - {key: gap, name: Gap / Old Navy, company: Gap Inc., ticker: GAP, sector: apparel, wiki: Gap_Inc.,
+     terms: ['Old Navy', 'Banana Republic', 'Athleta', 'Gap jeans', 'Gap hoodie', 'Gap sweatshirt', 'GapKids']}
+  - {key: levis, name: "Levi's", company: Levi Strauss & Co., ticker: LEVI, sector: apparel, wiki: Levi_Strauss_&_Co.,
+     terms: ["Levi's", 'Levis', '501s', 'Levi 501', "Levi's 501"]}
+  - {key: ralphlauren, name: Ralph Lauren, company: Ralph Lauren Corporation, ticker: RL, sector: apparel, wiki: Ralph_Lauren_Corporation,
+     terms: ['Ralph Lauren', 'Polo Ralph', 'Polo Bear']}
+  - {key: coach, name: Coach / Tapestry, company: Tapestry, ticker: TPR, sector: apparel, wiki: Coach_New_York,
+     terms: ['Coach bag', 'Coach Tabby', 'Coach purse', 'Coach Brooklyn bag', 'Coach outlet', 'Kate Spade'],
+     context: ['bag', 'purse', 'tabby', 'handbag', 'outlet', 'kate spade', 'leather']}
+  - {key: michaelkors, name: Michael Kors / Capri, company: Capri Holdings, ticker: CPRI, sector: apparel, wiki: Capri_Holdings,
+     terms: ['Michael Kors', 'Jimmy Choo', 'Versace']}
+  - {key: lvmh, name: Louis Vuitton / LVMH, company: LVMH, ticker: MC.PA, sector: luxury, wiki: LVMH,
+     terms: ['Louis Vuitton', 'LVMH', 'Dior', 'Tiffany & Co', 'Tiffany necklace', 'Tiffany bracelet', 'Sephora', 'Celine bag', 'Celine Triomphe', 'Loewe', 'Fendi', 'Givenchy', 'Rimowa'],
+     apps: ['Sephora']}
+  - {key: hermes, name: Hermès, company: Hermès, ticker: RMS.PA, sector: luxury, wiki: Hermès,
+     terms: ['Hermes bag', 'Hermès', 'Birkin', 'Kelly bag', 'Hermes Oran'], context: ['bag', 'birkin', 'kelly', 'scarf', 'hermès', 'luxury', 'leather']}
+  - {key: kering, name: Gucci / Kering, company: Kering, ticker: KER.PA, sector: luxury, wiki: Kering,
+     terms: ['Gucci', 'Balenciaga', 'Saint Laurent', 'YSL bag', 'Bottega Veneta', 'Bottega']}
+  - {key: prada, name: Prada / Miu Miu, company: Prada, ticker: 1913.HK, sector: luxury, wiki: Prada,
+     terms: ['Prada', 'Miu Miu']}
+  - {key: burberry, name: Burberry, company: Burberry, ticker: BRBY.L, sector: luxury, wiki: Burberry,
+     terms: ['Burberry']}
+  - {key: richemont, name: Cartier / Richemont, company: Richemont, ticker: CFR.SW, sector: luxury, wiki: Richemont,
+     terms: ['Cartier', 'Van Cleef', 'Richemont', 'IWC watch', 'Panerai']}
+  - {key: swatch, name: Swatch / Omega, company: Swatch Group, ticker: UHR.SW, sector: luxury, wiki: The_Swatch_Group,
+     terms: ['Swatch', 'MoonSwatch', 'Omega Speedmaster', 'Omega Seamaster', 'Tissot', 'Longines'],
+     context: ['watch', 'moonswatch', 'omega', 'wrist', 'timepiece', 'tissot', 'longines', 'swatch group']}
+  - {key: pandora, name: Pandora Jewelry, company: Pandora A/S, ticker: PNDORA.CO, sector: apparel, wiki: Pandora_(jewelry),
+     terms: ['Pandora charm', 'Pandora bracelet', 'Pandora jewelry', 'Pandora jewellery', 'Pandora ring'],
+     context: ['charm', 'bracelet', 'jewelry', 'jewellery', 'ring', 'necklace']}
+  - {key: signet, name: Kay / Zales / Signet, company: Signet Jewelers, ticker: SIG, sector: apparel, wiki: Signet_Jewelers,
+     terms: ['Kay Jewelers', 'Zales', 'Jared jewelers', 'Blue Nile', 'James Allen ring']}
+  - {key: hm, name: H&M, company: H&M, ticker: HM-B.ST, sector: apparel, wiki: H&M,
+     terms: ['H&M', 'H and M', 'COS clothing', 'Arket', '& Other Stories'], apps: ['H&M']}
+  - {key: inditex, name: Zara, company: Inditex, ticker: ITX.MC, sector: apparel, wiki: Zara_(retailer),
+     terms: ['Zara', 'Bershka', 'Massimo Dutti', 'Pull&Bear', 'Stradivarius'], exclude: ['zara larsson', 'zara tindall'], apps: ['ZARA']}
+  - {key: uniqlo, name: Uniqlo, company: Fast Retailing, ticker: 9983.T, sector: apparel, wiki: Uniqlo,
+     terms: ['Uniqlo', 'Airism', 'Heattech', 'Uniqlo U']}
+  - {key: urban, name: Urban Outfitters / Anthropologie, company: Urban Outfitters, ticker: URBN, sector: apparel, wiki: Urban_Outfitters,
+     terms: ['Urban Outfitters', 'Anthropologie', 'Free People', 'FP Movement', 'Nuuly']}
+  - {key: victoriassecret, name: "Victoria's Secret", company: Victoria's Secret & Co., ticker: VSCO, sector: apparel, wiki: "Victoria's_Secret",
+     terms: ["Victoria's Secret", 'Victorias Secret', 'VS Fashion Show']}
+  - {key: figs, name: FIGS scrubs, company: FIGS, ticker: FIGS, sector: apparel, wiki: Figs_(company),
+     terms: ['FIGS scrubs', 'Figs scrub'], context: ['scrub', 'nurse', 'hospital', 'figs']}
+  - {key: revolve, name: Revolve, company: Revolve Group, ticker: RVLV, sector: apparel, wiki: '',
+     terms: ['Revolve Clothing', 'Revolve haul', 'Revolve order', 'Revolve Festival', 'from Revolve', 'on Revolve', 'FWRD']}
+  - {key: tjx, name: TJ Maxx / Marshalls, company: TJX Companies, ticker: TJX, sector: retail, wiki: TJX,
+     terms: ['TJ Maxx', 'TJMaxx', 'T.J. Maxx', 'Marshalls', 'HomeGoods', 'TK Maxx', 'Sierra Trading']}
+  - {key: ross, name: Ross Dress for Less, company: Ross Stores, ticker: ROST, sector: retail, wiki: Ross_Stores,
+     terms: ['Ross Dress for Less', 'Ross store', 'Ross haul', 'shopping at Ross', "dd's Discounts"]}
+  - {key: burlington, name: Burlington, company: Burlington Stores, ticker: BURL, sector: retail, wiki: Burlington_(department_store),
+     terms: ['Burlington Coat Factory', 'Burlington store', 'Burlington haul'], context: ['store', 'haul', 'coat', 'deal', 'clearance', 'shopping']}
+  - {key: shein, name: Shein, company: Shein (private), ticker: '', private: true, sector: apparel, wiki: Shein,
+     terms: ['Shein', 'Shein haul'], apps: ['SHEIN']}
+  - {key: skims, name: Skims, company: Skims (private), ticker: '', private: true, sector: apparel, wiki: Skims,
+     terms: ['Skims']}
+  - {key: alo, name: Alo Yoga, company: Alo Yoga (private), ticker: '', private: true, sector: apparel, wiki: Alo_Yoga,
+     terms: ['Alo Yoga', 'Alo leggings', 'Alo set']}
+  - {key: vuori, name: Vuori, company: Vuori (private), ticker: '', private: true, sector: apparel, wiki: Vuori,
+     terms: ['Vuori']}
+  - {key: gymshark, name: Gymshark, company: Gymshark (private), ticker: '', private: true, sector: apparel, wiki: Gymshark,
+     terms: ['Gymshark']}
+  - {key: patagonia, name: Patagonia, company: Patagonia (private), ticker: '', private: true, sector: apparel, wiki: "Patagonia,_Inc.",
+     terms: ['Patagonia jacket', 'Patagonia fleece', 'Patagonia Better Sweater', 'Patagonia Nano Puff', 'Patagonia Baggies'],
+     context: ['jacket', 'fleece', 'sweater', 'puff', 'baggies', 'vest', 'shorts', 'gear', 'wear']}
+  - {key: stanley, name: Stanley cup (tumbler), company: Stanley / PMI (private), ticker: '', private: true, sector: home, wiki: "Stanley (drinkware company)",
+     terms: ['Stanley cup', 'Stanley tumbler', 'Stanley Quencher', 'Stanley 40 oz', 'Stanley 40oz'],
+     exclude: ['nhl', 'hockey', 'playoffs', 'stanley cup final', 'stanley cup champion', 'oilers', 'panthers', 'stanley kubrick']}
+  - {key: owala, name: Owala, company: Owala / Trove Brands (private), ticker: '', private: true, sector: home, wiki: Owala,
+     terms: ['Owala', 'FreeSip']}
+  - {key: yeti, name: YETI, company: YETI Holdings, ticker: YETI, sector: home, wiki: "Yeti Holdings",
+     terms: ['Yeti cooler', 'Yeti tumbler', 'Yeti Rambler', 'Yeti mug', 'Yeti cup', 'Yeti bottle'],
+     context: ['cooler', 'tumbler', 'rambler', 'mug', 'cup', 'bottle', 'drinkware']}
+  - {key: hydroflask, name: Hydro Flask, company: Helen of Troy, ticker: HELE, sector: home, wiki: Hydro_Flask,
+     terms: ['Hydro Flask', 'Hydroflask']}
+
+  # ------------------------------------------------------------ beauty
+  - {key: elf, name: e.l.f. Beauty, company: e.l.f. Beauty, ticker: ELF, sector: beauty, wiki: E.l.f.,
+     terms: ['elf cosmetics', 'e.l.f.', 'elf beauty', 'Halo Glow', 'Power Grip primer', 'elf primer', 'elf bronzing drops', 'Rhode skin', 'Rhode lip'],
+     exclude: ['elf bar', 'elf on the shelf', 'elfquest', 'elf movie', 'christmas elf', 'elf ears', 'rhode island']}
+  - {key: ulta, name: Ulta Beauty, company: Ulta Beauty, ticker: ULTA, sector: beauty, wiki: Ulta_Beauty,
+     terms: ['Ulta'], apps: ['Ulta Beauty']}
+  - {key: esteelauder, name: Estée Lauder / The Ordinary / MAC, company: Estée Lauder Companies, ticker: EL, sector: beauty, wiki: "Estée Lauder Companies",
+     terms: ['Estee Lauder', 'Estée Lauder', 'The Ordinary serum', 'The Ordinary niacinamide', 'The Ordinary glycolic', 'The Ordinary peeling', 'Deciem', 'MAC lipstick', 'MAC cosmetics', 'Clinique', 'La Mer', 'Too Faced', 'Bobbi Brown', 'Le Labo', 'Jo Malone', 'Tom Ford fragrance']}
+  - {key: loreal, name: "L'Oréal / CeraVe / La Roche-Posay", company: L'Oréal, ticker: OR.PA, sector: beauty, wiki: L'Oréal,
+     terms: ["L'Oreal", "L'Oréal", 'Loreal', 'CeraVe', 'La Roche-Posay', 'La Roche Posay', 'Maybelline', 'NYX cosmetics', 'NYX lip', 'Garnier', "Kiehl's", 'Lancome', 'Lancôme', 'Urban Decay', 'IT Cosmetics', 'Vichy', 'Kerastase', 'Kérastase', 'Redken'],
+     exclude: ['vichy france', 'vichy regime', 'vichy government']}
+  - {key: coty, name: Coty / CoverGirl / Kylie, company: Coty, ticker: COTY, sector: beauty, wiki: "Coty,_Inc.",
+     terms: ['CoverGirl', 'Kylie Cosmetics', 'Kylie lip kit', 'Rimmel', 'Sally Hansen', 'Burberry perfume', 'Marc Jacobs Daisy']}
+  - {key: shiseido, name: Shiseido / Drunk Elephant, company: Shiseido, ticker: 4911.T, sector: beauty, wiki: Shiseido,
+     terms: ['Shiseido', 'Drunk Elephant', 'NARS', 'Anessa sunscreen', 'Clé de Peau', 'Cle de Peau']}
+  - {key: olaplex, name: Olaplex, company: Olaplex, ticker: OLPX, sector: beauty, wiki: Olaplex,
+     terms: ['Olaplex']}
+  - {key: galderma, name: Cetaphil / Galderma, company: Galderma, ticker: GALD.SW, sector: beauty, wiki: Galderma,
+     terms: ['Cetaphil', 'Galderma', 'Dysport', 'Restylane']}
+  - {key: beiersdorf, name: Nivea / Eucerin / Aquaphor, company: Beiersdorf, ticker: BEI.DE, sector: beauty, wiki: Beiersdorf,
+     terms: ['Nivea', 'Eucerin', 'Aquaphor', 'La Prairie']}
+  - {key: kenvue, name: Neutrogena / Aveeno / Tylenol, company: Kenvue, ticker: KVUE, sector: beauty, wiki: Kenvue,
+     terms: ['Neutrogena', 'Aveeno', 'Tylenol', 'Listerine', 'Band-Aid', 'Zyrtec', 'Benadryl', 'OGX shampoo']}
+  - {key: pg, name: Olay / Pantene / Gillette / Tide, company: Procter & Gamble, ticker: PG, sector: household, wiki: Procter_&_Gamble,
+     terms: ['Olay', 'Pantene', 'Gillette', 'Tide Pods', 'Old Spice', 'Head & Shoulders', 'Oral-B', 'Crest whitestrips', 'Pampers', 'Swiffer', 'Dawn dish soap', 'Native deodorant', 'Febreze', 'Venus razor']}
+  - {key: unilever, name: Dove / Vaseline / Liquid I.V., company: Unilever, ticker: ULVR.L, sector: household, wiki: Unilever,
+     terms: ['Dove body wash', 'Dove soap', 'Dove deodorant', 'Vaseline', 'Tresemme', 'TRESemmé', 'Axe body spray', 'Degree deodorant', 'Dermalogica', "Paula's Choice", 'Tatcha', 'K18 hair', "Hellmann's", "Ben & Jerry's", 'Magnum ice cream', 'Liquid I.V.', 'Liquid IV', 'Nutrafol']}
+  - {key: colgate, name: Colgate / Hill's, company: Colgate-Palmolive, ticker: CL, sector: household, wiki: Colgate-Palmolive,
+     terms: ['Colgate', 'Palmolive', "Hill's Science Diet", 'Hills Science Diet', 'Softsoap', 'Irish Spring']}
+  - {key: church, name: Hero Mighty Patch / TheraBreath, company: Church & Dwight, ticker: CHD, sector: household, wiki: Church_&_Dwight,
+     terms: ['Mighty Patch', 'Hero Cosmetics', 'TheraBreath', 'Batiste dry shampoo', 'OxiClean', 'Arm & Hammer', 'Waterpik']}
+  - {key: hims, name: Hims & Hers, company: Hims & Hers Health, ticker: HIMS, sector: health, wiki: Hims_&_Hers_Health,
+     terms: ['Hims', 'Hims & Hers', 'Hims and Hers', 'Hims weight loss', 'Hers hair'],
+     context: ['hair loss', 'minoxidil', 'finasteride', 'weight loss', 'ed pills', 'telehealth', 'semaglutide', 'prescription', 'hims', 'glp'],
+     apps: ['Hims: Telehealth for Men', 'Hers: Women', 'Hims', 'Hers']}
+  - {key: oddity, name: Il Makiage / Oddity, company: Oddity Tech, ticker: ODD, sector: beauty, wiki: Il_Makiage,
+     terms: ['Il Makiage', 'IlMakiage', 'Spoiled Child', 'SpoiledChild', 'Oddity Tech']}
+  - {key: glossier, name: Glossier, company: Glossier (private), ticker: '', private: true, sector: beauty, wiki: Glossier,
+     terms: ['Glossier', 'Boy Brow', 'Glossier You']}
+  - {key: rarebeauty, name: Rare Beauty, company: Rare Beauty (private), ticker: '', private: true, sector: beauty, wiki: Rare_Beauty,
+     terms: ['Rare Beauty', 'Soft Pinch blush']}
+  - {key: puig, name: Charlotte Tilbury / Puig, company: Puig, ticker: PUIG.MC, sector: beauty, wiki: Puig_(company),
+     terms: ['Charlotte Tilbury', 'Pillow Talk lipstick', 'Hollywood Flawless Filter', 'Byredo', 'Rabanne', 'Carolina Herrera perfume', 'Good Girl perfume']}
+  - {key: interparfums, name: Inter Parfums, company: Inter Parfums, ticker: IPAR, sector: beauty, wiki: '',
+     terms: ['Inter Parfums', 'Jimmy Choo perfume', 'Coach perfume', 'Lacoste perfume', 'Montblanc fragrance', 'Guess perfume']}
+  - {key: sallybeauty, name: Sally Beauty, company: Sally Beauty Holdings, ticker: SBH, sector: beauty, wiki: Sally_Beauty_Holdings,
+     terms: ['Sally Beauty', "Sally's beauty", 'CosmoProf']}
+  - {key: beautyhealth, name: Hydrafacial, company: Beauty Health Company, ticker: SKIN, sector: beauty, wiki: '',
+     terms: ['Hydrafacial', 'Hydra facial']}
+  - {key: amorepacific, name: Laneige / Innisfree / Cosrx, company: Amorepacific, ticker: 090430.KS, sector: beauty, wiki: Amorepacific_Corporation,
+     terms: ['Laneige', 'Innisfree', 'COSRX', 'Cosrx snail', 'Sulwhasoo', 'Etude House', 'Amorepacific']}
+  - {key: nuskin, name: Nu Skin, company: Nu Skin, ticker: NUS, sector: beauty, wiki: Nu_Skin_Enterprises,
+     terms: ['Nu Skin', 'Nuskin', 'LumiSpa']}
+
+  # ------------------------------------------------------------ beverages
+  - {key: celsius, name: Celsius / Alani Nu, company: Celsius Holdings, ticker: CELH, sector: beverages, wiki: Celsius_Holdings,
+     terms: ['Celsius energy', 'Celsius drink', 'Celsius can', 'Celsius Essentials', 'Alani Nu', 'Alani energy'],
+     exclude: ['degrees celsius', 'celsius to fahrenheit', 'celsius network', 'celsius crypto']}
+  - {key: monster, name: Monster Energy / Bang, company: Monster Beverage, ticker: MNST, sector: beverages, wiki: Monster_Beverage,
+     terms: ['Monster Energy', 'Monster Ultra', 'Monster Zero', 'Bang Energy', 'Reign Energy', 'Java Monster', 'Monster Juice'],
+     context: ['energy', 'drink', 'can', 'caffeine', 'ultra', 'flavor', 'flavour', 'zero sugar']}
+  - {key: cocacola, name: Coca-Cola / BodyArmor / Fairlife, company: Coca-Cola, ticker: KO, sector: beverages, wiki: The_Coca-Cola_Company,
+     terms: ['Coca-Cola', 'Coca Cola', 'Coke Zero', 'Diet Coke', 'Fanta', 'BodyArmor', 'Smartwater', 'Topo Chico', 'Fairlife', 'Core Power', 'Powerade', 'Minute Maid', 'Costa Coffee', 'Vitaminwater']}
+  - {key: pepsi, name: Pepsi / Gatorade / Poppi, company: PepsiCo, ticker: PEP, sector: beverages, wiki: PepsiCo,
+     terms: ['Pepsi', 'Gatorade', 'Mountain Dew', 'Poppi', 'Doritos', 'Cheetos', "Lay's", 'Lays chips', 'Quaker oats', 'Bubly', 'Starry soda', 'Rockstar Energy', 'Siete Foods', 'Propel water', 'Sabra hummus'],
+     exclude: ['poppies', 'poppy seed', 'poppy field']}
+  - {key: kdp, name: Dr Pepper / Ghost / Keurig, company: Keurig Dr Pepper, ticker: KDP, sector: beverages, wiki: Keurig_Dr_Pepper,
+     terms: ['Dr Pepper', 'Dr. Pepper', 'Ghost Energy', 'Ghost energy drink', 'Keurig', 'Canada Dry', 'Snapple', '7UP', 'Bai drink', 'Electrolit', 'C4 energy', 'Black Rifle Coffee']}
+  - {key: nestle, name: Nestlé / Nespresso / KitKat, company: Nestlé, ticker: NESN.SW, sector: food, wiki: Nestlé,
+     terms: ['Nestle', 'Nestlé', 'Nespresso', 'Nescafe', 'Nescafé', 'KitKat', 'Kit Kat', 'Purina', 'Gerber baby', 'Perrier', 'San Pellegrino', 'Coffee mate', 'Coffee-mate', 'DiGiorno', 'Hot Pockets', 'Blue Bottle coffee', 'Garden of Life', 'Vital Proteins', "Nature's Bounty"]}
+  - {key: starbucks, name: Starbucks, company: Starbucks, ticker: SBUX, sector: restaurants, wiki: Starbucks,
+     terms: ['Starbucks', 'Pumpkin Spice Latte', 'Frappuccino', 'PSL season', 'Starbucks Refresher', 'Starbucks cup'], apps: ['Starbucks']}
+  - {key: dutchbros, name: Dutch Bros, company: Dutch Bros, ticker: BROS, sector: restaurants, wiki: Dutch_Bros_Coffee,
+     terms: ['Dutch Bros', 'Dutch Brothers coffee', 'Dutch Bros Rebel'], apps: ['Dutch Bros']}
+  - {key: vitacoco, name: Vita Coco, company: Vita Coco Company, ticker: COCO, sector: beverages, wiki: Vita_Coco,
+     terms: ['Vita Coco', 'Vitacoco']}
+  - {key: zevia, name: Zevia, company: Zevia, ticker: ZVIA, sector: beverages, wiki: Zevia,
+     terms: ['Zevia']}
+  - {key: oatly, name: Oatly, company: Oatly, ticker: OTLY, sector: beverages, wiki: Oatly,
+     terms: ['Oatly']}
+  - {key: boston_beer, name: Truly / Twisted Tea / Sam Adams, company: Boston Beer Company, ticker: SAM, sector: beverages, wiki: Boston_Beer_Company,
+     terms: ['Truly seltzer', 'Truly hard seltzer', 'Twisted Tea', 'Sam Adams', 'Samuel Adams', 'Angry Orchard', 'Sun Cruiser', 'Dogfish Head']}
+  - {key: constellation, name: Modelo / Corona / Pacifico, company: Constellation Brands, ticker: STZ, sector: beverages, wiki: Constellation_Brands,
+     terms: ['Modelo', 'Corona beer', 'Corona Extra', 'Pacifico beer', 'Casa Noble', 'Kim Crawford', 'Meiomi'],
+     exclude: ['coronavirus', 'corona virus', 'modelo de']}
+  - {key: molson, name: Coors / Miller / Blue Moon, company: Molson Coors, ticker: TAP, sector: beverages, wiki: Molson_Coors,
+     terms: ['Coors Light', 'Coors Banquet', 'Miller Lite', 'Miller High Life', 'Blue Moon beer', 'Vizzy seltzer', 'Simply Spiked', 'ZOA energy', 'Molson']}
+  - {key: abinbev, name: Bud Light / Michelob / Stella, company: Anheuser-Busch InBev, ticker: BUD, sector: beverages, wiki: AB_InBev,
+     terms: ['Bud Light', 'Budweiser', 'Michelob Ultra', 'Michelob', 'Stella Artois', 'Corona Cero', 'Cutwater', 'Nutrl', 'Busch Light', 'Kona Big Wave']}
+  - {key: diageo, name: Guinness / Don Julio / Casamigos, company: Diageo, ticker: DEO, sector: beverages, wiki: Diageo,
+     terms: ['Guinness', 'Don Julio', 'Casamigos', 'Johnnie Walker', 'Smirnoff', 'Baileys', 'Tanqueray', 'Crown Royal', 'Ketel One', 'Captain Morgan', 'Aviation gin', 'Lagavulin', 'Talisker'],
+     exclude: ['guinness world record', 'guinness book', 'guinness record']}
+  - {key: brownforman, name: "Jack Daniel's / Woodford", company: Brown-Forman, ticker: BF-B, sector: beverages, wiki: Brown-Forman,
+     terms: ["Jack Daniel's", 'Jack Daniels', 'Woodford Reserve', 'Old Forester', 'Herradura', 'el Jimador', 'Gentleman Jack']}
+  - {key: pernod, name: Absolut / Jameson / Malibu, company: Pernod Ricard, ticker: RI.PA, sector: beverages, wiki: Pernod_Ricard,
+     terms: ['Absolut vodka', 'Jameson', 'Malibu rum', 'Glenlivet', 'Kahlua', 'Kahlúa', 'Beefeater', 'Olmeca Altos', 'Redbreast whiskey', 'Aberlour', 'Chivas']}
+  - {key: campari, name: Aperol / Campari / Espolòn, company: Campari Group, ticker: CPR.MI, sector: beverages, wiki: Campari_Group,
+     terms: ['Aperol', 'Aperol spritz', 'Campari', 'Espolon', 'Espolòn', 'Wild Turkey bourbon', 'Grand Marnier', 'Skyy vodka', 'Courvoisier']}
+  - {key: heineken, name: Heineken, company: Heineken, ticker: HEIA.AS, sector: beverages, wiki: Heineken_N.V.,
+     terms: ['Heineken', 'Amstel', 'Dos Equis', 'Tecate', 'Lagunitas', 'Heineken 0.0']}
+  - {key: primo, name: Primo Brands / Poland Spring / Saratoga, company: Primo Brands, ticker: PRMB, sector: beverages, wiki: Primo_Brands,
+     terms: ['Poland Spring', 'Pure Life water', 'Saratoga water', 'Saratoga Spring water', 'Arrowhead water', 'Deer Park water', 'Zephyrhills', 'Primo Water']}
+  - {key: redbull, name: Red Bull, company: Red Bull (private), ticker: '', private: true, sector: beverages, wiki: Red_Bull,
+     terms: ['Red Bull', 'Redbull'], exclude: ['red bull racing', 'red bull f1', 'verstappen', 'red bull salzburg', 'red bull leipzig', 'red bull bragantino', 'rb leipzig']}
+  - {key: prime_hydration, name: Prime Hydration, company: Prime / Congo Brands (private), ticker: '', private: true, sector: beverages, wiki: Prime_(drink),
+     terms: ['Prime Hydration', 'Prime drink', 'Prime energy drink', 'Prime bottle']}
+  - {key: liquiddeath, name: Liquid Death, company: Liquid Death (private), ticker: '', private: true, sector: beverages, wiki: Liquid_Death,
+     terms: ['Liquid Death']}
+  - {key: olipop, name: Olipop, company: Olipop (private), ticker: '', private: true, sector: beverages, wiki: Olipop,
+     terms: ['Olipop']}
+
+  # ------------------------------------------------------------ food & restaurants
+  - {key: chipotle, name: Chipotle, company: Chipotle Mexican Grill, ticker: CMG, sector: restaurants, wiki: Chipotle_Mexican_Grill,
+     terms: ['Chipotle', 'Chipotle bowl', 'Chipotle burrito'],
+     exclude: ['chipotle pepper', 'chipotle sauce', 'chipotle powder', 'chipotle mayo', 'chipotle aioli', 'chipotle seasoning', 'in adobo', 'chipotle chili', 'chipotle paste', 'chipotle flakes'],
+     apps: ['Chipotle - Fresh Food Fast', 'Chipotle']}
+  - {key: cava, name: CAVA, company: CAVA Group, ticker: CAVA, sector: restaurants, wiki: Cava_Group,
+     terms: ['Cava bowl', 'Cava restaurant', 'Cava Mediterranean', 'eating Cava', 'Cava pita', 'Cava app', 'Cava chicken', 'Cava harissa'],
+     context: ['bowl', 'restaurant', 'pita', 'mediterranean', 'lunch', 'dinner', 'chain', 'harissa', 'tzatziki', 'app', 'chipotle', 'sweetgreen']}
+  - {key: sweetgreen, name: Sweetgreen, company: Sweetgreen, ticker: SG, sector: restaurants, wiki: Sweetgreen,
+     terms: ['Sweetgreen', 'Sweet green salad', 'Infinite Kitchen'], apps: ['sweetgreen']}
+  - {key: wingstop, name: Wingstop, company: Wingstop, ticker: WING, sector: restaurants, wiki: Wingstop,
+     terms: ['Wingstop', 'Wing Stop'], apps: ['Wingstop']}
+  - {key: shakeshack, name: Shake Shack, company: Shake Shack, ticker: SHAK, sector: restaurants, wiki: Shake_Shack,
+     terms: ['Shake Shack', 'ShackBurger'], apps: ['Shake Shack']}
+  - {key: mcdonalds, name: "McDonald's", company: McDonald's, ticker: MCD, sector: restaurants, wiki: McDonald's,
+     terms: ["McDonald's", 'McDonalds', 'Mcdonald', 'McFlurry', 'Big Mac', 'McRib', 'McNuggets', 'Happy Meal', 'McCrispy', 'Grimace shake', 'Chicken Big Mac', 'McValue', 'Maccas', 'Maccies', 'Mickey D'], apps: ["McDonald's"]}
+  - {key: yum, name: Taco Bell / KFC / Pizza Hut, company: Yum! Brands, ticker: YUM, sector: restaurants, wiki: Yum!_Brands,
+     terms: ['Taco Bell', 'KFC', 'Pizza Hut', 'Habit Burger', 'Crunchwrap', 'Baja Blast', 'Mexican Pizza', 'Cantina Chicken', 'Yum Brands'],
+     apps: ['Taco Bell Fast Food & Delivery', 'Taco Bell', 'KFC US - Ordering App', 'KFC', 'Pizza Hut - Food Delivery']}
+  - {key: rbi, name: Popeyes / Tim Hortons / Burger King, company: Restaurant Brands International, ticker: QSR, sector: restaurants, wiki: Restaurant_Brands_International,
+     terms: ['Popeyes', 'Tim Hortons', 'Burger King', 'Firehouse Subs', 'Whopper', 'Timmies'], apps: ['Popeyes', 'Tim Hortons', 'Burger King', 'BK']}
+  - {key: wendys, name: "Wendy's", company: Wendy's, ticker: WEN, sector: restaurants, wiki: Wendy's,
+     terms: ["Wendy's", 'Wendys', 'Baconator', "Wendy's Frosty", 'Frosty shake', 'Krabby Patty meal'], apps: ["Wendy's"]}
+  - {key: dominos, name: "Domino's", company: Domino's Pizza, ticker: DPZ, sector: restaurants, wiki: "Domino's",
+     terms: ["Domino's", 'Dominos', "Domino's pizza", 'Emergency Pizza'], exclude: ['dominoes', 'domino effect', 'domino game', 'domino mask', 'dominos falling'],
+     apps: ["Domino's Pizza USA", "Domino's"]}
+  - {key: papajohns, name: "Papa John's", company: Papa John's, ticker: PZZA, sector: restaurants, wiki: Papa_John's,
+     terms: ["Papa John's", 'Papa Johns', 'Papadia', 'Papa Bites'], apps: ["Papa John's"]}
+  - {key: brinker, name: "Chili's / Brinker", company: Brinker International, ticker: EAT, sector: restaurants, wiki: Brinker_International,
+     terms: ["Chili's", 'Chilis restaurant', 'Triple Dipper', "Maggiano's", 'Big Smasher']}
+  - {key: texasroadhouse, name: Texas Roadhouse, company: Texas Roadhouse, ticker: TXRH, sector: restaurants, wiki: Texas_Roadhouse,
+     terms: ['Texas Roadhouse', 'Texas roadhouse rolls', "Bubba's 33", 'Jaggers']}
+  - {key: darden, name: Olive Garden / LongHorn, company: Darden Restaurants, ticker: DRI, sector: restaurants, wiki: Darden_Restaurants,
+     terms: ['Olive Garden', 'LongHorn Steakhouse', 'Longhorn steakhouse', "Cheddar's", 'Yard House', 'Capital Grille', "Ruth's Chris", 'Ruth Chris', "Chuy's", 'never ending pasta']}
+  - {key: cheesecake, name: Cheesecake Factory, company: Cheesecake Factory, ticker: CAKE, sector: restaurants, wiki: The_Cheesecake_Factory,
+     terms: ['Cheesecake Factory', 'North Italia', 'Flower Child restaurant']}
+  - {key: dine, name: "IHOP / Applebee's", company: Dine Brands, ticker: DIN, sector: restaurants, wiki: Dine_Brands,
+     terms: ['IHOP', "Applebee's", 'Applebees', 'Dollarita', "Fuzzy's Taco"]}
+  - {key: cracker, name: Cracker Barrel, company: Cracker Barrel, ticker: CBRL, sector: restaurants, wiki: Cracker_Barrel,
+     terms: ['Cracker Barrel']}
+  - {key: dennys, name: "Denny's", company: Denny's, ticker: DENN, sector: restaurants, wiki: Denny's,
+     terms: ["Denny's", 'Dennys', 'Grand Slam breakfast', "Keke's"]}
+  - {key: jackinthebox, name: Jack in the Box / Del Taco, company: Jack in the Box, ticker: JACK, sector: restaurants, wiki: Jack_in_the_Box,
+     terms: ['Jack in the Box', 'Del Taco', 'Jumbo Jack'], exclude: ['jack-in-the-box toy', 'jack in the box toy']}
+  - {key: blackrockcoffee, name: Black Rock Coffee, company: Black Rock Coffee Bar, ticker: BRCB, sector: restaurants, wiki: '',
+     terms: ['Black Rock Coffee', 'Blackrock Coffee']}
+  - {key: krispykreme, name: Krispy Kreme, company: Krispy Kreme, ticker: DNUT, sector: restaurants, wiki: Krispy_Kreme,
+     terms: ['Krispy Kreme', 'Krispy Kremes', 'Insomnia Cookies']}
+  - {key: portillos, name: "Portillo's", company: Portillo's, ticker: PTLO, sector: restaurants, wiki: "Portillo's_Restaurants",
+     terms: ["Portillo's", 'Portillos']}
+  - {key: firstwatch, name: First Watch, company: First Watch Restaurant Group, ticker: FWRG, sector: restaurants, wiki: First_Watch_(restaurant_chain),
+     terms: ['First Watch brunch', 'First Watch restaurant', 'First Watch breakfast']}
+  - {key: inspire, name: "Sonic / Arby's / Dunkin'", company: Inspire Brands (private), ticker: '', private: true, sector: restaurants, wiki: Inspire_Brands,
+     terms: ['Sonic Drive-In', 'Sonic slush', 'Sonic ice', "Arby's", 'Arbys', "Dunkin'", 'Dunkin Donuts', "Dunkin' Donuts", 'Dunkin iced', "Jimmy John's", 'Buffalo Wild Wings', 'Baskin-Robbins', 'Baskin Robbins']}
+  - {key: chickfila, name: Chick-fil-A, company: Chick-fil-A (private), ticker: '', private: true, sector: restaurants, wiki: Chick-fil-A,
+     terms: ['Chick-fil-A', 'Chick fil A', 'Chickfila', 'Chic-fil-a', 'Chik-fil-a']}
+  - {key: canes, name: "Raising Cane's", company: Raising Cane's (private), ticker: '', private: true, sector: restaurants, wiki: Raising_Cane's_Chicken_Fingers,
+     terms: ["Raising Cane's", 'Raising Canes', "Cane's sauce", 'Canes sauce', 'Canes chicken']}
+  - {key: innout, name: In-N-Out, company: In-N-Out (private), ticker: '', private: true, sector: restaurants, wiki: In-N-Out_Burger,
+     terms: ['In-N-Out', 'In N Out', 'Animal Style', 'Double-Double']}
+  - {key: crumbl, name: Crumbl, company: Crumbl (private), ticker: '', private: true, sector: restaurants, wiki: Crumbl_Cookies,
+     terms: ['Crumbl', 'Crumbl cookie', 'Crumbl Cookies'], apps: ['Crumbl']}
+  - {key: pandaexpress, name: Panda Express, company: Panda Restaurant Group (private), ticker: '', private: true, sector: restaurants, wiki: Panda_Express,
+     terms: ['Panda Express']}
+  - {key: jollibee, name: Jollibee, company: Jollibee Foods, ticker: JFC.PS, sector: restaurants, wiki: Jollibee,
+     terms: ['Jollibee', 'Chowking', 'Smashburger', 'Coffee Bean & Tea Leaf']}
+  - {key: mixue, name: Mixue, company: Mixue Group, ticker: 2097.HK, sector: restaurants, wiki: Mixue_Ice_Cream_&_Tea,
+     terms: ['Mixue', 'Mi Xue']}
+  - {key: luckin, name: Luckin Coffee, company: Luckin Coffee, ticker: LKNCY, sector: restaurants, wiki: Luckin_Coffee,
+     terms: ['Luckin', 'Luckin Coffee']}
+  - {key: chagee, name: Chagee, company: Chagee, ticker: CHA, sector: restaurants, wiki: Chagee,
+     terms: ['Chagee', 'Bawang Chaji']}
+  - {key: hershey, name: "Hershey's / Reese's", company: Hershey Company, ticker: HSY, sector: food, wiki: The_Hershey_Company,
+     terms: ["Hershey's", 'Hersheys', "Reese's", 'Reeses', 'Jolly Rancher', 'Twizzlers', 'SkinnyPop', 'Ice Breakers mints', 'York Peppermint', "Hershey's Kisses"]}
+  - {key: mondelez, name: Oreo / Cadbury / Sour Patch, company: Mondelez International, ticker: MDLZ, sector: food, wiki: Mondelez_International,
+     terms: ['Oreo', 'Cadbury', 'Sour Patch Kids', 'Ritz crackers', 'Toblerone', 'Milka', 'Chips Ahoy', 'Trident gum', 'Clif Bar', 'Belvita', 'Triscuit', 'Wheat Thins', "Tate's Bake Shop", 'Halls cough']}
+  - {key: kellanova, name: Pringles / Cheez-It / Pop-Tarts, company: Kellanova (Mars deal pending/closed), ticker: K, sector: food, wiki: Kellanova,
+     terms: ['Pringles', 'Cheez-It', 'Cheez It', 'Pop-Tarts', 'Pop Tarts', 'Eggo waffles', 'Rice Krispies Treats', 'Nutri-Grain', 'Kellanova', 'MorningStar Farms']}
+  - {key: mars, name: "M&M's / Snickers / Skittles", company: Mars (private), ticker: '', private: true, sector: food, wiki: "Mars,_Incorporated",
+     terms: ["M&M's", 'M&Ms', 'Snickers', 'Skittles', 'Twix', 'Milky Way bar', 'Starburst candy', 'Kind bar', 'Kind bars', 'Pedigree dog food', 'Royal Canin', 'Whiskas', 'Greenies', 'Combos snack']}
+  - {key: generalmills, name: Cheerios / Pillsbury / Blue Buffalo, company: General Mills, ticker: GIS, sector: food, wiki: General_Mills,
+     terms: ['Cheerios', 'Pillsbury', 'Blue Buffalo', 'Lucky Charms', 'Cinnamon Toast Crunch', 'Betty Crocker', "Totino's", "Annie's mac", 'Nature Valley', 'Yoplait', 'Larabar', 'Chex Mix', 'Old El Paso', 'Haagen-Dazs', 'Häagen-Dazs']}
+  - {key: wkkellogg, name: Froot Loops / Frosted Flakes, company: WK Kellogg Co, ticker: KLG, sector: food, wiki: WK_Kellogg_Co,
+     terms: ['Froot Loops', 'Frosted Flakes', 'Special K cereal', 'Raisin Bran', 'Corn Flakes', 'Frosted Mini-Wheats', 'Mini Wheats', 'Apple Jacks', 'WK Kellogg']}
+  - {key: post, name: Post cereals / Pebbles, company: Post Holdings, ticker: POST, sector: food, wiki: Post_Holdings,
+     terms: ['Honey Bunches of Oats', 'Grape-Nuts', 'Grape Nuts', 'Fruity Pebbles', 'Cocoa Pebbles', 'Bob Evans sausage', 'Peter Pan peanut butter', 'Malt-O-Meal', 'Weetabix', 'Post Holdings']}
+  - {key: bellring, name: Premier Protein / Dymatize, company: BellRing Brands, ticker: BRBR, sector: food, wiki: '',
+     terms: ['Premier Protein', 'Dymatize', 'BellRing']}
+  - {key: simplygood, name: Quest / Atkins / OWYN, company: Simply Good Foods, ticker: SMPL, sector: food, wiki: Atkins_Nutritionals,
+     terms: ['Quest bar', 'Quest chips', 'Quest protein', 'Quest Nutrition', 'Atkins bar', 'Atkins shake', 'OWYN protein', 'OWYN shake']}
+  - {key: vital_farms, name: Vital Farms, company: Vital Farms, ticker: VITL, sector: food, wiki: Vital_Farms,
+     terms: ['Vital Farms']}
+  - {key: freshpet, name: Freshpet, company: Freshpet, ticker: FRPT, sector: pets, wiki: Freshpet,
+     terms: ['Freshpet', 'Fresh pet food']}
+  - {key: beyondmeat, name: Beyond Meat, company: Beyond Meat, ticker: BYND, sector: food, wiki: Beyond_Meat,
+     terms: ['Beyond Meat', 'Beyond Burger', 'Beyond Sausage', 'Beyond Steak']}
+  - {key: impossible, name: Impossible Foods, company: Impossible Foods (private), ticker: '', private: true, sector: food, wiki: Impossible_Foods,
+     terms: ['Impossible Burger', 'Impossible Foods', 'Impossible Whopper', 'Impossible meat', 'Impossible nuggets']}
+  - {key: kraftheinz, name: Kraft / Heinz / Lunchables, company: Kraft Heinz, ticker: KHC, sector: food, wiki: Kraft_Heinz,
+     terms: ['Kraft Mac', 'Kraft Macaroni', 'Kraft Singles', 'Heinz ketchup', 'Heinz', 'Lunchables', 'Philadelphia cream cheese', 'Velveeta', 'Oscar Mayer', 'Capri Sun', 'Jell-O', 'Kool-Aid', 'Kraft Heinz', 'Primal Kitchen'],
+     exclude: ['heinz field', 'heinz ward', 'heinz kerry', 'heinz history', 'heinz hall']}
+  - {key: campbells, name: "Campbell's / Goldfish / Rao's", company: The Campbell's Company, ticker: CPB, sector: food, wiki: "Campbell's",
+     terms: ["Campbell's soup", 'Campbells soup', 'Goldfish crackers', "Rao's", 'Raos sauce', 'Pepperidge Farm', 'Milano cookies', "Snyder's of Hanover", "Snyder's pretzels", 'Lance crackers', 'Kettle Brand chips', 'Cape Cod chips', 'Pace salsa', 'Prego sauce', 'V8 juice', 'Swanson broth', 'Late July chips', 'Noosa yogurt', 'Noosa yoghurt']}
+  - {key: conagra, name: Slim Jim / Healthy Choice / Birds Eye, company: Conagra Brands, ticker: CAG, sector: food, wiki: Conagra_Brands,
+     terms: ['Slim Jim', 'Healthy Choice', 'Birds Eye', 'Marie Callender', "Hunt's ketchup", 'Duncan Hines', 'Orville Redenbacher', 'Reddi-wip', 'Reddi Whip', "Angie's Boomchickapop", 'Boomchickapop', 'Gardein', 'Chef Boyardee', 'Vlasic', 'Swiss Miss', 'Conagra']}
+  - {key: smucker, name: Uncrustables / Jif / Hostess, company: J.M. Smucker, ticker: SJM, sector: food, wiki: The_J.M._Smucker_Company,
+     terms: ['Uncrustables', 'Jif peanut butter', 'Hostess cupcakes', 'Hostess snack', 'Twinkies', 'Ding Dongs', 'Smucker', 'Folgers', 'Cafe Bustelo', 'Café Bustelo', 'Milk-Bone', 'Meow Mix', 'Pup-Peroni']}
+  - {key: hormel, name: Spam / Skippy / Planters, company: Hormel Foods, ticker: HRL, sector: food, wiki: Hormel_Foods,
+     terms: ['Spam musubi', 'can of Spam', 'Spam fries', 'Skippy peanut butter', 'Planters peanuts', 'Planters nuts', 'Jennie-O', 'Applegate', "Justin's peanut butter", "Justin's almond butter", 'Wholly Guacamole', 'Hormel Black Label', 'Hormel chili', 'Dinty Moore', 'Corn Nuts']}
+  - {key: tyson, name: Tyson / Jimmy Dean / Hillshire, company: Tyson Foods, ticker: TSN, sector: food, wiki: Tyson_Foods,
+     terms: ['Tyson chicken', 'Tyson nuggets', 'Jimmy Dean', 'Hillshire Farm', 'Ball Park franks', 'Ball Park hot dogs', 'Aidells', 'Wright bacon', 'Tyson Foods'], exclude: ['mike tyson', 'tyson fury', 'neil degrasse tyson']}
+  - {key: lambweston, name: Lamb Weston, company: Lamb Weston, ticker: LW, sector: food, wiki: Lamb_Weston,
+     terms: ['Lamb Weston', 'Alexia fries']}
+  - {key: chobani, name: Chobani / La Colombe, company: Chobani (private), ticker: '', private: true, sector: food, wiki: Chobani,
+     terms: ['Chobani', 'La Colombe']}
+  - {key: danone, name: Oikos / Activia / Evian / Silk, company: Danone, ticker: BN.PA, sector: food, wiki: Danone,
+     terms: ['Oikos', 'Activia', 'Evian', 'Silk almond milk', 'Silk oat milk', 'International Delight', 'Two Good yogurt', 'Horizon Organic', 'Dannon', 'Danimals', 'Alpro', 'Volvic', 'Danone']}
+  - {key: lindt, name: Lindt / Ghirardelli, company: Lindt & Sprüngli, ticker: LISN.SW, sector: food, wiki: Lindt,
+     terms: ['Lindt', 'Lindor', 'Ghirardelli', 'Russell Stover', 'Lindt Dubai chocolate']}
+  - {key: ferrero, name: Nutella / Ferrero Rocher / Kinder, company: Ferrero (private), ticker: '', private: true, sector: food, wiki: Ferrero_SpA,
+     terms: ['Nutella', 'Ferrero Rocher', 'Kinder Bueno', 'Kinder Surprise', 'Kinder Joy', 'Tic Tac', 'Butterfinger', 'Baby Ruth', 'Nerds Gummy Clusters', 'Nerds candy', 'Laffy Taffy', 'SweeTarts', 'Trolli', 'Keebler', 'Famous Amos', 'Fudge Stripes']}
+  - {key: utz, name: "Utz / Zapp's / On The Border", company: Utz Brands, ticker: UTZ, sector: food, wiki: Utz_Brands,
+     terms: ['Utz chips', 'Utz pretzels', 'Utz Brands', 'On The Border chips', "Zapp's chips", 'Zapps chips', 'Boulder Canyon chips', 'Golden Flake', "Herr's", 'Herrs chips', 'Hawaiian chips', 'Bachman pretzels']}
+
+  # ------------------------------------------------------------ toys & collectibles
+  - {key: popmart, name: Pop Mart / Labubu, company: Pop Mart, ticker: 9992.HK, sector: toys, wiki: Pop_Mart,
+     terms: ['Labubu', 'Pop Mart', 'Popmart', 'Skullpanda', 'Hirono', 'Crybaby blind box', 'Molly blind box', 'Dimoo']}
+  - {key: labubu, name: Labubu (the character), company: Pop Mart, ticker: 9992.HK, sector: toys, wiki: Labubu,
+     terms: ['Labubu', 'Lafufu', 'The Monsters Labubu']}
+  - {key: funko, name: Funko Pop, company: Funko, ticker: FNKO, sector: toys, wiki: Funko,
+     terms: ['Funko', 'Funko Pop', 'Loungefly', 'Bitty Pop']}
+  - {key: hasbro, name: Hasbro / Magic / Monopoly, company: Hasbro, ticker: HAS, sector: toys, wiki: Hasbro,
+     terms: ['Hasbro', 'Magic: The Gathering', 'Magic the Gathering', 'MTG booster', 'Monopoly Go', 'Monopoly GO!', 'Nerf', 'Play-Doh', 'Furby', 'Transformers toy', 'Peppa Pig toy', 'Beyblade', 'Baldur', 'Dungeons & Dragons', 'D&D book', 'Marvel Legends figure'],
+     exclude: ['baldur norse', 'baldur god', "baldur's death"]}
+  - {key: mattel, name: Mattel / Barbie / Hot Wheels, company: Mattel, ticker: MAT, sector: toys, wiki: Mattel,
+     terms: ['Mattel', 'Barbie', 'Hot Wheels', 'UNO cards', 'UNO game', 'Fisher-Price', 'Fisher Price', 'Polly Pocket', 'Masters of the Universe toy', 'Monster High', 'Thomas & Friends', 'American Girl doll', 'Matchbox cars', 'MEGA Bloks']}
+  - {key: spinmaster, name: Spin Master / Paw Patrol, company: Spin Master, ticker: TOY.TO, sector: toys, wiki: Spin_Master,
+     terms: ['Spin Master', 'Paw Patrol', 'Hatchimals', 'Bakugan', 'Rubik', 'Kinetic Sand', 'Melissa & Doug', 'Ms. Rachel toys', 'Gund plush', 'Tech Deck', 'Purse Pets']}
+  - {key: jakks, name: JAKKS Pacific, company: JAKKS Pacific, ticker: JAKK, sector: toys, wiki: Jakks_Pacific,
+     terms: ['JAKKS Pacific', 'Jakks Super Mario figure', 'Jakks Sonic figure']}
+  - {key: buildabear, name: Build-A-Bear, company: Build-A-Bear Workshop, ticker: BBW, sector: toys, wiki: Build-A-Bear_Workshop,
+     terms: ['Build-A-Bear', 'Build a Bear', 'Skoosherz']}
+  - {key: lego, name: LEGO, company: LEGO (private), ticker: '', private: true, sector: toys, wiki: Lego,
+     terms: ['LEGO', 'Lego set', 'Lego Icons', 'Lego Botanicals', 'Lego Technic', 'Lego Star Wars set']}
+  - {key: jellycat, name: Jellycat, company: Jellycat (private), ticker: '', private: true, sector: toys, wiki: Jellycat,
+     terms: ['Jellycat']}
+  - {key: squishmallows, name: Squishmallows, company: Berkshire Hathaway (Jazwares), ticker: BRK-B, sector: toys, wiki: Squishmallows,
+     terms: ['Squishmallow', 'Squishmallows', 'Jazwares']}
+  - {key: sonny_angel, name: Sonny Angel, company: Dreams Inc. (private), ticker: '', private: true, sector: toys, wiki: Sonny_Angel,
+     terms: ['Sonny Angel', 'Sonny Angels', 'Smiski']}
+  - {key: bandai, name: Bandai / Gundam / Tamagotchi, company: Bandai Namco, ticker: 7832.T, sector: toys, wiki: Bandai_Namco_Holdings,
+     terms: ['Bandai', 'Gunpla', 'Gundam model', 'Tamagotchi', 'Elden Ring', 'Tekken 8', 'Dragon Ball Sparking', 'One Piece card game', 'Bandai Namco']}
+  - {key: pokemon_tcg, name: Pokémon TCG (Pokémon Co / Nintendo), company: Nintendo (Pokémon Co. minority), ticker: NTDOY, sector: toys, wiki: Pokémon_Trading_Card_Game,
+     terms: ['Pokemon cards', 'Pokémon cards', 'Pokemon TCG', 'Pokémon TCG', 'Pokemon booster', 'Pokemon ETB', 'Prismatic Evolutions', 'Pokemon 151', 'Pokemon Center', 'Pokemon TCG Pocket', 'Pokemon Pocket', 'Pokémon Pocket', 'Pokémon Legends', 'Pokemon Legends Z-A', 'Pokemon Champions']}
+  - {key: topps, name: Topps / Fanatics, company: Fanatics (private), ticker: '', private: true, sector: toys, wiki: Topps,
+     terms: ['Topps Chrome', 'Topps cards', 'Bowman Chrome', 'Fanatics Collect', 'Fanatics Fest']}
+  - {key: gamestop, name: GameStop, company: GameStop, ticker: GME, sector: retail, wiki: GameStop,
+     terms: ['GameStop', 'Game Stop', 'GameStop Pro', 'GameStop graded'], apps: ['GameStop']}
+  - {key: collectors, name: PSA grading, company: Collectors Holdings (private), ticker: '', private: true, sector: toys, wiki: Professional_Sports_Authenticator,
+     terms: ['PSA 10', 'PSA grading', 'PSA graded', 'PSA slab', 'sent to PSA']}
+
+  # ------------------------------------------------------------ consumer tech
+  - {key: apple, name: Apple / iPhone / AirPods, company: Apple, ticker: AAPL, sector: tech, wiki: Apple_Inc.,
+     terms: ['iPhone', 'AirPods', 'Apple Watch', 'MacBook', 'iPad', 'Vision Pro', 'Apple Intelligence', 'iOS 26', 'iOS 27', 'Apple TV+', 'Apple Music', 'AirTag', 'Mac Mini', 'iMac', 'Apple Pencil', 'Apple Card', 'Apple Pay'],
+     apps: ['Apple Store', 'Apple TV']}
+  - {key: samsung, name: Samsung Galaxy, company: Samsung Electronics, ticker: 005930.KS, sector: tech, wiki: Samsung_Electronics,
+     terms: ['Samsung Galaxy', 'Galaxy S25', 'Galaxy S26', 'Galaxy Z Fold', 'Z Flip', 'Galaxy Fold', 'Galaxy Buds', 'Galaxy Watch', 'Galaxy Ring', 'Samsung Frame TV', 'Frame TV', 'Samsung Bespoke', 'Samsung OLED', 'Galaxy Tab']}
+  - {key: googlepixel, name: Google Pixel / YouTube / Gemini, company: Alphabet, ticker: GOOGL, sector: tech, wiki: Alphabet_Inc.,
+     terms: ['Pixel 9', 'Pixel 10', 'Pixel 11', 'Pixel Fold', 'Pixel Watch', 'Pixel Buds', 'Google Gemini', 'Gemini app', 'Nano Banana', 'Veo 3', 'Waymo', 'Nest thermostat', 'Nest cam', 'Chromecast', 'Google TV Streamer', 'Fitbit', 'YouTube Premium', 'YouTube TV', 'NotebookLM'],
+     apps: ['Google Gemini', 'Gemini', 'YouTube', 'Google Maps', 'Google', 'Gmail', 'Google Photos', 'Google Chrome', 'YouTube TV', 'YouTube Music', 'Google Translate', 'Google Drive', 'Waymo One']}
+  - {key: microsoft, name: Xbox / Surface / Copilot, company: Microsoft, ticker: MSFT, sector: tech, wiki: Microsoft,
+     terms: ['Xbox', 'Game Pass', 'Surface Pro', 'Surface Laptop', 'Microsoft Copilot', 'Copilot+ PC', 'Windows 11', 'Windows 12', 'Minecraft', 'Call of Duty', 'Black Ops 7', 'Forza Horizon', 'Halo', 'Teams meeting', 'Office 365', 'Microsoft 365', 'Candy Crush', 'Diablo 4', 'Diablo IV', 'World of Warcraft', 'Overwatch 2', 'Flight Simulator 2024'],
+     exclude: ['halo effect', 'halo halo', 'halo-halo', 'halo glow', 'hair halo', 'halo braid', 'halo ring', 'halo top', 'halo light', 'halo collar'],
+     apps: ['Microsoft Copilot', 'Copilot', 'Microsoft Teams', 'Microsoft Outlook', 'Microsoft Authenticator', 'Xbox', 'Minecraft', 'Call of Duty', 'Call of Duty®: Mobile', 'Candy Crush Saga']}
+  - {key: meta, name: Meta / Ray-Ban Meta / Quest / Threads, company: Meta Platforms, ticker: META, sector: tech, wiki: Meta_Platforms,
+     terms: ['Ray-Ban Meta', 'Meta glasses', 'Meta Ray-Ban', 'Oakley Meta', 'Meta Quest', 'Quest 3', 'Quest 3S', 'Quest 4', 'Threads app', 'Meta AI', 'Instagram Reels', 'WhatsApp', 'Hypernova glasses', 'Meta Display glasses', 'Orion glasses'],
+     apps: ['Threads', 'Instagram', 'WhatsApp Messenger', 'WhatsApp', 'Facebook', 'Messenger', 'Meta AI', 'Meta Quest', 'Meta Horizon', 'Edits, an Instagram app', 'Edits']}
+  - {key: essilorluxottica, name: Ray-Ban / Oakley / EssilorLuxottica, company: EssilorLuxottica, ticker: EL.PA, sector: tech, wiki: EssilorLuxottica,
+     terms: ['Ray-Ban', 'Ray Ban', 'Rayban', 'Oakley', 'Oakley Meta', 'Persol', 'Costa sunglasses', 'Sunglass Hut', 'LensCrafters', 'EssilorLuxottica', 'Nuance Audio glasses', 'Supreme sunglasses'],
+     exclude: ['annie oakley', 'oakley california', 'oakley ca']}
+  - {key: nvidia, name: Nvidia / GeForce RTX, company: Nvidia, ticker: NVDA, sector: tech, wiki: Nvidia,
+     terms: ['Nvidia', 'GeForce', 'RTX 50', 'RTX 5090', 'RTX 5080', 'RTX 5070', 'RTX 5060', 'RTX 60', 'DLSS', 'GeForce Now', 'Nvidia Shield', 'Jensen Huang', 'Blackwell GPU', 'Rubin GPU', 'DGX Spark']}
+  - {key: amd, name: AMD / Ryzen / Radeon, company: AMD, ticker: AMD, sector: tech, wiki: AMD,
+     terms: ['Ryzen', 'Radeon', 'Threadripper', 'Ryzen 9000', 'Ryzen 7 9800X3D', '9800X3D', '9950X3D', 'RX 9070', 'RX 9060', 'Radeon RX', 'AMD Instinct', 'Lisa Su', 'Strix Halo', 'Ryzen AI']}
+  - {key: intel, name: Intel / Core Ultra / Arc, company: Intel, ticker: INTC, sector: tech, wiki: Intel,
+     terms: ['Intel Core Ultra', 'Core Ultra', 'Intel Arc', 'Arc B580', 'Arc B570', 'Arrow Lake', 'Lunar Lake', 'Panther Lake', 'Nova Lake', 'Intel 18A', 'Intel CPU', 'Intel chip', 'Intel layoffs']}
+  - {key: qualcomm, name: Snapdragon, company: Qualcomm, ticker: QCOM, sector: tech, wiki: Qualcomm,
+     terms: ['Snapdragon', 'Snapdragon X Elite', 'Snapdragon 8 Elite', 'Qualcomm']}
+  - {key: arm, name: Arm Holdings, company: Arm Holdings, ticker: ARM, sector: tech, wiki: Arm_Holdings,
+     terms: ['Arm Holdings', 'Arm chips', 'Arm-based', 'Arm based laptop', 'ARM CPU', 'Arm architecture']}
+  - {key: sony, name: PlayStation / Sony, company: Sony Group, ticker: SONY, sector: tech, wiki: Sony,
+     terms: ['PlayStation', 'PS5', 'PS5 Pro', 'PS6', 'DualSense', 'PSVR2', 'PS Plus', 'PlayStation Plus', 'Sony WH-1000XM', 'WH-1000XM5', 'WH-1000XM6', 'WF-1000XM5', 'Sony Bravia', 'Sony A7', 'Sony ZV-E10', 'Sony Alpha', 'LinkBuds', 'Ghost of Yotei', 'Ghost of Yōtei', 'Helldivers 2', 'Spider-Man 2 PS5', 'Crunchyroll', 'Sony Pictures', 'Columbia Pictures'],
+     apps: ['PS App', 'PlayStation App', 'Crunchyroll']}
+  - {key: nintendo, name: Nintendo Switch 2, company: Nintendo, ticker: NTDOY, sector: gaming, wiki: Nintendo,
+     terms: ['Nintendo', 'Switch 2', 'Nintendo Switch', 'Mario Kart World', 'Donkey Kong Bananza', 'Zelda', 'Animal Crossing', 'Splatoon', 'Super Mario', 'Mario Kart', 'Pokémon Legends', 'Metroid Prime 4', 'Kirby Air Riders', 'Nintendo Direct', 'Joy-Con', 'amiibo'],
+     apps: ['Nintendo Switch Online', 'Nintendo Switch App', 'Nintendo Music', 'Pokémon GO', 'Pokémon TCG Pocket']}
+  - {key: logitech, name: Logitech, company: Logitech, ticker: LOGI, sector: tech, wiki: Logitech,
+     terms: ['Logitech', 'MX Master', 'Logi', 'G Pro X Superlight', 'Logitech G', 'Blue Yeti', 'Astro A50'], exclude: ['logi tv', 'logi bear']}
+  - {key: garmin, name: Garmin, company: Garmin, ticker: GRMN, sector: tech, wiki: Garmin,
+     terms: ['Garmin', 'Fenix 8', 'Forerunner 265', 'Forerunner 965', 'Forerunner 570', 'Forerunner 970', 'Garmin Venu', 'Garmin Instinct', 'Garmin Epix', 'Garmin Edge', 'Garmin Connect', 'Garmin Index']}
+  - {key: gopro, name: GoPro, company: GoPro, ticker: GPRO, sector: tech, wiki: GoPro,
+     terms: ['GoPro', 'Hero 13', 'Hero 14', 'GoPro Hero', 'GoPro Max']}
+  - {key: sonos, name: Sonos, company: Sonos, ticker: SONO, sector: tech, wiki: Sonos,
+     terms: ['Sonos', 'Sonos Arc', 'Sonos Ace', 'Sonos Era', 'Sonos Beam', 'Sonos Roam', 'Sonos Move', 'Sonos app']}
+  - {key: peloton, name: Peloton, company: Peloton Interactive, ticker: PTON, sector: fitness, wiki: Peloton_Interactive,
+     terms: ['Peloton', 'Peloton bike', 'Peloton Tread', 'Peloton Row', 'Peloton app', 'Peloton instructor'], apps: ['Peloton']}
+  - {key: roku, name: Roku, company: Roku, ticker: ROKU, sector: media, wiki: "Roku,_Inc.",
+     terms: ['Roku', 'Roku TV', 'Roku stick', 'Roku Channel', 'Roku City'], apps: ['Roku - Official Remote Control', 'Roku', 'The Roku Channel']}
+  - {key: corsair, name: Corsair / Elgato / SCUF, company: Corsair Gaming, ticker: CRSR, sector: tech, wiki: Corsair_Gaming,
+     terms: ['Corsair', 'Elgato', 'Stream Deck', 'SCUF controller', 'Scuf', 'Corsair K70', 'Corsair Virtuoso', 'Fanatec']}
+  - {key: turtlebeach, name: Turtle Beach, company: Turtle Beach Corporation, ticker: TBCH, sector: tech, wiki: Turtle_Beach_Corporation,
+     terms: ['Turtle Beach', 'Stealth 700', 'Stealth 600', 'ROCCAT', 'PDP controller', 'Victrix']}
+  - {key: anker, name: Anker / Soundcore / Eufy, company: Anker Innovations, ticker: 300866.SZ, sector: tech, wiki: Anker,
+     terms: ['Anker', 'Soundcore', 'Eufy', 'Anker Prime', 'Anker Nano', 'Anker charger', 'Anker power bank', 'Anker Solix', 'Nebula projector']}
+  - {key: xiaomi, name: Xiaomi, company: Xiaomi, ticker: 1810.HK, sector: tech, wiki: Xiaomi,
+     terms: ['Xiaomi', 'Redmi', 'POCO phone', 'Poco F7', 'Xiaomi 15', 'Xiaomi 16', 'Xiaomi SU7', 'Xiaomi YU7', 'Xiaomi EV', 'Mi Band', 'Xiaomi Smart Band', 'Xiaomi scooter']}
+  - {key: dji, name: DJI, company: DJI (private), ticker: '', private: true, sector: tech, wiki: DJI,
+     terms: ['DJI', 'DJI Mini', 'DJI Osmo', 'Osmo Pocket 3', 'DJI Neo', 'DJI Flip', 'DJI Air 3', 'DJI Mavic', 'DJI Avata', 'DJI Mic', 'Osmo 360', 'DJI ban']}
+  - {key: insta360, name: Insta360, company: Insta360 (Arashi Vision), ticker: 688775.SS, sector: tech, wiki: Insta360,
+     terms: ['Insta360', 'Insta 360', 'Insta360 X5', 'Insta360 X4', 'Insta360 Go 3', 'Insta360 Ace Pro', 'Insta360 Flow']}
+  - {key: dyson, name: Dyson, company: Dyson (private), ticker: '', private: true, sector: home, wiki: Dyson_(company),
+     terms: ['Dyson', 'Dyson Airwrap', 'Airwrap', 'Dyson Supersonic', 'Dyson V15', 'Dyson V12', 'Dyson Gen5', 'Dyson Airstrait', 'Dyson OnTrac', 'Dyson PencilVac', 'Dyson WashG1', 'Dyson Zone']}
+  - {key: sharkninja, name: Shark / Ninja, company: SharkNinja, ticker: SN, sector: home, wiki: SharkNinja,
+     terms: ['SharkNinja', 'Shark FlexStyle', 'Shark vacuum', 'Shark FlexBreeze', 'Shark SpeedStyle', 'Shark CryoGlow', 'Shark Glam', 'Shark robot vacuum', 'Shark hair dryer', 'Shark Detect Pro', 'Ninja Creami', 'Ninja Crispi', 'Ninja Slushi', 'Ninja Swirl', 'Ninja Luxe Cafe', 'Ninja air fryer', 'Ninja blender', 'Ninja Foodi', 'Ninja Thirsti', 'Ninja Woodfire', 'Ninja FrostVault', 'Ninja Speedi', 'Ninja coffee', 'Ninja grill', 'Ninja ice cream', 'Ninja Combi', 'Ninja Artisan']}
+  - {key: irobot, name: iRobot / Roomba, company: iRobot, ticker: IRBT, sector: home, wiki: IRobot,
+     terms: ['Roomba', 'iRobot', 'Braava']}
+  - {key: ecovacs, name: Ecovacs / Deebot, company: Ecovacs, ticker: 603486.SS, sector: home, wiki: Ecovacs_Robotics,
+     terms: ['Ecovacs', 'Deebot', 'Ecovacs Deebot', 'Winbot']}
+  - {key: roborock, name: Roborock, company: Roborock, ticker: 688169.SS, sector: home, wiki: Roborock,
+     terms: ['Roborock', 'Roborock Saros', 'Roborock Qrevo', 'Roborock S8']}
+  - {key: whirlpool, name: Whirlpool / KitchenAid / Maytag, company: Whirlpool Corporation, ticker: WHR, sector: home, wiki: Whirlpool_Corporation,
+     terms: ['Whirlpool', 'KitchenAid', 'KitchenAid mixer', 'Maytag', 'InSinkErator', 'Amana', 'JennAir'], exclude: ['whirlpool galaxy', 'whirlpool bath', 'whirlpool tub', 'whirlpool spa', 'the whirlpool', 'whirlpool of', 'in a whirlpool', 'whirlpools']}
+  - {key: breville, name: Breville / Sage, company: Breville Group, ticker: BRG.AX, sector: home, wiki: Breville_Group,
+     terms: ['Breville', 'Breville Barista', 'Barista Express', 'Barista Touch', 'Breville Oracle', 'Bambino Plus', 'Sage Barista', 'Breville Smart Oven', 'Breville Joule', 'Breville InFizz', 'Lelit', 'Baratza']}
+  - {key: delonghi, name: "De'Longhi / Nespresso machines", company: De'Longhi, ticker: DLG.MI, sector: home, wiki: "De'_Longhi",
+     terms: ["De'Longhi", 'DeLonghi', 'Delonghi', 'Dedica', 'La Specialista', 'Magnifica', 'Eletta', 'Rivo', 'Braun coffee', 'Kenwood mixer', 'Nutribullet', 'Magic Bullet']}
+  - {key: spectrum_brands, name: Spectrum Brands, company: Spectrum Brands, ticker: SPB, sector: home, wiki: Spectrum_Brands,
+     terms: ['Spectrum Brands', 'Remington hair', 'Black+Decker appliances', 'George Foreman grill', 'Russell Hobbs', 'Tetra fish', 'Kwikset', 'Pfister faucet', 'Spectracide', 'Cutter repellent', 'Hot Shot spray', 'Dreambone', 'Smartbones', 'Glofish'],
+     context: ['remington', 'foreman', 'russell hobbs', 'tetra', 'kwikset', 'pfister', 'spectracide', 'cutter', 'hot shot', 'dreambone', 'smartbone', 'glofish', 'black+decker', 'black and decker', 'spectrum brands']}
+  - {key: hamilton_beach, name: Hamilton Beach, company: Hamilton Beach Brands, ticker: HBB, sector: home, wiki: Hamilton_Beach_Brands,
+     terms: ['Hamilton Beach', 'Weston appliances', 'Proctor Silex', 'Wolf Gourmet']}
+  - {key: traeger, name: Traeger, company: Traeger, ticker: COOK, sector: home, wiki: '',
+     terms: ['Traeger', 'Traeger grill', 'Traeger pellet', 'Meater probe', 'MEATER']}
+  - {key: weber, name: Weber grills, company: Weber (private), ticker: '', private: true, sector: home, wiki: Weber_Inc.,
+     terms: ['Weber grill', 'Weber Genesis', 'Weber Spirit', 'Weber Kettle', 'Weber Smokefire', 'Weber Searwood', 'Weber Slate', 'Weber Traveler']}
+  - {key: solo_brands, name: Solo Stove, company: Solo Brands, ticker: DTC, sector: home, wiki: '',
+     terms: ['Solo Stove', 'Solo Brands', 'Chubbies shorts', 'Oru Kayak', 'Isle paddle board']}
+  - {key: purple, name: Purple mattress, company: Purple Innovation, ticker: PRPL, sector: home, wiki: '',
+     terms: ['Purple mattress', 'Purple pillow', 'Purple Harmony', 'Purple Restore', 'Purple bed'], context: ['mattress', 'pillow', 'bed', 'sleep', 'gel grid', 'grid', 'purple']}
+  - {key: tempursealy, name: Tempur-Pedic / Sealy / Mattress Firm, company: Somnigroup International, ticker: SGI, sector: home, wiki: Somnigroup_International,
+     terms: ['Tempur-Pedic', 'Tempurpedic', 'Tempur Pedic', 'Sealy mattress', 'Stearns & Foster', 'Mattress Firm', 'Sleep Outfitters']}
+  - {key: sleepnumber, name: Sleep Number, company: Sleep Number, ticker: SNBR, sector: home, wiki: Sleep_Number,
+     terms: ['Sleep Number', 'Sleep Number bed', 'ClimateCool']}
+  - {key: lovesac, name: Lovesac, company: Lovesac, ticker: LOVE, sector: home, wiki: LoveSac,
+     terms: ['Lovesac', 'Sactional', 'Sactionals', 'Lovesac Sac']}
+  - {key: rh, name: RH (Restoration Hardware), company: RH, ticker: RH, sector: home, wiki: RH_(company),
+     terms: ['Restoration Hardware', 'RH Cloud couch', 'RH Cloud sofa', 'RH Outdoor', 'RH gallery', 'RH Members', 'Cloud couch', 'Cloud sofa']}
+  - {key: williamssonoma, name: Williams-Sonoma / Pottery Barn / West Elm, company: Williams-Sonoma, ticker: WSM, sector: home, wiki: Williams_Sonoma,
+     terms: ['Williams-Sonoma', 'Williams Sonoma', 'Pottery Barn', 'West Elm', 'Rejuvenation lighting', 'Mark and Graham', 'PBteen', 'Pottery Barn Kids', 'Greenrow']}
+  - {key: arhaus, name: Arhaus, company: Arhaus, ticker: ARHS, sector: home, wiki: Arhaus,
+     terms: ['Arhaus']}
+  - {key: wayfair, name: Wayfair, company: Wayfair, ticker: W, sector: home, wiki: Wayfair,
+     terms: ['Wayfair', 'Wayfair order', 'Wayfair sale', 'Way Day', 'Joss & Main', 'AllModern', 'Birch Lane', 'Perigold'], apps: ['Wayfair - Shop All Things Home', 'Wayfair']}
+  - {key: etsy, name: Etsy / Depop, company: Etsy, ticker: ETSY, sector: retail, wiki: Etsy,
+     terms: ['Etsy', 'Depop', 'Reverb gear'], apps: ['Etsy: Custom & Creative Goods', 'Etsy', 'Depop - Buy & Sell Clothing', 'Depop']}
+  - {key: ebay, name: eBay, company: eBay, ticker: EBAY, sector: retail, wiki: EBay,
+     terms: ['eBay', 'ebay listing', 'ebay seller', 'ebay find', 'ebay haul'], apps: ['eBay: Buy & Sell Marketplace', 'eBay']}
+  - {key: amazon, name: Amazon / Prime / Alexa / Ring, company: Amazon, ticker: AMZN, sector: retail, wiki: Amazon_(company),
+     terms: ['Amazon', 'Prime Day', 'Amazon Prime', 'Alexa', 'Echo Dot', 'Echo Show', 'Kindle', 'Kindle Scribe', 'Kindle Paperwhite', 'Fire TV', 'Fire Stick', 'Firestick', 'Ring doorbell', 'Ring camera', 'Blink camera', 'Whole Foods', 'Amazon Haul', 'Amazon Fresh', 'Amazon Pharmacy', 'Rufus', 'Zoox', 'Prime Video', 'Amazon Luna', 'eero', 'Amazon returns'],
+     exclude: ['amazon rainforest', 'amazon river', 'amazon basin', 'amazon jungle', 'amazon warrior', 'amazons'],
+     apps: ['Amazon Shopping', 'Amazon', 'Amazon Prime Video', 'Prime Video', 'Amazon Alexa', 'Amazon Music', 'Amazon Photos', 'Kindle', 'Ring - Always Home', 'Ring', 'Whole Foods Market', 'Amazon Flex', 'Zoox', 'Audible']}
+  - {key: walmart, name: Walmart / Sam's Club, company: Walmart, ticker: WMT, sector: retail, wiki: Walmart,
+     terms: ['Walmart', "Sam's Club", 'Sams Club', 'Walmart+', 'Walmart Plus', 'Walmart haul', 'Walmart find', 'Walmart delivery', 'Walmart Birkin', 'Wirkin', 'Great Value', 'Bettergoods', 'Vizio TV', 'Flipkart', 'Member', 'Equate'],
+     context: ['walmart', "sam's", 'sams club', 'vizio', 'flipkart', 'great value', 'bettergoods', 'equate', 'wirkin', 'birkin'],
+     apps: ['Walmart: Shopping & Savings', 'Walmart', "Sam's Club", 'Walmart Business']}
+  - {key: target, name: Target, company: Target Corporation, ticker: TGT, sector: retail, wiki: Target_Corporation,
+     terms: ['Target run', 'Target haul', 'Target finds', 'Target clearance', 'Target Circle', 'dollar spot', 'Target Drive Up', 'Target boycott', 'shopping at Target', 'went to Target', 'Cat & Jack', 'Good & Gather', 'Hearth & Hand', 'Wild Fable', 'Universal Thread'],
+     apps: ['Target', 'Shipt: Same Day Delivery', 'Shipt']}
+  - {key: costco, name: Costco / Kirkland, company: Costco Wholesale, ticker: COST, sector: retail, wiki: Costco,
+     terms: ['Costco', 'Kirkland Signature', 'Kirkland', 'Costco hot dog', 'Costco food court', 'Costco membership', 'Costco gold bar', 'Costco Guys'],
+     apps: ['Costco Wholesale', 'Costco']}
+  - {key: bjs, name: "BJ's Wholesale", company: BJ's Wholesale Club, ticker: BJ, sector: retail, wiki: BJ's_Wholesale_Club,
+     terms: ["BJ's Wholesale", "BJ's Club", 'BJs Wholesale', 'BJs club', "BJ's membership", 'Wellsley Farms', 'Berkley Jensen']}
+  - {key: kroger, name: Kroger / Ralphs / Fred Meyer, company: Kroger, ticker: KR, sector: retail, wiki: Kroger,
+     terms: ['Kroger', 'Ralphs', 'Fred Meyer', 'King Soopers', 'Harris Teeter', "Fry's Food", 'Simple Truth', 'Private Selection', 'Kroger Boost']}
+  - {key: albertsons, name: Albertsons / Safeway / Vons, company: Albertsons Companies, ticker: ACI, sector: retail, wiki: Albertsons,
+     terms: ['Albertsons', 'Safeway', 'Vons', 'Jewel-Osco', 'Jewel Osco', 'Acme Markets', 'Tom Thumb', 'Signature Select', 'O Organics']}
+  - {key: sprouts, name: Sprouts Farmers Market, company: Sprouts Farmers Market, ticker: SFM, sector: retail, wiki: Sprouts_Farmers_Market,
+     terms: ['Sprouts Farmers Market', 'Sprouts haul', 'shopping at Sprouts', 'Sprouts grocery', 'Sprouts store', 'Sprouts brand', 'Sprouts bulk bins']}
+  - {key: traderjoes, name: "Trader Joe's", company: Aldi Nord (private), ticker: '', private: true, sector: retail, wiki: Trader_Joe's,
+     terms: ["Trader Joe's", 'Trader Joes', 'TJs haul', 'Trader Joe mini tote', 'Trader Joe tote']}
+  - {key: aldi, name: Aldi, company: Aldi (private), ticker: '', private: true, sector: retail, wiki: Aldi,
+     terms: ['Aldi', 'Aldi haul', 'Aldi finds', 'Aldi dupe', 'Aldi Special Buys', 'Aldi middle aisle']}
+  - {key: dollargeneral, name: Dollar General, company: Dollar General, ticker: DG, sector: retail, wiki: Dollar_General,
+     terms: ['Dollar General', 'Dollar General haul', 'Dollar General clearance', 'penny shopping', 'DG Market', 'Popshelf', 'pOpshelf']}
+  - {key: dollartree, name: Dollar Tree / Family Dollar, company: Dollar Tree, ticker: DLTR, sector: retail, wiki: Dollar_Tree,
+     terms: ['Dollar Tree', 'Dollar Tree haul', 'Dollar Tree DIY', 'Dollar Tree finds', 'Dollar Tree dupe', 'Family Dollar']}
+  - {key: fivebelow, name: Five Below, company: Five Below, ticker: FIVE, sector: retail, wiki: Five_Below,
+     terms: ['Five Below', '5 Below', 'Five Below haul', 'Five Beyond']}
+  - {key: ollies, name: "Ollie's Bargain Outlet", company: Ollie's Bargain Outlet, ticker: OLLI, sector: retail, wiki: Ollie's_Bargain_Outlet,
+     terms: ["Ollie's Bargain", 'Ollies Bargain', "Ollie's haul", "Ollie's outlet", 'Ollies outlet']}
+  - {key: bestbuy, name: Best Buy, company: Best Buy, ticker: BBY, sector: retail, wiki: Best_Buy,
+     terms: ['Best Buy', 'BestBuy', 'Geek Squad', 'Best Buy open box', 'Best Buy Plus', 'Best Buy Total'], apps: ['Best Buy']}
+  - {key: homedepot, name: Home Depot, company: Home Depot, ticker: HD, sector: retail, wiki: Home_Depot,
+     terms: ['Home Depot', 'HomeDepot', 'Husky tools', 'Ryobi', 'Ridgid tool', 'Behr paint', 'Glacier Bay', 'Hampton Bay', '12 foot skeleton', '12ft skeleton', 'Skelly skeleton'], apps: ['The Home Depot', 'Home Depot']}
+  - {key: lowes, name: "Lowe's", company: Lowe's, ticker: LOW, sector: retail, wiki: Lowe's,
+     terms: ["Lowe's", 'Lowes', 'Kobalt tools', 'Craftsman tools', 'allen + roth', 'Lowes haul'], exclude: ['rob lowe', 'chris lowe', 'zane lowe', 'daisy lowe', 'keith lowe'], apps: ["Lowe's Home Improvement", "Lowe's"]}
+  - {key: tractorsupply, name: Tractor Supply, company: Tractor Supply Company, ticker: TSCO, sector: retail, wiki: Tractor_Supply_Company,
+     terms: ['Tractor Supply', 'TSC store', 'Tractor Supply chicks', '4health dog food', 'Petsense']}
+  - {key: floordecor, name: Floor & Decor, company: Floor & Decor, ticker: FND, sector: retail, wiki: Floor_&_Decor,
+     terms: ['Floor & Decor', 'Floor and Decor', 'Floor & Décor']}
+  - {key: ikea, name: IKEA, company: Ingka (private), ticker: '', private: true, sector: home, wiki: IKEA,
+     terms: ['IKEA', 'Ikea hack', 'Billy bookcase', 'Kallax', 'Malm', 'Poang', 'Poäng', 'Ikea meatballs', 'Blahaj', 'Blåhaj', 'Djungelskog'], apps: ['IKEA']}
+  - {key: pdd, name: Temu / Pinduoduo, company: PDD Holdings, ticker: PDD, sector: retail, wiki: Pinduoduo,
+     terms: ['Temu', 'Temu haul', 'Temu find', 'Pinduoduo', 'Temu order', 'from Temu', 'on Temu'], apps: ['Temu: Shop Like a Billionaire', 'Temu']}
+  - {key: alibaba, name: AliExpress / Taobao / Alibaba, company: Alibaba Group, ticker: BABA, sector: retail, wiki: Alibaba_Group,
+     terms: ['AliExpress', 'Ali Express', 'Taobao', 'Alibaba', 'Tmall', 'Qwen AI', 'Qwen model', 'Lazada', 'Trendyol'], apps: ['AliExpress', 'AliExpress Shopping App', 'Taobao']}
+  - {key: jd, name: JD.com, company: JD.com, ticker: JD, sector: retail, wiki: JD.com,
+     terms: ['JD.com', 'Jingdong', 'JD Takeaway', 'JD food delivery', 'Joybuy']}
+  - {key: meituan, name: Meituan, company: Meituan, ticker: 3690.HK, sector: apps, wiki: Meituan,
+     terms: ['Meituan', 'Keeta']}
+  - {key: coupang, name: Coupang, company: Coupang, ticker: CPNG, sector: retail, wiki: Coupang,
+     terms: ['Coupang', 'Rocket Delivery', 'Coupang Eats', 'Coupang Play', 'Farfetch']}
+  - {key: sea, name: Shopee / Garena / SeaMoney, company: Sea Limited, ticker: SE, sector: apps, wiki: Sea_Ltd,
+     terms: ['Shopee', 'Garena', 'Free Fire game', 'ShopeePay', 'SeaMoney', 'Sea Limited'], apps: ['Shopee', 'Free Fire', 'Garena Free Fire']}
+  - {key: mercadolibre, name: Mercado Libre, company: MercadoLibre, ticker: MELI, sector: retail, wiki: MercadoLibre,
+     terms: ['Mercado Libre', 'MercadoLibre', 'Mercado Pago', 'Mercado Envios', 'Meli+'], apps: ['Mercado Libre', 'Mercado Pago']}
+  - {key: chewy, name: Chewy, company: Chewy, ticker: CHWY, sector: pets, wiki: Chewy_(company),
+     terms: ['Chewy', 'Chewy order', 'Chewy autoship', 'Chewy box', 'Chewy Vet Care', 'Chewy Pharmacy'], exclude: ['chewy cookies', 'chewy texture', 'chewy candy', 'chewy bar', 'chewy granola', 'chewy caramel', 'chewy brownie', 'too chewy', 'chewy meat', 'chewy bread', 'chewy rice', 'chewy noodle', 'chewy chocolate', 'soft and chewy', 'chewy center', 'chewbacca', 'chewy cookie'], apps: ['Chewy - Where Pet Lovers Shop', 'Chewy']}
+  - {key: petco, name: Petco, company: Petco Health and Wellness, ticker: WOOF, sector: pets, wiki: Petco,
+     terms: ['Petco', 'Petco Vital Care', 'Petco grooming', 'Petco vet'], apps: ['Petco']}
+  - {key: petsmart, name: PetSmart, company: PetSmart (private), ticker: '', private: true, sector: pets, wiki: PetSmart,
+     terms: ['PetSmart', 'Pet Smart', 'Banfield', 'Chewy vs PetSmart']}
+  - {key: bark, name: BARK / BarkBox, company: BARK Inc., ticker: BARK, sector: pets, wiki: BarkBox,
+     terms: ['BarkBox', 'Bark Box', 'BARK Air', 'Super Chewer', 'Bark Bright']}
+  - {key: zoetis, name: Zoetis / Librela / Apoquel, company: Zoetis, ticker: ZTS, sector: pets, wiki: Zoetis,
+     terms: ['Librela', 'Apoquel', 'Cytopoint', 'Solensia', 'Simparica', 'ProHeart', 'Revolution Plus', 'Zoetis']}
+  - {key: elanco, name: Elanco / Credelio / Zenrelia, company: Elanco, ticker: ELAN, sector: pets, wiki: Elanco,
+     terms: ['Credelio', 'Zenrelia', 'Seresto', 'Advantage flea', 'Advantix', 'Galliprant', 'Elanco']}
+  - {key: idexx, name: IDEXX, company: IDEXX Laboratories, ticker: IDXX, sector: pets, wiki: Idexx_Laboratories,
+     terms: ['IDEXX', 'Idexx test', 'Idexx lab']}
+  - {key: trupanion, name: Trupanion, company: Trupanion, ticker: TRUP, sector: pets, wiki: Trupanion,
+     terms: ['Trupanion']}
+  - {key: rover, name: Rover (dog sitting), company: Rover (private, Blackstone), ticker: '', private: true, sector: pets, wiki: Rover_(American_company),
+     terms: ['Rover app', 'Rover sitter', 'Rover dog sitter', 'Rover walker', 'Rover booking', 'Rover.com', 'booked through Rover', 'Rover sitting'], apps: ['Rover—Dog Sitters & Walkers', 'Rover']}
+  - {key: wag, name: Wag!, company: Wag! Group, ticker: PET, sector: pets, wiki: "Wag (company)",
+     terms: ['Wag app', 'Wag walker', 'Wag! walker', 'Wag dog walking', 'Wag! dog walking', 'Wag! app', 'wag.co', 'Wag Group'], apps: ['Wag! - Dog Walkers & Sitters', 'Wag!']}
+  - {key: central_garden, name: Central Garden & Pet, company: Central Garden & Pet, ticker: CENT, sector: pets, wiki: '',
+     terms: ['Central Garden & Pet', 'Nylabone', 'Kaytee', 'Aqueon', 'Pennington grass seed', 'Zilla reptile', 'Coralife', 'Comfort Zone diffuser']}
+
+  # ------------------------------------------------------------ gaming, media, apps
+  - {key: roblox, name: Roblox, company: Roblox Corporation, ticker: RBLX, sector: gaming, wiki: Roblox,
+     terms: ['Roblox', 'Robux', 'Grow a Garden', 'Steal a Brainrot', 'Dress to Impress', 'Blox Fruits', 'Adopt Me'], apps: ['Roblox']}
+  - {key: taketwo, name: GTA 6 / Take-Two / NBA 2K, company: Take-Two Interactive, ticker: TTWO, sector: gaming, wiki: Take-Two_Interactive,
+     terms: ['GTA 6', 'GTA VI', 'Grand Theft Auto VI', 'Grand Theft Auto 6', 'NBA 2K26', 'NBA 2K27', 'Borderlands 4', 'Mafia: The Old Country', 'Civilization VII', 'Civ 7', 'Red Dead Redemption', 'Rockstar Games', 'Take-Two', 'Zynga', 'Match Factory'],
+     apps: ['NBA 2K Mobile Basketball Game', 'Match Factory!', 'Toon Blast', 'Toy Blast']}
+  - {key: ea, name: EA Sports FC / Battlefield / Sims, company: Electronic Arts, ticker: EA, sector: gaming, wiki: Electronic_Arts,
+     terms: ['EA Sports FC', 'EA FC 26', 'FC 26', 'FC 27', 'Battlefield 6', 'The Sims 4', 'Sims 5', 'Project Rene', 'Madden 26', 'Madden 27', 'Apex Legends', 'College Football 26', 'Skate 4', 'skate.', 'Split Fiction', 'Electronic Arts', 'EA layoffs'],
+     apps: ['EA SPORTS FC™ Mobile Soccer', 'Madden NFL 26 Mobile Football', 'The Sims™ Mobile']}
+  - {key: unity, name: Unity (game engine), company: Unity Software, ticker: U, sector: gaming, wiki: Unity_(game_engine),
+     terms: ['Unity engine', 'Unity 6', 'Unity runtime fee', 'Unity Software', 'Unity Technologies', 'made in Unity', 'Unity dev']}
+  - {key: applovin, name: AppLovin, company: AppLovin, ticker: APP, sector: apps, wiki: AppLovin,
+     terms: ['AppLovin', 'Axon ads', 'AppLovin ads']}
+  - {key: playtika, name: Playtika, company: Playtika, ticker: PLTK, sector: gaming, wiki: Playtika,
+     terms: ['Playtika', 'Slotomania', 'Bingo Blitz', 'Solitaire Grand Harvest', 'June', 'Best Fiends'], context: ['playtika', 'slotomania', 'bingo blitz', 'grand harvest', "june's journey", 'best fiends', 'game', 'app']}
+  - {key: capcom, name: Capcom / Monster Hunter / Resident Evil, company: Capcom, ticker: 9697.T, sector: gaming, wiki: Capcom,
+     terms: ['Monster Hunter Wilds', 'Monster Hunter', 'Resident Evil Requiem', 'Resident Evil 9', 'Resident Evil', 'Street Fighter 6', 'Pragmata', 'Onimusha', 'Capcom', 'Okami 2', 'Devil May Cry']}
+  - {key: squareenix, name: Square Enix / Final Fantasy, company: Square Enix, ticker: 9684.T, sector: gaming, wiki: Square_Enix,
+     terms: ['Final Fantasy', 'FF7 Rebirth', 'FFXIV', 'FF14', 'Dragon Quest', 'Kingdom Hearts', 'Square Enix', 'Octopath', 'NieR']}
+  - {key: konami, name: Konami / Metal Gear / Silent Hill, company: Konami, ticker: 9766.T, sector: gaming, wiki: Konami,
+     terms: ['Metal Gear Solid Delta', 'MGS Delta', 'Silent Hill f', 'Silent Hill 2 remake', 'eFootball', 'Konami', 'Yu-Gi-Oh']}
+  - {key: sega, name: Sega / Sonic / Persona, company: Sega Sammy, ticker: 6460.T, sector: gaming, wiki: Sega_Sammy_Holdings,
+     terms: ['Sonic Racing CrossWorlds', 'Sonic the Hedgehog', 'Sonic movie', 'Persona 6', 'Persona 5', 'Metaphor ReFantazio', 'Like a Dragon', 'Yakuza game', 'Football Manager 26', 'Total War', 'Sega', 'Shinobi Art of Vengeance', 'Virtua Fighter']}
+  - {key: ubisoft, name: Ubisoft / Assassin's Creed, company: Ubisoft, ticker: UBI.PA, sector: gaming, wiki: Ubisoft,
+     terms: ["Assassin's Creed", 'Assassins Creed', 'AC Shadows', 'Far Cry 7', 'Rainbow Six Siege', 'Siege X', 'Ubisoft', 'Prince of Persia', 'Star Wars Outlaws', 'Anno 117', 'Ghost Recon']}
+  - {key: cdprojekt, name: CD Projekt / Witcher / Cyberpunk, company: CD Projekt, ticker: CDR.WA, sector: gaming, wiki: CD_Projekt,
+     terms: ['Witcher 4', 'The Witcher 4', 'Cyberpunk 2077', 'Cyberpunk 2', 'CD Projekt', 'CDPR', 'GOG Galaxy', 'Witcher 3']}
+  - {key: krafton, name: Krafton / PUBG / Subnautica, company: Krafton, ticker: 259960.KS, sector: gaming, wiki: Krafton,
+     terms: ['PUBG', 'PUBG Mobile', 'Subnautica 2', 'inZOI', 'Krafton', 'Dinkum', 'Palworld mobile'], apps: ['PUBG MOBILE', 'PUBG Mobile']}
+  - {key: netease, name: NetEase / Marvel Rivals, company: NetEase, ticker: NTES, sector: gaming, wiki: NetEase,
+     terms: ['Marvel Rivals', 'NetEase', 'Where Winds Meet', 'Once Human', 'Naraka', 'Identity V', 'Eggy Party', 'Blood Message', 'Ananta game'], apps: ['Marvel Rivals', 'Once Human', 'Eggy Party']}
+  - {key: tencent, name: Tencent / WeChat / Honor of Kings, company: Tencent, ticker: 0700.HK, sector: gaming, wiki: Tencent,
+     terms: ['Tencent', 'WeChat', 'Honor of Kings', 'Delta Force game', 'Arena Breakout', 'Dune Awakening', 'Peak game', 'Supercell', 'Clash Royale', 'Clash of Clans', 'Brawl Stars', 'Squad Busters', 'Riot Games', 'Valorant', 'League of Legends', 'Arcane'],
+     apps: ['Brawl Stars', 'Clash Royale', 'Clash of Clans', 'Delta Force', 'Honor of Kings', 'Arena Breakout', 'WeChat', 'Dune: Awakening']}
+  - {key: embracer, name: Embracer / Tomb Raider / Kingdom Come, company: Embracer Group, ticker: EMBRAC-B.ST, sector: gaming, wiki: Embracer_Group,
+     terms: ['Kingdom Come Deliverance 2', 'KCD2', 'Tomb Raider', 'Embracer', 'Dead Island', 'Saints Row', 'Metro Exodus', 'Gearbox', 'Asmodee']}
+  - {key: paradox, name: Paradox Interactive, company: Paradox Interactive, ticker: PDX.ST, sector: gaming, wiki: Paradox_Interactive,
+     terms: ['Paradox Interactive', 'Crusader Kings', 'Hearts of Iron', 'Stellaris', 'Europa Universalis', 'Cities Skylines 2', 'Victoria 3', 'Bloodlines 2', 'Prison Architect 2']}
+  - {key: nexon, name: Nexon / MapleStory / The First Descendant, company: Nexon, ticker: 3659.T, sector: gaming, wiki: Nexon,
+     terms: ['Nexon', 'MapleStory', 'The First Descendant', 'The First Berserker', 'Arc Raiders', 'Dungeon Fighter', 'Blue Archive', 'Vindictus'], apps: ['MapleStory M', 'Blue Archive']}
+  - {key: netflix, name: Netflix, company: Netflix, ticker: NFLX, sector: media, wiki: Netflix,
+     terms: ['Netflix', 'Squid Game', 'Stranger Things', 'Wednesday season', 'Bridgerton', 'KPop Demon Hunters', 'Adolescence', 'Netflix House', 'Netflix price', 'Netflix ads', 'Netflix Tudum'], apps: ['Netflix', 'Netflix Games']}
+  - {key: spotify, name: Spotify, company: Spotify Technology, ticker: SPOT, sector: media, wiki: Spotify,
+     terms: ['Spotify', 'Spotify Wrapped', 'Spotify Premium', 'Spotify price', 'Spotify HiFi', 'Spotify lossless', 'Spotify AI DJ', 'Spotify Jam'], apps: ['Spotify - Music and Podcasts', 'Spotify']}
+  - {key: disney, name: Disney / Disney+ / Hulu / ESPN, company: Walt Disney Company, ticker: DIS, sector: media, wiki: The_Walt_Disney_Company,
+     terms: ['Disney+', 'Disney Plus', 'Hulu', 'ESPN', 'Disneyland', 'Disney World', 'Magic Kingdom', 'Epcot', 'Lightning Lane', 'Disney Cruise', 'Marvel movie', 'Pixar', 'Star Wars show', 'Andor', 'Mandalorian', 'Zootopia 2', 'Avatar Fire and Ash', 'Moana 2', 'Lilo & Stitch', 'Toy Story 5', 'Fantastic Four', 'Avengers Doomsday', 'Disney Treasure', 'ESPN app'],
+     apps: ['Disney+', 'Hulu: Stream TV shows & movies', 'Hulu', 'ESPN: Live Sports & Scores', 'ESPN', 'My Disney Experience', 'Disneyland®']}
+  - {key: wbd, name: Warner Bros / HBO Max / DC, company: Warner Bros. Discovery, ticker: WBD, sector: media, wiki: Warner_Bros._Discovery,
+     terms: ['HBO Max', 'Max streaming', 'HBO', 'The Last of Us', 'White Lotus', 'Euphoria', 'Superman movie', 'DC Studios', 'Peacemaker', 'Harry Potter series', 'House of the Dragon', 'Game of Thrones', 'Warner Bros', 'Hogwarts Legacy', 'Mortal Kombat', 'Minecraft Movie', 'Sinners movie', 'Weapons movie', 'One Battle After Another', 'Discovery+', 'Discovery Plus', 'CNN', 'TNT Sports', 'Bleacher Report'],
+     apps: ['HBO Max: Stream TV & Movies', 'Max: Stream HBO, TV, & Movies', 'HBO Max', 'Max', 'discovery+', 'Bleacher Report', 'CNN']}
+  - {key: paramount, name: Paramount+ / Skydance, company: Paramount Skydance, ticker: PSKY, sector: media, wiki: Paramount_Skydance,
+     terms: ['Paramount+', 'Paramount Plus', 'Paramount Skydance', 'Skydance', 'South Park', 'Yellowstone', 'Landman', '1923 show', 'Dexter Resurrection', 'Pluto TV', 'Nickelodeon', 'SpongeBob', 'Star Trek', 'Mission Impossible', 'Sonic 3', 'Smurfs movie', 'Top Gun 3', 'Gladiator 2', 'CBS', 'BET+', 'MTV', 'Comedy Central', 'Showtime', 'Bari Weiss', 'CBS News'],
+     apps: ['Paramount+', 'Pluto TV - Live TV and Movies', 'Pluto TV', 'CBS', 'CBS Sports', 'CBS News']}
+  - {key: comcast, name: Peacock / NBC / Universal, company: Comcast, ticker: CMCSA, sector: media, wiki: Comcast,
+     terms: ['Peacock', 'NBC', 'Universal Studios', 'Epic Universe', 'Universal Orlando', 'Super Nintendo World', 'Xfinity', 'Jurassic World Rebirth', 'Wicked', 'Wicked For Good', 'How to Train Your Dragon', 'Minions 3', 'Shrek 5', 'Five Nights at Freddy', 'M3GAN', 'Nosferatu', 'Love Island USA', 'The Traitors', 'Bravo', 'Real Housewives', 'Sky Glass', 'Sky TV', 'Versant', 'MSNBC', 'CNBC', 'Comcast'],
+     exclude: ['peacock feather', 'peacock bird', 'peacock spider', 'peacocking', 'peacock blue', 'peacock print'],
+     apps: ['Peacock TV: Stream TV & Movies', 'Peacock TV', 'Peacock', 'Xfinity', 'NBC', 'NBC Sports', 'Bravo', 'Universal Orlando Resort', 'Sky Go']}
+  - {key: fox, name: Fox / Tubi, company: Fox Corporation, ticker: FOXA, sector: media, wiki: Fox_Corporation,
+     terms: ['Tubi', 'Fox News', 'Fox Nation', 'Fox One', 'Fox Sports app', 'The Masked Singer', 'Fox Corporation'], apps: ['Tubi: Movies & Live TV', 'Tubi', 'FOX News', 'Fox Nation', 'FOX Sports', 'FOX One']}
+  - {key: lionsgate, name: Lionsgate / Starz / John Wick, company: Lionsgate Studios, ticker: LION, sector: media, wiki: Lionsgate_Studios,
+     terms: ['Lionsgate', 'Starz', 'John Wick', 'Ballerina movie', 'Hunger Games', 'Sunrise on the Reaping', 'Saw XI', 'Michael movie', 'Michael Jackson biopic', 'Now You See Me 3', 'Power Book', 'Outlander', 'Twilight series', 'The Strangers Chapter', 'Dirty Dancing', 'Megalopolis', 'Borderlands movie', 'Expendables', 'Highlander'],
+     apps: ['STARZ', 'Starz']}
+  - {key: amc, name: AMC Theatres, company: AMC Entertainment, ticker: AMC, sector: media, wiki: AMC_Theatres,
+     terms: ['AMC Theatres', 'AMC theater', 'AMC A-List', 'AMC Stubs', 'AMC popcorn bucket', 'AMC Entertainment', 'AMC stock'],
+     exclude: ['amc network', 'amc networks', 'amc+', 'amc plus', 'walking dead', 'amc javelin', 'amc gremlin', 'american motors'],
+     apps: ['AMC Theatres: Movies & More', 'AMC Theatres']}
+  - {key: cinemark, name: Cinemark, company: Cinemark Holdings, ticker: CNK, sector: media, wiki: Cinemark_Theatres,
+     terms: ['Cinemark', 'Cinemark Movie Club', 'Cinemark XD', 'Cinemark popcorn bucket'], apps: ['Cinemark Theatres']}
+  - {key: imax, name: IMAX, company: IMAX Corporation, ticker: IMAX, sector: media, wiki: IMAX,
+     terms: ['IMAX', 'IMAX 70mm', 'IMAX screening', 'IMAX ticket', 'IMAX theater', 'IMAX theatre', 'IMAX sold out', 'filmed for IMAX', 'shot on IMAX', 'IMAX Corporation']}
+  - {key: livenation, name: Live Nation / Ticketmaster, company: Live Nation Entertainment, ticker: LYV, sector: media, wiki: Live_Nation_Entertainment,
+     terms: ['Ticketmaster', 'Live Nation', 'Ticketmaster fees', 'Ticketmaster presale', 'Ticketmaster queue', 'dynamic pricing', 'Verified Fan', 'Live Nation lawsuit'],
+     apps: ['Ticketmaster－Buy, Sell Tickets', 'Ticketmaster', 'Live Nation']}
+
+  # ------------------------------------------------------------ apps & fintech
+  - {key: robinhood, name: Robinhood, company: Robinhood Markets, ticker: HOOD, sector: fintech, wiki: Robinhood_Markets,
+     terms: ['Robinhood', 'Robinhood Gold', 'Robinhood Legend', 'Robinhood Cortex', 'Robinhood Strategies'], exclude: ['robin hood movie', 'sherwood', 'nottingham'], apps: ['Robinhood: Investing for All', 'Robinhood']}
+  - {key: coinbase, name: Coinbase, company: Coinbase, ticker: COIN, sector: fintech, wiki: Coinbase,
+     terms: ['Coinbase', 'Coinbase One', 'Base chain', 'Coinbase wallet'], apps: ['Coinbase: Buy Bitcoin & Ether', 'Coinbase', 'Coinbase Wallet', 'Base App']}
+  - {key: sofi, name: SoFi, company: SoFi Technologies, ticker: SOFI, sector: fintech, wiki: SoFi,
+     terms: ['SoFi', 'SoFi Invest', 'SoFi checking', 'SoFi Plus'], exclude: ['sofi stadium', 'sofi tukker'], apps: ['SoFi: Banking, Invest, & Loans', 'SoFi']}
+  - {key: affirm, name: Affirm, company: Affirm Holdings, ticker: AFRM, sector: fintech, wiki: Affirm_Holdings,
+     terms: ['Affirm', 'Affirm card', 'pay with Affirm', 'Affirm loan'], exclude: ['affirm that', 'affirm the', 'affirmation', 'affirmed', 'affirming', 'i affirm', 'affirms'], apps: ['Affirm: Buy now, pay over time', 'Affirm']}
+  - {key: klarna, name: Klarna, company: Klarna Group, ticker: KLAR, sector: fintech, wiki: Klarna,
+     terms: ['Klarna', 'Klarna card', 'pay with Klarna'], apps: ['Klarna | Shop now. Pay later.', 'Klarna']}
+  - {key: block, name: Cash App / Square / Afterpay, company: Block Inc., ticker: XYZ, sector: fintech, wiki: "Block,_Inc.",
+     terms: ['Cash App', 'CashApp', 'Square reader', 'Square POS', 'Afterpay', 'Square Terminal', 'Bitkey', 'Cash App Card'], apps: ['Cash App', 'Square Point of Sale', 'Afterpay - Buy Now, Pay Later', 'Afterpay']}
+  - {key: paypal, name: PayPal / Venmo, company: PayPal Holdings, ticker: PYPL, sector: fintech, wiki: PayPal,
+     terms: ['PayPal', 'Venmo', 'PayPal Honey', 'PayPal Pay in 4', 'Venmo card', 'Zettle'], apps: ['PayPal - Send, Shop, Manage', 'PayPal', 'Venmo']}
+  - {key: chime, name: Chime, company: Chime Financial, ticker: CHYM, sector: fintech, wiki: Chime_(company),
+     terms: ['Chime bank', 'Chime card', 'Chime SpotMe', 'Chime account', 'Chime app', 'Chime direct deposit', 'Chime MyPay', 'Chime Credit Builder'], apps: ['Chime – Mobile Banking', 'Chime']}
+  - {key: nubank, name: Nubank, company: Nu Holdings, ticker: NU, sector: fintech, wiki: Nubank,
+     terms: ['Nubank', 'Nu Holdings', 'Nu bank', 'NuCripto', 'Nu Mexico', 'Nu Colombia', 'roxinho'], apps: ['Nubank', 'Nu']}
+  - {key: revolut, name: Revolut, company: Revolut (private), ticker: '', private: true, sector: fintech, wiki: Revolut,
+     terms: ['Revolut', 'Revolut card', 'Revolut Ultra', 'Revolut Metal'], apps: ['Revolut: Send, spend and save', 'Revolut']}
+  - {key: wise, name: Wise (TransferWise), company: Wise plc, ticker: WISE.L, sector: fintech, wiki: Wise_(company),
+     terms: ['Wise transfer', 'TransferWise', 'Wise card', 'Wise account', 'Wise app', 'Wise plc', 'Wise multi-currency'], apps: ['Wise: International Transfers', 'Wise']}
+  - {key: draftkings, name: DraftKings, company: DraftKings, ticker: DKNG, sector: fintech, wiki: DraftKings,
+     terms: ['DraftKings', 'Draft Kings', 'DK Sportsbook', 'DraftKings Pick6', 'Jackpocket'], apps: ['DraftKings Sportsbook & Casino', 'DraftKings Sportsbook', 'DraftKings Fantasy Sports', 'DraftKings Pick6', 'Jackpocket Lottery App']}
+  - {key: flutter, name: FanDuel / Flutter, company: Flutter Entertainment, ticker: FLUT, sector: fintech, wiki: Flutter_Entertainment,
+     terms: ['FanDuel', 'Fan Duel', 'Flutter Entertainment', 'Paddy Power', 'Betfair', 'Sportsbet', 'Sisal', 'Snai', 'PokerStars'], apps: ['FanDuel Sportsbook & Casino', 'FanDuel Sportsbook', 'FanDuel Fantasy Sports', 'FanDuel Casino', 'Sportsbet - Online Betting App', 'Sportsbet']}
+  - {key: mgm, name: BetMGM / MGM Resorts, company: MGM Resorts International, ticker: MGM, sector: leisure, wiki: MGM_Resorts_International,
+     terms: ['BetMGM', 'MGM Grand', 'Bellagio', 'Aria Las Vegas', 'Cosmopolitan Las Vegas', 'MGM Rewards', 'Borgata', 'MGM Resorts'], apps: ['BetMGM - Online Sports Betting', 'BetMGM Sportsbook', 'BetMGM Casino', 'MGM Rewards']}
+  - {key: caesars, name: Caesars, company: Caesars Entertainment, ticker: CZR, sector: leisure, wiki: Caesars_Entertainment,
+     terms: ['Caesars Palace', 'Caesars Sportsbook', 'Caesars Rewards', 'Caesars Entertainment', 'Horseshoe casino', 'Harrah'], exclude: ['julius caesar', 'caesar salad', 'caesar dressing', 'caesar cipher', 'caesars legion'], apps: ['Caesars Sportsbook & Casino', 'Caesars Sportsbook', 'Caesars Rewards', 'Caesars Palace Online Casino']}
+  - {key: rush_street, name: BetRivers / Rush Street, company: Rush Street Interactive, ticker: RSI, sector: fintech, wiki: '',
+     terms: ['BetRivers', 'Rush Street Interactive', 'RushBet'], apps: ['BetRivers Sportsbook & Casino', 'BetRivers']}
+  - {key: underdog, name: Underdog / PrizePicks (DFS), company: Underdog / PrizePicks (private), ticker: '', private: true, sector: fintech, wiki: PrizePicks,
+     terms: ['PrizePicks', 'Prize Picks', 'Underdog Fantasy', 'Underdog pick', 'Sleeper picks'], apps: ['PrizePicks - Fantasy Sports', 'PrizePicks', 'Underdog Fantasy', 'Underdog Fantasy Sports', 'Sleeper Fantasy Sports', 'Sleeper']}
+  - {key: kalshi, name: Kalshi / Polymarket (prediction markets), company: Kalshi (private), ticker: '', private: true, sector: fintech, wiki: Kalshi,
+     terms: ['Kalshi', 'Polymarket', 'prediction market', 'prediction markets'], apps: ['Kalshi: Prediction Market', 'Kalshi', 'Polymarket']}
+  - {key: duolingo, name: Duolingo, company: Duolingo, ticker: DUOL, sector: apps, wiki: Duolingo,
+     terms: ['Duolingo', 'Duo owl', 'Duolingo streak', 'Duolingo Max', 'Duolingo Super', 'Duolingo Energy', 'Duolingo chess', 'Duolingo music'], apps: ['Duolingo - Language Lessons', 'Duolingo', 'Duolingo Math', 'Duolingo ABC']}
+  - {key: snap, name: Snapchat, company: Snap Inc., ticker: SNAP, sector: apps, wiki: Snap_Inc.,
+     terms: ['Snapchat', 'Snap Map', 'Snapchat+', 'Snapchat Plus', 'Snap Spectacles', 'Snap Specs', 'Snapchat streak', 'Snapchat AI', 'My AI snapchat'], apps: ['Snapchat']}
+  - {key: pinterest, name: Pinterest, company: Pinterest, ticker: PINS, sector: apps, wiki: Pinterest,
+     terms: ['Pinterest', 'Pinterest board', 'Pinterest aesthetic', 'Pinterest Lens', 'Pinterest shopping', 'Pinterest collages'], apps: ['Pinterest']}
+  - {key: reddit, name: Reddit, company: Reddit Inc., ticker: RDDT, sector: apps, wiki: Reddit,
+     terms: ['Reddit Answers', 'Reddit Premium', 'Reddit IPO', 'Reddit stock', 'Reddit ads', 'Reddit outage', 'Reddit down', 'Reddit app update', 'Reddit redesign', 'Reddit API', 'Reddit ban', 'Reddit verification', 'Reddit age verification', 'Reddit UK'], apps: ['Reddit']}
+  - {key: match, name: Hinge / Tinder / Match, company: Match Group, ticker: MTCH, sector: apps, wiki: Match_Group,
+     terms: ['Hinge', 'Tinder', 'Match Group', 'OkCupid', 'Plenty of Fish', 'Hinge date', 'Tinder date', 'Hinge prompts', 'Tinder Gold', 'Hinge+', 'HingeX', 'Tinder Double Date', 'Tinder Chemistry', 'Tinder Modes', 'Hinge Premium'], exclude: ['door hinge', 'hinges on', 'hinge health', 'tinderbox', 'dry tinder'], apps: ['Hinge Dating App: Match & Date', 'Hinge', 'Tinder Dating App: Chat & Date', 'Tinder', 'Plenty of Fish Dating App', 'OkCupid']}
+  - {key: bumble, name: Bumble, company: Bumble Inc., ticker: BMBL, sector: apps, wiki: Bumble,
+     terms: ['Bumble', 'Bumble BFF', 'Bumble date', 'Bumble app', 'Bumble Premium', 'Badoo'], exclude: ['bumblebee', 'bumble bee', 'bumble and bumble'], apps: ['Bumble Dating App: Meet & Date', 'Bumble', 'Bumble For Friends', 'Badoo']}
+  - {key: grindr, name: Grindr, company: Grindr Inc., ticker: GRND, sector: apps, wiki: Grindr,
+     terms: ['Grindr', 'Grindr Xtra', 'Grindr Unlimited', 'Grindr Right Now'], apps: ['Grindr - Gay Dating & Chat', 'Grindr']}
+  - {key: uber, name: Uber / Uber Eats, company: Uber Technologies, ticker: UBER, sector: apps, wiki: Uber,
+     terms: ['Uber', 'Uber Eats', 'UberEats', 'Uber One', 'Uber driver', 'Uber ride', 'Uber surge', 'Uber price', 'Uber Teens', 'Uber Reserve', 'Uber Comfort', 'Uber XL', 'Uber Black', 'Uber Shuttle', 'Uber robotaxi'], exclude: ['uber alles', 'uber cool', 'uber rich'], apps: ['Uber - Request a ride', 'Uber', 'Uber Eats: Food Delivery', 'Uber Eats', 'Uber Driver', 'Uber One']}
+  - {key: lyft, name: Lyft, company: Lyft, ticker: LYFT, sector: apps, wiki: Lyft,
+     terms: ['Lyft', 'Lyft driver', 'Lyft ride', 'Lyft price', 'Lyft Pink', 'Lyft Silver', 'Lyft Price Lock', 'Lyft Women+', 'Lyft FreeNow', 'Lyft robotaxi'], apps: ['Lyft', 'Lyft Driver']}
+  - {key: doordash, name: DoorDash, company: DoorDash, ticker: DASH, sector: apps, wiki: DoorDash,
+     terms: ['DoorDash', 'Door Dash', 'DashPass', 'Dasher', 'DoorDash driver', 'DoorDash order', 'DoorDash fees', 'DoorDash tip', 'DoorDash tipping', 'DoorDash Deliveroo', 'Deliveroo', 'Wolt'], apps: ['DoorDash - Food Delivery', 'DoorDash', 'DoorDash - Dasher', 'Dasher', 'Deliveroo: Food Delivery App', 'Deliveroo', 'Wolt Delivery: Food and more', 'Wolt']}
+  - {key: instacart, name: Instacart, company: Maplebear Inc., ticker: CART, sector: apps, wiki: Instacart,
+     terms: ['Instacart', 'Instacart+', 'Instacart shopper', 'Instacart order', 'Instacart fees', 'Instacart tip', 'Instacart Fizz', 'Fizz app'], apps: ['Instacart: Grocery delivery', 'Instacart', 'Instacart Shopper', 'Shopper: Deliver with Instacart', 'Fizz: Party Delivery']}
+  - {key: grab, name: Grab, company: Grab Holdings, ticker: GRAB, sector: apps, wiki: Grab_Holdings,
+     terms: ['GrabFood', 'Grab ride', 'Grab driver', 'GrabPay', 'Grab Unlimited', 'GrabCar', 'Grab Holdings', 'GrabMart', 'GrabExpress', 'Grab app'], apps: ['Grab: Taxi Ride, Food Delivery', 'Grab', 'Grab Driver', 'Grab Merchant']}
+  - {key: airbnb, name: Airbnb, company: Airbnb, ticker: ABNB, sector: travel, wiki: Airbnb,
+     terms: ['Airbnb', 'Air bnb', 'Airbnb host', 'Airbnb guest', 'Airbnb fees', 'Airbnb cleaning fee', 'Airbnb Experiences', 'Airbnb Services', 'Airbnb Icons', 'Airbnb Luxe', 'Airbnb ban', 'Airbnb vs hotel', 'Airbnb review', 'Airbnb scam', 'Airbnb camera'], apps: ['Airbnb']}
+  - {key: booking, name: Booking.com / Priceline / Kayak, company: Booking Holdings, ticker: BKNG, sector: travel, wiki: Booking_Holdings,
+     terms: ['Booking.com', 'Priceline', 'Kayak flights', 'Kayak app', 'Agoda', 'OpenTable', 'Rentalcars', 'Booking Holdings', 'Genius discount', 'booking dot com'], exclude: ['kayaking', 'kayak paddle', 'inflatable kayak', 'kayak fishing'], apps: ['Booking.com: Hotels & Travel', 'Booking.com', 'Priceline - Hotel, Car, Flight', 'Priceline', 'KAYAK: Flights, Hotels & Cars', 'KAYAK', 'Agoda: Book Hotels & Flights', 'Agoda', 'OpenTable']}
+  - {key: expedia, name: Expedia / Hotels.com / Vrbo, company: Expedia Group, ticker: EXPE, sector: travel, wiki: Expedia_Group,
+     terms: ['Expedia', 'Hotels.com', 'Vrbo', 'VRBO', 'Trivago', 'Orbitz', 'Travelocity', 'Expedia One Key', 'One Key rewards', 'Hotwire', 'CheapTickets', 'ebookers', 'Wotif', 'Expedia Group'], apps: ['Expedia: Hotels, Flights & Car', 'Expedia', 'Hotels.com: Travel Booking', 'Hotels.com', 'Vrbo Vacation Rentals', 'Vrbo', 'Trivago', 'Orbitz']}
+  - {key: tripadvisor, name: Tripadvisor / Viator / TheFork, company: Tripadvisor, ticker: TRIP, sector: travel, wiki: Tripadvisor,
+     terms: ['Tripadvisor', 'Trip Advisor', 'Viator', 'TheFork', 'The Fork app', 'Tripadvisor review', 'Tripadvisor Plus', 'Tripadvisor AI', 'Viator tour', 'Viator booking'], apps: ['Tripadvisor: Plan & Book Trips', 'Tripadvisor', 'Viator: Tours & Attractions', 'Viator', 'TheFork - Restaurant Bookings', 'TheFork']}
+  - {key: trip_com, name: Trip.com / Ctrip / Skyscanner, company: Trip.com Group, ticker: TCOM, sector: travel, wiki: Trip.com_Group,
+     terms: ['Trip.com', 'Ctrip', 'Skyscanner', 'Qunar', 'MakeMyTrip', 'Trip.com Group', 'Trip dot com'], apps: ['Trip.com: Book Flights, Hotels', 'Trip.com', 'Skyscanner – Travel Deals', 'Skyscanner', 'MakeMyTrip']}
+
+  # ------------------------------------------------------------ autos & EV
+  - {key: tesla, name: Tesla, company: Tesla, ticker: TSLA, sector: autos, wiki: "Tesla,_Inc.",
+     terms: ['Tesla', 'Cybertruck', 'Model Y', 'Model 3', 'Model S', 'Model X', 'Tesla FSD', 'Full Self-Driving', 'Tesla robotaxi', 'Cybercab', 'Optimus robot', 'Tesla Semi', 'Supercharger', 'Powerwall', 'Tesla Diner'],
+     exclude: ['nikola tesla', 'tesla coil', 'tesla unit'], apps: ['Tesla']}
+  - {key: rivian, name: Rivian, company: Rivian Automotive, ticker: RIVN, sector: autos, wiki: Rivian,
+     terms: ['Rivian', 'R1S', 'R1T', 'Rivian R2', 'Rivian R3', 'Rivian Gen 2'], apps: ['Rivian']}
+  - {key: lucid, name: Lucid, company: Lucid Group, ticker: LCID, sector: autos, wiki: Lucid_Motors,
+     terms: ['Lucid Air', 'Lucid Gravity', 'Lucid Motors', 'Lucid Group', 'Lucid EV', 'Lucid Sapphire'], exclude: ['lucid dream', 'lucid dreaming', 'lucidchart', 'lucidlink']}
+  - {key: ford, name: Ford / Bronco / F-150, company: Ford Motor Company, ticker: F, sector: autos, wiki: Ford_Motor_Company,
+     terms: ['Ford Bronco', 'F-150', 'F150', 'Mustang Mach-E', 'Ford Maverick', 'Ford Ranger', 'Ford Explorer', 'Ford Mustang', 'Ford Lightning', 'Ford recall', 'Ford Motor', 'Ford BlueCruise', 'Ford Expedition', 'Ford Escape', 'Ford Transit', 'Ford Puma'], apps: ['FordPass']}
+  - {key: gm, name: GM / Chevy / Cadillac / GMC, company: General Motors, ticker: GM, sector: autos, wiki: General_Motors,
+     terms: ['Chevy Silverado', 'Chevrolet', 'Chevy Equinox', 'Equinox EV', 'Chevy Blazer', 'Chevy Tahoe', 'Chevy Trax', 'Chevy Bolt', 'Corvette', 'Cadillac Escalade', 'Cadillac Lyriq', 'Cadillac Optiq', 'Cadillac Celestiq', 'GMC Sierra', 'GMC Yukon', 'GMC Hummer', 'Hummer EV', 'Buick Enclave', 'Buick Envista', 'Super Cruise', 'General Motors', 'GM recall', 'OnStar'], apps: ['myChevrolet', 'myGMC', 'myCadillac', 'myBuick']}
+  - {key: stellantis, name: Jeep / Ram / Dodge / Chrysler, company: Stellantis, ticker: STLA, sector: autos, wiki: Stellantis,
+     terms: ['Jeep Wrangler', 'Jeep Grand Cherokee', 'Jeep Gladiator', 'Jeep Compass', 'Jeep Recon', 'Jeep Wagoneer', 'Ram 1500', 'Ram TRX', 'Ram Hemi', 'Dodge Charger', 'Dodge Durango', 'Dodge Hornet', 'Chrysler Pacifica', 'Alfa Romeo', 'Maserati', 'Fiat 500', 'Peugeot', 'Citroen', 'Citroën', 'Opel', 'Vauxhall', 'Stellantis', 'Mopar', 'Hellcat', 'Hemi V8'], apps: ['Jeep', 'Ram', 'Dodge', 'Chrysler']}
+  - {key: toyota, name: Toyota / Lexus, company: Toyota Motor, ticker: TM, sector: autos, wiki: Toyota,
+     terms: ['Toyota', 'Lexus', 'RAV4', 'Camry', 'Corolla', 'Tacoma', 'Tundra', '4Runner', 'Land Cruiser', 'Prius', 'Hilux', 'GR Corolla', 'Lexus RX', 'Lexus GX'], exclude: ['toyota center', 'toyota stadium', 'toyota arena']}
+  - {key: honda, name: Honda / Acura, company: Honda Motor, ticker: HMC, sector: autos, wiki: Honda,
+     terms: ['Honda Civic', 'Honda CR-V', 'CR-V', 'Honda Accord', 'Honda Pilot', 'Honda Passport', 'Honda Prologue', 'Honda Odyssey', 'Civic Type R', 'Acura', 'Honda Motor', 'Honda 0 Series', 'Honda motorcycle', 'Honda Grom', 'Honda Rebel']}
+  - {key: hyundai, name: Hyundai / Kia / Genesis, company: Hyundai Motor, ticker: 005380.KS, sector: autos, wiki: Hyundai_Motor_Company,
+     terms: ['Hyundai', 'Ioniq 5', 'Ioniq 6', 'Ioniq 9', 'Hyundai Palisade', 'Hyundai Santa Fe', 'Hyundai Tucson', 'Hyundai Elantra', 'Hyundai Kona', 'Kia EV6', 'Kia EV9', 'Kia EV3', 'Kia Telluride', 'Kia Sportage', 'Kia Sorento', 'Kia Carnival', 'Kia K4', 'Kia K5', 'Kia Tasman', 'Genesis GV70', 'Genesis GV80', 'Genesis G80', 'Kia Boyz', 'Kia boys', 'Hyundai theft', 'Kia theft'], exclude: ['genesis band', 'genesis bible', 'book of genesis', 'sega genesis', 'genesis chapter']}
+  - {key: vw, name: Volkswagen / Audi / Porsche (VW Group), company: Volkswagen Group, ticker: VOW3.DE, sector: autos, wiki: Volkswagen_Group,
+     terms: ['Volkswagen', 'VW ID.4', 'ID.Buzz', 'ID Buzz', 'VW Golf', 'Golf GTI', 'Golf R', 'VW Tiguan', 'VW Atlas', 'VW Jetta', 'Audi Q5', 'Audi Q7', 'Audi A4', 'Audi A6', 'Audi RS', 'Audi e-tron', 'Audi Q6', 'Skoda', 'Škoda', 'Cupra', 'SEAT Leon', 'Lamborghini', 'Bentley', 'Scout Motors', 'Scout Traveler', 'Scout Terra']}
+  - {key: porsche, name: Porsche, company: Porsche AG, ticker: P911.DE, sector: autos, wiki: Porsche,
+     terms: ['Porsche', '911 GT3', 'Porsche 911', 'Taycan', 'Macan EV', 'Porsche Macan', 'Cayenne', 'Porsche Cayman', 'Porsche Boxster', 'Porsche Panamera', '911 Carrera', '911 Turbo', 'GT3 RS', 'Porsche Design'], exclude: ['cayenne pepper', 'cayenne powder']}
+  - {key: bmw, name: BMW / MINI, company: BMW Group, ticker: BMW.DE, sector: autos, wiki: BMW,
+     terms: ['BMW', 'BMW M3', 'BMW M5', 'BMW M2', 'BMW X5', 'BMW X3', 'BMW iX', 'BMW i4', 'BMW i5', 'BMW 3 Series', 'Neue Klasse', 'BMW iX3', 'MINI Cooper', 'Mini Countryman', 'Mini Aceman', 'BMW Motorrad', 'BMW R 1300', 'Rolls-Royce Spectre', 'Rolls-Royce Cullinan']}
+  - {key: mercedes, name: Mercedes-Benz, company: Mercedes-Benz Group, ticker: MBG.DE, sector: autos, wiki: Mercedes-Benz_Group,
+     terms: ['Mercedes-Benz', 'Mercedes Benz', 'Mercedes', 'Mercedes G-Wagon', 'G-Class', 'G 580', 'Mercedes EQS', 'Mercedes EQE', 'Mercedes CLA', 'Mercedes GLC', 'Mercedes GLE', 'Mercedes S-Class', 'Mercedes E-Class', 'Mercedes C-Class', 'AMG GT', 'Mercedes AMG', 'Maybach', 'Mercedes EQS SUV', 'MBUX'], exclude: ['mercedes f1', 'petronas', 'toto wolff']}
+  - {key: ferrari, name: Ferrari, company: Ferrari N.V., ticker: RACE, sector: autos, wiki: Ferrari,
+     terms: ['Ferrari Purosangue', 'Purosangue', 'Ferrari 296', 'Ferrari SF90', 'Ferrari 12Cilindri', 'Ferrari F80', 'Ferrari Amalfi', 'Ferrari Elettrica', 'Ferrari Roma', 'Ferrari dealership', 'buying a Ferrari', 'Ferrari stock']}
+  - {key: byd, name: BYD, company: BYD Company, ticker: 1211.HK, sector: autos, wiki: BYD_Auto,
+     terms: ['BYD', 'BYD Seal', 'BYD Dolphin', 'BYD Atto 3', 'BYD Shark', 'BYD Sealion', 'Denza', 'Yangwang', 'BYD Blade battery']}
+  - {key: harley, name: Harley-Davidson, company: Harley-Davidson, ticker: HOG, sector: autos, wiki: Harley-Davidson,
+     terms: ['Harley-Davidson', 'Harley Davidson', 'Harley Sportster', 'Harley Street Glide', 'Harley Road Glide', 'LiveWire motorcycle', 'Harley Pan America']}
+  - {key: polaris, name: Polaris / RZR / Indian Motorcycle, company: Polaris Inc., ticker: PII, sector: autos, wiki: Polaris_Inc.,
+     terms: ['Polaris RZR', 'Polaris Ranger', 'Polaris Sportsman', 'Polaris Slingshot', 'Indian Motorcycle', 'Indian Scout', 'Indian Chieftain', 'Polaris Inc']}
+  - {key: carvana, name: Carvana, company: Carvana, ticker: CVNA, sector: autos, wiki: Carvana,
+     terms: ['Carvana', 'Carvana vending machine', 'bought from Carvana', 'Carvana delivery', 'Carvana financing'], apps: ['Carvana']}
+  - {key: carmax, name: CarMax, company: CarMax, ticker: KMX, sector: autos, wiki: CarMax,
+     terms: ['CarMax', 'Car Max', 'CarMax offer', 'CarMax appraisal', 'CarMax MaxCare'], apps: ['CarMax']}
+
+  # ------------------------------------------------------------ health & wellness (consumer-facing)
+  - {key: novo, name: Ozempic / Wegovy (Novo Nordisk), company: Novo Nordisk, ticker: NVO, sector: health, wiki: Novo_Nordisk,
+     terms: ['Ozempic', 'Wegovy', 'Rybelsus', 'semaglutide', 'Novo Nordisk', 'Wegovy pill', 'CagriSema', 'Ozempic shortage', 'Ozempic face', 'Ozempic price']}
+  - {key: lilly, name: Zepbound / Mounjaro (Eli Lilly), company: Eli Lilly, ticker: LLY, sector: health, wiki: Eli_Lilly_and_Company,
+     terms: ['Zepbound', 'Mounjaro', 'tirzepatide', 'orforglipron', 'retatrutide', 'Eli Lilly', 'LillyDirect', 'Zepbound vial', 'Kisunla', 'Trulicity']}
+  - {key: glp1_generic, name: GLP-1 weight-loss drugs (category), company: Novo / Lilly / compounders, ticker: '', private: true, sector: health, wiki: GLP-1_receptor_agonist,
+     terms: ['GLP-1', 'GLP1', 'compounded semaglutide', 'compounded tirzepatide', 'weight loss shot', 'weight loss injection', 'Ozempic alternative', 'microdosing GLP']}
+  - {key: abbott, name: FreeStyle Libre / Lingo (Abbott), company: Abbott Laboratories, ticker: ABT, sector: health, wiki: Abbott_Laboratories,
+     terms: ['FreeStyle Libre', 'Freestyle Libre 3', 'Libre 3', 'Lingo CGM', 'Abbott Lingo', 'Similac', 'Ensure shake', 'Glucerna', 'Pedialyte', 'BinaxNOW', 'Abbott Labs']}
+  - {key: dexcom, name: Dexcom / Stelo, company: DexCom, ticker: DXCM, sector: health, wiki: Dexcom,
+     terms: ['Dexcom', 'Dexcom G7', 'Dexcom G6', 'Stelo', 'Dexcom Stelo', 'Dexcom sensor'], apps: ['Dexcom G7', 'Stelo by Dexcom']}
+  - {key: align, name: Invisalign, company: Align Technology, ticker: ALGN, sector: health, wiki: Align_Technology,
+     terms: ['Invisalign', 'Invisalign trays', 'Invisalign treatment', 'iTero scan', 'Align Technology']}
+  - {key: hingehealth, name: Hinge Health, company: Hinge Health, ticker: HNGE, sector: health, wiki: '',
+     terms: ['Hinge Health', 'Enso device Hinge', 'Hinge Health app', 'Hinge Health physical therapy'], apps: ['Hinge Health']}
+  - {key: oscar, name: Oscar Health, company: Oscar Health, ticker: OSCR, sector: health, wiki: Oscar_Health,
+     terms: ['Oscar Health', 'Oscar insurance', 'Oscar health insurance', 'Oscar ACA plan', 'Oscar plan', 'Oscar Obamacare'], apps: ['Oscar Health']}
+  - {key: teladoc, name: Teladoc / BetterHelp, company: Teladoc Health, ticker: TDOC, sector: health, wiki: Teladoc_Health,
+     terms: ['Teladoc', 'BetterHelp', 'Better Help therapy', 'Livongo', 'Teladoc Health'], apps: ['Teladoc Health', 'Teladoc', 'BetterHelp: Therapy & Counseling', 'BetterHelp']}
+  - {key: talkspace, name: Talkspace, company: Talkspace, ticker: TALK, sector: health, wiki: Talkspace,
+     terms: ['Talkspace', 'Talkspace therapy', 'Talkspace therapist', 'Talkspace review'], apps: ['Talkspace Therapy & Counseling', 'Talkspace']}
+  - {key: ww, name: WeightWatchers, company: WW International, ticker: WW, sector: health, wiki: WW_International,
+     terms: ['WeightWatchers', 'Weight Watchers', 'WW app', 'WW points', 'WW Clinic', 'WW bankruptcy', 'WW GLP'], apps: ['WeightWatchers: Weight Health', 'WeightWatchers', 'WW']}
+  - {key: herbalife, name: Herbalife, company: Herbalife, ticker: HLF, sector: health, wiki: Herbalife,
+     terms: ['Herbalife', 'Herbalife shake', 'Herbalife tea', 'Herbalife MLM', 'Herbalife nutrition club', 'loaded tea']}
+  - {key: oura, name: Oura Ring, company: Oura (private), ticker: '', private: true, sector: health, wiki: Oura_Health,
+     terms: ['Oura ring', 'Oura Ring 4', 'Oura app', 'Oura score', 'Oura readiness', 'Oura sleep', 'my Oura'], apps: ['Oura']}
+  - {key: whoop, name: WHOOP, company: WHOOP (private), ticker: '', private: true, sector: health, wiki: Whoop_(company),
+     terms: ['WHOOP band', 'Whoop 5.0', 'Whoop MG', 'Whoop 4.0', 'Whoop strap', 'Whoop recovery', 'Whoop strain', 'my Whoop', 'Whoop membership', 'Whoop app'], apps: ['WHOOP: Health & Fitness Tracker', 'WHOOP']}
+  - {key: function_health, name: Function Health / Prenuvo / Superpower (longevity), company: Function Health (private), ticker: '', private: true, sector: health, wiki: Function_Health,
+     terms: ['Function Health', 'Prenuvo', 'Prenuvo scan', 'full body MRI', 'Superpower health', 'Function Health test', 'Function Health labs', 'Function Health membership'], apps: ['Function Health', 'Superpower: Health Dashboard', 'Superpower']}
+  - {key: athletic_greens, name: AG1 / Athletic Greens, company: AG1 (private), ticker: '', private: true, sector: health, wiki: AG1_(company),
+     terms: ['AG1', 'Athletic Greens', 'AG1 greens', 'AG1 subscription', 'AGZ sleep', 'AG1 review']}
+  - {key: bloom_nutrition, name: Bloom Nutrition / Bloom Greens, company: Bloom Nutrition (Nutrabolt minority), ticker: '', private: true, sector: health, wiki: '',
+     terms: ['Bloom Greens', 'Bloom Nutrition', 'Bloom Sparkling Energy', 'Bloom Pop', 'Bloom colostrum', 'Bloom creatine', 'Bloom Sparkling']}
+  - {key: drsquatch, name: Dr. Squatch / Native / Mando (Unilever-owned mens care), company: Unilever, ticker: ULVR.L, sector: beauty, wiki: Dr._Squatch,
+     terms: ['Dr Squatch', 'Dr. Squatch', 'Squatch soap', 'Squatch deodorant', 'Mando deodorant', 'Lume deodorant', 'Wild deodorant', 'Wild refill deodorant']}
+
+  # ------------------------------------------------------------ travel & leisure
+  - {key: marriott, name: Marriott / Bonvoy, company: Marriott International, ticker: MAR, sector: travel, wiki: Marriott_International,
+     terms: ['Marriott', 'Bonvoy', 'Marriott Bonvoy', 'Ritz-Carlton', 'St. Regis', 'Westin', 'Sheraton', 'Courtyard by Marriott', 'Moxy hotel', 'W Hotel'], apps: ['Marriott Bonvoy']}
+  - {key: hilton, name: Hilton / Honors, company: Hilton Worldwide, ticker: HLT, sector: travel, wiki: Hilton_Worldwide,
+     terms: ['Hilton', 'Hilton Honors', 'Waldorf Astoria', 'Conrad hotel', 'Hampton Inn', 'DoubleTree', 'Embassy Suites', 'Canopy by Hilton', 'Tru by Hilton'], exclude: ['paris hilton', 'perez hilton', 'hilton head'], apps: ['Hilton Honors: Book Hotels']}
+  - {key: hyatt, name: Hyatt, company: Hyatt Hotels, ticker: H, sector: travel, wiki: Hyatt,
+     terms: ['Hyatt', 'World of Hyatt', 'Park Hyatt', 'Grand Hyatt', 'Andaz', 'Hyatt Regency', 'Thompson hotel', 'Mr & Mrs Smith hotels'], apps: ['World of Hyatt']}
+  - {key: ihg, name: IHG / Holiday Inn, company: InterContinental Hotels Group, ticker: IHG, sector: travel, wiki: IHG_Hotels_&_Resorts,
+     terms: ['Holiday Inn', 'IHG One Rewards', 'InterContinental hotel', 'Kimpton', 'Crowne Plaza', 'Hotel Indigo', 'Six Senses', 'Staybridge'], apps: ['IHG One Rewards']}
+  - {key: carnival, name: Carnival Cruise, company: Carnival Corporation, ticker: CCL, sector: travel, wiki: Carnival_Corporation,
+     terms: ['Carnival cruise', 'Carnival Cruise Line', 'Celebration Key', 'Princess Cruises', 'Holland America', 'Cunard', 'Costa Cruises', 'AIDA cruise', 'P&O Cruises', 'Seabourn'], apps: ['Carnival HUB', 'Princess Cruises']}
+  - {key: royalcaribbean, name: Royal Caribbean, company: Royal Caribbean Group, ticker: RCL, sector: travel, wiki: Royal_Caribbean_Group,
+     terms: ['Royal Caribbean', 'Icon of the Seas', 'Star of the Seas', 'Utopia of the Seas', 'Perfect Day CocoCay', 'CocoCay', 'Celebrity Cruises', 'Celebrity Xcel', 'Silversea', 'Royal Beach Club'], apps: ['Royal Caribbean International', 'Celebrity Cruises']}
+  - {key: norwegian, name: Norwegian Cruise Line, company: Norwegian Cruise Line Holdings, ticker: NCLH, sector: travel, wiki: Norwegian_Cruise_Line_Holdings,
+     terms: ['Norwegian Cruise', 'NCL cruise', 'Norwegian Aqua', 'Norwegian Prima', 'Norwegian Viva', 'Oceania Cruises', 'Regent Seven Seas', 'Great Stirrup Cay'], apps: ['Cruise Norwegian - NCL']}
+  - {key: viking, name: Viking Cruises, company: Viking Holdings, ticker: VIK, sector: travel, wiki: Viking_(cruise_line),
+     terms: ['Viking cruise', 'Viking river cruise', 'Viking ocean cruise', 'Viking Cruises', 'Viking Octantis', 'Viking Polaris', 'Viking Holdings'], apps: ['Viking Voyager']}
+  - {key: delta, name: Delta Air Lines, company: Delta Air Lines, ticker: DAL, sector: travel, wiki: Delta_Air_Lines,
+     terms: ['Delta Air Lines', 'Delta Airlines', 'Delta flight', 'Delta SkyMiles', 'Delta Sky Club', 'Delta One', 'Delta Comfort', 'Delta Amex', 'Delta Premium Select', 'Delta Medallion'], apps: ['Fly Delta']}
+  - {key: united, name: United Airlines, company: United Airlines Holdings, ticker: UAL, sector: travel, wiki: United_Airlines,
+     terms: ['United Airlines', 'United flight', 'United MileagePlus', 'United Polaris', 'United Club', 'United Starlink', 'United Premium Plus', 'United Basic Economy', 'United Elevated'], apps: ['United Airlines']}
+  - {key: american_air, name: American Airlines, company: American Airlines Group, ticker: AAL, sector: travel, wiki: American_Airlines,
+     terms: ['American Airlines', 'AAdvantage', 'American Airlines flight', 'Admirals Club', 'Flagship lounge', 'AA flight', 'Citi AAdvantage'], apps: ['American Airlines']}
+  - {key: southwest, name: Southwest Airlines, company: Southwest Airlines, ticker: LUV, sector: travel, wiki: Southwest_Airlines,
+     terms: ['Southwest Airlines', 'Southwest flight', 'Southwest Rapid Rewards', 'Southwest bags fly free', 'Southwest assigned seats', 'Southwest open seating', 'Southwest Companion Pass', 'Southwest checked bag'], apps: ['Southwest Airlines']}
+  - {key: jetblue, name: JetBlue, company: JetBlue Airways, ticker: JBLU, sector: travel, wiki: JetBlue,
+     terms: ['JetBlue', 'Jet Blue', 'JetBlue Mint', 'TrueBlue points', 'JetBlue flight', 'Blue Sky JetBlue'], apps: ['JetBlue - Book & Manage Trips']}
+  - {key: alaska_air, name: Alaska / Hawaiian Airlines, company: Alaska Air Group, ticker: ALK, sector: travel, wiki: Alaska_Air_Group,
+     terms: ['Alaska Airlines', 'Hawaiian Airlines', 'Alaska Mileage Plan', 'Atmos Rewards', 'Alaska Lounge', 'Alaska flight', 'Hawaiian Miles'], apps: ['Alaska Airlines', 'Hawaiian Airlines']}
+  - {key: ryanair, name: Ryanair, company: Ryanair Holdings, ticker: RYAAY, sector: travel, wiki: Ryanair,
+     terms: ['Ryanair', 'Ryan Air', 'Ryanair flight', 'Ryanair bag', 'Ryanair fee', "Michael O'Leary", 'Ryanair boarding pass'], apps: ['Ryanair']}
+  - {key: easyjet, name: easyJet, company: easyJet plc, ticker: EZJ.L, sector: travel, wiki: EasyJet,
+     terms: ['easyJet', 'Easy Jet', 'easyJet flight', 'easyJet holidays', 'easyJet bag'], apps: ['easyJet: Travel App']}
+  - {key: wizz, name: Wizz Air, company: Wizz Air Holdings, ticker: WIZZ.L, sector: travel, wiki: Wizz_Air,
+     terms: ['Wizz Air', 'WizzAir', 'Wizz flight', 'Wizz All You Can Fly'], apps: ['Wizz Air']}
+  - {key: sixflags, name: Six Flags / Cedar Point, company: Six Flags Entertainment, ticker: FUN, sector: leisure, wiki: Six_Flags,
+     terms: ['Six Flags', 'Cedar Point', 'Kings Island', 'Knott', 'Carowinds', 'Canada Wonderland', 'Magic Mountain', 'Six Flags Great Adventure', 'Six Flags season pass', 'Top Thrill 2'], context: ['six flags', 'cedar point', 'kings island', 'knott', 'carowinds', 'wonderland', 'magic mountain', 'coaster', 'theme park', 'amusement park', 'season pass', 'ride'], apps: ['Six Flags']}
+  - {key: topgolf, name: Topgolf / Callaway, company: Topgolf Callaway Brands, ticker: MODG, sector: leisure, wiki: Callaway_Golf_Company,
+     terms: ['Topgolf', 'Top Golf', 'Callaway', 'Callaway Elyte', 'Callaway Paradym', 'Odyssey putter', 'TravisMathew', 'Jack Wolfskin', 'Toptracer'], exclude: ['travis mathew cold', 'jack wolfskin germany'], apps: ['Topgolf']}
+  - {key: acushnet, name: Titleist / FootJoy, company: Acushnet Holdings, ticker: GOLF, sector: leisure, wiki: Acushnet_Company,
+     terms: ['Titleist', 'Pro V1', 'ProV1', 'FootJoy', 'Scotty Cameron', 'Titleist GT', 'Titleist T-Series', 'Vokey wedge', 'Acushnet']}
+  - {key: vail, name: Vail Resorts / Epic Pass, company: Vail Resorts, ticker: MTN, sector: leisure, wiki: Vail_Resorts,
+     terms: ['Epic Pass', 'Vail Resorts', 'Vail ski', 'Whistler Blackcomb', 'Park City Mountain', 'Breckenridge', 'Keystone ski', 'Stowe', 'Heavenly', 'Vail lift ticket', 'Epic Day Pass', 'Vail Mountain', 'Perisher', 'Falls Creek', 'Hotham', 'Crans-Montana'], context: ['epic', 'vail', 'ski', 'snow', 'resort', 'lift', 'pass', 'mountain', 'whistler', 'park city', 'breckenridge', 'keystone', 'stowe', 'heavenly', 'perisher', 'falls creek', 'hotham', 'crans'], apps: ['My Epic']}
+  - {key: alterra, name: Ikon Pass / Alterra, company: Alterra Mountain Company (private), ticker: '', private: true, sector: leisure, wiki: Alterra_Mountain_Company,
+     terms: ['Ikon Pass', 'Alterra Mountain', 'Ikon Base Pass', 'Mammoth Mountain', 'Palisades Tahoe', 'Steamboat ski', 'Deer Valley', 'Jackson Hole ski', 'Aspen Snowmass', 'Thredbo']}
+
+  # ------------------------------------------------------------ fitness
+  - {key: planetfitness, name: Planet Fitness, company: Planet Fitness, ticker: PLNT, sector: fitness, wiki: Planet_Fitness,
+     terms: ['Planet Fitness', 'PF Black Card', 'Planet Fitness membership', 'Planet Fitness Black Card', 'lunk alarm'], apps: ['Planet Fitness Workouts']}
+  - {key: lifetime, name: Life Time Fitness, company: Life Time Group, ticker: LTH, sector: fitness, wiki: "Life_Time,_Inc.",
+     terms: ['Life Time Fitness', 'Lifetime Fitness', 'Life Time gym', 'Lifetime gym', 'Life Time membership', 'Life Time Athletic', 'Life Time pickleball'], apps: ['Life Time Digital']}
+  - {key: xponential, name: Club Pilates / Pure Barre / StretchLab, company: Xponential Fitness, ticker: XPOF, sector: fitness, wiki: Xponential_Fitness,
+     terms: ['Club Pilates', 'Pure Barre', 'StretchLab', 'YogaSix', 'Rumble Boxing', 'BFT gym', 'Lindora', 'Xponential']}
+  - {key: orangetheory, name: Orangetheory / Anytime Fitness (Purpose Brands), company: Purpose Brands (private), ticker: '', private: true, sector: fitness, wiki: Orangetheory_Fitness,
+     terms: ['Orangetheory', 'Orange Theory', 'OTF class', 'Anytime Fitness', 'Basecamp Fitness', 'Waxing the City']}
+  - {key: f45, name: F45 Training, company: F45 (private, delisted), ticker: '', private: true, sector: fitness, wiki: F45_Training,
+     terms: ['F45', 'F45 Training', 'F45 class', 'FS8 pilates']}
+  - {key: equinox, name: Equinox / SoulCycle, company: Equinox Group (private), ticker: '', private: true, sector: fitness, wiki: Equinox_Group,
+     terms: ['Equinox gym', 'Equinox membership', 'Equinox Hotel', 'SoulCycle', 'Equinox fitness', 'Equinox Optimize'], exclude: ['chevy equinox', 'equinox ev', 'spring equinox', 'autumn equinox', 'fall equinox', 'vernal equinox']}
+  - {key: crunch, name: Crunch Fitness, company: Crunch (private, Leonard Green), ticker: '', private: true, sector: fitness, wiki: Crunch_Fitness,
+     terms: ['Crunch Fitness', 'Crunch gym', 'Crunch membership', 'Crunch Signature'], apps: ['Crunch Fitness']}
+  - {key: hydrow_tonal, name: Hydrow / Tonal / Tempo (connected fitness), company: private, ticker: '', private: true, sector: fitness, wiki: '',
+     terms: ['Hydrow', 'Tonal', 'Tonal 2', 'Tempo Studio', 'Hydrow rower', 'Hydrow Wave', 'Hydrow Pro'], context: ['rower', 'rowing', 'workout', 'gym', 'home gym', 'fitness', 'strength', 'machine', 'tonal', 'hydrow', 'tempo']}
+  - {key: therabody, name: Therabody / Theragun, company: Therabody (private), ticker: '', private: true, sector: fitness, wiki: '',
+     terms: ['Theragun', 'Therabody', 'TheraFace', 'Theragun Mini', 'Therabody SmartGoggles', 'RecoveryAir', 'Therabody JetBoots']}
+  - {key: hyperice, name: Hyperice / Normatec, company: Hyperice (private), ticker: '', private: true, sector: fitness, wiki: Hyperice,
+     terms: ['Hyperice', 'Normatec', 'Hypervolt', 'Normatec boots', 'Hyperice X', 'Venom Go']}
+
+  # ------------------------------------------------------------ australia
+  - {key: woolworths, name: Woolworths (AU), company: Woolworths Group, ticker: WOW.AX, sector: aus, wiki: Woolworths_Group,
+     terms: ['Woolworths', 'Woolies', 'Big W', 'Everyday Rewards', 'Woolworths Metro', 'Woolies delivery', 'Woolworths strike', 'Woolworths price', 'Woolworths boycott'], exclude: ['woolworths south africa', 'woolworths sa'], apps: ['Woolworths', 'Everyday Rewards', 'Milkrun']}
+  - {key: coles, name: Coles (AU), company: Coles Group, ticker: COL.AX, sector: aus, wiki: Coles_Group,
+     terms: ['Coles', 'Coles Online', 'Flybuys', 'Coles Express', 'Coles Local', 'Liquorland', 'First Choice Liquor', 'Coles Radio', 'Coles Little Shop', 'Coles price', 'Coles boycott'], exclude: ['cole sprouse', 'keyshia cole', 'cole palmer', 'ashley cole', 'coles bay', 'coles county', 'nat king cole'], apps: ['Coles', 'Flybuys']}
+  - {key: wesfarmers, name: Bunnings / Kmart AU / Officeworks, company: Wesfarmers, ticker: WES.AX, sector: aus, wiki: Wesfarmers,
+     terms: ['Bunnings', 'Bunnings snag', 'Bunnings sausage', 'Kmart Australia', 'Kmart haul', 'Kmart dupe', 'Kmart Anko', 'Anko', 'Officeworks', 'Target Australia', 'Priceline Pharmacy', 'Catch.com.au', 'OnePass', 'Wesfarmers'], apps: ['Bunnings', 'Kmart', 'Officeworks', 'OnePass']}
+  - {key: jbhifi, name: JB Hi-Fi / The Good Guys, company: JB Hi-Fi, ticker: JBH.AX, sector: aus, wiki: JB_Hi-Fi,
+     terms: ['JB Hi-Fi', 'JB HiFi', 'JB Hi Fi', 'JBHiFi', 'The Good Guys', 'Good Guys TV', 'JB Hi-Fi sale'], apps: ['JB Hi-Fi']}
+  - {key: harveynorman, name: Harvey Norman, company: Harvey Norman, ticker: HVN.AX, sector: aus, wiki: Harvey_Norman,
+     terms: ['Harvey Norman', 'Domayne', 'Joyce Mayne', 'Gerry Harvey', 'Harvey Norman sale', 'Harvey Norman ad'], apps: ['Harvey Norman']}
+  - {key: gyg, name: Guzman y Gomez, company: Guzman y Gomez, ticker: GYG.AX, sector: aus, wiki: Guzman_y_Gomez,
+     terms: ['Guzman y Gomez', 'Guzman', 'GYG', 'Guzman burrito', 'Guzman bowl', 'Guzman drive thru', 'GYG app'], exclude: ['guzman and gomez lawyers', 'luis guzman', 'joaquin guzman', 'el chapo'], apps: ['Guzman y Gomez', 'GYG']}
+  - {key: dominos_au, name: "Domino's Australia (DMP)", company: Domino's Pizza Enterprises, ticker: DMP.AX, sector: aus, wiki: Domino's_Pizza_Enterprises,
+     terms: ["Domino's Australia", 'Dominos Australia', "Domino's Pizza Enterprises", "Domino's Japan", "Domino's Enterprises", 'DPE pizza']}
+  - {key: collinsfoods, name: KFC Australia (Collins Foods), company: Collins Foods, ticker: CKF.AX, sector: aus, wiki: Collins_Foods,
+     terms: ['KFC Australia', 'KFC Aus', 'Collins Foods', 'Taco Bell Australia', 'KFC Zinger', 'Zinger box', 'KFC app Australia']}
+  - {key: lovisa, name: Lovisa, company: Lovisa Holdings, ticker: LOV.AX, sector: aus, wiki: Lovisa,
+     terms: ['Lovisa', 'Lovisa earrings', 'Lovisa jewellery', 'Lovisa jewelry', 'Lovisa haul', 'Lovisa piercing']}
+  - {key: premier, name: Peter Alexander / Smiggle (Premier Investments), company: Premier Investments, ticker: PMV.AX, sector: aus, wiki: '',
+     terms: ['Peter Alexander', 'Smiggle', 'Premier Investments', 'Just Jeans', 'Jay Jays', 'Portmans', 'Dotti', 'Jacqui E', 'Myer Premier']}
+  - {key: myer, name: Myer, company: Myer Holdings, ticker: MYR.AX, sector: aus, wiki: Myer,
+     terms: ['Myer', 'Myer sale', 'Myer One', 'Myer Christmas windows', 'Myer Stocktake', 'Myer Boxing Day'], exclude: ['myers briggs', 'myers-briggs', 'fort myers'], apps: ['Myer']}
+  - {key: templewebster, name: Temple & Webster, company: Temple & Webster Group, ticker: TPW.AX, sector: aus, wiki: Temple_&_Webster,
+     terms: ['Temple & Webster', 'Temple and Webster', 'Temple Webster', 'T&W furniture'], apps: ['Temple & Webster']}
+  - {key: kogan, name: Kogan, company: Kogan.com, ticker: KGN.AX, sector: aus, wiki: Kogan.com,
+     terms: ['Kogan.com', 'Kogan First', 'Kogan TV', 'Kogan Mobile', 'Kogan Internet', 'Mighty Ape', 'Kogan order', 'Kogan review']}
+  - {key: qantas, name: Qantas / Jetstar, company: Qantas Airways, ticker: QAN.AX, sector: aus, wiki: Qantas,
+     terms: ['Qantas', 'Jetstar', 'Qantas Frequent Flyer', 'Qantas points', 'Qantas Club', 'Qantas Project Sunrise', 'Qantas flight', 'Jetstar flight'], apps: ['Qantas Airways', 'Jetstar']}
+  - {key: zip, name: Zip Co, company: Zip Co, ticker: ZIP.AX, sector: aus, wiki: Zip_Co,
+     terms: ['Zip Pay', 'Zip Money', 'Zip Co', 'ZipPay', 'pay with Zip', 'Zip BNPL', 'Zip app'], apps: ['Zip - Buy Now, Pay Later', 'Zip']}
+  - {key: accent, name: Platypus / Hype DC (Accent Group), company: Accent Group, ticker: AX1.AX, sector: aus, wiki: Accent_Group,
+     terms: ['Platypus Shoes', 'Hype DC', 'Accent Group', 'The Athlete', 'Skechers Australia', 'Stylerunner', 'Glue Store', 'Nude Lucy']}
+  - {key: universalstore, name: Universal Store / Perfect Stranger, company: Universal Store Holdings, ticker: UNI.AX, sector: aus, wiki: Universal_Store,
+     terms: ['Universal Store', 'Perfect Stranger', 'Thrills clothing', 'Universal Store haul']}
+  - {key: babybunting, name: Baby Bunting, company: Baby Bunting Group, ticker: BBN.AX, sector: aus, wiki: Baby_Bunting,
+     terms: ['Baby Bunting', 'Baby Bunting sale', 'Baby Bunting pram', 'Baby Bunting car seat']}
+  - {key: nickscali, name: Nick Scali / Plush, company: Nick Scali, ticker: NCK.AX, sector: aus, wiki: Nick_Scali_Furniture,
+     terms: ['Nick Scali', 'Plush sofa', 'Plush furniture', 'Nick Scali sofa', 'Nick Scali sale', 'Nick Scali couch', 'Fabb Furniture']}
+  - {key: endeavour, name: "Dan Murphy's / BWS (Endeavour)", company: Endeavour Group, ticker: EDV.AX, sector: aus, wiki: Endeavour_Group,
+     terms: ["Dan Murphy's", 'Dan Murphys', 'BWS', 'Endeavour Group', 'Dan Murphy', 'Jimmy Brings', 'ALH pub', 'Pinnacle Drinks'], apps: ["Dan Murphy's", 'BWS']}
+  - {key: treasurywine, name: Penfolds (Treasury Wine), company: Treasury Wine Estates, ticker: TWE.AX, sector: aus, wiki: Treasury_Wine_Estates,
+     terms: ['Penfolds', 'Grange wine', 'Penfolds Grange', 'Treasury Wine', 'Wolf Blass', '19 Crimes', 'Squealing Pig', 'Daou wine', 'Frank Family wine', 'Matua wine']}
+  - {key: a2milk, name: a2 Milk, company: The a2 Milk Company, ticker: A2M.AX, sector: aus, wiki: The_a2_Milk_Company,
+     terms: ['a2 Milk', 'a2 Platinum', 'a2 formula', 'a2 infant formula', 'a2 Milk Company']}
+  - {key: webjet, name: Webjet / Flight Centre, company: Webjet Group, ticker: WJL.AX, sector: aus, wiki: Webjet,
+     terms: ['Webjet', 'Flight Centre', 'Flight Centre deal', 'Webjet deal', 'Webjet booking', 'GoSee', 'Trip Ninja']}
+  - {key: aristocrat, name: Aristocrat / Lightning Link / Raid, company: Aristocrat Leisure, ticker: ALL.AX, sector: aus, wiki: Aristocrat_Leisure,
+     terms: ['Aristocrat Leisure', 'Aristocrat pokies', 'Lightning Link', 'Dragon Link slot', 'Buffalo Gold slot', 'RAID Shadow Legends', 'Raid Shadow Legends', 'Plarium', 'Product Madness', 'Cashman Casino', 'Heart of Vegas', 'Lightning Link Casino', 'NeoGames', 'Anaxi'], apps: ['RAID: Shadow Legends', 'Lightning Link Casino Slots', 'Cashman Casino Slots Games', 'Heart of Vegas Casino Slots', 'Mech Arena', 'Merge Gardens']}
+  - {key: lightwonder, name: Light & Wonder, company: Light & Wonder, ticker: LNW, sector: aus, wiki: Light_&_Wonder,
+     terms: ['Light & Wonder', 'Light and Wonder', 'Dragon Train slot', 'Huff N Puff', 'Huff N More Puff', 'Ultimate Fire Link', '88 Fortunes', 'Jackpot Party', 'Quick Hit slots', 'Gold Fish Casino', 'SciPlay', 'Monopoly Slots', 'Light & Wonder slot'], apps: ['Jackpot Party - Casino Slots', 'Quick Hit Casino Slot Games', 'Gold Fish Casino Slot Games', '88 Fortunes Slots Casino Games', 'Hot Shot Casino Slot Games', 'Monopoly Slots - Casino Games']}
+  - {key: carsales, name: Carsales (CAR Group), company: CAR Group, ticker: CAR.AX, sector: aus, wiki: CAR_Group,
+     terms: ['Carsales', 'carsales.com.au', 'Trader Interactive', 'webmotors', 'Encar', 'Chileautos', 'Redbook price'], apps: ['carsales']}
+  - {key: rea, name: realestate.com.au (REA Group), company: REA Group, ticker: REA.AX, sector: aus, wiki: REA_Group,
+     terms: ['realestate.com.au', 'REA Group', 'realestate dot com', 'Property.com.au', 'Realtor.com', 'PropTrack', 'Mortgage Choice', 'Flatmates.com.au', 'Housing.com'], apps: ['realestate.com.au', 'Realtor.com: Buy, Sell & Rent', 'Realtor.com']}
+  - {key: seek, name: SEEK, company: SEEK Limited, ticker: SEK.AX, sector: aus, wiki: Seek_Limited,
+     terms: ['SEEK jobs', 'seek.com.au', 'SEEK ad', 'SEEK listing', 'SEEK application', 'applied on SEEK', 'SEEK profile', 'SEEK Limited', 'Jobstreet', 'JobsDB', 'Zhaopin'], apps: ['SEEK Job Search', 'SEEK', 'Jobstreet: Job Search & Apply', 'JobsDB']}
+  - {key: xero, name: Xero, company: Xero Limited, ticker: XRO.AX, sector: aus, wiki: Xero,
+     terms: ['Xero accounting', 'Xero invoice', 'Xero software', 'Xero payroll', 'Xero Limited', 'Xero vs MYOB', 'Xero price increase']}

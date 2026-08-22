@@ -115,6 +115,8 @@ class DailyObservation:
     news_articles: int = 0
     close: float = 0.0
     volume: float = 0.0
+    app_rank: float = 0.0              # App Store top-free rank (0 = not charting)
+    trends_hit: int = 0                # appeared in Google Trends daily feed (approx traffic)
 
 
 @dataclass

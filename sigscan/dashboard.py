@@ -1,457 +1,269 @@
 """
-Renders the payload to a self-contained HTML page.
-
-Same renderer for the live GitHub Pages dashboard and for a fragment suitable
-for publishing as a Claude Artifact.
+Static dashboard renderer. One self-contained HTML page, no JavaScript needed,
+light/dark aware. Charts are single-series sparklines (one hue each), text is
+always in ink tokens, status colours only ever appear with an icon + label.
 """
 from __future__ import annotations
-import html, json
 
-FONTS = ("https://fonts.googleapis.com/css2?"
-         "family=IBM+Plex+Mono:wght@400;500;600&"
-         "family=IBM+Plex+Sans:wght@400;500;600&"
-         "family=IBM+Plex+Sans+Condensed:wght@600;700&display=swap")
+import html, json, math
+from datetime import datetime
 
-# Sequential blue ramp — arb score is continuous magnitude, so one hue
-# light->dark is the correct encoding. Status colours are reserved for
-# caution states and never reused as a "series".
 CSS = """
-:root {
-  color-scheme: light;
-  --ground:        #f4f4f2;
-  --surface:       #ffffff;
-  --surface-2:     #fafaf9;
-  --line:          #e3e3df;
-  --line-strong:   #cfcfca;
-  --ink:           #14161a;
-  --ink-2:         #55585f;
-  --ink-3:         #82868e;
-  --accent:        #2a78d6;
-  --accent-soft:   #cde2fb;
-  --accent-mid:    #86b6ef;
-  --good:          #0ca30c;
-  --warning:       #fab219;
-  --serious:       #ec835a;
-  --critical:      #d03b3b;
-  --chip:          #f0efec;
-  --shadow:        0 1px 2px rgba(20,22,26,.06), 0 8px 24px -16px rgba(20,22,26,.25);
-}
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    color-scheme: dark;
-    --ground:      #121312;
-    --surface:     #1a1a19;
-    --surface-2:   #201f1e;
-    --line:        #2e2e2c;
-    --line-strong: #43433f;
-    --ink:         #f4f4f1;
-    --ink-2:       #b6b5ad;
-    --ink-3:       #86857d;
-    --accent:      #3987e5;
-    --accent-soft: #184f95;
-    --accent-mid:  #256abf;
-    --good:        #0ca30c;
-    --warning:     #fab219;
-    --serious:     #ec835a;
-    --critical:    #d03b3b;
-    --chip:        #2a2a27;
-    --shadow:      0 1px 2px rgba(0,0,0,.4), 0 8px 24px -16px rgba(0,0,0,.7);
-  }
-}
-:root[data-theme="dark"] {
-  color-scheme: dark;
-  --ground:      #121312;
-  --surface:     #1a1a19;
-  --surface-2:   #201f1e;
-  --line:        #2e2e2c;
-  --line-strong: #43433f;
-  --ink:         #f4f4f1;
-  --ink-2:       #b6b5ad;
-  --ink-3:       #86857d;
-  --accent:      #3987e5;
-  --accent-soft: #184f95;
-  --accent-mid:  #256abf;
-  --good:        #0ca30c;
-  --warning:     #fab219;
-  --serious:     #ec835a;
-  --critical:    #d03b3b;
-  --chip:        #2a2a27;
-  --shadow:      0 1px 2px rgba(0,0,0,.4), 0 8px 24px -16px rgba(0,0,0,.7);
-}
-
-* { box-sizing: border-box; }
-body {
-  margin: 0; background: var(--ground); color: var(--ink);
-  font-family: "IBM Plex Sans", ui-sans-serif, system-ui, -apple-system, sans-serif;
-  font-size: 15px; line-height: 1.55;
-  -webkit-font-smoothing: antialiased;
-}
-.wrap { max-width: 1180px; margin: 0 auto; padding: 28px 22px 80px; }
-
-h1, h2, h3, .cond {
-  font-family: "IBM Plex Sans Condensed", "IBM Plex Sans", ui-sans-serif, sans-serif;
-  font-weight: 700; letter-spacing: -.01em; text-wrap: balance;
-}
-.mono, .num {
-  font-family: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
-  font-variant-numeric: tabular-nums;
-}
-.eyebrow {
-  font-family: "IBM Plex Mono", ui-monospace, monospace;
-  font-size: 11px; letter-spacing: .1em; text-transform: uppercase;
-  color: var(--ink-3); font-weight: 500;
-}
-
-/* ---------- banner ---------- */
-.demo-banner {
-  display: flex; gap: 12px; align-items: flex-start;
-  background: var(--surface); border: 1px solid var(--warning);
-  border-left: 4px solid var(--warning);
-  padding: 14px 16px; margin-bottom: 24px; border-radius: 3px;
-}
-.demo-banner svg { flex: none; margin-top: 2px; }
-.demo-banner b { font-weight: 600; }
-.demo-banner p { margin: 2px 0 0; color: var(--ink-2); font-size: 14px; }
-
-/* ---------- header ---------- */
-header.top {
-  display: flex; flex-wrap: wrap; gap: 16px 28px;
-  align-items: baseline; justify-content: space-between;
-  padding-bottom: 18px; margin-bottom: 22px;
-  border-bottom: 1px solid var(--line-strong);
-}
-header.top h1 { margin: 0; font-size: 27px; }
-header.top .sub { color: var(--ink-2); font-size: 14px; margin: 4px 0 0; max-width: 60ch; }
-
-/* ---------- summary strip ---------- */
-.strip {
-  display: grid; gap: 1px; background: var(--line);
-  border: 1px solid var(--line); border-radius: 3px; overflow: hidden;
-  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-  margin-bottom: 30px;
-}
-.stat { background: var(--surface); padding: 14px 16px; }
-.stat .v { font-size: 30px; font-weight: 500; line-height: 1.1; display: block; }
-.stat .l { font-size: 11.5px; color: var(--ink-3); letter-spacing: .06em;
-           text-transform: uppercase; font-family: "IBM Plex Mono", monospace; }
-.stat.hot .v { color: var(--accent); }
-
-/* ---------- section ---------- */
-.sec-head { display: flex; align-items: baseline; gap: 12px; margin: 34px 0 12px; }
-.sec-head h2 { margin: 0; font-size: 18px; }
-.sec-head .rule { flex: 1; height: 1px; background: var(--line-strong); }
-
-/* ---------- rows ---------- */
-.rows { display: flex; flex-direction: column; gap: 1px;
-        background: var(--line); border: 1px solid var(--line); border-radius: 3px;
-        overflow: hidden; }
-.row { background: var(--surface); display: grid;
-       grid-template-columns: minmax(190px,1.5fr) 104px 1fr 120px;
-       gap: 18px; align-items: center; padding: 13px 16px; }
-.row:hover { background: var(--surface-2); }
-.row.lead { border-left: 3px solid var(--accent); }
-
-.ident .nm { font-weight: 600; font-size: 15px; }
-.ident .tk { font-size: 12px; color: var(--ink-3); letter-spacing: .04em; }
-.ident .chips { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 6px; }
-
-.chip { font-family: "IBM Plex Mono", monospace; font-size: 10.5px; font-weight: 500;
-        letter-spacing: .04em; padding: 2px 6px; border-radius: 2px;
-        background: var(--chip); color: var(--ink-2); display: inline-flex;
-        align-items: center; gap: 4px; white-space: nowrap; }
-.chip.pos  { background: color-mix(in srgb, var(--accent) 14%, transparent); color: var(--accent); }
-.chip.warn { background: color-mix(in srgb, var(--warning) 20%, transparent);
-             color: color-mix(in srgb, var(--warning) 70%, var(--ink)); }
-.chip.bad  { background: color-mix(in srgb, var(--critical) 15%, transparent); color: var(--critical); }
-.chip .dot { width: 5px; height: 5px; border-radius: 50%; background: currentColor; flex: none; }
-
-/* score meter */
-.score { text-align: right; }
-.score .n { font-size: 21px; font-weight: 500; line-height: 1; }
-.meter { height: 4px; background: var(--line); border-radius: 2px; margin-top: 6px; overflow: hidden; }
-.meter i { display: block; height: 100%; background: var(--accent); border-radius: 2px; }
-
-/* metrics */
-.metrics { display: flex; gap: 20px; flex-wrap: wrap; }
-.metric .k { font-size: 10px; letter-spacing: .07em; text-transform: uppercase;
-             color: var(--ink-3); font-family: "IBM Plex Mono", monospace; display: block; }
-.metric .v { font-size: 15px; font-weight: 500; }
-.metric .v.up { color: var(--accent); }
-.metric .v.dn { color: var(--ink-3); }
-.metric .v.warn { color: color-mix(in srgb, var(--warning) 72%, var(--ink)); }
-
-/* why */
-.why { grid-column: 1 / -1; margin: 2px 0 0; padding: 10px 12px;
-       background: var(--surface-2); border-left: 2px solid var(--accent-mid);
-       font-size: 13.5px; color: var(--ink-2); border-radius: 2px; }
-.why ul { margin: 0; padding-left: 17px; }
-.why li { margin: 2px 0; }
-.why .q { margin-top: 8px; padding-top: 8px; border-top: 1px dashed var(--line-strong);
-          font-size: 12.5px; color: var(--ink-3); font-style: italic; }
-
-/* sparkline */
-.spark { display: flex; flex-direction: column; align-items: flex-end; gap: 3px; }
-.spark svg { display: block; }
-.spark .cap { font-size: 10px; color: var(--ink-3); font-family: "IBM Plex Mono", monospace;
-              letter-spacing: .05em; }
-
-.empty { background: var(--surface); border: 1px dashed var(--line-strong);
-         padding: 26px; text-align: center; color: var(--ink-2); border-radius: 3px; }
-
-table.legend { border-collapse: collapse; width: 100%; font-size: 13.5px; }
-table.legend td { padding: 7px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
-table.legend td:first-child { white-space: nowrap; width: 1%; }
-.scroll { overflow-x: auto; }
-
-footer { margin-top: 46px; padding-top: 18px; border-top: 1px solid var(--line);
-         color: var(--ink-3); font-size: 12.5px; }
-footer p { margin: 4px 0; }
-
-@media (max-width: 760px) {
-  .row { grid-template-columns: 1fr 90px; }
-  .metrics { grid-column: 1 / -1; }
-  .spark { grid-column: 1 / -1; align-items: flex-start; }
-}
-@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+:root{color-scheme:light dark;
+ --page:#f9f9f7;--surface:#fcfcfb;--ink:#0b0b0b;--ink2:#52514e;--muted:#898781;--grid:#e1e0d9;--line:#c3c2b7;
+ --ring:rgba(11,11,11,.10);--s1:#2a78d6;--s2:#eb6834;--good:#006300;--warn:#b07a00;--bad:#d03b3b;
+ --badge-hi:#1c5cab;--badge-mid:#6da7ec;--badge-lo:#cde2fb;--pill:#f0efec}
+@media (prefers-color-scheme:dark){:root{--page:#0d0d0d;--surface:#1a1a19;--ink:#fff;--ink2:#c3c2b7;--muted:#898781;
+ --grid:#2c2c2a;--line:#383835;--ring:rgba(255,255,255,.10);--s1:#3987e5;--s2:#d95926;--good:#0ca30c;--warn:#fab219;--bad:#e66767;
+ --badge-hi:#3987e5;--badge-mid:#256abf;--badge-lo:#184f95;--pill:#383835}}
+*{box-sizing:border-box}body{margin:0;background:var(--page);color:var(--ink);font:15px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:inherit}.wrap{max-width:1080px;margin:0 auto;padding:28px 18px 60px}
+header h1{font-size:28px;margin:0 0 4px;letter-spacing:-.01em}header .sub{color:var(--ink2);margin:0 0 14px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 0}.chip{font-size:12px;border:1px solid var(--ring);border-radius:999px;padding:2px 9px;background:var(--surface);color:var(--ink2)}
+.chip.off{border-style:dashed}.chip b{color:var(--ink);font-weight:600}
+.callout{margin:18px 0;padding:12px 14px;border:1px solid var(--ring);border-left:4px solid var(--s2);border-radius:8px;background:var(--surface);font-size:14px}
+.callout code{background:var(--pill);padding:1px 5px;border-radius:4px;font-size:12.5px}
+.sec{margin-top:34px}.sec-head{display:flex;align-items:baseline;gap:12px;margin-bottom:10px}.sec-head h2{font-size:18px;margin:0}
+.sec-head .rule{flex:1;border-top:1px solid var(--grid)}.sec-head .meta{font-size:12.5px;color:var(--muted)}
+.row{display:grid;grid-template-columns:minmax(180px,1.3fr) 90px minmax(140px,1fr) 130px 130px;gap:10px 14px;align-items:center;
+ padding:12px 14px;border:1px solid var(--ring);border-radius:10px;background:var(--surface);margin-bottom:8px}
+.row .name{font-weight:600}.row .name small{display:block;font-weight:400;color:var(--ink2);font-size:12.5px}
+.row .name a{text-decoration:none;border-bottom:1px dotted var(--line)}
+.score{display:inline-block;min-width:46px;text-align:center;font-weight:700;font-size:15px;border-radius:8px;padding:4px 8px;font-variant-numeric:tabular-nums}
+.score.hi{background:var(--badge-hi);color:#fff}.score.mid{background:var(--badge-mid);color:#0b0b0b}.score.lo{background:var(--badge-lo);color:#0b0b0b}
+@media (prefers-color-scheme:dark){.score.mid,.score.lo{color:#fff}}
+.stage{display:inline-block;font-size:12px;padding:1px 8px;border-radius:999px;background:var(--pill);color:var(--ink2);margin-left:6px}
+.flags{display:flex;flex-wrap:wrap;gap:4px}.flag{font-size:11px;border:1px solid var(--line);border-radius:5px;padding:1px 6px;color:var(--ink2);white-space:nowrap}
+.flag.warn{border-color:var(--warn);color:var(--warn)}.flag.good{border-color:var(--good);color:var(--good)}
+.spark{display:flex;flex-direction:column;align-items:flex-start}.spark svg{display:block}.spark .cap{font-size:11px;color:var(--muted);margin-top:2px}
+.why{grid-column:1/-1;margin:2px 0 0;padding:10px 12px;border-top:1px dashed var(--grid);font-size:13.5px;color:var(--ink2)}
+.why p.sum{margin:0 0 6px;color:var(--ink)}.why ul{margin:4px 0 0;padding-left:18px}.why li{margin:2px 0}
+.why .hl{margin-top:6px}.why .hl a{color:var(--ink2)}.why .q{margin-top:6px;font-style:italic}
+.why .tag{font-size:11px;color:var(--muted);margin-left:6px}
+details summary{cursor:pointer;color:var(--ink2);font-size:13px;list-style:none}details summary::-webkit-details-marker{display:none}
+details summary:before{content:"▸ "}details[open] summary:before{content:"▾ "}
+.mini{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px}.mini .box{border:1px solid var(--ring);border-radius:10px;background:var(--surface);padding:10px 14px;font-size:13.5px}
+.mini h3{margin:0 0 6px;font-size:13px;color:var(--ink2);text-transform:uppercase;letter-spacing:.04em}.mini ol{margin:0;padding-left:18px}.mini li{margin:2px 0}
+.howto{font-size:13.5px;color:var(--ink2)}.howto dt{font-weight:600;color:var(--ink);margin-top:8px}.howto dd{margin:0}
+footer{margin-top:40px;font-size:12.5px;color:var(--muted)}
+@media (max-width:760px){.row{grid-template-columns:1fr 1fr}.row .spark{grid-column:span 1}.row .flags{grid-column:1/-1}}
 """
 
-WARN_FLAGS = {"NARROW_SPIKE", "LATE", "COOLING", "FINANCE_ONLY"}
-BAD_FLAGS = {"NEGATIVE_TURN"}
-GOOD_FLAGS = {"BROAD_SPIKE", "AHEAD_OF_THE_STREET", "UNPRICED", "SCARCITY"}
-
+FLAG_WARN = {"LATE", "FADING", "NEGATIVE_TONE", "NEGATIVE_TURN", "NARROW_SPIKE", "FINANCE_NOTICED",
+             "FINANCE_ONLY", "COOLING"}
+FLAG_GOOD = {"UNPRICED", "AHEAD_OF_THE_STREET", "BROAD_SPIKE", "RISING"}
 FLAG_LABEL = {
-    "BROAD_SPIKE": "Broad spike",
-    "NARROW_SPIKE": "One viral thread",
-    "AHEAD_OF_THE_STREET": "Ahead of the street",
-    "FINANCE_ONLY": "Finance chatter only",
-    "UNPRICED": "Not priced in",
-    "LATE": "Already moved",
-    "SCARCITY": "Selling out",
-    "NEGATIVE_TURN": "Sentiment negative",
-    "COOLING": "Cooling off",
+    "ATTENTION_SPIKE": "attention spike", "MULTI_CHANNEL": "multi-channel", "TRENDING_SEARCH": "trending search",
+    "APP_CLIMBING": "app climbing", "FINANCE_NOTICED": "finance noticed", "UNPRICED": "unpriced", "LATE": "late",
+    "FADING": "fading", "RISING": "rising", "NEGATIVE_TONE": "negative tone", "BROAD_SPIKE": "broad spike",
+    "NARROW_SPIKE": "narrow spike", "AHEAD_OF_THE_STREET": "ahead of the street", "FINANCE_ONLY": "finance only",
+    "SCARCITY": "scarcity", "NEGATIVE_TURN": "negative turn", "COOLING": "cooling",
 }
+STAGE_GLYPH = {"rising": "↗ rising", "peaking": "▲ peaking", "fading": "↘ fading", "quiet": "· quiet"}
 
 
-def _esc(s):
-    return html.escape(str(s or ""))
+def _esc(s) -> str:
+    return html.escape(str(s if s is not None else ""), quote=True)
 
 
-def sparkline(values, w=112, h=28, accent="var(--accent)"):
-    """Area + 2px line + emphasised endpoint, per the mark spec."""
-    vals = [float(v or 0) for v in values][-30:]
+def sparkline(values, w=120, h=28, color="var(--s1)", label="") -> str:
+    vals = [float(v) for v in (values or []) if v is not None]
     if len(vals) < 2:
-        return '<div class="cap">no history yet</div>'
+        return f'<svg width="{w}" height="{h}" role="img" aria-label="{_esc(label)}: no data"><line x1="0" y1="{h-1}" x2="{w}" y2="{h-1}" stroke="var(--grid)"/></svg>'
     lo, hi = min(vals), max(vals)
     rng = (hi - lo) or 1.0
-    pad = 3
-    step = (w - 2) / (len(vals) - 1)
-    pts = [(1 + i * step, pad + (h - 2 * pad) * (1 - (v - lo) / rng)) for i, v in enumerate(vals)]
-    line = " ".join(f"{x:.1f},{y:.1f}" for x, y in pts)
-    area = f"1,{h} " + line + f" {pts[-1][0]:.1f},{h}"
-    ex, ey = pts[-1]
-    return (
-        f'<svg width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" '
-        f'aria-label="mentions trend, last {len(vals)} days">'
-        f'<polygon points="{area}" fill="{accent}" opacity=".13"/>'
-        f'<polyline points="{line}" fill="none" stroke="{accent}" stroke-width="2" '
-        f'stroke-linejoin="round" stroke-linecap="round"/>'
-        f'<circle cx="{ex:.1f}" cy="{ey:.1f}" r="3.2" fill="{accent}" '
-        f'stroke="var(--surface)" stroke-width="2"/></svg>'
-    )
+    n = len(vals)
+    pts = []
+    for i, v in enumerate(vals):
+        x = 2 + (w - 4) * i / (n - 1)
+        y = 2 + (h - 4) * (1 - (v - lo) / rng)
+        pts.append(f"{x:.1f},{y:.1f}")
+    lx, ly = pts[-1].split(",")
+    title = f"{label}: {vals[-1]:.2f} (range {lo:.2f}–{hi:.2f}, {n} pts)"
+    return (f'<svg width="{w}" height="{h}" role="img" aria-label="{_esc(title)}"><title>{_esc(title)}</title>'
+            f'<line x1="0" y1="{h-1}" x2="{w}" y2="{h-1}" stroke="var(--grid)"/>'
+            f'<polyline fill="none" stroke="{color}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" points="{" ".join(pts)}"/>'
+            f'<circle cx="{lx}" cy="{ly}" r="3" fill="{color}"/></svg>')
 
 
-def _chips(flags):
+def _score_badge(score: float) -> str:
+    cls = "hi" if score >= 60 else "mid" if score >= 40 else "lo"
+    return f'<span class="score {cls}" title="score 0–100">{score:.0f}</span>'
+
+
+def _chips(flags) -> str:
     out = []
-    for f in flags:
-        cls = "pos" if f in GOOD_FLAGS else "warn" if f in WARN_FLAGS else "bad" if f in BAD_FLAGS else ""
-        out.append(f'<span class="chip {cls}"><span class="dot"></span>{_esc(FLAG_LABEL.get(f, f))}</span>')
-    return "".join(out)
+    for f in flags or []:
+        cls = "warn" if f in FLAG_WARN else "good" if f in FLAG_GOOD else ""
+        glyph = "⚠ " if f in FLAG_WARN else ""
+        out.append(f'<span class="flag {cls}">{glyph}{_esc(FLAG_LABEL.get(f, f.lower().replace("_", " ")))}</span>')
+    return f'<div class="flags">{"".join(out)}</div>'
 
 
-def _row(s, show_why=True):
-    lead = " lead" if s.get("arb_score", 0) >= 60 else ""
-    z = s.get("social_z", 0)
-    ret = s.get("price_return_5d", 0) * 100
-    metrics = [
-        ("chatter", f"{z:+.1f}σ", "up" if z >= 2 else "dn"),
-        ("breadth", f"{s.get('breadth',0):.2f}", "up" if s.get("breadth", 0) >= .45 else "dn"),
-        ("lead", f"{s.get('lead_ratio',0):.1f}×", "up" if s.get("lead_ratio", 0) >= 2.5 else "dn"),
-        ("5d px", f"{ret:+.1f}%", "warn" if abs(ret) >= 15 else "dn"),
-    ]
-    mh = "".join(
-        f'<div class="metric"><span class="k">{k}</span>'
-        f'<span class="v {c} num">{_esc(v)}</span></div>' for k, v, c in metrics)
+def _ticker_link(ticker: str) -> str:
+    if not ticker:
+        return '<span class="tag">not listed</span>'
+    return f'<a href="https://finance.yahoo.com/quote/{_esc(ticker)}" target="_blank" rel="noopener">{_esc(ticker)}</a>'
 
-    why = ""
-    if show_why and s.get("why"):
-        items = "".join(f"<li>{_esc(w)}</li>" for w in s["why"][:4])
-        quote = ""
-        ex = (s.get("examples") or [])
-        if ex:
-            e = ex[0]
-            quote = (f'<div class="q">“{_esc(e.get("text","")[:170])}…” '
-                     f'— r/{_esc(e.get("sub",""))}</div>')
-        why = f'<div class="why"><ul>{items}</ul>{quote}</div>'
 
-    dirn = s.get("direction", "mixed")
-    dir_cls = {"positive": "pos", "negative": "bad", "mixed": ""}[dirn]
-    dir_label = {"positive": "positive", "negative": "negative", "mixed": "mixed"}[dirn]
-    dir_chip = (f'<span class="chip {dir_cls}" title="tone of the chatter">'
-                f'<span class="dot"></span>{dir_label}</span>')
+def _why(item: dict, att: dict) -> str:
+    ex = item.get("explain") or {}
+    why = list(att.get("why") or []) + [w for w in (item.get("why") or []) if w not in (att.get("why") or [])]
+    parts = []
+    if ex.get("summary"):
+        src = ' <span class="tag">AI</span>' if ex.get("source") == "claude" else ""
+        parts.append(f'<p class="sum">{_esc(ex["summary"])}{src}</p>')
+    if why:
+        parts.append("<ul>" + "".join(f"<li>{_esc(w)}</li>" for w in why[:6]) + "</ul>")
+    hls = item.get("headlines") or []
+    if hls:
+        links = " · ".join(f'<a href="{_esc(h.get("url"))}" target="_blank" rel="noopener">{_esc(h.get("title"))}</a>'
+                           + (f' <span class="tag">{_esc(h.get("domain"))}</span>' if h.get("domain") else "")
+                           for h in hls[:3])
+        parts.append(f'<div class="hl">News: {links}</div>')
+    exs = sorted(item.get("examples") or [], key=lambda e: -(e.get("score") or 0))[:2]
+    for e in exs:
+        parts.append(f'<div class="q">“{_esc(e.get("text"))}” — <a href="{_esc(e.get("url"))}" target="_blank" rel="noopener">r/{_esc(e.get("sub"))}</a></div>')
+    ch = att.get("channels") or {}
+    if ch:
+        names = {"wiki": "Wikipedia", "news": "news", "social": "Reddit", "app": "App Store"}
+        parts.append('<div class="hl tag">channels: ' + ", ".join(f"{names.get(k,k)} {v:+.1f}σ" for k, v in ch.items()) +
+                     (f" · 5d {att.get('price_return_5d',0)*100:+.1f}% · 20d {att.get('price_return_20d',0)*100:+.1f}%" if att.get("has_prices") else " · no price data") + "</div>")
+    if not parts:
+        return ""
+    return f'<div class="why">{"".join(parts)}</div>'
 
-    days = s.get("history_days", 0)
-    cap = f"{days}d history" if days < 21 else f"{s.get('mentions',0)} mentions"
 
-    return f"""
-  <div class="row{lead}">
-    <div class="ident">
-      <div class="nm">{_esc(s.get('name'))}</div>
-      <div class="tk mono">{_esc(s.get('ticker'))} · {_esc(s.get('kind'))}</div>
-      <div class="chips">{dir_chip}{_chips(s.get('flags', []))}</div>
-    </div>
-    <div class="score">
-      <div class="n num">{s.get('arb_score', 0):.0f}</div>
-      <div class="meter"><i style="width:{max(2,min(100,s.get('arb_score',0))):.0f}%"></i></div>
-    </div>
-    <div class="metrics">{mh}</div>
-    <div class="spark">{sparkline(s.get('sparkline', []))}<span class="cap">{_esc(cap)}</span></div>
-    {why}
-  </div>"""
+def _row(item: dict, kind: str, open_why: bool = True) -> str:
+    att = item.get("attention") or {}
+    score = item.get("rank_score", item.get("attention_score", item.get("arb_score", 0))) or 0
+    stage = att.get("stage", "")
+    flags = list(dict.fromkeys((item.get("flags") or []) + (att.get("flags") or [])))
+    sub = item.get("company") or item.get("kind") or ""
+    if kind == "discovered" and item.get("private"):
+        sub = (sub + " · " if sub else "") + "no listed stock"
+    if kind == "discovered" and item.get("sector"):
+        sub = (sub + " · " if sub else "") + str(item["sector"])
+    name = f'<div class="name">{_esc(item.get("name"))} {_ticker_link(item.get("ticker"))}<small>{_esc(sub)}</small></div>'
+    badge = _score_badge(float(score)) + (f'<span class="stage">{STAGE_GLYPH.get(stage, stage)}</span>' if stage else "")
+    zs = att.get("z_spark") or item.get("sparkline") or []
+    s1 = f'<div class="spark">{sparkline(zs, label="attention (σ vs baseline)")}<span class="cap">attention, 30d</span></div>'
+    ps = att.get("price_spark") or []
+    s2 = f'<div class="spark">{sparkline(ps, color="var(--s2)", label="price")}<span class="cap">{"price, 30d" if ps else "price: n/a"}</span></div>'
+    why = _why(item, att)
+    if why and not open_why:
+        why = f'<details><summary>why</summary>{why}</details>'
+    return f'<div class="row">{name}<div>{badge}</div>{_chips(flags)}{s1}{s2}{why}</div>'
+
+
+def _sources(payload: dict) -> str:
+    st = payload.get("sources") or {}
+    names = [("reddit", "Reddit"), ("wikipedia", "Wikipedia"), ("gdelt", "News (GDELT)"), ("prices", "Prices (Yahoo)"),
+             ("appstore", "App Store"), ("google_trends", "Google Trends"), ("yahoo_trending", "Yahoo trending")]
+    chips = []
+    for key, label in names:
+        s = st.get(key)
+        if key == "reddit" and not payload.get("reddit_enabled"):
+            chips.append(f'<span class="chip off"><b>{label}</b> off</span>')
+            continue
+        if not s:
+            chips.append(f'<span class="chip off"><b>{label}</b> —</span>')
+            continue
+        ok, fail = s.get("ok", 0), s.get("fail", 0)
+        mark = "✓" if ok and fail <= ok else "⚠"
+        chips.append(f'<span class="chip"><b>{label}</b> {mark} {ok} ok' + (f", {fail} failed" if fail else "") + "</span>")
+    stats = payload.get("stats") or {}
+    if stats.get("ai"):
+        chips.append('<span class="chip"><b>AI summaries</b> on</span>')
+    return f'<div class="chips">{"".join(chips)}</div>'
 
 
 def build_body(payload: dict, demo: bool = False) -> str:
-    sigs = payload.get("signals", [])
-    flagged = [s for s in sigs if s.get("flags") and any(f in GOOD_FLAGS for f in s["flags"])]
-    quiet = [s for s in sigs if s not in flagged]
-    ahead = [s for s in sigs if "AHEAD_OF_THE_STREET" in s.get("flags", [])]
-    warm = [s for s in sigs if s.get("social_z", 0) >= 2]
+    date = payload.get("date", "")
+    gen = payload.get("generated", "")
+    try:
+        gen_h = datetime.fromisoformat(gen.replace("Z", "+00:00")).strftime("%d %b %Y %H:%M UTC")
+    except Exception:
+        gen_h = gen
+    signals = payload.get("signals") or []
+    discovered = payload.get("discovered") or []
+    stats = payload.get("stats") or {}
 
-    banner = ""
-    if demo:
-        banner = """
-  <div class="demo-banner" role="note">
-    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="var(--warning)"
-         stroke-width="2.2" stroke-linecap="round" aria-hidden="true">
-      <path d="M12 9v4"/><path d="M12 17h.01"/>
-      <path d="M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z"/>
-    </svg>
-    <div>
-      <b>Every number on this page is fabricated.</b>
-      <p>This is a layout preview built from synthetic data so you can see the shape of the
-         output before wiring up live feeds. Nothing here reflects any real company,
-         any real social activity, or any real price. Do not act on it.</p>
-    </div>
-  </div>"""
+    def _score(x):
+        return x.get("rank_score", x.get("attention_score", x.get("arb_score", 0))) or 0
 
-    strip = f"""
-  <div class="strip">
-    <div class="stat"><span class="v num">{len(sigs)}</span><span class="l">tracked</span></div>
-    <div class="stat hot"><span class="v num">{len(flagged)}</span><span class="l">flagged today</span></div>
-    <div class="stat"><span class="v num">{len(ahead)}</span><span class="l">ahead of street</span></div>
-    <div class="stat"><span class="v num">{len(warm)}</span><span class="l">chatter &gt; 2σ</span></div>
-  </div>"""
+    top = [s for s in signals if (s.get("flags") or (s.get("attention") or {}).get("flags"))] + \
+          [d for d in discovered if d.get("flags")]
+    top = sorted(top, key=lambda x: -_score(x))[:8]
 
-    if flagged:
-        flag_rows = f'<div class="rows">{"".join(_row(s) for s in flagged)}</div>'
-    else:
-        flag_rows = ('<div class="empty">Nothing crossed the threshold today. '
-                     'That is the normal state — a scanner that flags something every day '
-                     'is a scanner that is not filtering.</div>')
+    out = [f'<header><h1>Signal Desk</h1><p class="sub">Consumer attention vs. the stock tape · scan of {_esc(date)} · generated {_esc(gen_h)}'
+           + (" · DEMO DATA" if demo else "") + "</p>" + _sources(payload) + "</header>"]
 
-    quiet_rows = f'<div class="rows">{"".join(_row(s, show_why=False) for s in quiet)}</div>' if quiet else ""
+    if not payload.get("reddit_enabled"):
+        out.append('<div class="callout"><b>Reddit is switched off</b> — the scanner is running on Wikipedia lookups, news volume, '
+                   'App Store charts, Google Trends and prices. To add the consumer-chatter signal (the strongest early-warning channel), '
+                   'add three repository secrets on GitHub — <code>REDDIT_CLIENT_ID</code>, <code>REDDIT_CLIENT_SECRET</code>, '
+                   '<code>USER_AGENT</code> — under Settings → Secrets and variables → Actions. Nothing else changes.</div>')
 
-    legend = """
-  <div class="sec-head"><h2>How to read this</h2><span class="rule"></span></div>
-  <div class="scroll"><table class="legend">
-    <tr><td><span class="chip pos"><span class="dot"></span>Broad spike</span></td>
-        <td>Chatter is 3σ+ above this entity's own 45-day baseline <em>and</em> spread across many
-            communities and many accounts. Breadth is what separates a real trend from one thread
-            going viral.</td></tr>
-    <tr><td><span class="chip warn"><span class="dot"></span>One viral thread</span></td>
-        <td>Same volume spike, but concentrated in one place from few accounts. Usually noise.</td></tr>
-    <tr><td><span class="chip pos"><span class="dot"></span>Ahead of the street</span></td>
-        <td>Consumer-community chatter is running well ahead of investing-forum chatter.
-            This is the whole thesis — when the finance subs catch up, the edge is gone.</td></tr>
-    <tr><td><span class="chip warn"><span class="dot"></span>Finance chatter only</span></td>
-        <td>The investing forums are talking but consumers are not. A stock story, not a product story.</td></tr>
-    <tr><td><span class="chip pos"><span class="dot"></span>Not priced in</span></td>
-        <td>Attention is elevated but price and volume are still flat.</td></tr>
-    <tr><td><span class="chip warn"><span class="dot"></span>Already moved</span></td>
-        <td>The stock has run more than 15% in five days. You are probably late.</td></tr>
-    <tr><td><span class="chip pos"><span class="dot"></span>Selling out</span></td>
-        <td>Unusual density of “sold out”, “restock”, “can't find” language. In consumer products
-            this leads reported revenue more reliably than sentiment does.</td></tr>
-    <tr><td><span class="chip pos"><span class="dot"></span>positive</span>
-            <span class="chip bad"><span class="dot"></span>negative</span></td>
-        <td>The tone of the chatter, from sentiment plus the balance of buying language
-            (“just copped”, “sold out”) against complaint language (“returned it”, “overrated”).
-            Reported separately from the score, because a brand melting down is a loud,
-            high-attention event that is <em>not</em> the same finding as a brand taking off.
-            Negative names are deliberately pushed down the ranking.</td></tr>
-    <tr><td><b class="mono">chatter</b></td>
-        <td>Robust z-score of mentions as a share of everything sampled that day. Median/MAD, so an
-            old spike doesn't poison the baseline.</td></tr>
-    <tr><td><b class="mono">breadth</b></td>
-        <td>0–1. Distinct communities, distinct authors, and how evenly spread the mentions are.</td></tr>
-    <tr><td><b class="mono">lead</b></td>
-        <td>Consumer chatter ÷ finance chatter. Above 2.5× means the street hasn't noticed.</td></tr>
-  </table></div>"""
+    out.append('<section class="sec"><div class="sec-head"><h2>Top signals right now</h2><span class="rule"></span>'
+               f'<span class="meta">{len(top)} flagged</span></div>')
+    out.append("".join(_row(x, "discovered" if "key" in x else "watch") for x in top) if top else
+               '<p class="howto">Nothing is flagged today. Baselines are still forming for new names — flags appear once a name is 2–3σ above its own 45-day normal.</p>')
+    out.append("</section>")
 
-    return f"""
-<div class="wrap">
-{banner}
-  <header class="top">
-    <div>
-      <div class="eyebrow">Social arbitrage scanner</div>
-      <h1>Signal Desk</h1>
-      <p class="sub">Consumer attention running ahead of the tape. Scores are relative to each
-         name's own history — not to each other.</p>
-    </div>
-    <div class="eyebrow">{_esc(payload.get('date',''))} · sampled daily</div>
-  </header>
-{strip}
-  <div class="sec-head"><h2>Flagged</h2><span class="rule"></span></div>
-{flag_rows}
-  <div class="sec-head"><h2>Watchlist</h2><span class="rule"></span></div>
-{quiet_rows}
-{legend}
-  <footer>
-    <p><b>This is a research tool, not advice.</b> A social spike is a hypothesis about attention,
-       not a forecast of revenue or price. Plenty of things trend hard and never sell, and plenty
-       of good businesses never trend at all.</p>
-    <p>Scores below 21 days of history are unreliable by construction — the baseline isn't formed yet.</p>
-    <p class="mono">generated {_esc(payload.get('generated',''))}</p>
-  </footer>
-</div>"""
+    out.append('<section class="sec"><div class="sec-head"><h2>Discovered — trending names you are not watching</h2><span class="rule"></span>'
+               f'<span class="meta">{stats.get("brands_scored", len(discovered))} brands scanned</span></div>')
+    rows = [d for d in discovered if not d.get("on_watchlist")][:30]
+    out.append("".join(_row(d, "discovered", open_why=(i < 6)) for i, d in enumerate(rows)) if rows else
+               '<p class="howto">No discovery data yet.</p>')
+    out.append("</section>")
+
+    out.append('<section class="sec"><div class="sec-head"><h2>Your watchlist</h2><span class="rule"></span>'
+               f'<span class="meta">{len(signals)} names · ranked by social score once 14 days of Reddit history exist, otherwise by attention</span></div>')
+    out.append("".join(_row(s, "watch", open_why=(i < 5)) for i, s in enumerate(signals)) if signals else '<p class="howto">No watchlist data yet.</p>')
+    out.append("</section>")
+
+    tr = payload.get("trends_raw") or {}
+    fin = payload.get("finance_trending") or []
+    boxes = []
+    for geo in ("US", "AU"):
+        items = tr.get(geo) or []
+        if items:
+            boxes.append(f'<div class="box"><h3>Google trending searches · {geo}</h3><ol>' +
+                         "".join(f'<li>{_esc(i.get("title"))} <span class="tag">{_esc(i.get("traffic"))}</span></li>' for i in items[:10]) + "</ol></div>")
+    if fin:
+        boxes.append('<div class="box"><h3>Yahoo Finance trending tickers</h3><p>' +
+                     ", ".join(f'<a href="https://finance.yahoo.com/quote/{_esc(t)}" target="_blank" rel="noopener">{_esc(t)}</a>' for t in fin[:30]) + "</p></div>")
+    if boxes:
+        out.append('<section class="sec"><div class="sec-head"><h2>What the crowd is looking at</h2><span class="rule"></span></div>'
+                   f'<div class="mini">{"".join(boxes)}</div></section>')
+
+    out.append('<section class="sec"><div class="sec-head"><h2>How to read this</h2><span class="rule"></span></div><dl class="howto">'
+               '<dt>Score (0–100)</dt><dd>How unusual, broad, fresh and <i>unpriced</i> the attention is. 60+ is worth a look; 40–60 is “watch”; below 40 is background.</dd>'
+               '<dt>σ (sigma)</dt><dd>How far above a name’s <i>own</i> 45-day normal today is. 2σ is notable, 3σ+ is a genuine spike. Every name is judged against itself, so a giant and a micro-brand are comparable.</dd>'
+               '<dt>Stage</dt><dd>↗ rising = still accelerating · ▲ peaking = near its recent high · ↘ fading = coming off a peak · quiet = nothing unusual.</dd>'
+               '<dt>Unpriced / late</dt><dd>Unpriced = attention is high but the stock is flat on normal volume (the setup). Late = the stock already ran 15%+ in 5 days.</dd>'
+               '<dt>Finance noticed</dt><dd>The ticker is already trending on Yahoo Finance — the investing crowd is looking, so the information edge is smaller.</dd>'
+               '<dt>Past spikes</dt><dd>What the stock did in the 10 trading days after this name’s previous attention spikes. Small samples — treat as context, not a forecast.</dd>'
+               '<dt>Channels</dt><dd>Wikipedia lookups (how many people are googling it), news volume (GDELT), Reddit consumer chatter (when enabled), App Store rank, Google trending searches.</dd>'
+               '</dl><p class="howto">Research tool, not advice. A spike in attention is a hypothesis about demand, not a forecast of revenue or price.</p></section>')
+
+    out.append(f'<footer>Signal Desk · {stats.get("watchlist", len(signals))} watchlist names · {stats.get("brands", "")} brands in the discovery universe · '
+               f'run took {stats.get("elapsed_s", "?")}s · <a href="https://github.com/ConxApp/signal-desk">source</a> · data.json alongside this page</footer>')
+    return "\n".join(out)
 
 
 def render(payload: dict, path: str, demo: bool = False):
-    """Full standalone document — for GitHub Pages."""
     body = build_body(payload, demo)
-    doc = f"""<!doctype html>
-<html lang="en"><head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Signal Desk</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="{FONTS}">
-<style>{CSS}</style>
-</head><body>{body}</body></html>"""
-    with open(path, "w") as f:
+    doc = ("<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\">"
+           "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">"
+           "<title>Signal Desk</title>"
+           f"<style>{CSS}</style></head><body><div class=\"wrap\">{body}</div></body></html>")
+    with open(path, "w", encoding="utf-8") as f:
         f.write(doc)
-    return doc
 
 
 def render_fragment(payload: dict, path: str, demo: bool = False):
-    """Head-less fragment — for publishing via the Artifact tool."""
-    body = build_body(payload, demo)
-    frag = f"""<title>Signal Desk</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="{FONTS}">
-<style>{CSS}</style>
-{body}"""
-    with open(path, "w") as f:
+    frag = f"<title>Signal Desk</title><style>{CSS}</style><div class=\"wrap\">{build_body(payload, demo)}</div>"
+    with open(path, "w", encoding="utf-8") as f:
         f.write(frag)
-    return frag
