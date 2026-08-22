@@ -10,9 +10,4 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python tests/test_score.py
       - name: Watchlist lint
-        run: python -c "
-          import sys; sys.path.insert(0,'.');
-          from sigscan.run import load_config;
-          e,_,_ = load_config();
-          [print('WARN', p) for x in e for p in x.lint()]
-          "
+        run: python -c "import sys; sys.path.insert(0,'.'); from sigscan.run import load_config; e,_,_ = load_config(); [print('WARN', p) for x in e for p in x.lint()]"
