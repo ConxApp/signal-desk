@@ -50,17 +50,18 @@ def _get(url: str, headers: dict | None = None, retries: int = 3, timeout: int =
                 return r.read()
         except urllib.error.HTTPError as e:
             last = e
-            if e.code in (429, 500, 502, 503, 504):
+            if e.code not in (429, 500, 502, 503, 504):
+                raise
+            if attempt < retries - 1:          # only back off when another attempt follows
                 wait = 2 ** attempt + 1
                 ra = e.headers.get("Retry-After") if e.headers else None
                 if ra and str(ra).isdigit():
                     wait = min(int(ra), 30)
                 time.sleep(wait)
-                continue
-            raise
         except Exception as e:  # timeouts, connection resets
             last = e
-            time.sleep(2 ** attempt)
+            if attempt < retries - 1:
+                time.sleep(2 ** attempt)
     raise last
 
 
@@ -182,6 +183,10 @@ def gdelt_query(q: str) -> str:
     q = (q or "").strip()
     if not q:
         return q
+    # GDELT rejects the WHOLE query when any quoted phrase is shorter than 5 chars
+    # ('The specified phrase is too short.'), so don't waste a 5-second slot on it.
+    if any(len(p.strip()) < 5 for p in re.findall(r'"([^"]*)"', q)):
+        return ""
     if " OR " in q and not (q.startswith("(") and q.endswith(")")):
         q = f"({q})"
     return q
@@ -233,10 +238,11 @@ def _gdelt(url: str):
 
 def gdelt_volume(query: str, days: int = 60) -> dict:
     """{'YYYY-MM-DD': volume_intensity}. Empty on failure."""
-    if not query:
+    gq = gdelt_query(query)
+    if not gq:
         return {}
     url = ("https://api.gdeltproject.org/api/v2/doc/doc?query="
-           f"{quote(gdelt_query(query))}&mode=timelinevol&format=json&timespan={days}d")
+           f"{quote(gq)}&mode=timelinevol&format=json&timespan={days}d")
     data = _gdelt(url)
     if not data:
         return {}
@@ -290,10 +296,11 @@ def google_news_headlines(query: str, days: int = 7, n: int = 6, gl: str = "US")
 
 def gdelt_headlines(query: str, days: int = 4, n: int = 6) -> list:
     """Recent headlines for a query: [{title, url, domain, date}]."""
-    if not query:
+    gq = gdelt_query(query)
+    if not gq:
         return []
     url = ("https://api.gdeltproject.org/api/v2/doc/doc?query="
-           f"{quote(gdelt_query(query))}&mode=artlist&maxrecords={n}&format=json"
+           f"{quote(gq)}&mode=artlist&maxrecords={n}&format=json"
            f"&timespan={days}d&sort=hybridrel")
     data = _gdelt(url)
     if not data:
@@ -337,14 +344,27 @@ def yahoo_prices(ticker: str, rng: str = "6mo") -> dict:
     except (KeyError, IndexError, TypeError):
         _mark("prices", False, f"{ticker}: no data")
         return {}
+    meta = res.get("meta") or {}
+    # Yahoo stamps each daily bar at the exchange-local session open; converting
+    # in UTC mis-dates ASX/European bars. Use the exchange timezone it reports.
+    try:
+        import zoneinfo
+        tz = zoneinfo.ZoneInfo(meta.get("exchangeTimezoneName") or "UTC")
+    except Exception:
+        tz = dt.timezone(dt.timedelta(seconds=int(meta.get("gmtoffset") or 0)))
+    # The last bar may be today's in-progress session: keep its (live) close but
+    # store volume as 0 so the engines treat the day's volume as not yet observed.
+    reg = ((meta.get("currentTradingPeriod") or {}).get("regular") or {})
+    live_last = bool(ts) and bool(reg) and ts[-1] >= (reg.get("start") or 0) and time.time() < (reg.get("end") or 0)
     out = {}
     for i, t in enumerate(ts):
         c = closes[i] if i < len(closes) else None
         v = vols[i] if i < len(vols) else None
         if c is None:
             continue
-        day = dt.datetime.fromtimestamp(t, dt.timezone.utc).date().isoformat()
-        out[day] = {"close": float(c), "volume": float(v or 0)}
+        day = dt.datetime.fromtimestamp(t, tz).date().isoformat()
+        vol = 0.0 if (live_last and i == len(ts) - 1) else float(v or 0)
+        out[day] = {"close": float(c), "volume": vol}
     _mark("prices", bool(out), "" if out else f"{ticker}: empty")
     time.sleep(0.35)
     return out

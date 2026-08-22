@@ -36,7 +36,8 @@ header h1{font-size:28px;margin:0 0 4px;letter-spacing:-.01em}header .sub{color:
 .flags{display:flex;flex-wrap:wrap;gap:4px}.flag{font-size:11px;border:1px solid var(--line);border-radius:5px;padding:1px 6px;color:var(--ink2);white-space:nowrap}
 .flag.warn{border-color:var(--warn);color:var(--warn)}.flag.good{border-color:var(--good);color:var(--good)}
 .spark{display:flex;flex-direction:column;align-items:flex-start}.spark svg{display:block}.spark .cap{font-size:11px;color:var(--muted);margin-top:2px}
-.why{grid-column:1/-1;margin:2px 0 0;padding:10px 12px;border-top:1px dashed var(--grid);font-size:13.5px;color:var(--ink2)}
+.why,.row>details{grid-column:1/-1}
+.why{margin:2px 0 0;padding:10px 12px;border-top:1px dashed var(--grid);font-size:13.5px;color:var(--ink2)}
 .why p.sum{margin:0 0 6px;color:var(--ink)}.why ul{margin:4px 0 0;padding-left:18px}.why li{margin:2px 0}
 .why .hl{margin-top:6px}.why .hl a{color:var(--ink2)}.why .q{margin-top:6px;font-style:italic}
 .why .tag{font-size:11px;color:var(--muted);margin-left:6px}
@@ -46,7 +47,7 @@ details summary:before{content:"▸ "}details[open] summary:before{content:"▾ 
 .mini h3{margin:0 0 6px;font-size:13px;color:var(--ink2);text-transform:uppercase;letter-spacing:.04em}.mini ol{margin:0;padding-left:18px}.mini li{margin:2px 0}
 .howto{font-size:13.5px;color:var(--ink2)}.howto dt{font-weight:600;color:var(--ink);margin-top:8px}.howto dd{margin:0}
 footer{margin-top:40px;font-size:12.5px;color:var(--muted)}
-@media (max-width:760px){.row{grid-template-columns:1fr 1fr}.row .spark{grid-column:span 1}.row .flags{grid-column:1/-1}}
+@media (max-width:820px){.row{grid-template-columns:1fr 1fr}.row .spark{grid-column:span 1}.row .flags{grid-column:1/-1}}
 """
 
 FLAG_WARN = {"LATE", "FADING", "NEGATIVE_TONE", "NEGATIVE_TURN", "NARROW_SPIKE", "FINANCE_NOTICED",

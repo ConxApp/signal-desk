@@ -28,7 +28,7 @@ entities:
     include: ['\bAMD\b', '\bRyzen\b', '\bRadeon\b', '\bThreadripper\b', '\bInstinct MI\d+\b']
     exclude: []
     wikipedia: Advanced_Micro_Devices
-    news_query: '"AMD" (Ryzen OR Radeon OR Instinct)'
+    news_query: '("Advanced Micro Devices" OR "AMD Ryzen" OR "AMD Radeon")'
 
   - key: tesla
     ticker: TSLA
@@ -100,7 +100,7 @@ entities:
     include: ['\bHoka\b', '\bClifton \d\b', '\bBondi \d\b', '\bSpeedgoat\b', '\bMach X\b', '\bUGG\b']
     exclude: ['\bhookah\b']
     wikipedia: Deckers_Brands
-    news_query: '"Hoka" OR "Deckers Outdoor"'
+    news_query: '("Hoka shoes" OR "Hoka running" OR "Deckers Outdoor")'
 
   - key: onon
     ticker: ONON

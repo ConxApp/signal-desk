@@ -52,9 +52,14 @@ class Brand:
         self._exc = [compile_term(t, plural=False) for t in self.exclude if t]
         self._ctx = [compile_term(t, plural=False) for t in self.context if t]
         if not self.news_query:
-            # GDELT query: the display name's first segment in quotes
+            # News query: the display name's first segment in quotes. GDELT rejects
+            # quoted phrases shorter than 5 chars, so short names fall back to the
+            # company name, then to a bare token.
             first = re.split(r"\s*/\s*|\s*\(", self.name)[0].strip()
-            self.news_query = f'"{first}"' if first else ""
+            comp = re.split(r"\s*\(", self.company or "")[0].strip()
+            if len(first) < 5 and len(comp) >= 5:
+                first = comp
+            self.news_query = (f'"{first}"' if len(first) >= 5 else first) if first else ""
 
     def matches(self, text: str) -> bool:
         if not text:

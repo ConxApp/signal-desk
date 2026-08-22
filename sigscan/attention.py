@@ -21,14 +21,19 @@ Everything is pure functions over numbers so it can be unit-tested offline.
 from __future__ import annotations
 
 import math
+import datetime as dt
 from bisect import bisect_left
 from dataclasses import dataclass, asdict, field
 from typing import Sequence
 
-from sigscan.score import (DailyObservation, robust_z, log_share, _median,
+from sigscan.score import (DailyObservation, robust_z, robust_scale, log_share, _median,
                            breadth_score, herfindahl)
 
 MIN_OBS = 14          # observed days a channel needs before it gets a z-score
+# A channel whose latest observation is older than this (days) cannot drive
+# today's score — e.g. news fetched once for a candidate weeks ago.
+MAX_AGE = {"wiki": 3, "news": 3, "app": 3, "social": 10}
+MAX_PRICE_AGE = 7
 
 
 # ---------------------------------------------------------------------------
@@ -51,9 +56,10 @@ def acceleration(series: Sequence[float], baseline: Sequence[float]) -> float:
         return 0.0
     recent, prior = series[-3:], series[-7:-3]
     base = list(baseline) if baseline else list(series[:-3])
-    med = _median(base)
-    scale = _median([abs(x - med) for x in base]) if base else 0.0
-    scale = max(scale, 1e-3)
+    # robust_scale falls back to mean-abs-dev, then to the spread of the 7 points
+    # themselves, so a flat (e.g. mostly off-chart) baseline cannot turn a
+    # sub-noise difference into a fake ±8σ acceleration.
+    scale = robust_scale(base, list(recent) + list(prior))
     a = 0.6745 * (sum(recent) / len(recent) - sum(prior) / len(prior)) / scale
     return max(-8.0, min(8.0, a))
 
@@ -217,15 +223,26 @@ def score_attention(history: Sequence[DailyObservation], baseline_days: int = 45
                                 herfindahl(last_social.community_counts))
         gate = max(0.15, min(breadth / 0.45, 1.0))
 
+    def _age(d: str) -> int:
+        """Days between a channel's latest observation and the row date."""
+        try:
+            return (dt.date.fromisoformat(today.date) - dt.date.fromisoformat(d)).days
+        except ValueError:
+            return 0
+
     channel_z, channel_dates = {}, {}
     for ch, z_series in zs.items():
+        last_d = chan[ch][0][-1]
+        channel_dates[ch] = last_d
+        if _age(last_d) > MAX_AGE.get(ch, 3):
+            channel_z[ch] = 0.0   # stale observation: visible, but cannot drive today's score
+            continue
         z = z_series[-1]
         if ch == "social" and z > 0:
             z *= gate
         if ch == "news":
             z *= 0.9          # news is noisier and often a lagging echo
         channel_z[ch] = round(z, 2)
-        channel_dates[ch] = chan[ch][0][-1]
 
     driver = max(channel_z, key=lambda c: channel_z[c])
     base_z = max(channel_z[driver], 0.0)
@@ -238,9 +255,11 @@ def score_attention(history: Sequence[DailyObservation], baseline_days: int = 45
     stage = trend_stage(drv_z, accel)
 
     # --- price reaction -----------------------------------------------------
-    closes = [o.close for o in history if o.close > 0]
-    vols = [o.volume for o in history if o.volume > 0]
-    has_prices = len(closes) >= 10
+    priced = [o for o in history if o.close > 0]
+    closes = [o.close for o in priced]
+    # the observation-day bar may be in progress: judge volume on complete sessions only
+    vols = [o.volume for o in history if o.volume > 0 and o.date < today.date]
+    has_prices = len(closes) >= 10 and _age(priced[-1].date) <= MAX_PRICE_AGE
 
     def pct(lookback):
         if len(closes) <= lookback or closes[-lookback - 1] <= 0:
@@ -308,8 +327,10 @@ def score_attention(history: Sequence[DailyObservation], baseline_days: int = 45
     if "app" in channel_z and channel_z["app"] >= 2.0:
         flags.append("APP_CLIMBING")
         why.append(f"app is climbing the App Store chart (rank {int(app_rank) if app_rank else '?'})")
-    elif app_rank:
+    elif app_rank and "app" not in channel_z:
         why.append(f"app is on the App Store top-100 chart (rank {int(app_rank)}) — baseline still forming")
+    elif app_rank:
+        why.append(f"app is on the App Store top-100 chart (rank {int(app_rank)}) — nothing unusual vs its own baseline")
     if finance_noticed:
         flags.append("FINANCE_NOTICED")
         why.append("the ticker is trending on Yahoo Finance — the investing crowd is already looking")

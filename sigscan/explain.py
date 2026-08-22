@@ -107,14 +107,18 @@ def with_claude(item: dict, headlines: list, examples: list, base: dict) -> dict
         '"drivers": [up to 3 short strings]}'
     )
     try:
-        client = anthropic.Anthropic()
+        # bounded: a stalled API call must never eat the 30-minute job
+        client = anthropic.Anthropic(timeout=30.0, max_retries=1)
         resp = client.messages.create(
-            model=MODEL, max_tokens=600,
+            model=MODEL, max_tokens=4000,          # thinking tokens count toward the cap
             output_config={"effort": "low"},
             system=system,
             messages=[{"role": "user", "content": json.dumps(facts, ensure_ascii=False)}],
         )
         if getattr(resp, "stop_reason", "") == "refusal":
+            return base
+        if getattr(resp, "stop_reason", "") == "max_tokens":
+            print("  ! claude summary truncated (max_tokens)")
             return base
         text = "".join(b.text for b in resp.content if getattr(b, "type", "") == "text").strip()
         m = re.search(r"\{.*\}", text, re.S)

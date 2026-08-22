@@ -91,9 +91,11 @@ def collect_reddit(matchers: list, src: dict):
                 text = d["text"]
                 if not text:
                     continue
+                hit = set()   # a watchlist Entity and a Brand can share a key: count each doc once
                 for m in matchers:
-                    if not m.matches(text):
+                    if m.key in hit or not m.matches(text):
                         continue
+                    hit.add(m.key)
                     a = agg[m.key]
                     a[f"{universe}_mentions"] += 1
                     if universe == "consumer":
@@ -108,6 +110,10 @@ def collect_reddit(matchers: list, src: dict):
                         if len(a["examples"]) < 6 and d["kind"] == "post":
                             a["examples"].append({"sub": sub, "text": text[:220],
                                                   "url": d["permalink"], "score": d["score"]})
+    if denom["consumer"] == 0:
+        # auth/API failure or budget cut: never store an empty sample over a real one
+        print("  ! Reddit returned no consumer documents — not storing this sample")
+        return None, None
     return agg, denom
 
 
@@ -169,7 +175,7 @@ def to_obs(key: str, rows: list) -> list:
 
 def prune(hist: History, keep_days: int = 150):
     cutoff = (dt.date.today() - dt.timedelta(days=keep_days)).isoformat()
-    hist.rows = [r for r in hist.rows if r.get("date", "") >= cutoff]
+    hist.prune(cutoff)
 
 
 # ---------------------------------------------------------------------------
@@ -244,7 +250,10 @@ def main():
                 if m.matches(text):
                     trend_hits[m.key] = max(trend_hits.get(m.key, 0), val)
     for k, v in trend_hits.items():
-        (hist if k in ent_by_key else dhist).patch(k, ds, trends_hit=v)
+        if k in ent_by_key:
+            hist.patch(k, ds, trends_hit=v)
+        if k in brand_by_key:
+            dhist.patch(k, ds, trends_hit=v)
     print(f"  trending-search matches: {len(trend_hits)}")
 
     # 4. Yahoo trending tickers -------------------------------------------------
@@ -413,7 +422,8 @@ def main():
             item["headlines"] = google_news_headlines(q, days=7, n=6, gl=gl)
             if not item["headlines"] and (time.time() - hl_t0) < HL_CAP_S * 0.6:
                 item["headlines"] = gdelt_headlines(q, days=4, n=6)
-        item["explain"] = explain_mod.explain(item, item["headlines"], item.get("examples") or [], use_ai=use_ai)
+        item["explain"] = explain_mod.explain(item, item["headlines"], item.get("examples") or [],
+                                              use_ai=use_ai and budget_left(120))
     for item in signals + keep:
         if item["explain"] is None:
             item["explain"] = explain_mod.explain(item, [], item.get("examples") or [], use_ai=False)

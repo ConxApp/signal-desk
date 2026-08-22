@@ -55,6 +55,23 @@ def robust_z(series: Sequence[float], value: float, min_history: int = 14) -> fl
     return max(-12.0, min(12.0, z))
 
 
+def robust_scale(base: Sequence[float], window: Sequence[float] = ()) -> float:
+    """MAD of `base` with the same degenerate-baseline fallbacks as robust_z,
+    and a last resort of the spread of the points being compared. Never 0."""
+    base = list(base)
+    scale = 0.0
+    if base:
+        med = _median(base)
+        scale = _median([abs(x - med) for x in base])
+        if scale < 1e-9:
+            scale = sum(abs(x - med) for x in base) / len(base)
+    if scale < 1e-9 and window:
+        win = list(window)
+        wmed = _median(win)
+        scale = sum(abs(x - wmed) for x in win) / len(win)
+    return max(scale, 1e-3)
+
+
 def log_share(mentions: float, sampled_docs: float) -> float:
     """Mentions as a log-share of everything sampled that day.
 
@@ -118,7 +135,7 @@ class DailyObservation:
     app_rank: float = 0.0              # App Store top-free rank (0 = not charting)
     trends_hit: int = 0                # appeared in Google Trends daily feed (approx traffic)
     missing: tuple = ()                # channels NOT observed this day: any of wiki, news, app
-                                       # (absent != zero; the attention engine skips these days)
+                                       # (absent != zero; the engines skip these days)
 
 
 @dataclass
@@ -157,7 +174,12 @@ def _pct_change(series: Sequence[float], lookback: int) -> float:
 def score_entity(history: Sequence[DailyObservation],
                  weights: dict | None = None,
                  baseline_days: int = 45) -> Signal | None:
-    """Score the most recent day given its own trailing history."""
+    """Score the most recent day given its own trailing history.
+
+    Every channel is judged on the days it was actually observed: Reddit only
+    on sampled days (consumer_denominator > 0), Wikipedia/news on days not
+    listed in `missing`. A day with no observation is absent, not zero.
+    """
     if not history:
         return None
     w = {
@@ -172,54 +194,62 @@ def score_entity(history: Sequence[DailyObservation],
         w.update(weights)
 
     today = history[-1]
-    past = history[:-1][-baseline_days:]
 
-    cons_series = [log_share(o.consumer_mentions, o.consumer_denominator) for o in past]
-    cons_today = log_share(today.consumer_mentions, today.consumer_denominator)
-    social_z = robust_z(cons_series, cons_today)
+    # --- social (Reddit) on sampled days only --------------------------------
+    social = [o for o in history if o.consumer_denominator > 0]
+    st = social[-1] if social else today          # latest social observation
+    s_past = social[:-1][-baseline_days:]
+    cons_series = [log_share(o.consumer_mentions, o.consumer_denominator) for o in s_past]
+    social_z = robust_z(cons_series, log_share(st.consumer_mentions, st.consumer_denominator)) if social else 0.0
 
-    fin_series = [log_share(o.finance_mentions, o.finance_denominator) for o in past]
-    fin_today = log_share(today.finance_mentions, today.finance_denominator)
-    finance_z = robust_z(fin_series, fin_today)
+    fin = [o for o in history if o.finance_denominator > 0]
+    if fin:
+        f_past = fin[:-1][-baseline_days:]
+        finance_z = robust_z([log_share(o.finance_mentions, o.finance_denominator) for o in f_past],
+                             log_share(fin[-1].finance_mentions, fin[-1].finance_denominator))
+    else:
+        finance_z = 0.0
 
-    wiki_z = robust_z([math.log1p(o.wiki_views) for o in past], math.log1p(today.wiki_views))
-    news_z = robust_z([math.log1p(o.news_articles) for o in past], math.log1p(today.news_articles))
+    # --- wiki / news on their latest observed day ----------------------------
+    def _chan_z(attr: str, ch: str) -> float:
+        seen = [o for o in history if ch not in (getattr(o, "missing", ()) or ())]
+        if not seen:
+            return 0.0
+        base = [math.log1p(max(getattr(o, attr), 0)) for o in seen[:-1][-baseline_days:]]
+        return robust_z(base, math.log1p(max(getattr(seen[-1], attr), 0)))
 
-    breadth = breadth_score(today.distinct_communities, today.distinct_authors,
-                            herfindahl(today.community_counts))
+    wiki_z = _chan_z("wiki_views", "wiki")
+    news_z = _chan_z("news_articles", "news")
+
+    breadth = breadth_score(st.distinct_communities, st.distinct_authors,
+                            herfindahl(st.community_counts))
 
     # Acceleration: is the z-score itself still climbing? Something at z=3 and
     # rising is a live trend; z=5 and falling is a news cycle you already missed.
-    # Acceleration compares the last 3 days against the 4 before them, in the
-    # same normalised units as the z-score. Comparing single days (an earlier
-    # version of this) was far too noisy — it fired COOLING on names that were
-    # still climbing, just with a slightly lower final day.
+    # Compares the last 3 observed days against the 4 before them, in the same
+    # normalised units as the z-score.
     accel = 0.0
-    if len(history) >= 8:
-        recent = [log_share(o.consumer_mentions, o.consumer_denominator) for o in history[-3:]]
-        prior = [log_share(o.consumer_mentions, o.consumer_denominator) for o in history[-7:-3]]
-        scale = _median([abs(x - _median(cons_series)) for x in cons_series]) if cons_series else 0.0
-        scale = max(scale, 1e-3)
+    if len(social) >= 8:
+        recent = [log_share(o.consumer_mentions, o.consumer_denominator) for o in social[-3:]]
+        prior = [log_share(o.consumer_mentions, o.consumer_denominator) for o in social[-7:-3]]
+        scale = robust_scale(cons_series, recent + prior)
         accel = 0.6745 * (sum(recent) / len(recent) - sum(prior) / len(prior)) / scale
         accel = max(-8.0, min(8.0, accel))
 
     # Lead ratio: consumer chatter running ahead of finance chatter is the
     # whole thesis. Once the investing subs catch up, the edge is priced.
     # Breadth GATES the volume signal rather than merely adding to it.
-    # Without this, one thread with 4,000 comments in a single subreddit
-    # produces a 12-sigma reading and outranks a genuine cross-community
-    # trend. Volume without spread is not evidence.
     gate = max(0.15, min(breadth / 0.45, 1.0))
 
     lead_ratio = (max(social_z, 0.0) * gate + 0.5) / (max(finance_z, 0.0) + 1.0)
     lead_ratio = min(lead_ratio, 6.0)
 
-    total_hits = max(today.intent_hits + today.scarcity_hits + today.negative_hits, 1)
-    intent_rate = today.intent_hits / max(today.consumer_mentions, 1)
-    scarcity_rate = today.scarcity_hits / max(today.consumer_mentions, 1)
+    intent_rate = st.intent_hits / max(st.consumer_mentions, 1)
+    scarcity_rate = st.scarcity_hits / max(st.consumer_mentions, 1)
 
     closes = [o.close for o in history if o.close > 0]
-    vols = [o.volume for o in history if o.volume > 0]
+    # the observation-day bar may be in progress; judge volume on complete sessions
+    vols = [o.volume for o in history if o.volume > 0 and o.date < today.date]
     ret5 = _pct_change(closes, 5) if len(closes) > 5 else 0.0
     volume_z = robust_z([math.log1p(v) for v in vols[:-1]], math.log1p(vols[-1])) if len(vols) > 15 else 0.0
 
@@ -242,9 +272,9 @@ def score_entity(history: Sequence[DailyObservation],
     # a real, loud, high-attention event — it just is not the same finding as a
     # brand taking off, and averaging the two into one number hides which is
     # which.
-    sent = today.sentiment_mean
-    pos_hits = today.intent_hits + today.scarcity_hits
-    neg_hits = today.negative_hits
+    sent = st.sentiment_mean
+    pos_hits = st.intent_hits + st.scarcity_hits
+    neg_hits = st.negative_hits
     hit_tilt = (pos_hits - neg_hits) / max(pos_hits + neg_hits, 1)
     if sent < -0.2 or hit_tilt < -0.35:
         direction = "negative"
@@ -267,8 +297,8 @@ def score_entity(history: Sequence[DailyObservation],
     flags, why = [], []
     if social_z >= 3.0 and breadth >= 0.45:
         flags.append("BROAD_SPIKE")
-        why.append(f"chatter {social_z:.1f}σ above its own 45-day baseline, spread across "
-                   f"{today.distinct_communities} communities and {today.distinct_authors} accounts")
+        why.append(f"chatter {social_z:.1f}σ above its own {baseline_days}-day baseline, spread across "
+                   f"{st.distinct_communities} communities and {st.distinct_authors} accounts")
     if social_z >= 3.0 and breadth < 0.45:
         flags.append("NARROW_SPIKE")
         why.append(f"chatter is {social_z:.1f}σ high but concentrated — likely one viral thread, not a trend")
@@ -284,10 +314,10 @@ def score_entity(history: Sequence[DailyObservation],
     if social_z >= 2.0 and ret5 > 0.15:
         flags.append("LATE")
         why.append(f"already ran {ret5*100:+.1f}% in 5 days — the move may be behind you")
-    if scarcity_rate > 0.08 and today.consumer_mentions >= 10 and direction != "negative":
+    if scarcity_rate > 0.08 and st.consumer_mentions >= 10 and direction != "negative":
         flags.append("SCARCITY")
         why.append("unusual volume of sold-out / restock / can't-find language")
-    if sent < -0.25 and today.consumer_mentions >= 10:
+    if sent < -0.25 and st.consumer_mentions >= 10:
         flags.append("NEGATIVE_TURN")
         why.append("sentiment has turned negative")
     if accel < -1.0 and social_z >= 2.0 and social_z < 5.0:

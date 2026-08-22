@@ -102,6 +102,29 @@ check(g is not None and abs(g.channels.get("wiki", 0)) < 3, f"missing today's wi
 e = score_attention(obs_from(series(10, spike_at=9)))
 check(e is not None and e.attention_z == 0.0, "short history -> no z (baseline not formed)")
 
+print("staleness / watchlist engine on observed days")
+# a channel whose latest observation is weeks old must not drive today's score
+stale = obs_from(series(60, spike_at=57))
+for o in stale[-20:]:                      # wiki not observed for the last 20 days
+    o.missing = ("wiki",)
+    o.wiki_views = 0
+h2 = score_attention(stale)
+check(h2 is None or h2.channels.get("wiki", 0) == 0.0, f"stale wiki channel is neutralised ({h2.channels if h2 else None})")
+from sigscan.score import score_entity
+sparse = obs_from(series(60))
+for o in sparse:
+    o.close = 50.0; o.volume = 1e6
+# Reddit observed on the last day only: the social baseline is NOT 59 zero days
+sparse[-1].consumer_mentions = 3; sparse[-1].consumer_denominator = 5000
+sparse[-1].distinct_communities = 2; sparse[-1].distinct_authors = 3; sparse[-1].community_counts = [2, 1]
+sg = score_entity(sparse)
+check(sg is not None and sg.social_z == 0.0 and "BROAD_SPIKE" not in sg.flags and "NARROW_SPIKE" not in sg.flags,
+      f"one Reddit day on a backfilled history -> no fake social spike (z={sg.social_z if sg else None})")
+wk2 = obs_from(series(60))
+wk2[-1].wiki_views = 0; wk2[-1].missing = ("wiki",)
+sg2 = score_entity(wk2)
+check(sg2 is not None and abs(sg2.wiki_z) < 3, f"watchlist engine: missing today's wiki -> uses yesterday ({sg2.wiki_z if sg2 else None})")
+
 print("brand matcher")
 hoka = Brand(key="hoka", name="Hoka", ticker="DECK", terms=["Hoka", "Clifton 9"])
 check(hoka.matches("just copped the new Hokas") and not hoka.matches("hokage naruto"), "plural + boundaries")
