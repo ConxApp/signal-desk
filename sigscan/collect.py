@@ -195,6 +195,21 @@ def _gdelt(url: str):
         time.sleep(wait)
     try:
         raw = _get(url, retries=1, timeout=GDELT_TIMEOUT)
+    except urllib.error.HTTPError as e:
+        _GDELT_LAST = time.time()
+        if e.code == 429:
+            # shared-IP rate limit (GitHub runners share egress). One patient retry.
+            ra = e.headers.get("Retry-After") if e.headers else None
+            time.sleep(min(int(ra), 30) if ra and str(ra).isdigit() else 12)
+            try:
+                raw = _get(url, retries=1, timeout=GDELT_TIMEOUT)
+            except Exception as e2:
+                _GDELT_LAST = time.time()
+                _mark("gdelt", False, f"HTTP 429 then {getattr(e2, 'code', type(e2).__name__)}")
+                return None
+        else:
+            _mark("gdelt", False, f"HTTP {e.code}")
+            return None
     except Exception as e:
         _GDELT_LAST = time.time()
         _mark("gdelt", False, type(e).__name__)
@@ -230,6 +245,46 @@ def gdelt_volume(query: str, days: int = 60) -> dict:
         for pt in series.get("data", []):
             day = pt["date"][:8]
             out[f"{day[:4]}-{day[4:6]}-{day[6:8]}"] = float(pt.get("value", 0))
+    return out
+
+
+def google_news_headlines(query: str, days: int = 7, n: int = 6, gl: str = "US") -> list:
+    """Recent headlines from the Google News RSS search feed (keyless, fast).
+    [{title, url, domain, date}] — same shape as gdelt_headlines."""
+    if not query:
+        return []
+    from email.utils import parsedate_to_datetime
+    hl = "en-AU" if gl.upper() == "AU" else "en-US"
+    ceid = f"{gl.upper()}:en"
+    url = (f"https://news.google.com/rss/search?q={quote(query + f' when:{days}d')}"
+           f"&hl={hl}&gl={gl.upper()}&ceid={quote(ceid)}")
+    try:
+        raw = _get(url, {"User-Agent": "Mozilla/5.0 signal-desk/0.2", "Accept": "application/rss+xml, */*"}, retries=2, timeout=15)
+        root = ET.fromstring(raw)
+    except Exception as e:
+        _mark("google_news", False, type(e).__name__)
+        return []
+    out, seen = [], set()
+    for item in root.iter("item"):
+        title = (item.findtext("title") or "").strip()
+        source = (item.findtext("source") or "").strip()
+        if source and title.endswith(" - " + source):
+            title = title[: -len(source) - 3].strip()
+        key = title.lower()[:60]
+        if not title or key in seen:
+            continue
+        seen.add(key)
+        date = ""
+        try:
+            date = parsedate_to_datetime(item.findtext("pubDate") or "").date().isoformat()
+        except Exception:
+            pass
+        out.append({"title": title[:160], "url": (item.findtext("link") or "").strip(),
+                    "domain": source, "date": date})
+        if len(out) >= n:
+            break
+    _mark("google_news", True)
+    time.sleep(0.4)
     return out
 
 

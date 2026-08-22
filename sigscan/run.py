@@ -23,8 +23,8 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import yaml
 from sigscan import collect, dashboard, alert, explain as explain_mod
 from sigscan.collect import (Reddit, wikipedia_views, gdelt_volume, gdelt_headlines,
-                             yahoo_prices, yahoo_trending, apple_top_apps,
-                             google_trends_rss, traffic_to_int, status_report)
+                             google_news_headlines, yahoo_prices, yahoo_trending,
+                             apple_top_apps, google_trends_rss, traffic_to_int, status_report)
 from sigscan.match import Entity, text_signals, make_sentiment
 from sigscan.score import DailyObservation, score_entity
 from sigscan.attention import score_attention
@@ -401,14 +401,18 @@ def main():
     # 10. Headlines + explanations for the names that matter -------------------
     print("\n=== Headlines / explanations ===")
     use_ai = explain_mod.ai_available()
-    top_sig = sorted(signals, key=lambda s: -s["rank_score"])[:6]
-    top_disc = keep[:10]
+    top_sig = sorted(signals, key=lambda s: -s["rank_score"])[:8]
+    top_disc = keep[:15]
     hl_t0 = time.time()
-    HL_CAP_S = int(os.environ.get("HEADLINES_CAP_S", "150"))
-    for item, q in [(s, ent_by_key[s["entity"]].news_query) for s in top_sig] + \
-                   [(x, brand_by_key[x["key"]].news_query) for x in top_disc]:
+    HL_CAP_S = int(os.environ.get("HEADLINES_CAP_S", "200"))
+    targets = [(s, ent_by_key[s["entity"]].news_query, "US") for s in top_sig] + \
+              [(x, brand_by_key[x["key"]].news_query, "AU" if x.get("sector") == "aus" else "US") for x in top_disc]
+    for item, q, gl in targets:
         if budget_left(90) and (time.time() - hl_t0) < HL_CAP_S:
-            item["headlines"] = gdelt_headlines(q, days=4, n=6)
+            # Google News RSS is fast and keyless; GDELT (rate-limited from shared IPs) is the fallback
+            item["headlines"] = google_news_headlines(q, days=7, n=6, gl=gl)
+            if not item["headlines"] and (time.time() - hl_t0) < HL_CAP_S * 0.6:
+                item["headlines"] = gdelt_headlines(q, days=4, n=6)
         item["explain"] = explain_mod.explain(item, item["headlines"], item.get("examples") or [], use_ai=use_ai)
     for item in signals + keep:
         if item["explain"] is None:

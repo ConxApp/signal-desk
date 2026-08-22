@@ -158,7 +158,8 @@ def _row(item: dict, kind: str, open_why: bool = True) -> str:
 
 def _sources(payload: dict) -> str:
     st = payload.get("sources") or {}
-    names = [("reddit", "Reddit"), ("wikipedia", "Wikipedia"), ("gdelt", "News (GDELT)"), ("prices", "Prices (Yahoo)"),
+    names = [("reddit", "Reddit"), ("wikipedia", "Wikipedia"), ("google_news", "Headlines (Google News)"),
+             ("gdelt", "News volume (GDELT)"), ("prices", "Prices (Yahoo)"),
              ("appstore", "App Store"), ("google_trends", "Google Trends"), ("yahoo_trending", "Yahoo trending")]
     chips = []
     for key, label in names:
