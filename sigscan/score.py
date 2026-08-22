@@ -219,7 +219,7 @@ def score_entity(history: Sequence[DailyObservation],
         return robust_z(base, math.log1p(max(getattr(seen[-1], attr), 0)))
 
     wiki_z = _chan_z("wiki_views", "wiki")
-    news_z = _chan_z("news_articles", "news")
+    news_z = min(_chan_z("news_articles", "news"), 6.0)   # sparse series clamp easily; corroborate, don't dominate
 
     breadth = breadth_score(st.distinct_communities, st.distinct_authors,
                             herfindahl(st.community_counts))

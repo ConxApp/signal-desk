@@ -241,7 +241,9 @@ def score_attention(history: Sequence[DailyObservation], baseline_days: int = 45
         if ch == "social" and z > 0:
             z *= gate
         if ch == "news":
-            z *= 0.9          # news is noisier and often a lagging echo
+            # news volume is sparse (GDELT is rate-limited) and degenerate baselines
+            # hit the ±12 clamp easily; cap it so it can corroborate, not dominate
+            z = min(z, 6.0) * 0.9
         channel_z[ch] = round(z, 2)
 
     driver = max(channel_z, key=lambda c: channel_z[c])
