@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-22T07:49:26.624131+00:00",
+ "generated": "2026-08-22T19:40:08.697450+00:00",
  "date": "2026-08-22",
  "reddit_enabled": false,
  "sources": {
@@ -24,13 +24,13 @@
    "note": ""
   },
   "prices": {
-   "ok": 86,
+   "ok": 87,
    "fail": 0,
    "note": ""
   },
   "gdelt": {
-   "ok": 7,
-   "fail": 7,
+   "ok": 5,
+   "fail": 9,
    "note": "HTTP 429 then 429"
   },
   "google_news": {
@@ -146,7 +146,7 @@
     "stage": "rising",
     "acceleration": 8.0,
     "trends_hit": 0,
-    "finance_noticed": true,
+    "finance_noticed": false,
     "price_return_5d": 0.1315,
     "price_return_20d": 0.1393,
     "volume_z": 1.93,
@@ -162,12 +162,10 @@
     },
     "flags": [
      "ATTENTION_SPIKE",
-     "FINANCE_NOTICED",
      "RISING"
     ],
     "why": [
      "news coverage are 5.4σ above this name's own 45-day baseline",
-     "the ticker is trending on Yahoo Finance — the investing crowd is already looking",
      "still accelerating (+8.0σ over the last 3 days vs the 4 before)"
     ],
     "z_spark": [
@@ -282,7 +280,7 @@
     },
     {
      "title": "Democratizing Private Markets: Expanding Access While Preserving Investor Protection",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOVp4dmJnUk4tVndGN3c1MURiRlE0ODNoZGNJTXR6VDFTQ3lWaWt4bVBKZXVBam9qOU01ZHpQNDVVLWN5VTROMWdsTk9jUmdWMDRfd1hEUFlnSk9tM3p6V3NyNEt6X0FvbWx2bzZPRHpsYlY2MUpDa3ZSSjJNX0pKYjhlR2k5V2dETVpoNFFEc1I2YWc?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaVdTT0dzWkNIMEJNV2diQUNFNnZaeTk3eXBtYnhPX0lJQ09oWDV6STMyWl9PZDFfajNIZVZyYTFNZkM5ck9PdU41RnRyZEZDTENOZzdLUlRjUHRacnhqSEFFYlNvLVhldzJMMDJKZEhzc3VCVU8wTUtvaE10MVNGNmZGY1F2dkduYnYyUXFIMGk?oc=5",
      "domain": "Robinhood",
      "date": "2026-08-18"
     },
@@ -293,10 +291,10 @@
      "date": "2026-08-21"
     },
     {
-     "title": "Why Is Robinhood Stock Surging Friday?",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZklfVUhscHFnRWo3dXZZc0o3Y2EteWJEeDZFMmhoQl9YdVNKYlBCMWZNNktIZWJoSDFlakxlbVEtWHpJc0kwbzAxNTFnN0RSSWh1emNTRGFUVkhyV1UwNUwwdlRzTVRwQllEUGlHbmdlUXEtV0dsQjJ4TURpd0ZTSmVTYXVsZ1d3alZzSTZ5eTVuSnR2dWRZczVMZEVGU1E?oc=5",
+     "title": "Here's How Much $100 Invested In Robinhood Markets 5 Years Ago Would Be Worth Today",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMG13VkNLVFZXa0ZLUml0eTktOUMxYXNSWU1XLWVnVk9xRVBHS3ZuZnduUmlRLVJienVyYXhoUVcyRkFTWWdXRXBnS0NXZE1KcUtTTlFHSVU0NE9fZmNKelpTQTRmU0tTYUg0Q3hwT3IxUTBlRGR0Q25YeGZpR18ybU1LSU0xdlFHWEhfM3pwRDNrNXN5SURSdWNqcU1Wa213N1RaZ3VocjNFMWFFeTBaT2RqQmRBYU9Cd2JUanlZZGZCQQ?oc=5",
      "domain": "Benzinga",
-     "date": "2026-08-21"
+     "date": "2026-08-17"
     },
     {
      "title": "Robinhood Stock Sinks After-Hours: 3 Reasons Why Analysts, Retail Traders Are Shrugging Off The Dip",
@@ -316,6 +314,284 @@
     "tone": "unknown",
     "drivers": [
      "news: Why Robinhood Markets Stock Popped Today"
+    ],
+    "source": "heuristic"
+   }
+  },
+  {
+   "entity": "elf",
+   "date": "2026-08-22",
+   "social_z": 0.0,
+   "finance_z": 0.0,
+   "wiki_z": -1.37,
+   "news_z": 4.49,
+   "breadth": 0.0,
+   "acceleration": 0.0,
+   "lead_ratio": 0.5,
+   "sentiment": 0.0,
+   "intent_rate": 0.0,
+   "scarcity_rate": 0.0,
+   "unpriced": 0.4259,
+   "direction": "mixed",
+   "breadth_gate": 0.15,
+   "price_return_5d": 0.1148,
+   "volume_z": -1.42,
+   "arb_score": 14.9,
+   "flags": [],
+   "why": [],
+   "name": "e.l.f. Beauty",
+   "ticker": "ELF",
+   "kind": "product",
+   "note": "",
+   "mentions": 0,
+   "examples": [],
+   "sparkline": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "wiki_spark": [
+    474,
+    436,
+    537,
+    465,
+    398,
+    343,
+    334,
+    278,
+    247,
+    290,
+    289,
+    278,
+    327,
+    355,
+    315,
+    260,
+    261,
+    309,
+    254,
+    233,
+    233,
+    221,
+    178,
+    192,
+    209,
+    230,
+    191,
+    202,
+    197,
+    0
+   ],
+   "history_days": 91,
+   "social_days": 0,
+   "attention": {
+    "entity": "elf",
+    "date": "2026-08-22",
+    "attention_z": 4.04,
+    "driver": "news",
+    "channels": {
+     "wiki": -1.37,
+     "news": 4.04
+    },
+    "corroborating": [],
+    "stage": "rising",
+    "acceleration": 1.22,
+    "trends_hit": 0,
+    "finance_noticed": false,
+    "price_return_5d": 0.1148,
+    "price_return_20d": 0.3177,
+    "volume_z": -1.42,
+    "unpriced": 0.4259,
+    "has_prices": true,
+    "has_social": false,
+    "direction": "unknown",
+    "attention_score": 62.7,
+    "past_spikes": {
+     "n": 2,
+     "median_10d": 0.1493,
+     "hit_rate": 1.0
+    },
+    "flags": [
+     "ATTENTION_SPIKE",
+     "RISING"
+    ],
+    "why": [
+     "news coverage are 4.0σ above this name's own 45-day baseline",
+     "still accelerating (+1.2σ over the last 3 days vs the 4 before)"
+    ],
+    "z_spark": [
+     1.09,
+     0.0,
+     0.0,
+     1.14,
+     0.8,
+     3.01,
+     0.0,
+     0.0,
+     0.0,
+     1.56,
+     0.0,
+     2.02,
+     2.5,
+     4.27,
+     2.07,
+     1.97,
+     7.14,
+     1.62,
+     -0.67,
+     -0.67,
+     1.13,
+     1.35,
+     1.75,
+     0.67,
+     -0.67,
+     0.67,
+     -0.67,
+     0.0,
+     1.46,
+     4.49
+    ],
+    "driver_spark": [
+     0.001,
+     0.0,
+     0.0,
+     0.001,
+     0.0,
+     0.002,
+     0.0,
+     0.0,
+     0.0,
+     0.001,
+     0.0,
+     0.001,
+     0.002,
+     0.003,
+     0.002,
+     0.002,
+     0.003,
+     0.002,
+     0.0,
+     0.0,
+     0.001,
+     0.001,
+     0.002,
+     0.001,
+     0.0,
+     0.001,
+     0.0,
+     0.001,
+     0.002,
+     0.005
+    ],
+    "price_spark": [
+     75.1,
+     72.25,
+     74.22,
+     74.49,
+     73.69,
+     79.65,
+     79.9,
+     79.03,
+     76.15,
+     77.36,
+     84.01,
+     84.1,
+     80.9,
+     82.26,
+     82.89,
+     82.64,
+     87.84,
+     86.37,
+     92.31,
+     98.49,
+     95.24,
+     94.99,
+     92.62,
+     92.05,
+     91.44,
+     93.66,
+     92.51,
+     99.65,
+     98.46,
+     101.94
+    ],
+    "channel_dates": {
+     "wiki": "2026-08-21",
+     "news": "2026-08-22"
+    },
+    "app_rank": 0.0
+   },
+   "rank_score": 62.7,
+   "headlines": [
+    {
+     "title": "e.l.f. Cosmetics Answers Community Demand with the Return of Pickle-Inspired Glow Reviver Melting Lip Balms",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2dOTG9KX01keU90UVVGdk9fM1hmSEU1MTlvQ2Z5dHhHQUF0TjNJQWdpaVhRa0V3dktWalByRlFBXzE0NjRSelU2bGdTbGk0QU1Ec0xiTVlkSXNYZ0lYS3drMmlueE9sa2R2UVRPQzBaZktXUXRhNTRrQkpQYXBaOHVxWF9UMmc1bU5JbGlPV1ZZVnJtMWtRS2NwczdDSlFZR3pVMmNfUQ?oc=5",
+     "domain": "e.l.f. Beauty",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "e.l.f. Beauty (ELF) & Ulta Beauty (ULTA): Rhode Is Carrying e.l.f. Beauty. Ulta Is Winning on Rich Shoppers Instead",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTlV3TlhQcl9qUWVwZEFLQXp0eWpHUkxfRWV2cm1MRExGTWpxYk1DcWltUV84ZHdaTklFbHFHTFdJRmlWZTZhd3Q0S1hfckktazdnYTNsY2ZRZllEelh0MEVOaERzMUhGMWJpU2ZJRUV0Z29hVjRlbWNpY3RPR0RUMVVuOXQtcUFZ?oc=5",
+     "domain": "Yahoo Finance",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "Coupang vs. e.l.f. Beauty: Which Consumer Stock Is a Better Buy in 2026?",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVU54aXdfbldkN1VwNENhYVFHSnBFX1JudktPZlk5YU1tcXp5NHAzYk5UYmFzYTZCNTVHTGFtT0Zkb3pUMFYxeldUcDMwbEhzeFN1cUJrbjhrZnpWN0RsRUxCZ1N5Z2Z2OHRIZlg1d09hZ1RiUmRVanlieUFkMXUyUGR2VV8xWWNveTlBd3ltLTBjWEIwQ1hfNmhydXhXWHlvTUIxdTU2cjk2a2JWd3NJV3NhY21XVWRDbEJr?oc=5",
+     "domain": "The Motley Fool",
+     "date": "2026-08-22"
+    },
+    {
+     "title": "ELF Financials: Income Statement, Balance Sheet & Cash Flow",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RME9TZnBSbktwLXgtMEhwU3FYVl9Ic0IzQkdTOEMweV9FMmc4bW9ZWkpaWjVZZUluX3A2X3k3aElZaVMydGlDT3ZmcXVsZlpsWHNDUw?oc=5",
+     "domain": "Stock Titan",
+     "date": "2026-08-15"
+    },
+    {
+     "title": "Why e.l.f. Beauty (ELF) Stock Is Up Today",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUVXbGI5VFNPc2ZxRllabmpmM2gwUFJLcmNsNmYyOWtNZmFnSzlGSURULXlqUl9sZ2FkaW9adnpDSi1xWk9vNEtadDc5SUN1ZVF0ZEx3a3ZncFBybHpPdGpYSnNCU1d1MndfMG82cGJBLWRZdFF0NHpxbWsxNVlSZE43a1A?oc=5",
+     "domain": "Quiver Quantitative",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "For e.l.f. Beauty, Inclusivity Is a Business Model, Not a Policy",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdkhUWTV2WDJNUWQwWWpINlhCNUxQeU5PQlkwdGpidlJKOXZjNWxNMldsTFZZenBDMXdiQlBiZ2xOX1Y0b3Blc1hDaVZPWXRrdnpId0RjeF9OSEt3OUgxRUZrVElWalh6ZWdMT1lBNUJ0TnhGckplU0RQTVI2Z2hVcmIzdzh3cU5IUVpjRlZLQTlWcXp0UEtDRGk2N3NTeUQ3eDNQY09CSkZZY3JWR1k0UzRLd2hkeU5DY0lZdXNmVUJtYTMyU0VUV2FQSncxTjQzSWplYnNhU0NHcjk1dm1wdzZfaTYyal9XaGZDYkpPN3NnbzFl?oc=5",
+     "domain": "WSJ",
+     "date": "2026-08-17"
+    }
+   ],
+   "explain": {
+    "summary": "e.l.f. Beauty: attention is rising, led by news coverage (+4.0σ vs its own baseline). In the news: “e.l.f. Cosmetics Answers Community Demand with the Return of Pickle-Inspired Glow Reviver…” (e.l.f. Beauty); “e.l.f. Beauty (ELF) & Ulta Beauty (ULTA): Rhode Is Carrying e.l.f. Beauty. Ulta Is Winnin…” (Yahoo Finance). Stock: +11.5% over 5 days.",
+    "tone": "unknown",
+    "drivers": [
+     "news: e.l.f. Cosmetics Answers Community Demand with the Return of Pickle-Inspired Gl…"
     ],
     "source": "heuristic"
    }
@@ -583,10 +859,10 @@
      "date": "2026-08-21"
     },
     {
-     "title": "Labubu-maker Pop Mart stock sinks after overseas sales slumped — and Citi cuts its outlook",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObVlhVjByb2hMcndQV3BTLTdsUHhyTTVYNEtfRElSWUZpSXZFUUxCazlGZ1g4SkhqZTZfeGhWMm1DVlVmQkU5c0FybDBwTG0zTXBNMDROWmd0WE02c1dJejlieFFsRmtHLUJhekdlaF84MW9GYk1UcUZyZUtOR1lnUw?oc=5",
-     "domain": "qz.com",
-     "date": "2026-08-21"
+     "title": "NeeDoh could become the new Labubu; but the viral squishy craze reportedly has a catch",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV2xpS0RHSUxVVE1zOFNKT0FFQWtqUXI5S3duNmpLTWFSaVFDZVhxLVZHbkVNY29oR19RNUtqeDFDOWlQamplWC1kNnFIRHV2RW9HVDFQaEJNS3dETGVTUG5JY1prdXA5UWFWNmRnTTF4VWVrUGd6VkJPZXJBcnlzY3Ytazk1Z1E3Uk9ITQ?oc=5",
+     "domain": "HOLA",
+     "date": "2026-08-19"
     }
    ],
    "explain": {
@@ -859,9 +1135,9 @@
      "date": "2026-08-18"
     },
     {
-     "title": "Dutch Bros is brewing up a new location in northwest Reno",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLUpVWEZ4ZVhRa1gwMGRnM3J0VHc3S0hLWTVERWxYTWRHMVhrU2t6NkxmX3pEaWRCMjZuUTFETW1wdUMxVUhWQVg0OER3cGNZaWxoWnByYXNjNlhzUC1NcE45MmRfOVBjTXB2VG1oTFpueW5kclZFWXhaVkVIMUYwVEc5U1ExUno0RVhWdlJiRFYtc1JaV1NmbWxiaXgySHhfQkVPMnF1cEtNaFJjOGd0dkpBRTRCMC1DaWJUbWVXRm5MQ1FfLWc?oc=5",
-     "domain": "Reno Gazette Journal",
+     "title": "Gibsonton Chipotle, Dutch Bros. Property Sells for $7.1 Million",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UMnA3ajFCY29tOWJVTkRIVWlhZzJMbW1aV2dSTkRmVzFnN2dBcnFNYUlWT1RfMGdlUWZzZ3ZGWkZMSXFueExCSmlGb0pvS2k3MnM0SUJqQm9VZnBwQVBndDNHZnIwb21HZUFtUjZsRzdtWVJu?oc=5",
+     "domain": "TBBW",
      "date": "2026-08-20"
     }
    ],
@@ -870,561 +1146,6 @@
     "tone": "unknown",
     "drivers": [
      "news: Dutch Bros Coffee planning first St. Pete location at Tyrone Gardens"
-    ],
-    "source": "heuristic"
-   }
-  },
-  {
-   "entity": "elf",
-   "date": "2026-08-22",
-   "social_z": 0.0,
-   "finance_z": 0.0,
-   "wiki_z": -1.37,
-   "news_z": 3.48,
-   "breadth": 0.0,
-   "acceleration": 0.0,
-   "lead_ratio": 0.5,
-   "sentiment": 0.0,
-   "intent_rate": 0.0,
-   "scarcity_rate": 0.0,
-   "unpriced": 0.4259,
-   "direction": "mixed",
-   "breadth_gate": 0.15,
-   "price_return_5d": 0.1148,
-   "volume_z": -1.42,
-   "arb_score": 13.2,
-   "flags": [],
-   "why": [],
-   "name": "e.l.f. Beauty",
-   "ticker": "ELF",
-   "kind": "product",
-   "note": "",
-   "mentions": 0,
-   "examples": [],
-   "sparkline": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "wiki_spark": [
-    474,
-    436,
-    537,
-    465,
-    398,
-    343,
-    334,
-    278,
-    247,
-    290,
-    289,
-    278,
-    327,
-    355,
-    315,
-    260,
-    261,
-    309,
-    254,
-    233,
-    233,
-    221,
-    178,
-    192,
-    209,
-    230,
-    191,
-    202,
-    197,
-    0
-   ],
-   "history_days": 91,
-   "social_days": 0,
-   "attention": {
-    "entity": "elf",
-    "date": "2026-08-22",
-    "attention_z": 3.13,
-    "driver": "news",
-    "channels": {
-     "wiki": -1.37,
-     "news": 3.13
-    },
-    "corroborating": [],
-    "stage": "rising",
-    "acceleration": 1.02,
-    "trends_hit": 0,
-    "finance_noticed": false,
-    "price_return_5d": 0.1148,
-    "price_return_20d": 0.3177,
-    "volume_z": -1.42,
-    "unpriced": 0.4259,
-    "has_prices": true,
-    "has_social": false,
-    "direction": "unknown",
-    "attention_score": 51.4,
-    "past_spikes": {
-     "n": 2,
-     "median_10d": 0.1493,
-     "hit_rate": 1.0
-    },
-    "flags": [
-     "ATTENTION_SPIKE",
-     "RISING"
-    ],
-    "why": [
-     "news coverage are 3.1σ above this name's own 45-day baseline",
-     "still accelerating (+1.0σ over the last 3 days vs the 4 before)"
-    ],
-    "z_spark": [
-     1.09,
-     0.0,
-     0.0,
-     1.14,
-     0.8,
-     3.01,
-     0.0,
-     0.0,
-     0.0,
-     1.56,
-     0.0,
-     2.02,
-     2.5,
-     4.27,
-     2.07,
-     1.97,
-     7.14,
-     1.62,
-     -0.67,
-     -0.67,
-     1.13,
-     1.35,
-     1.75,
-     0.67,
-     -0.67,
-     0.67,
-     -0.67,
-     0.0,
-     1.46,
-     3.48
-    ],
-    "driver_spark": [
-     0.001,
-     0.0,
-     0.0,
-     0.001,
-     0.0,
-     0.002,
-     0.0,
-     0.0,
-     0.0,
-     0.001,
-     0.0,
-     0.001,
-     0.002,
-     0.003,
-     0.002,
-     0.002,
-     0.003,
-     0.002,
-     0.0,
-     0.0,
-     0.001,
-     0.001,
-     0.002,
-     0.001,
-     0.0,
-     0.001,
-     0.0,
-     0.001,
-     0.002,
-     0.004
-    ],
-    "price_spark": [
-     75.1,
-     72.25,
-     74.22,
-     74.49,
-     73.69,
-     79.65,
-     79.9,
-     79.03,
-     76.15,
-     77.36,
-     84.01,
-     84.1,
-     80.9,
-     82.26,
-     82.89,
-     82.64,
-     87.84,
-     86.37,
-     92.31,
-     98.49,
-     95.24,
-     94.99,
-     92.62,
-     92.05,
-     91.44,
-     93.66,
-     92.51,
-     99.65,
-     98.46,
-     101.94
-    ],
-    "channel_dates": {
-     "wiki": "2026-08-21",
-     "news": "2026-08-22"
-    },
-    "app_rank": 0.0
-   },
-   "rank_score": 51.4,
-   "headlines": [
-    {
-     "title": "e.l.f. Cosmetics Answers Community Demand with the Return of Pickle-Inspired Glow Reviver Melting Lip Balms",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2dOTG9KX01keU90UVVGdk9fM1hmSEU1MTlvQ2Z5dHhHQUF0TjNJQWdpaVhRa0V3dktWalByRlFBXzE0NjRSelU2bGdTbGk0QU1Ec0xiTVlkSXNYZ0lYS3drMmlueE9sa2R2UVRPQzBaZktXUXRhNTRrQkpQYXBaOHVxWF9UMmc1bU5JbGlPV1ZZVnJtMWtRS2NwczdDSlFZR3pVMmNfUQ?oc=5",
-     "domain": "e.l.f. Beauty",
-     "date": "2026-08-19"
-    },
-    {
-     "title": "e.l.f. Beauty (ELF) & Ulta Beauty (ULTA): Rhode Is Carrying e.l.f. Beauty. Ulta Is Winning on Rich Shoppers Instead",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTlV3TlhQcl9qUWVwZEFLQXp0eWpHUkxfRWV2cm1MRExGTWpxYk1DcWltUV84ZHdaTklFbHFHTFdJRmlWZTZhd3Q0S1hfckktazdnYTNsY2ZRZllEelh0MEVOaERzMUhGMWJpU2ZJRUV0Z29hVjRlbWNpY3RPR0RUMVVuOXQtcUFZ?oc=5",
-     "domain": "Yahoo Finance",
-     "date": "2026-08-21"
-    },
-    {
-     "title": "ELF Financials: Income Statement, Balance Sheet & Cash Flow",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RME9TZnBSbktwLXgtMEhwU3FYVl9Ic0IzQkdTOEMweV9FMmc4bW9ZWkpaWjVZZUluX3A2X3k3aElZaVMydGlDT3ZmcXVsZlpsWHNDUw?oc=5",
-     "domain": "Stock Titan",
-     "date": "2026-08-15"
-    },
-    {
-     "title": "Why e.l.f. Beauty (ELF) Stock Is Up Today",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUVXbGI5VFNPc2ZxRllabmpmM2gwUFJLcmNsNmYyOWtNZmFnSzlGSURULXlqUl9sZ2FkaW9adnpDSi1xWk9vNEtadDc5SUN1ZVF0ZEx3a3ZncFBybHpPdGpYSnNCU1d1MndfMG82cGJBLWRZdFF0NHpxbWsxNVlSZE43a1A?oc=5",
-     "domain": "Quiver Quantitative",
-     "date": "2026-08-19"
-    },
-    {
-     "title": "For e.l.f. Beauty, Inclusivity Is a Business Model, Not a Policy",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdkhUWTV2WDJNUWQwWWpINlhCNUxQeU5PQlkwdGpidlJKOXZjNWxNMldsTFZZenBDMXdiQlBiZ2xOX1Y0b3Blc1hDaVZPWXRrdnpId0RjeF9OSEt3OUgxRUZrVElWalh6ZWdMT1lBNUJ0TnhGckplU0RQTVI2Z2hVcmIzdzh3cU5IUVpjRlZLQTlWcXp0UEtDRGk2N3NTeUQ3eDNQY09CSkZZY3JWR1k0UzRLd2hkeU5DY0lZdXNmVUJtYTMyU0VUV2FQSncxTjQzSWplYnNhU0NHcjk1dm1wdzZfaTYyal9XaGZDYkpPN3NnbzFl?oc=5",
-     "domain": "WSJ",
-     "date": "2026-08-17"
-    },
-    {
-     "title": "ELF Stock Wipes Off Early Gains As Analysts Reset Price Targets After Q4 Results – Elf Brand Softness Remains A Concern",
-     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMnk2RUhoMDFIRlpZUHFDekxrLTlGd0lLME9XMlo0eE1HRzJacG9OX2tma3oxMWtBSU5IdURyTktJbnVLbmNKWDZ2WXJYWnJ0TkphYXRhNHdNdzFVWUNWLXlxMVZtWUdUTlFDcEpUdzZfbG9neUdIZXRsZmV4YjhjRnlzV3NERmFTYTVlbjFTSldULVR2eWhlUXBLTFRUVDBBaDZSdFAzOHRENkcxc1dpX0NxQzBYb3k3TzBHVG81d0hXUDhKTVYtZnJ2WFhCZnB0YnRob25MdUFFczQ4Mkl1d3YtTllTOGh0bEpZcE41VHU2NEVnLUgzMnN0aUd0cmlvY003Smg2MWNJYjl5bmc?oc=5",
-     "domain": "Stocktwits",
-     "date": "2026-08-20"
-    }
-   ],
-   "explain": {
-    "summary": "e.l.f. Beauty: attention is rising, led by news coverage (+3.1σ vs its own baseline). In the news: “e.l.f. Cosmetics Answers Community Demand with the Return of Pickle-Inspired Glow Reviver…” (e.l.f. Beauty); “e.l.f. Beauty (ELF) & Ulta Beauty (ULTA): Rhode Is Carrying e.l.f. Beauty. Ulta Is Winnin…” (Yahoo Finance). Stock: +11.5% over 5 days.",
-    "tone": "unknown",
-    "drivers": [
-     "news: e.l.f. Cosmetics Answers Community Demand with the Return of Pickle-Inspired Gl…"
-    ],
-    "source": "heuristic"
-   }
-  },
-  {
-   "entity": "bloom_energy",
-   "date": "2026-08-22",
-   "social_z": 0.0,
-   "finance_z": 0.0,
-   "wiki_z": -0.66,
-   "news_z": 2.76,
-   "breadth": 0.0,
-   "acceleration": 0.0,
-   "lead_ratio": 0.5,
-   "sentiment": 0.0,
-   "intent_rate": 0.0,
-   "scarcity_rate": 0.0,
-   "unpriced": 0.4,
-   "direction": "mixed",
-   "breadth_gate": 0.15,
-   "price_return_5d": -0.1239,
-   "volume_z": -0.58,
-   "arb_score": 11.7,
-   "flags": [],
-   "why": [],
-   "name": "Bloom Energy",
-   "ticker": "BE",
-   "kind": "tech",
-   "note": "GUESS — you said \"Blue Energy\". If you meant something else, change this.\n",
-   "mentions": 0,
-   "examples": [],
-   "sparkline": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "wiki_spark": [
-    245,
-    154,
-    201,
-    293,
-    645,
-    630,
-    792,
-    647,
-    402,
-    293,
-    370,
-    321,
-    272,
-    275,
-    292,
-    254,
-    233,
-    301,
-    265,
-    350,
-    308,
-    249,
-    194,
-    200,
-    247,
-    266,
-    287,
-    223,
-    243,
-    0
-   ],
-   "history_days": 91,
-   "social_days": 0,
-   "attention": {
-    "entity": "bloom_energy",
-    "date": "2026-08-22",
-    "attention_z": 2.48,
-    "driver": "news",
-    "channels": {
-     "wiki": -0.66,
-     "news": 2.48
-    },
-    "corroborating": [],
-    "stage": "rising",
-    "acceleration": 1.98,
-    "trends_hit": 0,
-    "finance_noticed": false,
-    "price_return_5d": -0.1239,
-    "price_return_20d": 0.0896,
-    "volume_z": -0.58,
-    "unpriced": 0.4,
-    "has_prices": true,
-    "has_social": false,
-    "direction": "unknown",
-    "attention_score": 50.7,
-    "past_spikes": {
-     "n": 3,
-     "median_10d": 0.1079,
-     "hit_rate": 1.0
-    },
-    "flags": [
-     "RISING"
-    ],
-    "why": [
-     "still accelerating (+2.0σ over the last 3 days vs the 4 before)",
-     "after its last 3 attention spikes the stock was up 10 days later 100% of the time (median +10.8%)"
-    ],
-    "z_spark": [
-     -0.37,
-     2.09,
-     1.87,
-     -0.82,
-     4.74,
-     6.51,
-     4.32,
-     2.86,
-     4.54,
-     3.65,
-     3.17,
-     1.66,
-     3.87,
-     1.23,
-     1.15,
-     -0.07,
-     0.09,
-     0.21,
-     -0.8,
-     1.7,
-     0.54,
-     0.9,
-     0.08,
-     1.43,
-     -0.31,
-     0.03,
-     1.48,
-     4.12,
-     0.58,
-     2.76
-    ],
-    "driver_spark": [
-     0.002,
-     0.005,
-     0.005,
-     0.001,
-     0.009,
-     0.012,
-     0.009,
-     0.008,
-     0.012,
-     0.011,
-     0.011,
-     0.008,
-     0.014,
-     0.007,
-     0.007,
-     0.003,
-     0.004,
-     0.004,
-     0.001,
-     0.008,
-     0.006,
-     0.007,
-     0.005,
-     0.01,
-     0.003,
-     0.005,
-     0.01,
-     0.021,
-     0.007,
-     0.017
-    ],
-    "price_spark": [
-     233.49,
-     243.4,
-     239.38,
-     206.73,
-     214.96,
-     197.06,
-     226.26,
-     218.22,
-     217.3,
-     184.89,
-     188.18,
-     166.84,
-     163.75,
-     207.12,
-     205.81,
-     218.32,
-     228.11,
-     234.33,
-     228.96,
-     219.34,
-     210.63,
-     211.21,
-     237.16,
-     236.22,
-     229.94,
-     232.16,
-     209.01,
-     206.63,
-     202.48,
-     201.45
-    ],
-    "channel_dates": {
-     "wiki": "2026-08-21",
-     "news": "2026-08-22"
-    },
-    "app_rank": 0.0
-   },
-   "rank_score": 50.7,
-   "headlines": [
-    {
-     "title": "Bloom Energy Says It Has Visibility on 25 Gigawatts of Deployments. Here's What That Would Be Worth.",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXBiUkJfRHMxd0pXbzdCZXlLdzlsSjBTN2tCNWlLTUtNTWJEU01lS2E0eE1XcFV4d2lodGNybmRnX0pOUDhGUzRFTzA2d2FvcWtHcmxEQ2pXRUt6aHBYUG1LcFlkeWFYYW5HMHl4cHVobHlLVzRqVG02UUxfWDVJSTZpRWw3ZmVoeVJTQ05VY2E0dw?oc=5",
-     "domain": "Yahoo Finance",
-     "date": "2026-08-18"
-    },
-    {
-     "title": "Plug Power Falls 5%, Bloom Energy Sinks 8% With the 10-Year Yield Near a 52-Week High",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdl9IMm00eDRqbzh0OVhSRW1WTW1LZVdIbWlWODRwRFdaekhLckNXZTNadkxKRjRiUnlkTXNNSkxxV2VUNnN0MlZaRHlFWXN3YkNHOHRVTEExaUtrbHlvYm1PQmJxajgtNWhzQk5KN1BhN252a0RjcUJrWm1SaEdtbG50ZWF4U3hoR29oQWV2T2NuaF85MXl6UkZzbU96RVNOZ2Q5Zjl5RGZvdDJkZTBPM1N4RDk4S3Vja0VQcXNtV1pEal9H?oc=5",
-     "domain": "24/7 Wall St.",
-     "date": "2026-08-18"
-    },
-    {
-     "title": "Bloom Energy Introduces Power Connect, Cutting Onsite Power Installation Time by Over 40%",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMVAyUnRZUlBLTlgyZmctT2ROTzQtVHFOR1o2WjN1bjBTUDlvb2c4XzVPekRQcDlVemJHcWtuRnhlTnZiZTFJX0ZKaUVkTVYtRERITDNMbTUzanBnMFlfVXVrLWtoY0dMSjd0d0hWVU9sTHQ5bmNXNlpxY0RKcnZFNUhkcG1RanZmMW5wWklsWUFzV2JrRm5neFNrNlBVYWRyU3BhemJUWWlfZG4wak1XSzRNcmMyZWFuWTMyUHk4ZWprTW13c2d3bUtrS2JpNUJnRVpPSl9qSk15c2Nj?oc=5",
-     "domain": "Business Wire",
-     "date": "2026-08-19"
-    },
-    {
-     "title": "Nebius Switches to Bloom Fuel Cells for NJ AI Data Center",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWWFsaW5nbkFfdmhjRmFDRTNibGdIeFhFampmYmJUVDF6aXA1VUxiem5oS3YtM0xrTE1DdmZRMk1lQlNiRmNLSUZzM2Zfa3UtRTA2MlVqZlo1bm9mNjBEWjJTcnFndFpQSlhfNjctUEJ0MDQzUzN1VldwTTl1ZFc0VkN2cGIwWVd5YnRJdVNXa1FRSUNBQUlJRWlkX3dGd01xNmFBaFZHZDFFdnJvQ2FKTlpkMmF3cXJzTEg2ckNwZ1ZORkFHU0pydVkwZmNTOFJqVHc?oc=5",
-     "domain": "Fuel Cells Works",
-     "date": "2026-08-17"
-    },
-    {
-     "title": "Bloom Energy: Up 136% This Year -- Is There Still Room to Run?",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT1M0Smw5SGJldmZwLW5fdS1BdHhDVzNGLWh0V0h0MHU5eVJRbTBiWklBZ3ljRU5RMHllS055ZTRObkozcGh5RWZfaTZpV3F4NDRwemxzM0g4TUVIMkJqazUxWTZoSUVZWjE4OHZaS3Y3aDQ1S0tGRDJ5NlloT0tMc0xsNWhiTDRKbk5ubDdLbGZmeklmRkpz?oc=5",
-     "domain": "The Motley Fool",
-     "date": "2026-08-20"
-    },
-    {
-     "title": "BE stock analysis: Is Bloom Energy a buy or a trap?",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOanBWakpiSHdrUUFCQXVMSW9fa2VYbWNoMFlLdlVlRXZBRmE5dlAyTWlBelh1OEYyUmdwNnowZnNqUlhjdGNPTG1kOVBBVEkwRGRSUmZOWURVNVZIdFprMWtVaE5falRNOERWZXFOZFVNY3FwekQzeGFfakNkT2d1VERxVEtEYWZMd1hhSDFtVm9GU19fUUVPVFJsaXJfTEd4X2gteTNYN1FGTUZGS3RDbw?oc=5",
-     "domain": "Investing.com",
-     "date": "2026-08-18"
-    }
-   ],
-   "explain": {
-    "summary": "Bloom Energy: attention is rising, led by news coverage (+2.5σ vs its own baseline). In the news: “Bloom Energy Says It Has Visibility on 25 Gigawatts of Deployments. Here's What That Woul…” (Yahoo Finance); “Plug Power Falls 5%, Bloom Energy Sinks 8% With the 10-Year Yield Near a 52-Week High” (24/7 Wall St.). Stock: -12.4% over 5 days.",
-    "tone": "unknown",
-    "drivers": [
-     "news: Bloom Energy Says It Has Visibility on 25 Gigawatts of Deployments. Here's What…"
     ],
     "source": "heuristic"
    }
@@ -1660,6 +1381,12 @@
      "date": "2026-08-21"
     },
     {
+     "title": "CRSP, VRTX Stocks Surge As FDA Clears Casgevy For Children Ages 2 And Up",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYktrRnhKM1NTMmJLOGE5VW1jYU5QX3N4VmZWanhjMklxX0d1X3NzN0tmb21LNVJlOTFWZzVlamhPYWo0SDM5aUwtZkFkOURGRDNfWm9BQkh3NjYxTkhPVll0UFA0S1ZEYm5Ock9iMURqa1llQjBlSUdlaFlsbXdVWktodllGcVZoQUN2aWg5QzJmMVdLdnVTUWd2U1Y5MWJHSkJ3UTNCTFRKSFB1NFY1Sy1hVkNWbFVsVFJQOTVLQTg2VGkzWG91ekF1MkFkMVRf?oc=5",
+     "domain": "Stocktwits",
+     "date": "2026-08-17"
+    },
+    {
      "title": "CRISPR Therapeutics Jumps as CASGEVY Momentum and Pipeline Catalysts Draw Buyers",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1EtdWlnbVRJSnlwdmNBcUVtNEYwcmtqaklBTEdRSVV5WXhNVkhNU2d3UTVyai0zLS1fTmltSlNfNVJEalFocTF3TlBUOG5Cd3poNkpZQVQxVldrX0dKVHlmeks1anFySU0zS3cyakRpYVdia1JHMUdMQXlyZVJwcnA4X2RlLWVRSW5NSWdpa09ONXluZzhFaEtMVlF6WG9HdHVkN19Bc2dqSjdEbTdnMnhuYw?oc=5",
      "domain": "Quiver Quantitative",
@@ -1682,16 +1409,10 @@
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTTI1ckhSR1BvdEhRV1k2SVVKRXUxZkswcEIwN2dSQ3lnZmVJN0RLdHhYallKVjBsdXFYZFdXTF9adENacGFlOUIxbWp3b2h6X3NQdllxbmVzWW5ERUkwcy1MU2VBcVVUVTJaazdnbFVwSGFVVEZ6cGJiQ01qc1JRLVd4V3lTR3RpWXh3WXlZWHBhblRyMUFJUnlpY21OU183YUtPT0NkVXllTUpPWDVqeG93VUdUOWFabDdkSkk2eGQyRTVzSEVDVTR6Mk43bktuaThKeFhYTmR5dk1QN2U3WnFR?oc=5",
      "domain": "MarketBeat",
      "date": "2026-08-20"
-    },
-    {
-     "title": "crispr therapeutics glp1 receptor agonist weight management diabetes treatments *xoxZvWEDv*",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeTJDLU5CbzdxWkhkeFp6T1dYWjZyU19kSXAwaHZhWUktS245ai15WE9Kek5YME1tOVlCX1AzeEpTMlhHM1ljTmRJUGlieUdZTWlzcjhvU3pKUjJRaThlcW13dVpBczloaEFCMFFYczhnUTNWV0NCX0RZU2hfbkNmOHZfNXh2WFNKU0NOMUxEOW5EbTlDMWFKSHVGS3JhSzNiMDRzZzZITDgyNW9mT2p4Mm1XT2VwNHFwNG1PTVRxMURMMFRnNjlyRUg4OXJkOHh4?oc=5",
-     "domain": "mnlr.ro",
-     "date": "2026-08-21"
     }
    ],
    "explain": {
-    "summary": "CRISPR Therapeutics: attention is around normal, led by Wikipedia lookups (+1.0σ vs its own baseline). In the news: “CRISPR Therapeutics Stock Is Up Only 8% This Year. Is Cathie Wood's Bet on the Gene-Editi…” (Yahoo Finance); “CRISPR Therapeutics Jumps as CASGEVY Momentum and Pipeline Catalysts Draw Buyers” (Quiver Quantitative). Stock: +11.1% over 5 days.",
+    "summary": "CRISPR Therapeutics: attention is around normal, led by Wikipedia lookups (+1.0σ vs its own baseline). In the news: “CRISPR Therapeutics Stock Is Up Only 8% This Year. Is Cathie Wood's Bet on the Gene-Editi…” (Yahoo Finance); “CRSP, VRTX Stocks Surge As FDA Clears Casgevy For Children Ages 2 And Up” (Stocktwits). Stock: +11.1% over 5 days.",
     "tone": "unknown",
     "drivers": [
      "news: CRISPR Therapeutics Stock Is Up Only 8% This Year. Is Cathie Wood's Bet on the …"
@@ -1948,16 +1669,16 @@
      "date": "2026-08-20"
     },
     {
+     "title": "ODD Q1 2026 Earnings: Loss of -$0.17 Per Share Misses Consensus by 741.58% - Quarterly Financial Update",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTjNYMjVadFVCZ2hTdU5hVzFCYmNnRE1qLXhERE50dF9qU1BpOEpWLXZGOFBxeFBTbUlwVWFsbjlDVEV0VnE4cy1NM0JfMXFVVHc5SnlZRElTSDV1SHhhN284UnlmWHFISjd5TDRRbkQ0Mm5ITHhsZURLS3hwZ19GSjAzRWQxamNGMjNZU0NSVGEwWEkzRFhsM2d6aUVESERzWUh5V3BxbGVOTFhrekVF?oc=5",
+     "domain": "vinanet.vn",
+     "date": "2026-08-15"
+    },
+    {
      "title": "ODDITY (ODD) Earnings Check: EPS Falls Short of Its Estimate in the Reported Period; Market Reaction: Shares Finish 1.74% Higher in the Latest Session - Earning",
      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNeE1RMjdXd1pPRU5sMjA4WHJOT0NhQmFIa21kRGE5anlrNXlGNW5aOUZLYXVia3l3U0thdElpSG9sd2h0RHBvTUhBQm9BLXB6UC1DbjE3R210NEN3Z3pDdkVjRGVxN3ZZdm4tdUp4UEVBOXZpV2JNQy1nREtwNVhpZ2pTT3FuMGpkdWV5bzd2LU9TQjNodXFMcVNoMzRNRVhSY1dUd3BRQS1sM3VxY1VSdDJuc0IyTGpmMlhBQ05EcURYcmpPVWdiMm9OdzA3SlI0cWxCeGQ3aW9yXy16cjJheElkbHJKSnhQdThVY0M0NWtQWGFBeUZaLTBROEthQ2tmeDBDMTRIYy1JcHJVNHpYMTlsbjk?oc=5",
      "domain": "vinanet.vn",
      "date": "2026-08-19"
-    },
-    {
-     "title": "ODDITY Tech Adds Veteran Investor David S. Cohen to Board and Audit Committee",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUUgtZExVd1A3UnNYRDBxOWFkTnF6VktHVmc3SmFWUk95Z2lFRXpZX1Qwa24zdWlXQ0FyOG9Db09uUjBPSm1SSXA2NlhkcEhJcXhOd3ZwbkdieHFka3FQY2kzMTU5alZJeVNkelI3V3c3SWZhbmNYSERSNmZDcEExRTBRSXllSmVzMXg1S2IwY09mZm5ycUhjVlRTbU5YWndEX2VhTHZtSExvaGZJS0taeV9pajBGb0ZLbnZPZEtqYVJQNnJULWlJ?oc=5",
-     "domain": "TipRanks",
-     "date": "2026-08-21"
     }
    ],
    "explain": {
@@ -2222,16 +1943,16 @@
      "date": "2026-08-17"
     },
     {
-     "title": "Jira vs monday: Which Is Best for Your Team?",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YSFVyTENGdnFYTlV2Y2tKODZIQjNBT0dTUnhmb3BxUWVfcGtzYUlQdTM2WkhXa2pvMU44OGp2dlA4ZnVyaUY0R2hKeUVybHhSWEhIMDZmTE5Hel9wZHFOclU5ODFmbUk?oc=5",
-     "domain": "TechRepublic",
-     "date": "2026-08-17"
-    },
-    {
      "title": "WIN: Be our VIP in Las Vegas",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONzY5cExuVG5nckk0US04cW1kdVIyX3RUcExFMmhWNGEzanZtOGNTT2Fzdjc4aWFZMXg4WnJ1Q0JBQy0tRXF0NGZYUzMtdml2SDhSb210aEZ4aDZjX3Fkd0xIUVVNbGFQaUYyZEVFQnZZbFJtSHlsYnQ2ZkVEa01GR1Q0TXBrQlc3VE9waWhVaTdveDBmbGJmbWVaY3RnVlF3a3c?oc=5",
      "domain": "williamsf1",
      "date": "2026-08-17"
+    },
+    {
+     "title": "5 Interesting Learnings from Atlassian at $6.6 Billion in ARR: 28% Growth, 44% RPO Growth, and a 35% One-Day Stock Pop",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHQyQkJzNFlIZDNndllLdE1zSFd4M01yYlJLcVdwSzZ5OERnVHBvRjRVN0hTWXIwZFVMb05MbXhSUlp3R0FXNWdoNXFkTlhuU2ZfWWF1d2xYTVpmUWQyWG9qVnJ5Y1JzMlN2MS0xeGpUUEJzS0YzeWlKeTkxUm8wR3RrQWRmUk51Y0IwYVBTVkhwakd2YXU3NkdfZ0YwMmhPaDNMNVN4RndmSEY4ai1fNnc3MEkwMnFQcGtuT0Jfd1JUVkdaQVRSQmI3Zm5jdEFM?oc=5",
+     "domain": "saastr.com",
+     "date": "2026-08-19"
     }
    ],
    "explain": {
@@ -2240,239 +1961,6 @@
     "drivers": [
      "news: Connect Salesforce to the Teamwork Graph to unlock customer context for your te…"
     ],
-    "source": "heuristic"
-   }
-  },
-  {
-   "entity": "amd",
-   "date": "2026-08-22",
-   "social_z": 0.0,
-   "finance_z": 0.0,
-   "wiki_z": -2.38,
-   "news_z": 0.61,
-   "breadth": 0.0,
-   "acceleration": 0.0,
-   "lead_ratio": 0.5,
-   "sentiment": 0.0,
-   "intent_rate": 0.0,
-   "scarcity_rate": 0.0,
-   "unpriced": 0.6001,
-   "direction": "mixed",
-   "breadth_gate": 0.15,
-   "price_return_5d": -0.08,
-   "volume_z": -3.48,
-   "arb_score": 10.6,
-   "flags": [],
-   "why": [],
-   "name": "AMD",
-   "ticker": "AMD",
-   "kind": "tech",
-   "note": "",
-   "mentions": 0,
-   "examples": [],
-   "sparkline": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "wiki_spark": [
-    132,
-    121,
-    128,
-    125,
-    137,
-    154,
-    144,
-    132,
-    155,
-    105,
-    116,
-    146,
-    149,
-    123,
-    115,
-    99,
-    119,
-    130,
-    108,
-    105,
-    164,
-    127,
-    121,
-    100,
-    131,
-    133,
-    125,
-    141,
-    98,
-    0
-   ],
-   "history_days": 91,
-   "social_days": 0,
-   "attention": {
-    "entity": "amd",
-    "date": "2026-08-22",
-    "attention_z": 0.55,
-    "driver": "news",
-    "channels": {
-     "wiki": -2.38,
-     "news": 0.55
-    },
-    "corroborating": [],
-    "stage": "quiet",
-    "acceleration": 0.31,
-    "trends_hit": 0,
-    "finance_noticed": false,
-    "price_return_5d": -0.08,
-    "price_return_20d": -0.0933,
-    "volume_z": -3.48,
-    "unpriced": 0.6001,
-    "has_prices": true,
-    "has_social": false,
-    "direction": "unknown",
-    "attention_score": 15.4,
-    "past_spikes": {
-     "n": 2,
-     "median_10d": -0.0212,
-     "hit_rate": 0.0
-    },
-    "flags": [],
-    "why": [],
-    "z_spark": [
-     1.17,
-     -0.3,
-     -0.42,
-     0.79,
-     1.73,
-     0.54,
-     3.33,
-     1.33,
-     -1.29,
-     -1.27,
-     0.49,
-     -0.82,
-     1.27,
-     1.26,
-     -0.34,
-     -1.0,
-     -1.28,
-     -0.44,
-     0.08,
-     -0.13,
-     -0.13,
-     -0.61,
-     1.32,
-     -1.26,
-     -0.54,
-     -0.02,
-     -0.3,
-     -0.56,
-     -0.32,
-     0.61
-    ],
-    "driver_spark": [
-     0.053,
-     0.03,
-     0.026,
-     0.042,
-     0.058,
-     0.043,
-     0.082,
-     0.054,
-     0.017,
-     0.016,
-     0.044,
-     0.023,
-     0.056,
-     0.059,
-     0.029,
-     0.017,
-     0.012,
-     0.027,
-     0.034,
-     0.032,
-     0.03,
-     0.022,
-     0.055,
-     0.012,
-     0.025,
-     0.032,
-     0.028,
-     0.022,
-     0.025,
-     0.041
-    ],
-    "price_spark": [
-     534.39,
-     548.13,
-     529.14,
-     500.94,
-     495.76,
-     503.57,
-     544.43,
-     552.33,
-     539.69,
-     521.95,
-     494.95,
-     454.62,
-     429.56,
-     485.39,
-     476.15,
-     484.64,
-     518.58,
-     482.05,
-     489.28,
-     483.36,
-     469.56,
-     474.32,
-     482.93,
-     483.01,
-     514.39,
-     506.0,
-     484.39,
-     466.42,
-     469.46,
-     473.25
-    ],
-    "channel_dates": {
-     "wiki": "2026-08-21",
-     "news": "2026-08-22"
-    },
-    "app_rank": 0.0
-   },
-   "rank_score": 15.4,
-   "headlines": [],
-   "explain": {
-    "summary": "AMD: attention is around normal, led by news coverage (+0.6σ vs its own baseline). Stock: -8.0% over 5 days.",
-    "tone": "unknown",
-    "drivers": [],
     "source": "heuristic"
    }
   },
@@ -2701,9 +2189,286 @@
     "app_rank": 0.0
    },
    "rank_score": 12.9,
+   "headlines": [
+    {
+     "title": "'I have a campaign committee': Blumenthal on running for re-election despite questions about his age",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcldsZ2JUNU5yazNWTGd4RVdWbFR4T2ljeTdtdHNjeG5HMzAtY19jbUJuczN0OThXR1NwRWRXVk5vVTA2c1VndFZXU2hZMFhVeGJTRkNJVE1tN2pPN20xdU5WeFEyUmU4M3Jwa09makZtSkRlU21vX3Q3Zmd2Wk1OVXVEcmZyaUJIaHdwTHJEbFd5dVZCUVNDWmxUOUJiTGpEOGZaeXBOaE5xUGZRQ184TFpuSzlLaDREM045LTVNUVA1YzdoZHhuVkkzMG5zQlk?oc=5",
+     "domain": "WTNH.com",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "On Running and Writing",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtVHF6SV8tRVJNY2hmRDhMSG54bHZQWFZMclh6N3VPM2pSMW1nTENkdlNoa3AyUGZnS2hQOGhnLVFVQlBCRHRISklZeUwyU2hjbjI5REl6dVRfQQ?oc=5",
+     "domain": "iRunFar",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "WATCH: Ford, players reflect on running back room",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRmgtOHRVUjFqb1kwVXlWSTVSdnpyek83X2NtRkZNLU9SNzhWa3dsYy04cWVsMG00NWhsQUpXSEl3VzJUQmdzSGJlc2xBNzhGbEZtVUVfVklEaGZwSDVjZ1lzZXdqZGlPU1BpNzBGc0c2Nm5GOVhZZ2wwZ25vZDQyR0VESzNCRndDYk16OXlidlhlQlQ0UVlMY2g0cGZETEU1R3RRcEwtSlA2NnFGMVYtU3hSV0ZBRVRGT2o3QzhTZEpadXZxZWpaWi1OX0ZSeUxvR3dfOWhRMzZrZjNHQU1XRXRjZw?oc=5",
+     "domain": "Purdue Exponent",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "On Holding Executive Olivier Buys 65,000 Shares for $2.0 Million",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMlFrQ3VLN1FNcXNRV0s0QTh4THJCeXRXMTU0RzBxbjBXT0ZKZ0Q0SXVlREJjanNxUjRZdnBlSW15dk1CYkM4LUx1MjR2RUpGeFZUNDdXbFFpODNhd3AxenJxNjZpQUpvQXlDcEVnaHpLZ1dkNEtMcWdBNHhWdGJPZEdlaEVCakpjQUFKX3B1VjVEWmtpMXlDX3poQ0JYUlRJNHU0ekFCOVoyT2R3MkRQMGhxQkJ4MUk?oc=5",
+     "domain": "The Motley Fool",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "Riverhead Town Board to vote on holding another Monroe Balancing Test hearing over SCWA's revised pipeline route",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZGgzNExXRWxQNnV1SXpiMjROWFBnUGlVN09qZDFvYmd3Mk80TUg0b3ZQa29VNW9Ba0N2X01tNFZPUUVweGJoUDVrWlNNMm84ZHk2MnR1UGV6dWlzSkhFdjBSOTVaMG1CSHBQbFZNcV9ERDBWTDdFcE11MmV5VHVXMXhCUnFVTktGVzRsOHJRcEZHejRCRC1FQldISk1GV3ZhM3FHSHRUeVpNYllfbGNBWEJzZjFFWFA0SElYQTlxQnV2dm9kZ01zNG42SWZSYzMxQThOU1RtRXJKMElDUVdFY0JWdnBLbmdMS2dUcEgzVDFiaVJNV2YyWml1UE1sc2g2?oc=5",
+     "domain": "Riverhead News Review",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "Today’s Best Deals: On Running Shoes, a Classic Design Text and More",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xTWladDJWc2s0UTJKNS1xd2p3OEp4MmZNQk00Q25wZjJLUTFQbkx0UmpSdVgwQVRqNkhhb2h4UmtoYXFOZ3M5TlRoWmdzTjFRLWpMUTFQbEhhYU0zMkNzWnZ0Z3JHNE50NlF5WVF1bw?oc=5",
+     "domain": "Gear Patrol",
+     "date": "2026-08-19"
+    }
+   ],
+   "explain": {
+    "summary": "On Holding: attention is around normal, led by news coverage (+0.2σ vs its own baseline). In the news: “'I have a campaign committee': Blumenthal on running for re-election despite questions ab…” (WTNH.com); “On Running and Writing” (iRunFar). Stock: -6.8% over 5 days.",
+    "tone": "unknown",
+    "drivers": [
+     "news: 'I have a campaign committee': Blumenthal on running for re-election despite qu…"
+    ],
+    "source": "heuristic"
+   }
+  },
+  {
+   "entity": "bloom_energy",
+   "date": "2026-08-22",
+   "social_z": 0.0,
+   "finance_z": 0.0,
+   "wiki_z": -0.66,
+   "news_z": 0.39,
+   "breadth": 0.0,
+   "acceleration": 0.0,
+   "lead_ratio": 0.5,
+   "sentiment": 0.0,
+   "intent_rate": 0.0,
+   "scarcity_rate": 0.0,
+   "unpriced": 0.4,
+   "direction": "mixed",
+   "breadth_gate": 0.15,
+   "price_return_5d": -0.1239,
+   "volume_z": -0.58,
+   "arb_score": 7.8,
+   "flags": [],
+   "why": [],
+   "name": "Bloom Energy",
+   "ticker": "BE",
+   "kind": "tech",
+   "note": "GUESS — you said \"Blue Energy\". If you meant something else, change this.\n",
+   "mentions": 0,
+   "examples": [],
+   "sparkline": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "wiki_spark": [
+    245,
+    154,
+    201,
+    293,
+    645,
+    630,
+    792,
+    647,
+    402,
+    293,
+    370,
+    321,
+    272,
+    275,
+    292,
+    254,
+    233,
+    301,
+    265,
+    350,
+    308,
+    249,
+    194,
+    200,
+    247,
+    266,
+    287,
+    223,
+    243,
+    0
+   ],
+   "history_days": 91,
+   "social_days": 0,
+   "attention": {
+    "entity": "bloom_energy",
+    "date": "2026-08-22",
+    "attention_z": 0.35,
+    "driver": "news",
+    "channels": {
+     "wiki": -0.66,
+     "news": 0.35
+    },
+    "corroborating": [],
+    "stage": "fading",
+    "acceleration": 1.19,
+    "trends_hit": 0,
+    "finance_noticed": false,
+    "price_return_5d": -0.1239,
+    "price_return_20d": 0.0896,
+    "volume_z": -0.58,
+    "unpriced": 0.4,
+    "has_prices": true,
+    "has_social": false,
+    "direction": "unknown",
+    "attention_score": 12.5,
+    "past_spikes": {
+     "n": 3,
+     "median_10d": 0.1079,
+     "hit_rate": 1.0
+    },
+    "flags": [
+     "FADING"
+    ],
+    "why": [
+     "attention is coming off a recent peak",
+     "after its last 3 attention spikes the stock was up 10 days later 100% of the time (median +10.8%)"
+    ],
+    "z_spark": [
+     -0.37,
+     2.09,
+     1.87,
+     -0.82,
+     4.74,
+     6.51,
+     4.32,
+     2.86,
+     4.54,
+     3.65,
+     3.17,
+     1.66,
+     3.87,
+     1.23,
+     1.15,
+     -0.07,
+     0.09,
+     0.21,
+     -0.8,
+     1.7,
+     0.54,
+     0.9,
+     0.08,
+     1.43,
+     -0.31,
+     0.03,
+     1.48,
+     4.12,
+     0.58,
+     0.39
+    ],
+    "driver_spark": [
+     0.002,
+     0.005,
+     0.005,
+     0.001,
+     0.009,
+     0.012,
+     0.009,
+     0.008,
+     0.012,
+     0.011,
+     0.011,
+     0.008,
+     0.014,
+     0.007,
+     0.007,
+     0.003,
+     0.004,
+     0.004,
+     0.001,
+     0.008,
+     0.006,
+     0.007,
+     0.005,
+     0.01,
+     0.003,
+     0.005,
+     0.01,
+     0.021,
+     0.007,
+     0.007
+    ],
+    "price_spark": [
+     233.49,
+     243.4,
+     239.38,
+     206.73,
+     214.96,
+     197.06,
+     226.26,
+     218.22,
+     217.3,
+     184.89,
+     188.18,
+     166.84,
+     163.75,
+     207.12,
+     205.81,
+     218.32,
+     228.11,
+     234.33,
+     228.96,
+     219.34,
+     210.63,
+     211.21,
+     237.16,
+     236.22,
+     229.94,
+     232.16,
+     209.01,
+     206.63,
+     202.48,
+     201.45
+    ],
+    "channel_dates": {
+     "wiki": "2026-08-21",
+     "news": "2026-08-22"
+    },
+    "app_rank": 0.0
+   },
+   "rank_score": 12.5,
    "headlines": [],
    "explain": {
-    "summary": "On Holding: attention is around normal, led by news coverage (+0.2σ vs its own baseline). Stock: -6.8% over 5 days.",
+    "summary": "Bloom Energy: attention is fading from a recent peak, led by news coverage (+0.3σ vs its own baseline). Stock: -12.4% over 5 days.",
     "tone": "unknown",
     "drivers": [],
     "source": "heuristic"
@@ -3051,7 +2816,7 @@
     "stage": "quiet",
     "acceleration": -0.09,
     "trends_hit": 0,
-    "finance_noticed": true,
+    "finance_noticed": false,
     "price_return_5d": 0.0602,
     "price_return_20d": 0.1592,
     "volume_z": -0.95,
@@ -3065,12 +2830,8 @@
      "median_10d": 0.003,
      "hit_rate": 0.5
     },
-    "flags": [
-     "FINANCE_NOTICED"
-    ],
-    "why": [
-     "the ticker is trending on Yahoo Finance — the investing crowd is already looking"
-    ],
+    "flags": [],
+    "why": [],
     "z_spark": [
      0.87,
      0.63,
@@ -3176,6 +2937,239 @@
    "headlines": [],
    "explain": {
     "summary": "Tesla: attention is around normal, led by Wikipedia lookups (-0.9σ vs its own baseline). Stock: +6.0% over 5 days.",
+    "tone": "unknown",
+    "drivers": [],
+    "source": "heuristic"
+   }
+  },
+  {
+   "entity": "amd",
+   "date": "2026-08-22",
+   "social_z": 0.0,
+   "finance_z": 0.0,
+   "wiki_z": -2.38,
+   "news_z": -0.31,
+   "breadth": 0.0,
+   "acceleration": 0.0,
+   "lead_ratio": 0.5,
+   "sentiment": 0.0,
+   "intent_rate": 0.0,
+   "scarcity_rate": 0.0,
+   "unpriced": 0.6001,
+   "direction": "mixed",
+   "breadth_gate": 0.15,
+   "price_return_5d": -0.08,
+   "volume_z": -3.48,
+   "arb_score": 9.5,
+   "flags": [],
+   "why": [],
+   "name": "AMD",
+   "ticker": "AMD",
+   "kind": "tech",
+   "note": "",
+   "mentions": 0,
+   "examples": [],
+   "sparkline": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "wiki_spark": [
+    132,
+    121,
+    128,
+    125,
+    137,
+    154,
+    144,
+    132,
+    155,
+    105,
+    116,
+    146,
+    149,
+    123,
+    115,
+    99,
+    119,
+    130,
+    108,
+    105,
+    164,
+    127,
+    121,
+    100,
+    131,
+    133,
+    125,
+    141,
+    98,
+    0
+   ],
+   "history_days": 91,
+   "social_days": 0,
+   "attention": {
+    "entity": "amd",
+    "date": "2026-08-22",
+    "attention_z": 0.0,
+    "driver": "news",
+    "channels": {
+     "wiki": -2.38,
+     "news": -0.28
+    },
+    "corroborating": [],
+    "stage": "quiet",
+    "acceleration": 0.0,
+    "trends_hit": 0,
+    "finance_noticed": false,
+    "price_return_5d": -0.08,
+    "price_return_20d": -0.0933,
+    "volume_z": -3.48,
+    "unpriced": 0.6001,
+    "has_prices": true,
+    "has_social": false,
+    "direction": "unknown",
+    "attention_score": 9.0,
+    "past_spikes": {
+     "n": 2,
+     "median_10d": -0.0212,
+     "hit_rate": 0.0
+    },
+    "flags": [],
+    "why": [],
+    "z_spark": [
+     1.17,
+     -0.3,
+     -0.42,
+     0.79,
+     1.73,
+     0.54,
+     3.33,
+     1.33,
+     -1.29,
+     -1.27,
+     0.49,
+     -0.82,
+     1.27,
+     1.26,
+     -0.34,
+     -1.0,
+     -1.28,
+     -0.44,
+     0.08,
+     -0.13,
+     -0.13,
+     -0.61,
+     1.32,
+     -1.26,
+     -0.54,
+     -0.02,
+     -0.3,
+     -0.56,
+     -0.32,
+     -0.31
+    ],
+    "driver_spark": [
+     0.053,
+     0.03,
+     0.026,
+     0.042,
+     0.058,
+     0.043,
+     0.082,
+     0.054,
+     0.017,
+     0.016,
+     0.044,
+     0.023,
+     0.056,
+     0.059,
+     0.029,
+     0.017,
+     0.012,
+     0.027,
+     0.034,
+     0.032,
+     0.03,
+     0.022,
+     0.055,
+     0.012,
+     0.025,
+     0.032,
+     0.028,
+     0.022,
+     0.025,
+     0.025
+    ],
+    "price_spark": [
+     534.39,
+     548.13,
+     529.14,
+     500.94,
+     495.76,
+     503.57,
+     544.43,
+     552.33,
+     539.69,
+     521.95,
+     494.95,
+     454.62,
+     429.56,
+     485.39,
+     476.15,
+     484.64,
+     518.58,
+     482.05,
+     489.28,
+     483.36,
+     469.56,
+     474.32,
+     482.93,
+     483.01,
+     514.39,
+     506.0,
+     484.39,
+     466.42,
+     469.46,
+     473.25
+    ],
+    "channel_dates": {
+     "wiki": "2026-08-21",
+     "news": "2026-08-22"
+    },
+    "app_rank": 0.0
+   },
+   "rank_score": 9.0,
+   "headlines": [],
+   "explain": {
+    "summary": "AMD: attention is around normal, led by news coverage (-0.3σ vs its own baseline). Stock: -8.0% over 5 days.",
     "tone": "unknown",
     "drivers": [],
     "source": "heuristic"
@@ -3900,7 +3894,7 @@
    "corroborating": [],
    "stage": "rising",
    "acceleration": 5.11,
-   "trends_hit": 1000,
+   "trends_hit": 500,
    "finance_noticed": true,
    "price_return_5d": -0.0297,
    "price_return_20d": 0.0344,
@@ -4052,7 +4046,7 @@
     "corroborating": [],
     "stage": "rising",
     "acceleration": 5.11,
-    "trends_hit": 1000,
+    "trends_hit": 500,
     "finance_noticed": true,
     "price_return_5d": -0.0297,
     "price_return_20d": 0.0344,
@@ -4191,21 +4185,9 @@
      "date": "2026-08-21"
     },
     {
-     "title": "I Hope GTA 6 Borrows a Lot From GTA 4",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00THBGb3dFdmQzY1BUNk5RcF9ZX1dsdzRuelM5QmVIdG1WMVFLSElJYk9jOG9UcDh5amNxTC1tN2lmWWV2MUE2TjVTRF94UVRsNDNYdTFwOGNRVlRhLUtHXzRqNVNOTmpBVk1OeUtNUzB3OXdO?oc=5",
-     "domain": "IGN",
-     "date": "2026-08-15"
-    },
-    {
      "title": "GTA 6 cars need gas? OK, I'm finally on board",
      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOE5lOVFIdFEzYTNHQ0JQVjBWdUNvcjczdnBGc3hPRS15Q25jVkZPTkJPM0JISDVHVnV3NVhyTnFUQlYydU5tbDB1WTNCSDNRRmFheW94bXBFeWNmbUhHS25nbFpReFJTQzk5NGkxbFA2b2pwV09qWGJ2Tksxb2tPa1g4Ukg1S2lfVHpnTk51ZExvQzVf?oc=5",
      "domain": "PC Gamer",
-     "date": "2026-08-19"
-    },
-    {
-     "title": "Some U.S. Army Members Are Being Offered Four Days Off to Play ‘GTA 6’ if They Reenlist for at Least Two Years",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbDFFMlVBQTFjRUNvWVNSWEc2a3RnTWx0bmtiMVJOSU9wd1FKVkU5RmF4RHI1eUFhWm0zV2lWcU9QWHlQQ3BHUzU4VkR2WVBPRjNZZE80Qm83dEVuMUl6TlNLSjBuakd3Z3N1TThvck5xcDRUT0JVNGo2dVoyZUlyTHhXWWR2WXVXWTc0Q3ljeUZvUE9RSGg2MU01QUpianFj?oc=5",
-     "domain": "Variety",
      "date": "2026-08-19"
     },
     {
@@ -4215,14 +4197,26 @@
      "date": "2026-08-21"
     },
     {
-     "title": "Army battalion in Georgia offering 4 days of GTA 6 play as reenlistment incentive",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZXhoUkV3WVhpdzVBa1BubDJ1SHNnWFNrV3NEemNOUjNXSnpxcE1meGxkU1ItZllmaHJWOUtPNWkta1BlbGJMTml2N2t4dGlwY0NRY3o5aXFDSkRwNXdQTkVYRkprOFJaREZjaE14LW9OV0ZwSkFLOWs3YUl4RlVOckVB0gGHAUFVX3lxTE9URW54WUNqdjFIZlplUUFReHFETmtGTUVKbjVvOV8xeURLOHZOM1c3RTBkdEdVSGdRNjR0YXdCSU56cXNhTWxXdDlYU3VvZ1JvRlY4dk9QZC02czBMYl9Na0NrSl9sNWEwUTVlRVdTd2tZQ2hCQ1JUR2hjNzJDd2hrM25oVGRoTQ?oc=5",
-     "domain": "The Hill",
-     "date": "2026-08-19"
+     "title": "I'll Be Honest, I'm Dreading the Launch of GTA 6",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYXNQR1ZjcW96TXZINlA2dXU1UGJIampyNHVMTTdqUi1Jb3NaUGYxckt2RG0tWkUyd2l5YjVQdWg3elRRUEZxcDFYT3Q0MV90a1BiSnJNaTdGUWlud25fNUhXSGJreGxSd0VTS2k0SXZ3WWd4R0ttVW11cTE2U3BpVnZub2QyMWNJR1dDVURDYXFPR3VLaEgxdzdR?oc=5",
+     "domain": "PCMag UK",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "‘GTA 6’ Developer Rockstar Games Subpoenas Microsoft, Discord Amid Leaks",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWWl4ZWw1SzZqbmg5cE5rMXczYWRhRGVQaXEyUkVSSGtZRmlRbVBPQzdvQzNJR2JSYnpSek1QOGR6Vl9pNUNiSGNkVGFwVWxDZkZabGpCbHB5ZDlxMVJyZHBRd2Mzd2UzR0Fyekk1a2J6TjVRbWZDX2xENE5ySnZDUDR1NkxkUVhsb3hSSGRZN3A3LWNyMklpdTA2ZVR0Zw?oc=5",
+     "domain": "Variety",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10UTlBQXVrNHE1Z0M4U3ExYy12cDIxUkFUbVBQSFB1MDVLcTduMVN0NEc3eTRadVJ1WU44R3AzLTM5a1FXb2xNWHdHSWM5Yld6cW9sd2ZIX0FVdw?oc=5",
+     "domain": "BBC",
+     "date": "2026-08-21"
     }
    ],
    "explain": {
-    "summary": "GTA 6 / Take-Two / NBA 2K: attention is rising, led by Wikipedia lookups (+6.5σ vs its own baseline). In the news: “Take-Two Subpoenas Microsoft And Discord Over GTA 6 Leaks” (Kotaku); “I Hope GTA 6 Borrows a Lot From GTA 4” (IGN). Stock: -3.0% over 5 days — the stock has not reacted yet.",
+    "summary": "GTA 6 / Take-Two / NBA 2K: attention is rising, led by Wikipedia lookups (+6.5σ vs its own baseline). In the news: “Take-Two Subpoenas Microsoft And Discord Over GTA 6 Leaks” (Kotaku); “GTA 6 cars need gas? OK, I'm finally on board” (PC Gamer). Stock: -3.0% over 5 days — the stock has not reacted yet.",
     "tone": "unknown",
     "drivers": [
      "news: Take-Two Subpoenas Microsoft And Discord Over GTA 6 Leaks",
@@ -4517,15 +4511,9 @@
    },
    "headlines": [
     {
-     "title": "Former Abercrombie & Fitch CEO Michael Jeffries competent to face sex trafficking trial, judge rules",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjVDYVQtZENXRWltampkU1VrREZpSWw2VFd1RTdpZmRtZ0pzVWhTZzZkWkYwbU9ZNnJKd0c5dk9yd0N3OU45ODRTSC1UY1VURy1tOG1nQnkya212X2dZTDM3cmYtb21NcXVlVi1DVjNVTWNVRWp2QnJ3Tld1MUx4Uko2a042T3Bzem9nUlB2NW8tUlJSNTFVbWVXZWxuZjRybGY5QkZCY1RuUUEzYllRcFFYMGh0MTA0Nnc?oc=5",
-     "domain": "NBC News",
-     "date": "2026-08-21"
-    },
-    {
-     "title": "A&F Expands Distribution of NFL Product Through Fanatics Partnership",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0RHMmRIRmVmRU94VlhyUE1rV0VPaTh2bjlxTHF1Q2Z5YXpfOXNRZlpSNU1keGFsbVItS2lXemlxMEVOZTJ2bGZMMFFwV09pQVYzYzJIdjViZUtEeTVjZUhWOEhYREZWTFpxcU5GUTBkMjBsUGtJdVd3cUxtTkFXQmhETU53Mk9KR0xQVXUyQmk2M3V6N3VCMFRuNXhPU3dQSTRxUGFDMzhMRDVvNzFqMFJnRVBTdw?oc=5",
-     "domain": "WWD",
+     "title": "Abercrombie & Fitch, Fanatics team up to expand NFL collection distribution",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSHhNZHQzeS1ZS3VrWUp0OVZWTGFXYjlBNmo3MG5TNmxIUFlWZ3Azd01nVzdYdUpoUWlTSmV6aGR4TVJEbmx5d0NUajNKZlhISnM4VXhUa2dCVEswb1drNUhFVHNJYVRBbjJaNGdTTWtGR0c4RnhEMUQ2WWhmQUZJWFk2NWlsV3YwT3B0QmszRXFqTEZDWUpicXVZRjRmLVJjZ2JrVVFXN3pzbFBsSzBoVEVxT1J5UklEMTRnX0RweTFqVTFWemFrOUdXZw?oc=5",
+     "domain": "Sports Business Journal",
      "date": "2026-08-19"
     },
     {
@@ -4535,29 +4523,35 @@
      "date": "2026-08-20"
     },
     {
-     "title": "Former Abercrombie & Fitch CEO ruled mentally competent for sex trafficking trial",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVFZTRENmOXNXX28zWXllLVJ1VHFwTEVRUzNJdEVYcUtXR01SN0JpRjYtdUFCR1QxUURfelMySm5xVktqcGFicnhRZUYxLVk3M2xkT1VsWmx2UHpkSWMzaElZMFN6eUZGUlJ3MTIyYWhsdTAxNmtMcXlYN0ZGMTJkaGNyVGpXRXhTTjNrN3dDaktvQ21aOVUw?oc=5",
-     "domain": "amNewYork",
+     "title": "Abercrombie & Fitch (ANF) Is Weighing Options For Its China Business",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWWdyOTZaaGtZNVJ6MkhXSXotX3NMeVJqU3cwd09ibk1vekl3dnF3YUtCOEp3SmhCOWlzY1R0OVhLV05tX0NXZU90TnZHbnA3Q2FEc2RxUGFKVi1DYWotdUJKYkxXS1ZjMlRoUXhfU3FDeXZMVGJfZnpTQXlJYzNVeDBTQlJoTkcwZU1qU2hQM3NVUnpLRUFnaFkyR1dpb1Vpd1o0LXBB?oc=5",
+     "domain": "Yahoo Finance",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "Former Abercrombie & Fitch CEO Michael Jeffries competent to face sex trafficking trial, judge rules",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjVDYVQtZENXRWltampkU1VrREZpSWw2VFd1RTdpZmRtZ0pzVWhTZzZkWkYwbU9ZNnJKd0c5dk9yd0N3OU45ODRTSC1UY1VURy1tOG1nQnkya212X2dZTDM3cmYtb21NcXVlVi1DVjNVTWNVRWp2QnJ3Tld1MUx4Uko2a042T3Bzem9nUlB2NW8tUlJSNTFVbWVXZWxuZjRybGY5QkZCY1RuUUEzYllRcFFYMGh0MTA0Nnc?oc=5",
+     "domain": "NBC News",
      "date": "2026-08-21"
     },
     {
-     "title": "Vuori Names New CMO from Abercrombie & Fitch",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWjVxVG91MVFkdWx1OHNWYUJSekRsbXZXVWtfS2lYUk8wQ3I2N2MyOXAyT3hwM1diVUhETEkyeThLU2txS3ZqaXB3dWNWMmhZUXBQbzUwMFFRTnBPX0YwN2hPY2VqMlJDRmM5ekFFYWc1cm1GWWlSNWRFcGpaVTlWMm9FX21oMmdNSHBIRm9vak14MzQ?oc=5",
-     "domain": "Shop Eat Surf Outdoor",
-     "date": "2026-08-17"
+     "title": "Abercrombie & Fitch and NFL Build on Official Fashion Partnership for 2026 Season",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMTR3RFhfWV9neEVzb1RwWnlxZmE5V3htekNoWDAxRTZtUDRUV184Q1ZhM3htckhUQkFtcTF1LUlabS02X3FwRGpsUklDa2tCOFBPTmpjU0tFN3JvTmhIUlIzcjdzU1VobkJJLTM5c0h3bmZ1M3dYMXM4ZTgycWFfdk5GZ09PSGJiR0E3VUVYOEN2eWgyTk9zTTIxT0xjSXJfNkpJMU92NmVoalI3UlNtaDNwUFQyQnJTeXQ5N0UybnNYZENJRDZ1cXoteXp3M2szbjNUNm5lTmRXdEZIenRaRmRCRGtWQQ?oc=5",
+     "domain": "GlobeNewswire",
+     "date": "2026-08-19"
     },
     {
-     "title": "Ex-Abercrombie & Fitch CEO is mentally fit for sex trafficking trial, judge says",
-     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOcmxQQVhDLUVhcVV0Wkt1X09ka2dkcklFMmk3c0E4LWk4TG10QldzOFhMZDBUQmdTRzZ1R3FxSDhDczB2QV9WS1piV1o5SXl4R0hGOHRtc0tkdi1qeHJkbnpvTUEwNnkyaVZpT0FTM0NSeXRVZl9DMzc1clVuYlh0aHRXWTlKVW5uOUxOdmdJT095Y0ZDa3lmSzc2M2toMXhtTmFNOHhhd0FfeEQwU0piR29hY2RlaUcweWNGZGE2Q1RaOC1tLWxDazF0LTBENm9MbzlSTVpuelZyQnNFMEFVdm5fenhkZWo2OUxLY1FRRkhPVEQweXlrUE5VODNDamZvdFA3ZA?oc=5",
-     "domain": "Bozeman Daily Chronicle",
-     "date": "2026-08-21"
+     "title": "A&F Expands Distribution of NFL Product Through Fanatics Partnership",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0RHMmRIRmVmRU94VlhyUE1rV0VPaTh2bjlxTHF1Q2Z5YXpfOXNRZlpSNU1keGFsbVItS2lXemlxMEVOZTJ2bGZMMFFwV09pQVYzYzJIdjViZUtEeTVjZUhWOEhYREZWTFpxcU5GUTBkMjBsUGtJdVd3cUxtTkFXQmhETU53Mk9KR0xQVXUyQmk2M3V6N3VCMFRuNXhPU3dQSTRxUGFDMzhMRDVvNzFqMFJnRVBTdw?oc=5",
+     "domain": "WWD",
+     "date": "2026-08-19"
     }
    ],
    "explain": {
-    "summary": "Abercrombie & Fitch: attention is rising, led by Wikipedia lookups (+6.2σ vs its own baseline). In the news: “Former Abercrombie & Fitch CEO Michael Jeffries competent to face sex trafficking trial, …” (NBC News); “A&F Expands Distribution of NFL Product Through Fanatics Partnership” (WWD). Stock: +0.8% over 5 days — the stock has not reacted yet.",
+    "summary": "Abercrombie & Fitch: attention is rising, led by Wikipedia lookups (+6.2σ vs its own baseline). In the news: “Abercrombie & Fitch, Fanatics team up to expand NFL collection distribution” (Sports Business Journal); “SPORTS BUSINESS JOURNAL: Abercrombie & Fitch, Fanatics team up to expand NFL collection d…” (Fanatics Inc). Stock: +0.8% over 5 days — the stock has not reacted yet.",
     "tone": "unknown",
     "drivers": [
-     "news: Former Abercrombie & Fitch CEO Michael Jeffries competent to face sex trafficki…"
+     "news: Abercrombie & Fitch, Fanatics team up to expand NFL collection distribution"
     ],
     "source": "heuristic"
    }
@@ -4595,7 +4589,7 @@
    ],
    "why": [
     "Wikipedia lookups are 6.3σ above this name's own 45-day baseline",
-    "app is on the App Store top-100 chart (rank 18) — baseline still forming",
+    "app is on the App Store top-100 chart (rank 21) — baseline still forming",
     "price is flat (-1.5% over 5 days) and volume normal despite the attention",
     "still accelerating (+2.5σ over the last 3 days vs the 4 before)",
     "after its last 4 attention spikes the stock was up 10 days later 75% of the time (median +2.9%)"
@@ -4699,7 +4693,7 @@
    "channel_dates": {
     "wiki": "2026-08-21"
    },
-   "app_rank": 18.0,
+   "app_rank": 21.0,
    "key": "amazon",
    "name": "Amazon / Prime / Alexa / Ring",
    "ticker": "AMZN",
@@ -4710,10 +4704,10 @@
    "mentions": 0,
    "examples": [],
    "apps": [
-    "Amazon Shopping #56 US",
-    "Amazon Prime Video #70 US",
-    "Amazon - Shopping made easy #18 AU",
-    "Amazon Prime Video #68 AU"
+    "Amazon Shopping #51 US",
+    "Amazon Prime Video #79 US",
+    "Amazon - Shopping made easy #21 AU",
+    "Amazon Prime Video #39 AU"
    ],
    "history_days": 91,
    "attention": {
@@ -4749,7 +4743,7 @@
     ],
     "why": [
      "Wikipedia lookups are 6.3σ above this name's own 45-day baseline",
-     "app is on the App Store top-100 chart (rank 18) — baseline still forming",
+     "app is on the App Store top-100 chart (rank 21) — baseline still forming",
      "price is flat (-1.5% over 5 days) and volume normal despite the attention",
      "still accelerating (+2.5σ over the last 3 days vs the 4 before)",
      "after its last 4 attention spikes the stock was up 10 days later 75% of the time (median +2.9%)"
@@ -4853,7 +4847,7 @@
     "channel_dates": {
      "wiki": "2026-08-21"
     },
-    "app_rank": 18.0
+    "app_rank": 21.0
    },
    "headlines": [
     {
@@ -4875,16 +4869,16 @@
      "date": "2026-08-19"
     },
     {
-     "title": "Person wearing Amazon vest, at least 2 others burglarize San Jose home",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV0pLbWZ0TWFkSUlLUGt2bE1vNzEtWUw3djlQejlBSWVxVHVvaHZfZXhtdTFFUkhyS0pEd0luZEJGa3dwTVFrcVlKM09HN2lQZmsyUUVVUWpRNmU3OUtNU3lRRWxyWTBXLWowZVFSMDFlRHhRS0lLeHB0dGNRdGlHQi11MjFrTEotX3FrYktYVEtoV29tcl9V0gGfAUFVX3lxTE9jQnFtNDRIeUEwYlBVY3I4UkhFQWdoZUNOZVZ0WGlpZkc0U3JoYlNyWmZ3UTFsaV9RRUE5VmczY05xdmttYXJ0b0xxUGQ5cW1BSllzZlFiRy1yZTd3NlFNcklFTExmWlkydTRrSVBYT3NIaHYyb0VYMHpPa1dja2h6RUFfV2JUNkc4dVEwYmd3NEdidXJvaDY5VWpZcFVIVQ?oc=5",
-     "domain": "NBC Bay Area",
-     "date": "2026-08-20"
-    },
-    {
      "title": "Grok 4.6 on Amazon Bedrock",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QTmxWMTBnM015a1RPY25GeUVaY0dkQ3BudkZQVEltMEJqTUZrYzlHR2VYNkVoTFhsTmZ1RjBvMXRZa3p1QnpNTDd3eVk1VW93aW1J?oc=5",
-     "domain": "x.ai",
+     "domain": "X.AI",
      "date": "2026-08-19"
+    },
+    {
+     "title": "Amazon hiked prices on Echo, Fire TV, Kindle, eero to offset ‘significant increases’ in memory costs",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd0JMbllqRGV6d01qQ0ZDRHoxQkRUNzh1V1JBMVB4V3Q1ZmVEV3hVd3p1c1dJZ3FxNzRyMzJPeTlLWmtOQUc0dHRIVFdWVVEwd21fOVh5TjFsZVJDaUFyUlUyaV84RFcwRS1yVE1OaUJtODd3Qmw0SDdDSXJ3NkhCODhtSFR0U3kzUlljdlp1UC1mOEp1Ykc4M01tLTNvQ0RMb3B2VVlMZm9KcHZzUVVlSlhQZ0hVMndxRjhob243eEcyWEpVMEtzWQ?oc=5",
+     "domain": "Fortune",
+     "date": "2026-08-21"
     },
     {
      "title": "Amazon facility opens north of Ukiah",
@@ -5206,21 +5200,21 @@
      "date": "2026-08-20"
     },
     {
-     "title": "Neutrogena addresses its treatment of Hayden Panettiere after she spoke about postpartum depression",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNVhRcVVNX1FLaDlCOURkS0phV05CX0hHTHZUTGNfelo4LXJzSlVVWXdaV3ZaczJka1VKTlNDalZmLWxYLTI3bjZFam9keGM3Z1VVemJhWDBtTzBLZjRpNzFHUmtiSlVTemd6dkZTMHdvbmpFZzlFNmJPd0RET0thWTd0WFdjSW14M2xyMXlrbENibTg?oc=5",
-     "domain": "CBS News",
-     "date": "2026-08-20"
-    },
-    {
      "title": "Neutrogena apologizes to Hayden Panettiere days after her death at 36",
      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeVpvRkZpZG94YkQxNG5NNE5fOGs2QVZGSXJ0clcxQnhFbms3cjc3MWc3a1hVdnpBR3pTMjFVcTM2UDVsaDQwYkZmQXFhbWZtY1k2REpmRV83azRsWVhXQXdKMnowbVFjVDJQcnY1YV9FS1FubjhIRUwzNU9DNWhFeFBVV2J2cFJFNTZ6R3VQbjM3d3FKRXRTU2twTGltanhBdU9vN1ZBV3RYd1hBQnVKdHphMnBoTXVFaHBKb0d2VdIB0wFBVV95cUxPUHQwbUVraEduME0xZzBha011ZVFsSkNaYU5tRThPemk5Zzg5MGozaTNHT1lSck04cjVOVjVydE1rc2cteUtTVnRKU3FmQlZQVWEzZ1ZxWEUycW1yOUZWbUlxQ3gyM0RmbVlrN2hqTHJnMFZpbjVKOVd3T1UwZVhCMmhhVU4xdzN1YVh6TTVRa2Y4WFVmdDRiR2Vjc09OeTdLZ0NodmNXTlg1RWk4Ykx5aFVKelRxeFdFVmF5RlhxV0JCSDh4ejZGckNDb2s3VXFVeE1r?oc=5",
      "domain": "Cleveland.com",
      "date": "2026-08-21"
     },
     {
-     "title": "Neutrogena Comments on Hayden Panettiere’s Death Amid Backlash and Says ‘We Made Her Feel Unsupported’; Actor Said the Company Nearly Fired Her for Talking Abou",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQXzNMa0lJeDEtTWRYZURhX0FtcElIVlRRT0FpS1pPdlFHaVVLTG5rYU9BYUNObFFrR01ZMEhBdEZNa3RCZUZTTUY0LVd5M3htQW5hNVF4Z3N0UnlRbFhoWWpzS1I5TlpmMHVuVGtYbnBFeDg3aERzcTdhNURQUWxseXltYnZjdjVRTlVxVFZIZnlNZXd6QXFUT2syamE0MmNtalRvVDhpdw?oc=5",
-     "domain": "Variety",
+     "title": "Neutrogena addresses its treatment of Hayden Panettiere after she spoke about postpartum depression",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNVhRcVVNX1FLaDlCOURkS0phV05CX0hHTHZUTGNfelo4LXJzSlVVWXdaV3ZaczJka1VKTlNDalZmLWxYLTI3bjZFam9keGM3Z1VVemJhWDBtTzBLZjRpNzFHUmtiSlVTemd6dkZTMHdvbmpFZzlFNmJPd0RET0thWTd0WFdjSW14M2xyMXlrbENibTg?oc=5",
+     "domain": "CBS News",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "Will a Neutrogena boycott by Hayden Panettiere's fans work?",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd3RNQ2NHeFZEOE5WNVZsRGh6RVkwcW9tN3VkTGFaX2pvdUhqTkJ5anBaYnkyeU1YWXdYODlkMFZXSXFzZzROSXZjT0tDN0h1cTNGdkY4b0Y4eXhSX3RFb2E0RjE4MFJjdTVWdFVFb0ZpOF9FMER4UElLYl9vSE9ZRWdFSXBhc1JYSjVTSlJPbU1MN3Q5T0QyNE1uUUlzM3U0eElpMUJ3?oc=5",
+     "domain": "USA Today",
      "date": "2026-08-20"
     }
    ],
@@ -6082,16 +6076,16 @@
      "date": "2026-08-16"
     },
     {
-     "title": "Primo Brands Corporation (NYSE:PRMB) Given Average Recommendation of \"Moderate Buy\" by Brokerages",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQzAyYW41OEhla09nRUJPTE5pMUV6U2JSMlpOVlVvUF90ZU1TVVJZT3RkRXBOWGJiMFV6N0FzMGIzTFRNVnlXeHFOZVRsMUFWMFc5c1UxajJSUElaSmRJbkZVOUxTaDRlTFNEUXNsUlZpUWtMM0pfdTJodkozaEVCTnRiMnc4QW9aS092dkZ1dDVlclBFaFc1ZUphUjAwUmhSSUpqQmVmRW1CeHFsUnFJY0d6UUlBaXV4a0Ytd2dGYnl2ODNITE1TS045LTRoWUtlZHNNd1FlVmJDbnRtQkZJ?oc=5",
-     "domain": "MarketBeat",
-     "date": "2026-08-17"
-    },
-    {
      "title": "Two Days Left Until Primo Brands Corporation (NYSE:PRMB) Trades Ex-Dividend",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdlFfMEk3eGY2VzlZTE1ZalJSOEI0LW5nblhRMHJZSjluSHRMU1pUdkZYRU5DaWt3STdHSjRyVzRGZVVCaGNJMGlVeWw1a1l0VzMzRmE0cTVZeFM3c1I1LU5hTGpEMTZYSDA2QkZ1enJNTV85cnB0Q2JDeWc0eWRvRUp5dXNRU3F0QW9NMDdjQlVGa1dwc0lhRmI5UHdqdTAtRTVJZ1FqYW12Mk11NDM3WUZfMDBtTEZRUTdVeDNYLUV5U3loMWJWZng4T0V0TW1RWFJZX3hQLUN5d9IB3wFBVV95cUxNcUtOeTJpYlpEeDVyRFgwVE9UMVc2UFdmUW9pZmpLUVl5VUIzYU9tcTYxR0pfWnUyQlQybXNXMHRrQTlmRkI1WkdURFU4eU5YZVNhRTZNMTZzS0hnY2NNanVIT2E3S193TG40XzdNSDBvZ01vT0Z0VTFBdnRHdHVaVnF1Vm9DSl9BVEdoaVJVejRybXZiTTBDYUt4SXJkOU8wYWt4YWtYUGcxa0Q4SGYxVGx1ek5XVGxEd05FQjBQdG9zYmhpS3VneGxNMnRDUGU4cklqY0JHZTkweUg2MEZv?oc=5",
      "domain": "simplywall.st",
      "date": "2026-08-21"
+    },
+    {
+     "title": "Primo Brands Corporation (NYSE:PRMB) Given Average Recommendation of \"Moderate Buy\" by Brokerages",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQzAyYW41OEhla09nRUJPTE5pMUV6U2JSMlpOVlVvUF90ZU1TVVJZT3RkRXBOWGJiMFV6N0FzMGIzTFRNVnlXeHFOZVRsMUFWMFc5c1UxajJSUElaSmRJbkZVOUxTaDRlTFNEUXNsUlZpUWtMM0pfdTJodkozaEVCTnRiMnc4QW9aS092dkZ1dDVlclBFaFc1ZUphUjAwUmhSSUpqQmVmRW1CeHFsUnFJY0d6UUlBaXV4a0Ytd2dGYnl2ODNITE1TS045LTRoWUtlZHNNd1FlVmJDbnRtQkZJ?oc=5",
+     "domain": "MarketBeat",
+     "date": "2026-08-17"
     },
     {
      "title": "Allison Spector resigns from Primo Brands board as ORCP stake falls",
@@ -6100,10 +6094,10 @@
      "date": "2026-08-20"
     },
     {
-     "title": "2026-08-20 | Bronstein, Gewirtz & Grossman, LLC Encourages Primo Brands Corporation (PRMB) Shareholders to Inquire about Securities Investigation | TSX:PRMW | P",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNel8wV0szUk1jbUM0bVFRSEtKZTEwbHJmR1hlckF3OW0xS3laRDQwNGd0NHJrWEpaUU9OVGpQUTItY3RXU0FGMnRIbUNKazdkZXZob083MFhCMHA0a3RhSmgyTkpNTkNfa2luck9JeWRQRnpWZEhnR2hKdVhfWEdVemNLTjRIRlVVdS1UUTV0TGdqQXg0eUMwbm0tTGJlbUppc2dSMUxkTENQMnBZYVJuVXJWR1BKUXpRWUFIa2hzLVJSZXM?oc=5",
+     "title": "2026-08-18 | Bronstein, Gewirtz & Grossman, LLC Is Investigating Primo Brands Corporation (PRMB) And Encourages Shareholders to Connect | TSX:PRMW | Press Relea",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOHptSW9jMjlQZThXLV9ieG5EbmNGX3N2em1VNzh0ZXlQUlFiSUNOVy1QaHpxNzlmWVhtUFducEdXbmdkT2pNLU9wMmRFcncwOWc0YVJ4ZTNnVl9kam1uZWxqU01mUG1feXdDMkFOTXBkczl0VXFzOWdhWktfbmsyVFNJNTdydGZwWGhGVE5Oc3NTTEw3STEtSlg3MDVLcm93dGNGU1h0eUNNLVVtUTc4cHgwZnJFQWtNZ0VoNzdkQXpaLWpiNUdEWTAySQ?oc=5",
      "domain": "Stockhouse",
-     "date": "2026-08-20"
+     "date": "2026-08-18"
     }
    ],
    "explain": {
@@ -6393,9 +6387,9 @@
    },
    "headlines": [
     {
-     "title": "Hyundai Ioniq 5 N at the 0–150–0-MPH Speed Test 2026",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTjV0bEJ2N0lOSktsZEk0T2ktQkw1a0tLVUZ0UUFUSXVWN25VdzI3ajFqTmRuYVdicXc0NFFpMWVQa0l5TTRUT0lkdF9pbVhmOXpyV2k0YU0tMmpRVDNHNnpIWjczbjdDRGtBTjlkZXkyQ3JpTjJRQ2tuWnJuaGkwdzdZOXpWNWRPelhnUU81WFhqbUM5?oc=5",
-     "domain": "Car and Driver",
+     "title": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSUs2ZndobXZzVWozaEljaDRzSUFyRUFUVnBXYXVmdktteFU2d01vMFZXOHFXbC1sUlVobkwtc3J5YTFLOTd0Q0VLWlRHWmNHcnk2THZ3ZW1VZ1lndkNGeS02OGg5TWRnSmQxaEtZa2VmeVVEQmx3dENDYnlHdldWV3JR0gGHAUFVX3lxTFBNUko1ZWZnRjdVNk5ZOVBJS21ScVhidlJHS2pvdkgyNlpNcjNqM3NRRXZiZEpkSEhNczBsWXZEQ2pWNV8zOVBlSlN5WlZSQXI5am9SVENud1pRZmVGdmU2SHBjZ0FkaUhnV2pRMWNWRnc4RWFwRnVKbHpKeFVXUW1WRlF0a0d1WQ?oc=5",
+     "domain": "CNBC",
      "date": "2026-08-20"
     },
     {
@@ -6405,9 +6399,9 @@
      "date": "2026-08-20"
     },
     {
-     "title": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSUs2ZndobXZzVWozaEljaDRzSUFyRUFUVnBXYXVmdktteFU2d01vMFZXOHFXbC1sUlVobkwtc3J5YTFLOTd0Q0VLWlRHWmNHcnk2THZ3ZW1VZ1lndkNGeS02OGg5TWRnSmQxaEtZa2VmeVVEQmx3dENDYnlHdldWV3JR0gGHAUFVX3lxTFBNUko1ZWZnRjdVNk5ZOVBJS21ScVhidlJHS2pvdkgyNlpNcjNqM3NRRXZiZEpkSEhNczBsWXZEQ2pWNV8zOVBlSlN5WlZSQXI5am9SVENud1pRZmVGdmU2SHBjZ0FkaUhnV2pRMWNWRnc4RWFwRnVKbHpKeFVXUW1WRlF0a0d1WQ?oc=5",
-     "domain": "CNBC",
+     "title": "Hyundai Ioniq 5 N at the 0–150–0-MPH Speed Test 2026",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTjV0bEJ2N0lOSktsZEk0T2ktQkw1a0tLVUZ0UUFUSXVWN25VdzI3ajFqTmRuYVdicXc0NFFpMWVQa0l5TTRUT0lkdF9pbVhmOXpyV2k0YU0tMmpRVDNHNnpIWjczbjdDRGtBTjlkZXkyQ3JpTjJRQ2tuWnJuaGkwdzdZOXpWNWRPelhnUU81WFhqbUM5?oc=5",
+     "domain": "Car and Driver",
      "date": "2026-08-20"
     },
     {
@@ -6430,10 +6424,10 @@
     }
    ],
    "explain": {
-    "summary": "Hyundai / Kia / Genesis: attention is rising, led by Wikipedia lookups (+2.2σ vs its own baseline). In the news: “Hyundai Ioniq 5 N at the 0–150–0-MPH Speed Test 2026” (Car and Driver); “A NEW ICON’S ARRIVAL: GENESIS UNVEILS GV90 FLAGSHIP SUV” (Hyundai Motor Group). Stock: -0.8% over 5 days.",
+    "summary": "Hyundai / Kia / Genesis: attention is rising, led by Wikipedia lookups (+2.2σ vs its own baseline). In the news: “Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC” (CNBC); “A NEW ICON’S ARRIVAL: GENESIS UNVEILS GV90 FLAGSHIP SUV” (Hyundai Motor Group). Stock: -0.8% over 5 days.",
     "tone": "unknown",
     "drivers": [
-     "news: Hyundai Ioniq 5 N at the 0–150–0-MPH Speed Test 2026"
+     "news: Hyundai considering U.S. production increase at new Georgia plant, CEO tells CN…"
     ],
     "source": "heuristic"
    }
@@ -6734,28 +6728,28 @@
      "date": "2026-08-21"
     },
     {
+     "title": "Acquisitions of own shares in Paradox Interactive AB (publ)",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjBnS2xXb21rWWtBQU1ZMzRZbWhqcFdQaEZhT0RCR2htTVRZaGxrS0hVWU5zRi1UeWdjckk2LVhvazRoSHphSGx1SERYZmRSam1Ddm9Jc1JwVVZZMk42VmtkU0JFU0kxclc2aTJmZUJqWHE3ZlhHYmNMMXVVZHRGWEtkRnM5RUlaenJqaEhJLTdvWHNKYjNRSnVkU3lsalVnTzdrem5tOW5xYmRLeUVB?oc=5",
+     "domain": "marketscreener.com",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "Surviving Mars: Relaunched DLC ‘Feeding the Future’ announced",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSF9HRTQwQXJMRjNvbVRoV2xDQk9IaTVmWV8yMVJpbVNiS3BQRlNCeUU4ME1FNF9oand1YlVxTUQ2MHpCRTkwbVZiLXlGc0J0Y2t4WDd2dkQyZjhVVmZmYjM4ZUZSOHFGWW12WTF3dURTMWRuNWx5NF9wQWRwOWRBRXM3R2VIdmQ3U0llal9kaHVuWUhw?oc=5",
+     "domain": "Gematsu",
+     "date": "2026-08-19"
+    },
+    {
      "title": "Paradox Arc Partners With Blue Isle Studios to Publish Guardians of the Wild Sky",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwUjUydnJBWW5pNllsZDJwQUYyUXB5NmhpRUZJbVZNZWVaR2dYdnNxeUxiUGVJNEp4Z2l1QUVmZFBnWUpuOEZFMXR3NTdXN0pscHFxVTNYYmRjYmVMNjVqWG5JQjFHeUpYLTdTbUk3WjdOWVd0bmtCLQ?oc=5",
      "domain": "Simulation Daily",
      "date": "2026-08-18"
     },
     {
-     "title": "Hearts of Iron IV to become more technologically advanced - Paradox to improve performance, modern processor support being tested",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYVJ1a2VtU19NX2hVbERmUlRVa3JlMWtiQ1JTbHJpbGd3QXRCU1U2S0c2cXFvUmQtR1lKN2JIcXR5U05SSHFGd3FmMHY5aXZWMC1VZlZXaHhseC1KVFBlMVl5RlYzb09UeDhlQnloZjJJXzhvNTZEb2JCMXFCRTA0a3JrbzVaWE5sNEE2Q0J3eGZqRzllSVdsLUdGOWJVT3FzeUtNQzdHZWdZV0taV2JCWXR4WnRIblRXblpuTXRidFd2NTJxU0ZhQnFEUUpid9IB0wFBVV95cUxNQzBJUHhSd2dpakFZSjBrSk5sZEZCUWpVWl9TT2lVcG1SRUZXLWMzUTMzTlJHMFM5aFhQNXdJcG9IWjN5X0FyVTlabWNKQUFmRnJFT0pQU0ZGWXE1M1RQQlV1NzFGYWlLWHR6Vy1SVEpyQU92TmsyRE1xU2U5eWx3VlNmd1k1X3J1eEdDZkladS1PbHI3bTY0OGhEd3FMZ3ktMzNQeXRTeWl2NlNaOXRPODZuNFY1Y0dSX2hVUVJsWkZpcllUZ0FyTmhyLWVpTm5NTHRB?oc=5",
-     "domain": "ixbt.games",
-     "date": "2026-08-15"
-    },
-    {
      "title": "Guardians of the Wild Sky is a co-op survival-crafting creature collector with airships and dragons",
      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX01oRE5KYnV3T3lBa1dtUkxJWFZXSk52S2M5SkREWlZEbzZNeEN3eGJRZmtnZ2ViU2N1TTJDck9QdWtLd083LV9ZZTh1T09LdHVjZUpEMVJ0N2s1bUdOajI1ZDd3OThjUnYzMnFtYUtwcUZ3b240b1ZpTmRTN2oyR1hjdmFCUE9TaDlJU2JSRzY0RGg2bjZ4b3djZVFuMDNhc2ctamJZQTUyMkpnVi1nTlp3LVRXZVhtMm0wS29ybzcwWFZDMW9aV2xCREg?oc=5",
      "domain": "Pixelkin",
      "date": "2026-08-18"
-    },
-    {
-     "title": "Surviving Mars: Relaunched – Feeding the Future launches 8 September 2026",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ0RIeGlMNnpJX2M2LU94MVBVTElQckJGTTJheTZjQXV3ZzN3T1JBNzFpV19zN1pZYW5EN2hlRmZnZS1IOE12MFJoS2lSS0xHVGhyRm9EVkJvZ2dWcmVFZ0I1LVhrOW1kWmg4QXJrb05rNXQxd0laM1V2cnM1ZEJlUlQxTmlseElGa3c?oc=5",
-     "domain": "Resident Entertainment",
-     "date": "2026-08-20"
     }
    ],
    "explain": {
@@ -7419,7 +7413,7 @@
     "RISING"
    ],
    "why": [
-    "app is on the App Store top-100 chart (rank 17) — baseline still forming",
+    "app is on the App Store top-100 chart (rank 14) — baseline still forming",
     "still accelerating (+1.2σ over the last 3 days vs the 4 before)"
    ],
    "z_spark": [
@@ -7521,7 +7515,7 @@
    "channel_dates": {
     "wiki": "2026-08-21"
    },
-   "app_rank": 17.0,
+   "app_rank": 14.0,
    "key": "doordash",
    "name": "DoorDash",
    "ticker": "DASH",
@@ -7532,8 +7526,8 @@
    "mentions": 0,
    "examples": [],
    "apps": [
-    "DoorDash: Food, Grocery, More #17 US",
-    "DoorDash - Food Delivery #20 AU"
+    "DoorDash: Food, Grocery, More #23 US",
+    "DoorDash - Food Delivery #14 AU"
    ],
    "history_days": 91,
    "attention": {
@@ -7566,7 +7560,7 @@
      "RISING"
     ],
     "why": [
-     "app is on the App Store top-100 chart (rank 17) — baseline still forming",
+     "app is on the App Store top-100 chart (rank 14) — baseline still forming",
      "still accelerating (+1.2σ over the last 3 days vs the 4 before)"
     ],
     "z_spark": [
@@ -7668,26 +7662,20 @@
     "channel_dates": {
      "wiki": "2026-08-21"
     },
-    "app_rank": 17.0
+    "app_rank": 14.0
    },
    "headlines": [
+    {
+     "title": "Gap and Gap Factory Land on DoorDash Just in Time for First-Day Fits",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZWtxdlRQV0lDdTJtNlNtc3pKMkp5MWZ6LXBNeFluOEhHb0hPRU1lUG41OVFfNjUxYnI3OEpReEpzaWkzajU3MG9udWlMX2t3bDNSR0tkUnROajhLN0tBbUQ3UWpCekl2cG9DYXhIbkVfYnR5cFAzVVBHZ25veTh0SmJIQUlTS0hnSl82VUI2QW9PaFhWSHphR1RXZHpWSlUwWFJlQnNkNVRtOHc1T2hRTDM0aTNObnZ1dlIyNG9NOU0yRTJtTzFF?oc=5",
+     "domain": "DoorDash",
+     "date": "2026-08-18"
+    },
     {
      "title": "DoorDash Stock Eyes Breakout Relief As Earnings Loom, Ad Growth in Focus",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNERNWnFNaXY5WUFKcU9FTzgySnNSblFZRFBnemxyNXB5WVF2U1BMWGgwdGFveHZPSG9CTUcwWGpDcmJBY25tcXN4T2pXVHBWVVhTMXBPbEMzQWxrTDRNRUJfR3F6bHBiYkR2b0VDZGhOLThQN1ZCTXV0Q0hzRFFnQkRqRTJYa2FDcko4cnRBOTBXY2s5elZTNl9Xa0d3M2FDMGRuY3NjX0haTjNDdTZXcFpTYlpwa2k2eEtMZ2pKWGpFUHROV3lKUndqM0p6Skgy?oc=5",
      "domain": "Stocktwits",
-     "date": "2026-08-18"
-    },
-    {
-     "title": "You Can Now Buy Digital Video Games on DoorDash",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcExDa2RvdlFIMjh2S3Zvbk1HT2I4aXFEb0dybDdKc1FMMF8yR0l3bE84cUhqX1N6UlM3OXdLY0p3eUFRdWlKZGoyR0w3TThmVGlNcUxnZTRFRHRiV0xoT0RkbmVwc2VPZWhoSWp5VUlEZVR0bzkzWUZSU3YxQUtYcEd3?oc=5",
-     "domain": "IGN",
-     "date": "2026-08-17"
-    },
-    {
-     "title": "Gap and Gap Factory Land on DoorDash Just in Time for First-Day Fits",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nS0FvSFVTcXYya1RycjdRUEZ0U3Nyakc2dTJnTGxFdDB3X2pLOGpwS1FSOXVLX1pJLUpRQ3NDcVZINGo0OEoya0VzQ2lFYWJYcHNJWlFlZklDM3NZc1hobWF2NnJQZlhBbERQLUZmY3dhbDczYmZzVkUtejNpYnc?oc=5",
-     "domain": "DoorDash",
-     "date": "2026-08-18"
+     "date": "2026-08-21"
     },
     {
      "title": "Amazon, Uber, DoorDash, and Walmart are taking the delivery wars to the skies",
@@ -7696,23 +7684,29 @@
      "date": "2026-08-21"
     },
     {
-     "title": "DoorDash to host free small business workshop in Hoboken",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iNF9jZjRoeWpnMEItb05nelhoTU94U044SVJyQU4tZkJaaGhtcEozUEVjUVBtdkdUYjFxbkRoaGNpRzE4LWwzTTV6c2lURE5OaHJNdDJmRDFKaV96RDRqdnVZN3pkV0ROWUpz?oc=5",
-     "domain": "NJBIZ",
-     "date": "2026-08-21"
+     "title": "You Can Now Buy Digital Video Games on DoorDash",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcExDa2RvdlFIMjh2S3Zvbk1HT2I4aXFEb0dybDdKc1FMMF8yR0l3bE84cUhqX1N6UlM3OXdLY0p3eUFRdWlKZGoyR0w3TThmVGlNcUxnZTRFRHRiV0xoT0RkbmVwc2VPZWhoSWp5VUlEZVR0bzkzWUZSU3YxQUtYcEd3?oc=5",
+     "domain": "IGN",
+     "date": "2026-08-17"
     },
     {
      "title": "Two DoorDash drivers sue Bloomington assistant police chief",
      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQekx2dld0N25yWndxNENOOURJY0dmMXRiRkVyRWhWbzBaTmFEcFpjMlNwY19mbmFFVEhIdV9wSnlqV2hfMndzYzEwLUZLc2o5Ykh1X3gyY1FETktmYlNUaERqSWpYelhwMUQ5dmFSZTJjREtlcl9qM0dXTVFreVg4NEp1MW85UGVJTS1obWlKZ9IBlAFBVV95cUxPY1lnR2VKVEJzU0NxTm5mV2E0SWJCVjBwczJpeEFHVkVaMks2NnJKVGdsS1B0aV9OeFlTSll6bzl0YldQeEJEVFcwM3hvQjg3dXFUdUNOX0JBeV8tYzFQWDdHTi1aTHVIcnRJZHVHcGRTZDRTQk0zRkg5Rmlnc0hXZU9zM09nR2tPeVdBakp0YXJxRTJ1?oc=5",
      "domain": "CIProud.com",
      "date": "2026-08-18"
+    },
+    {
+     "title": "DoorDash to host free small business workshop in Hoboken",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iNF9jZjRoeWpnMEItb05nelhoTU94U044SVJyQU4tZkJaaGhtcEozUEVjUVBtdkdUYjFxbkRoaGNpRzE4LWwzTTV6c2lURE5OaHJNdDJmRDFKaV96RDRqdnVZN3pkV0ROWUpz?oc=5",
+     "domain": "NJBIZ",
+     "date": "2026-08-21"
     }
    ],
    "explain": {
-    "summary": "DoorDash: attention is rising, led by Wikipedia lookups (+2.5σ vs its own baseline). In the news: “DoorDash Stock Eyes Breakout Relief As Earnings Loom, Ad Growth in Focus” (Stocktwits); “You Can Now Buy Digital Video Games on DoorDash” (IGN). Stock: +3.0% over 5 days.",
+    "summary": "DoorDash: attention is rising, led by Wikipedia lookups (+2.5σ vs its own baseline). In the news: “Gap and Gap Factory Land on DoorDash Just in Time for First-Day Fits” (DoorDash); “DoorDash Stock Eyes Breakout Relief As Earnings Loom, Ad Growth in Focus” (Stocktwits). Stock: +3.0% over 5 days.",
     "tone": "unknown",
     "drivers": [
-     "news: DoorDash Stock Eyes Breakout Relief As Earnings Loom, Ad Growth in Focus"
+     "news: Gap and Gap Factory Land on DoorDash Just in Time for First-Day Fits"
     ],
     "source": "heuristic"
    }
@@ -8011,28 +8005,28 @@
      "date": "2026-08-19"
     },
     {
-     "title": "Bumble Stock Is Rallying Today After Hours – What Is Causing The Bull Run?",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMGRpNkVDaEl4ZHE1cDNUazJnS2NrbVVTeWllUGhQUi1iUXBZRlRGQThGZVFEQnNlbkE3dUladnh6V28wZVBlTGN3YjZzMFl2TXZvOTNseHkxNlhrZ194SFhpUTVYSVluYkM2MjZ0NHBNMmlLd3RiOE1KNWdGclZ3VWVjMWF3V05tY2lVWEEyX3V0VzA1bGlxME9wMkR6S1o5RktKZHBn?oc=5",
-     "domain": "Stocktwits",
-     "date": "2026-08-20"
-    },
-    {
      "title": "Arthur Brooks: Why Bumble Embraced Human Nature",
      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2d1lYTS1idzZKcDhrQll5YVdGSGVTQUlKMGlkSHh4Q01HZHVLc2JiRUpPUG5fRTgyWEtjSUZkQnc1WFZWN1dKZTlnUlhCMng1elZsbWVjS3BLWktsWUcyVjhCLV8zQVRT?oc=5",
      "domain": "The Free Press",
      "date": "2026-08-19"
     },
     {
+     "title": "Bumble Stock Is Rallying Today After Hours – What Is Causing The Bull Run?",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMGRpNkVDaEl4ZHE1cDNUazJnS2NrbVVTeWllUGhQUi1iUXBZRlRGQThGZVFEQnNlbkE3dUladnh6V28wZVBlTGN3YjZzMFl2TXZvOTNseHkxNlhrZ194SFhpUTVYSVluYkM2MjZ0NHBNMmlLd3RiOE1KNWdGclZ3VWVjMWF3V05tY2lVWEEyX3V0VzA1bGlxME9wMkR6S1o5RktKZHBn?oc=5",
+     "domain": "Stocktwits",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "Why Bumble now allows men to message first",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqTGd6TWliU3N5bTR1NW1OQ1hrQlhaZkN1XzBEaDRVRUhvMmh2VXg2UFVrSGhMdFBMNjFlR2s4Si1BZV9wVmpQZ3M0b1R2c3o1VkNRZW1NanBUTWFYZHd4ZzVkNWJFVm8wbF85c0t2cWZ4anFUZFFj?oc=5",
+     "domain": "Mashable",
+     "date": "2026-08-22"
+    },
+    {
      "title": "Where Bumble’s ex-CEO is going next and other female exec moves to know",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaHo4ek5tYWVqMVlaOGJ1ZldmZ3VqekJCVW5wSm90M0xKdjNPR0xOUVUzRkp6M29pT19kaWEtQ1NyZklWVC1nX2Y2VEVLV1kwOGJHOTBhWWI1UlprcE9wb1BWblpuOFNzZVdiOWNpejhJSW1RQThfWnJxUFNITjl6Vi00Zw?oc=5",
      "domain": "Fortune",
      "date": "2026-08-21"
-    },
-    {
-     "title": "Maine urges residents to look for the endangered rusty patched bumble bee",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0ttZUp1UGhpcERpQURSMFowbzJ2aXp2MzQydm9VU2VWM05LNmV0RzR0TE9iVFR3V3Vvenk1SGNyQURWbHc4ckdQY2o0NEZUc2wySE1SVVBqUlZqbzMtYWtmbTdlVDdqUzVKUkx1Z1RGa1JFUU5ud3Y5aUMwRWpTblFSNmRVMkJZZy1XdDZSaWQ1Z3lKUlg0R3h6U0lNX3BGdlNOaDFpYUJvNTB5YVVpZFpHZHdBaUxF?oc=5",
-     "domain": "Seacoastonline.com",
-     "date": "2026-08-18"
     }
    ],
    "explain": {
@@ -8334,27 +8328,27 @@
      "date": "2026-08-19"
     },
     {
-     "title": "Early Canada goose hunting season opens Sept. 1 in Pennsylvania",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2VhampseWhsTkRjYjhRZ3g2di10UTgzLVpVQnNLcjFvaVU0X1hCT1poVmNoNFgxUGRVUEJfOFVTZXdmQ3pEaGR5TFkxRHBVSUlGX3AxNDdwR1Bqd2xsTE84cFMwM3hSZVBlQ2tTRXhoVnpfWnlzdHFTNXNzb1Zaa3VyWUlZNU9zYWtwcHItMkZseEVBMUJPVG5GZmZPbWt1QThFZmIwOA?oc=5",
-     "domain": "Wilkes-Barre Citizens' Voice",
-     "date": "2026-08-15"
-    },
-    {
-     "title": "Canada Goose Presents the Fall/Winter 2026 Collection",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbmE2aVlkc1R1MDQ4TmZQT0pSU21KNFZrdk03aHF1QnJnZ1Rhc0dkWGFsdWZDcFE1Z2FKbXhCMHprOS0wUy04MnhaMWtTWHFKUnR4eHlUVFc0ZlE3M3FXYlNwZlJKVmF6Q3NXa1RHNUJQcDBoTmJySFdlZUpXN1hMNGoxcXdoRWZvaUpJM2pKRDZ1SnhKUlR1SmoxdVpyVzhrTTVGSVZ1dzRhd29k?oc=5",
-     "domain": "PR Newswire",
-     "date": "2026-08-17"
-    },
-    {
      "title": "Vermont’s resident Canada Goose season starts Sept. 1",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcmE5VHBCM0lDbTFObHRVaHFIZlBpaEVUcHV4SGJDbXpKdUEyZ1JySEVJN1hGakdxMENqYUR3X0xpRTJvVmpTd2FzNDhDbnYzY2VkblR0NW05OWdCbzMwdUJZOExEMkhTeU92aXlRNlpwQVc1a1ktdWo0a0xGRDFXU2NhbjBxVHVVSk8yd1F6T3phRThqcjFQbFJIZ0xHRnRzdXh3STRzODdaUVlSbmFDd3p3SHh0Sm5fVFo5c2xGWk85dGVOYjlfWDhuZ0xoM0xJUVE?oc=5",
      "domain": "Brattleboro Reformer",
      "date": "2026-08-18"
     },
     {
+     "title": "Canada Goose Presents the Fall/Winter 2026 Collection",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcFk4elpxTzBweVVGWFJWalVVNE9uY1BSOUdHWmpkSTdSTXRPN0ktTFdaT2tVRy1NcGZ6VWUzMllmeWx0ckVUUU9kMGM1QmhQRUZ0SHA3LXlERnZ1cWRhWm9iZ0hCUUJta25uY3E3YmN0cnJOVGVyQ2s2UlBGMzU3bzZteHNrVzl2NFM0UVNxRDRnVmM3cHdPak15bmt2cHNCSEFSX281MEQ4OG9vWHc?oc=5",
+     "domain": "Business Wire",
+     "date": "2026-08-21"
+    },
+    {
      "title": "Haider Ackermann Makes His Fall/Winter Debut at Canada Goose + More Fashion News",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRFBIempfWmpEZVRWWXZWdW1iTm9SeHdwekNaTURWcGVzUVFmaFBCNVN0Z2d0aGdoZ0pNQXp2THdINHpZZGdJZ0hGZVN3RUlhSWVNQ0hFU0tWSlpJSlJCWW1aRjI2QXMwRlpyMDRnTWdwOHd3UDJUWDcyR29rV3pIUmtKeFpsaXg0NXNyY0x1UGJWc2JXQmlFbWszVndxSHJsV0M1ZjRHWTA1X3FTd2I3MDhtTQ?oc=5",
      "domain": "FASHION Magazine",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "Canada Goose (NYSE:GOOS) Share Price Crosses Below 50-Day Moving Average - Here's Why",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUTNFOERNS0p2dkRJc1VSMy0tSnFGLVZjNWdObnFSamVUdHhrWWMwZ1ZoZm83Q3dvcjVtcFJfRU5UWVZjWlN1ZXQxWW54UU8yNkRtc2xnV1FLTEtCX3BuQWJUQzVkc05Bb0Ftam5EbnZjU1MtWkl1UFBJbjB1YkNIeVFJU1pFT2FYX0tESmhDZkhZT2xzY09JQTBlLXlkT1N0TF9PaW4xRkh3Qm9reXU2LTU0VHV3dmZCWTVGeDFiLWdyT1oyY0FIdnZNUmhoZw?oc=5",
+     "domain": "MarketBeat",
      "date": "2026-08-21"
     }
    ],
@@ -8586,7 +8580,7 @@
      "title": "Chobani’s designs for billion-dollar yogurt plant in Upstate NY are giving Apple Park vibes",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTmxVQmFfLXo2SHNRenlINnZmQmw5Z2VHUTA1dEJoZWs2UXYxUXZvYjFDOVNiazdwTHloUzA2TUJzRFdUeFdqVlc1TUVBY1lvVi1rWW1rNmVDWEJVVTJ4anQ3bWtNWGs1NS1aWUVKY0JOTUpBVUI0SXlpX2lSMklMRDUtTnc4cmJ6MzhtWHR3X25PRGtMUUFoOFJhLXkwc3o1U3poazVzdmNieDZ1NU1qWXNtc0N4Z3pDOV9IZUxfU3J2YXcwSUdxTUJReDZDYzAyUmfSAeYBQVVfeXFMUHFwYVlONzJjXzZpQklXdkFUQnVqUVhocmF2ejhDM2ptemlQdVJEdERXNnUyU1RleWdOcGZiZ1ZWZGk0Zm9sX1lINEVHeE0wN0ZTSjJBaDNWRmI1X2R0S1Y4cG9FR3VKWGFSX0R3cHI1aVJzeGVxYm1JQ2lyX2g1eURGRzh5d0lLT1hMTzdMd3YwUGllTEI1a0wxVmwyWWFUS0J5Q3BYTTZ2UHI4Smt1ZHA3TENYcjNiVGFYTkpmM0FQVkJreE40dHhOcDJUZG4ySXVwSmdOSm9EWnZ2X01ySXgtUkVmUGc?oc=5",
      "domain": "Syracuse.com",
-     "date": "2026-08-19"
+     "date": "2026-08-20"
     },
     {
      "title": "Chobani’s New, Limited-Edition Coffee Creamer Will Have Us Skipping the Drive-Thru This Fall",
@@ -10068,7 +10062,7 @@
    },
    "flags": [],
    "why": [
-    "app is on the App Store top-100 chart (rank 73) — baseline still forming"
+    "app is on the App Store top-100 chart (rank 67) — baseline still forming"
    ],
    "z_spark": [
     -0.46,
@@ -10169,7 +10163,7 @@
    "channel_dates": {
     "wiki": "2026-08-21"
    },
-   "app_rank": 73.0,
+   "app_rank": 67.0,
    "key": "airbnb",
    "name": "Airbnb",
    "ticker": "ABNB",
@@ -10180,8 +10174,8 @@
    "mentions": 0,
    "examples": [],
    "apps": [
-    "Airbnb #78 US",
-    "Airbnb #73 AU"
+    "Airbnb #80 US",
+    "Airbnb #67 AU"
    ],
    "history_days": 91,
    "attention": {
@@ -10212,7 +10206,7 @@
     },
     "flags": [],
     "why": [
-     "app is on the App Store top-100 chart (rank 73) — baseline still forming"
+     "app is on the App Store top-100 chart (rank 67) — baseline still forming"
     ],
     "z_spark": [
      -0.46,
@@ -10313,7 +10307,7 @@
     "channel_dates": {
      "wiki": "2026-08-21"
     },
-    "app_rank": 73.0
+    "app_rank": 67.0
    },
    "headlines": [],
    "explain": {
@@ -10629,7 +10623,7 @@
     "RISING"
    ],
    "why": [
-    "app is on the App Store top-100 chart (rank 48) — baseline still forming",
+    "app is on the App Store top-100 chart (rank 40) — baseline still forming",
     "still accelerating (+1.4σ over the last 3 days vs the 4 before)"
    ],
    "z_spark": [
@@ -10731,7 +10725,7 @@
    "channel_dates": {
     "wiki": "2026-08-21"
    },
-   "app_rank": 48.0,
+   "app_rank": 40.0,
    "key": "gyg",
    "name": "Guzman y Gomez",
    "ticker": "GYG.AX",
@@ -10742,7 +10736,7 @@
    "mentions": 0,
    "examples": [],
    "apps": [
-    "Guzman y Gomez (GYG) Mexican #48 AU"
+    "Guzman y Gomez (GYG) Mexican #40 AU"
    ],
    "history_days": 91,
    "attention": {
@@ -10775,7 +10769,7 @@
      "RISING"
     ],
     "why": [
-     "app is on the App Store top-100 chart (rank 48) — baseline still forming",
+     "app is on the App Store top-100 chart (rank 40) — baseline still forming",
      "still accelerating (+1.4σ over the last 3 days vs the 4 before)"
     ],
     "z_spark": [
@@ -10877,7 +10871,7 @@
     "channel_dates": {
      "wiki": "2026-08-21"
     },
-    "app_rank": 48.0
+    "app_rank": 40.0
    },
    "headlines": [],
    "explain": {
@@ -12319,7 +12313,7 @@
    },
    "flags": [],
    "why": [
-    "app is on the App Store top-100 chart (rank 63) — baseline still forming"
+    "app is on the App Store top-100 chart (rank 60) — baseline still forming"
    ],
    "z_spark": [
     -1.38,
@@ -12420,7 +12414,7 @@
    "channel_dates": {
     "wiki": "2026-08-21"
    },
-   "app_rank": 63.0,
+   "app_rank": 60.0,
    "key": "pinterest",
    "name": "Pinterest",
    "ticker": "PINS",
@@ -12431,8 +12425,8 @@
    "mentions": 0,
    "examples": [],
    "apps": [
-    "Pinterest #63 US",
-    "Pinterest #93 AU"
+    "Pinterest #60 US",
+    "Pinterest #77 AU"
    ],
    "history_days": 91,
    "attention": {
@@ -12463,7 +12457,7 @@
     },
     "flags": [],
     "why": [
-     "app is on the App Store top-100 chart (rank 63) — baseline still forming"
+     "app is on the App Store top-100 chart (rank 60) — baseline still forming"
     ],
     "z_spark": [
      -1.38,
@@ -12564,7 +12558,7 @@
     "channel_dates": {
      "wiki": "2026-08-21"
     },
-    "app_rank": 63.0
+    "app_rank": 60.0
    },
    "headlines": [],
    "explain": {
@@ -12602,7 +12596,7 @@
    },
    "flags": [],
    "why": [
-    "app is on the App Store top-100 chart (rank 29) — baseline still forming"
+    "app is on the App Store top-100 chart (rank 27) — baseline still forming"
    ],
    "z_spark": [
     -1.56,
@@ -12703,7 +12697,7 @@
    "channel_dates": {
     "wiki": "2026-08-21"
    },
-   "app_rank": 29.0,
+   "app_rank": 27.0,
    "key": "walmart",
    "name": "Walmart / Sam's Club",
    "ticker": "WMT",
@@ -12714,7 +12708,8 @@
    "mentions": 0,
    "examples": [],
    "apps": [
-    "Walmart: Shopping & Savings #29 US"
+    "Walmart: Shopping & Savings #27 US",
+    "Sam's Club Shopping & Delivery #88 US"
    ],
    "history_days": 91,
    "attention": {
@@ -12745,7 +12740,7 @@
     },
     "flags": [],
     "why": [
-     "app is on the App Store top-100 chart (rank 29) — baseline still forming"
+     "app is on the App Store top-100 chart (rank 27) — baseline still forming"
     ],
     "z_spark": [
      -1.56,
@@ -12846,7 +12841,7 @@
     "channel_dates": {
      "wiki": "2026-08-21"
     },
-    "app_rank": 29.0
+    "app_rank": 27.0
    },
    "headlines": [],
    "explain": {
@@ -13728,7 +13723,7 @@
     "FADING"
    ],
    "why": [
-    "app is on the App Store top-100 chart (rank 20) — baseline still forming",
+    "app is on the App Store top-100 chart (rank 16) — baseline still forming",
     "attention is coming off a recent peak",
     "after its last 3 attention spikes the stock was up 10 days later 67% of the time (median +13.8%)"
    ],
@@ -13831,7 +13826,7 @@
    "channel_dates": {
     "wiki": "2026-08-21"
    },
-   "app_rank": 20.0,
+   "app_rank": 16.0,
    "key": "uber",
    "name": "Uber / Uber Eats",
    "ticker": "UBER",
@@ -13843,9 +13838,9 @@
    "examples": [],
    "apps": [
     "Uber - Request a ride #20 US",
-    "Uber Eats: Food & Groceries #84 US",
-    "Uber - Request a ride and more #25 AU",
-    "Uber Eats: Food Delivery #46 AU"
+    "Uber Eats: Food & Groceries #97 US",
+    "Uber - Request a ride and more #16 AU",
+    "Uber Eats: Food Delivery #23 AU"
    ],
    "history_days": 91,
    "attention": {
@@ -13878,7 +13873,7 @@
      "FADING"
     ],
     "why": [
-     "app is on the App Store top-100 chart (rank 20) — baseline still forming",
+     "app is on the App Store top-100 chart (rank 16) — baseline still forming",
      "attention is coming off a recent peak",
      "after its last 3 attention spikes the stock was up 10 days later 67% of the time (median +13.8%)"
     ],
@@ -13981,7 +13976,7 @@
     "channel_dates": {
      "wiki": "2026-08-21"
     },
-    "app_rank": 20.0
+    "app_rank": 16.0
    },
    "headlines": [],
    "explain": {
@@ -14302,7 +14297,9 @@
     "hit_rate": 0.0
    },
    "flags": [],
-   "why": [],
+   "why": [
+    "app is on the App Store top-100 chart (rank 92) — baseline still forming"
+   ],
    "z_spark": [
     0.09,
     1.37,
@@ -14402,7 +14399,7 @@
    "channel_dates": {
     "wiki": "2026-08-21"
    },
-   "app_rank": 0.0,
+   "app_rank": 92.0,
    "key": "bestbuy",
    "name": "Best Buy",
    "ticker": "BBY",
@@ -14412,7 +14409,9 @@
    "on_watchlist": false,
    "mentions": 0,
    "examples": [],
-   "apps": [],
+   "apps": [
+    "Best Buy: Tech Deals & Savings #92 US"
+   ],
    "history_days": 91,
    "attention": {
     "entity": "bestbuy",
@@ -14441,7 +14440,9 @@
      "hit_rate": 0.0
     },
     "flags": [],
-    "why": [],
+    "why": [
+     "app is on the App Store top-100 chart (rank 92) — baseline still forming"
+    ],
     "z_spark": [
      0.09,
      1.37,
@@ -14541,7 +14542,7 @@
     "channel_dates": {
      "wiki": "2026-08-21"
     },
-    "app_rank": 0.0
+    "app_rank": 92.0
    },
    "headlines": [],
    "explain": {
@@ -16443,7 +16444,7 @@
     "FADING"
    ],
    "why": [
-    "app is on the App Store top-100 chart (rank 7) — baseline still forming",
+    "app is on the App Store top-100 chart (rank 8) — baseline still forming",
     "attention is coming off a recent peak"
    ],
    "z_spark": [
@@ -16545,7 +16546,7 @@
    "channel_dates": {
     "wiki": "2026-08-21"
    },
-   "app_rank": 7.0,
+   "app_rank": 8.0,
    "key": "etsy",
    "name": "Etsy / Depop",
    "ticker": "ETSY",
@@ -16556,7 +16557,7 @@
    "mentions": 0,
    "examples": [],
    "apps": [
-    "Depop - Buy & Sell Clothes #7 US",
+    "Depop - Buy & Sell Clothes #8 US",
     "Depop - Buy & Sell Clothing #36 AU"
    ],
    "history_days": 91,
@@ -16590,7 +16591,7 @@
      "FADING"
     ],
     "why": [
-     "app is on the App Store top-100 chart (rank 7) — baseline still forming",
+     "app is on the App Store top-100 chart (rank 8) — baseline still forming",
      "attention is coming off a recent peak"
     ],
     "z_spark": [
@@ -16692,7 +16693,7 @@
     "channel_dates": {
      "wiki": "2026-08-21"
     },
-    "app_rank": 7.0
+    "app_rank": 8.0
    },
    "headlines": [],
    "explain": {
@@ -16714,7 +16715,7 @@
    "stage": "fading",
    "acceleration": -2.8,
    "trends_hit": 200,
-   "finance_noticed": false,
+   "finance_noticed": true,
    "price_return_5d": 0.0087,
    "price_return_20d": 0.1363,
    "volume_z": -1.47,
@@ -16730,11 +16731,13 @@
    },
    "flags": [
     "TRENDING_SEARCH",
+    "FINANCE_NOTICED",
     "FADING"
    ],
    "why": [
     "appeared in Google's daily trending searches",
-    "app is on the App Store top-100 chart (rank 31) — baseline still forming",
+    "app is on the App Store top-100 chart (rank 35) — baseline still forming",
+    "the ticker is trending on Yahoo Finance — the investing crowd is already looking",
     "attention is coming off a recent peak"
    ],
    "z_spark": [
@@ -16836,7 +16839,7 @@
    "channel_dates": {
     "wiki": "2026-08-21"
    },
-   "app_rank": 31.0,
+   "app_rank": 35.0,
    "key": "disney",
    "name": "Disney / Disney+ / Hulu / ESPN",
    "ticker": "DIS",
@@ -16847,9 +16850,9 @@
    "mentions": 0,
    "examples": [],
    "apps": [
-    "ESPN Fantasy Sports & More #31 US",
-    "Disney+ #76 US",
-    "Disney+ #90 AU"
+    "ESPN Fantasy Sports & More #35 US",
+    "Disney+ #81 US",
+    "Disney+ #58 AU"
    ],
    "history_days": 91,
    "attention": {
@@ -16864,7 +16867,7 @@
     "stage": "fading",
     "acceleration": -2.8,
     "trends_hit": 200,
-    "finance_noticed": false,
+    "finance_noticed": true,
     "price_return_5d": 0.0087,
     "price_return_20d": 0.1363,
     "volume_z": -1.47,
@@ -16880,11 +16883,13 @@
     },
     "flags": [
      "TRENDING_SEARCH",
+     "FINANCE_NOTICED",
      "FADING"
     ],
     "why": [
      "appeared in Google's daily trending searches",
-     "app is on the App Store top-100 chart (rank 31) — baseline still forming",
+     "app is on the App Store top-100 chart (rank 35) — baseline still forming",
+     "the ticker is trending on Yahoo Finance — the investing crowd is already looking",
      "attention is coming off a recent peak"
     ],
     "z_spark": [
@@ -16986,7 +16991,7 @@
     "channel_dates": {
      "wiki": "2026-08-21"
     },
-    "app_rank": 31.0
+    "app_rank": 35.0
    },
    "headlines": [],
    "explain": {
@@ -18531,7 +18536,7 @@
    ],
    "why": [
     "appeared in Google's daily trending searches",
-    "app is on the App Store top-100 chart (rank 99) — baseline still forming"
+    "app is on the App Store top-100 chart (rank 68) — baseline still forming"
    ],
    "z_spark": [
     0.91,
@@ -18632,7 +18637,7 @@
    "channel_dates": {
     "wiki": "2026-08-21"
    },
-   "app_rank": 99.0,
+   "app_rank": 68.0,
    "key": "wbd",
    "name": "Warner Bros / HBO Max / DC",
    "ticker": "WBD",
@@ -18643,7 +18648,7 @@
    "mentions": 0,
    "examples": [],
    "apps": [
-    "HBO Max: Watch Movies & TV #99 AU"
+    "HBO Max: Watch Movies & TV #68 AU"
    ],
    "history_days": 91,
    "attention": {
@@ -18677,7 +18682,7 @@
     ],
     "why": [
      "appeared in Google's daily trending searches",
-     "app is on the App Store top-100 chart (rank 99) — baseline still forming"
+     "app is on the App Store top-100 chart (rank 68) — baseline still forming"
     ],
     "z_spark": [
      0.91,
@@ -18778,7 +18783,7 @@
     "channel_dates": {
      "wiki": "2026-08-21"
     },
-    "app_rank": 99.0
+    "app_rank": 68.0
    },
    "headlines": [],
    "explain": {
@@ -19743,6 +19748,292 @@
    }
   },
   {
+   "entity": "krafton",
+   "date": "2026-08-22",
+   "attention_z": 0.0,
+   "driver": "wiki",
+   "channels": {
+    "wiki": -0.45
+   },
+   "corroborating": [],
+   "stage": "quiet",
+   "acceleration": 0.17,
+   "trends_hit": 100,
+   "finance_noticed": false,
+   "price_return_5d": -0.0533,
+   "price_return_20d": -0.0653,
+   "volume_z": -0.83,
+   "unpriced": 0.7335,
+   "has_prices": true,
+   "has_social": false,
+   "direction": "unknown",
+   "attention_score": 17.0,
+   "past_spikes": {
+    "n": 0,
+    "median_10d": 0.0,
+    "hit_rate": 0.0
+   },
+   "flags": [
+    "TRENDING_SEARCH"
+   ],
+   "why": [
+    "appeared in Google's daily trending searches"
+   ],
+   "z_spark": [
+    -1.28,
+    -1.06,
+    -0.99,
+    -1.12,
+    -0.67,
+    -0.87,
+    -0.73,
+    -0.17,
+    -0.77,
+    -1.2,
+    -1.97,
+    -0.77,
+    -0.83,
+    -1.91,
+    -0.53,
+    -1.14,
+    -0.91,
+    -0.96,
+    -1.57,
+    -1.4,
+    -0.86,
+    -1.14,
+    -1.19,
+    -1.42,
+    -0.66,
+    -0.04,
+    0.03,
+    0.08,
+    -0.77,
+    -0.45
+   ],
+   "driver_spark": [
+    6.172,
+    6.203,
+    6.186,
+    6.142,
+    6.215,
+    6.178,
+    6.203,
+    6.308,
+    6.184,
+    6.107,
+    5.953,
+    6.17,
+    6.157,
+    5.974,
+    6.207,
+    6.105,
+    6.138,
+    6.125,
+    6.026,
+    6.052,
+    6.125,
+    6.059,
+    6.021,
+    5.984,
+    6.103,
+    6.196,
+    6.207,
+    6.215,
+    6.091,
+    6.133
+   ],
+   "price_spark": [
+    238500.0,
+    238000.0,
+    238000.0,
+    230000.0,
+    230000.0,
+    240500.0,
+    222500.0,
+    234500.0,
+    231000.0,
+    237500.0,
+    242500.0,
+    248000.0,
+    244000.0,
+    244000.0,
+    259000.0,
+    243000.0,
+    235000.0,
+    238000.0,
+    229000.0,
+    230000.0,
+    241500.0,
+    242000.0,
+    244000.0,
+    235000.0,
+    234500.0,
+    238000.0,
+    226500.0,
+    221500.0,
+    222500.0,
+    222000.0
+   ],
+   "channel_dates": {
+    "wiki": "2026-08-21"
+   },
+   "app_rank": 0.0,
+   "key": "krafton",
+   "name": "Krafton / PUBG / Subnautica",
+   "ticker": "259960.KS",
+   "company": "Krafton",
+   "sector": "gaming",
+   "private": false,
+   "on_watchlist": false,
+   "mentions": 0,
+   "examples": [],
+   "apps": [],
+   "history_days": 91,
+   "attention": {
+    "entity": "krafton",
+    "date": "2026-08-22",
+    "attention_z": 0.0,
+    "driver": "wiki",
+    "channels": {
+     "wiki": -0.45
+    },
+    "corroborating": [],
+    "stage": "quiet",
+    "acceleration": 0.17,
+    "trends_hit": 100,
+    "finance_noticed": false,
+    "price_return_5d": -0.0533,
+    "price_return_20d": -0.0653,
+    "volume_z": -0.83,
+    "unpriced": 0.7335,
+    "has_prices": true,
+    "has_social": false,
+    "direction": "unknown",
+    "attention_score": 17.0,
+    "past_spikes": {
+     "n": 0,
+     "median_10d": 0.0,
+     "hit_rate": 0.0
+    },
+    "flags": [
+     "TRENDING_SEARCH"
+    ],
+    "why": [
+     "appeared in Google's daily trending searches"
+    ],
+    "z_spark": [
+     -1.28,
+     -1.06,
+     -0.99,
+     -1.12,
+     -0.67,
+     -0.87,
+     -0.73,
+     -0.17,
+     -0.77,
+     -1.2,
+     -1.97,
+     -0.77,
+     -0.83,
+     -1.91,
+     -0.53,
+     -1.14,
+     -0.91,
+     -0.96,
+     -1.57,
+     -1.4,
+     -0.86,
+     -1.14,
+     -1.19,
+     -1.42,
+     -0.66,
+     -0.04,
+     0.03,
+     0.08,
+     -0.77,
+     -0.45
+    ],
+    "driver_spark": [
+     6.172,
+     6.203,
+     6.186,
+     6.142,
+     6.215,
+     6.178,
+     6.203,
+     6.308,
+     6.184,
+     6.107,
+     5.953,
+     6.17,
+     6.157,
+     5.974,
+     6.207,
+     6.105,
+     6.138,
+     6.125,
+     6.026,
+     6.052,
+     6.125,
+     6.059,
+     6.021,
+     5.984,
+     6.103,
+     6.196,
+     6.207,
+     6.215,
+     6.091,
+     6.133
+    ],
+    "price_spark": [
+     238500.0,
+     238000.0,
+     238000.0,
+     230000.0,
+     230000.0,
+     240500.0,
+     222500.0,
+     234500.0,
+     231000.0,
+     237500.0,
+     242500.0,
+     248000.0,
+     244000.0,
+     244000.0,
+     259000.0,
+     243000.0,
+     235000.0,
+     238000.0,
+     229000.0,
+     230000.0,
+     241500.0,
+     242000.0,
+     244000.0,
+     235000.0,
+     234500.0,
+     238000.0,
+     226500.0,
+     221500.0,
+     222500.0,
+     222000.0
+    ],
+    "channel_dates": {
+     "wiki": "2026-08-21"
+    },
+    "app_rank": 0.0
+   },
+   "headlines": [],
+   "explain": {
+    "summary": "Krafton / PUBG / Subnautica: attention is around normal, led by Wikipedia lookups (-0.5σ vs its own baseline). Stock: -5.3% over 5 days.",
+    "tone": "unknown",
+    "drivers": [
+     "Google trending search"
+    ],
+    "source": "heuristic"
+   }
+  },
+  {
    "entity": "colgate",
    "date": "2026-08-21",
    "attention_z": 0.97,
@@ -19965,228 +20256,6 @@
    }
   },
   {
-   "entity": "robinhood",
-   "date": "2026-08-22",
-   "attention_z": 0.0,
-   "driver": "wiki",
-   "channels": {
-    "wiki": -1.03
-   },
-   "corroborating": [],
-   "stage": "quiet",
-   "acceleration": 1.55,
-   "trends_hit": 0,
-   "finance_noticed": true,
-   "price_return_5d": 0.0,
-   "price_return_20d": 0.0,
-   "volume_z": 0.0,
-   "unpriced": 0.5,
-   "has_prices": false,
-   "has_social": false,
-   "direction": "unknown",
-   "attention_score": 16.2,
-   "past_spikes": {
-    "n": 0,
-    "median_10d": 0.0,
-    "hit_rate": 0.0
-   },
-   "flags": [
-    "FINANCE_NOTICED"
-   ],
-   "why": [
-    "the ticker is trending on Yahoo Finance — the investing crowd is already looking"
-   ],
-   "z_spark": [
-    -0.4,
-    -0.41,
-    -1.49,
-    -1.31,
-    -0.1,
-    -0.2,
-    0.31,
-    0.22,
-    0.03,
-    -1.16,
-    -2.24,
-    -0.06,
-    -0.18,
-    0.87,
-    0.45,
-    -1.41,
-    -2.94,
-    -2.32,
-    -0.59,
-    -1.15,
-    -0.98,
-    0.14,
-    -0.58,
-    -3.82,
-    -3.9,
-    -1.19,
-    -3.33,
-    -1.74,
-    -0.79,
-    -1.03
-   ],
-   "driver_spark": [
-    6.455,
-    6.426,
-    6.091,
-    6.089,
-    6.431,
-    6.407,
-    6.537,
-    6.518,
-    6.469,
-    6.254,
-    6.047,
-    6.444,
-    6.426,
-    6.578,
-    6.534,
-    6.252,
-    6.038,
-    6.109,
-    6.358,
-    6.258,
-    6.284,
-    6.457,
-    6.36,
-    5.886,
-    5.835,
-    6.242,
-    5.846,
-    6.127,
-    6.293,
-    6.25
-   ],
-   "price_spark": [],
-   "channel_dates": {
-    "wiki": "2026-08-21"
-   },
-   "app_rank": 0.0,
-   "key": "robinhood",
-   "name": "Robinhood",
-   "ticker": "HOOD",
-   "company": "Robinhood Markets",
-   "sector": "fintech",
-   "private": false,
-   "on_watchlist": true,
-   "mentions": 0,
-   "examples": [],
-   "apps": [],
-   "history_days": 91,
-   "attention": {
-    "entity": "robinhood",
-    "date": "2026-08-22",
-    "attention_z": 0.0,
-    "driver": "wiki",
-    "channels": {
-     "wiki": -1.03
-    },
-    "corroborating": [],
-    "stage": "quiet",
-    "acceleration": 1.55,
-    "trends_hit": 0,
-    "finance_noticed": true,
-    "price_return_5d": 0.0,
-    "price_return_20d": 0.0,
-    "volume_z": 0.0,
-    "unpriced": 0.5,
-    "has_prices": false,
-    "has_social": false,
-    "direction": "unknown",
-    "attention_score": 16.2,
-    "past_spikes": {
-     "n": 0,
-     "median_10d": 0.0,
-     "hit_rate": 0.0
-    },
-    "flags": [
-     "FINANCE_NOTICED"
-    ],
-    "why": [
-     "the ticker is trending on Yahoo Finance — the investing crowd is already looking"
-    ],
-    "z_spark": [
-     -0.4,
-     -0.41,
-     -1.49,
-     -1.31,
-     -0.1,
-     -0.2,
-     0.31,
-     0.22,
-     0.03,
-     -1.16,
-     -2.24,
-     -0.06,
-     -0.18,
-     0.87,
-     0.45,
-     -1.41,
-     -2.94,
-     -2.32,
-     -0.59,
-     -1.15,
-     -0.98,
-     0.14,
-     -0.58,
-     -3.82,
-     -3.9,
-     -1.19,
-     -3.33,
-     -1.74,
-     -0.79,
-     -1.03
-    ],
-    "driver_spark": [
-     6.455,
-     6.426,
-     6.091,
-     6.089,
-     6.431,
-     6.407,
-     6.537,
-     6.518,
-     6.469,
-     6.254,
-     6.047,
-     6.444,
-     6.426,
-     6.578,
-     6.534,
-     6.252,
-     6.038,
-     6.109,
-     6.358,
-     6.258,
-     6.284,
-     6.457,
-     6.36,
-     5.886,
-     5.835,
-     6.242,
-     5.846,
-     6.127,
-     6.293,
-     6.25
-    ],
-    "price_spark": [],
-    "channel_dates": {
-     "wiki": "2026-08-21"
-    },
-    "app_rank": 0.0
-   },
-   "headlines": [],
-   "explain": {
-    "summary": "Robinhood: attention is around normal, led by Wikipedia lookups (-1.0σ vs its own baseline).",
-    "tone": "unknown",
-    "drivers": [],
-    "source": "heuristic"
-   }
-  },
-  {
    "entity": "chipotle",
    "date": "2026-08-22",
    "attention_z": 1.15,
@@ -20217,7 +20286,7 @@
     "FADING"
    ],
    "why": [
-    "app is on the App Store top-100 chart (rank 77) — baseline still forming",
+    "app is on the App Store top-100 chart (rank 95) — baseline still forming",
     "attention is coming off a recent peak",
     "after its last 5 attention spikes the stock was up 10 days later 60% of the time (median +3.9%)"
    ],
@@ -20321,7 +20390,7 @@
     "wiki": "2026-08-21",
     "news": "2026-08-22"
    },
-   "app_rank": 77.0,
+   "app_rank": 95.0,
    "key": "chipotle",
    "name": "Chipotle",
    "ticker": "CMG",
@@ -20332,7 +20401,7 @@
    "mentions": 0,
    "examples": [],
    "apps": [
-    "Chipotle #77 US"
+    "Chipotle #95 US"
    ],
    "history_days": 91,
    "attention": {
@@ -20366,7 +20435,7 @@
      "FADING"
     ],
     "why": [
-     "app is on the App Store top-100 chart (rank 77) — baseline still forming",
+     "app is on the App Store top-100 chart (rank 95) — baseline still forming",
      "attention is coming off a recent peak",
      "after its last 5 attention spikes the stock was up 10 days later 60% of the time (median +3.9%)"
     ],
@@ -20470,7 +20539,7 @@
      "wiki": "2026-08-21",
      "news": "2026-08-22"
     },
-    "app_rank": 77.0
+    "app_rank": 95.0
    },
    "headlines": [],
    "explain": {
@@ -20510,7 +20579,7 @@
     "FADING"
    ],
    "why": [
-    "app is on the App Store top-100 chart (rank 11) — baseline still forming",
+    "app is on the App Store top-100 chart (rank 10) — baseline still forming",
     "attention is coming off a recent peak"
    ],
    "z_spark": [
@@ -20612,7 +20681,7 @@
    "channel_dates": {
     "wiki": "2026-08-21"
    },
-   "app_rank": 11.0,
+   "app_rank": 10.0,
    "key": "pdd",
    "name": "Temu / Pinduoduo",
    "ticker": "PDD",
@@ -20623,8 +20692,8 @@
    "mentions": 0,
    "examples": [],
    "apps": [
-    "Temu: Shop Like a Billionaire #11 US",
-    "Temu: Shop Like a Billionaire #29 AU"
+    "Temu: Shop Like a Billionaire #10 US",
+    "Temu: Shop Like a Billionaire #41 AU"
    ],
    "history_days": 91,
    "attention": {
@@ -20657,7 +20726,7 @@
      "FADING"
     ],
     "why": [
-     "app is on the App Store top-100 chart (rank 11) — baseline still forming",
+     "app is on the App Store top-100 chart (rank 10) — baseline still forming",
      "attention is coming off a recent peak"
     ],
     "z_spark": [
@@ -20759,7 +20828,7 @@
     "channel_dates": {
      "wiki": "2026-08-21"
     },
-    "app_rank": 11.0
+    "app_rank": 10.0
    },
    "headlines": [],
    "explain": {
@@ -20773,130 +20842,130 @@
  "trends_raw": {
   "US": [
    {
-    "title": "plane",
-    "traffic": "5000+"
+    "title": "watch duty",
+    "traffic": "500+"
    },
    {
-    "title": "reinier de ridder",
-    "traffic": "100+"
+    "title": "gta6 leaks",
+    "traffic": "500+"
    },
    {
-    "title": "interstate 15",
-    "traffic": "100+"
+    "title": "fires near me",
+    "traffic": "200+"
    },
    {
-    "title": "lord of mysteries game",
-    "traffic": "100+"
+    "title": "hawk fire",
+    "traffic": "200+"
    },
    {
-    "title": "orlando anderson",
-    "traffic": "100+"
+    "title": "franz beckenbauer supercup",
+    "traffic": "200+"
    },
    {
-    "title": "postal service mail ballot regulations",
-    "traffic": "100+"
+    "title": "fire reno",
+    "traffic": "200+"
    },
    {
-    "title": "anthony edwards child support payments",
-    "traffic": "100+"
+    "title": "jake bauers",
+    "traffic": "200+"
    },
    {
-    "title": "lanterns episode 2",
-    "traffic": "100+"
+    "title": "scp vs alverca",
+    "traffic": "200+"
    },
    {
-    "title": "sam raimi",
-    "traffic": "100+"
+    "title": "tyanthony smith",
+    "traffic": "1000+"
    },
    {
-    "title": "selena gomez",
+    "title": "reno fire",
     "traffic": "500+"
    }
   ],
   "AU": [
    {
-    "title": "nba2k",
-    "traffic": "1000+"
+    "title": "espanyol vs real madrid",
+    "traffic": "2000+"
    },
    {
-    "title": "dolly parton",
-    "traffic": "200+"
+    "title": "dortmund vs bayern",
+    "traffic": "500+"
    },
    {
-    "title": "dragons vs bulldogs",
-    "traffic": "200+"
-   },
-   {
-    "title": "allianz stadium",
+    "title": "x",
     "traffic": "100+"
    },
    {
-    "title": "charity",
+    "title": "sports",
+    "traffic": "100+"
+   },
+   {
+    "title": "inter vs monza",
     "traffic": "200+"
    },
    {
-    "title": "winx stakes",
-    "traffic": "200+"
-   },
-   {
-    "title": "rabbitohs vs warriors",
+    "title": "brentford vs spurs",
     "traffic": "5000+"
    },
    {
-    "title": "dockers game this weekend",
+    "title": "ewc",
     "traffic": "100+"
    },
    {
-    "title": "citizenship",
+    "title": "hbo",
     "traffic": "100+"
    },
    {
-    "title": "canberra raiders",
-    "traffic": "2000+"
+    "title": "southampton vs stoke city",
+    "traffic": "100+"
+   },
+   {
+    "title": "efl championship",
+    "traffic": "200+"
    }
   ]
  },
  "finance_trending": [
   "AAOI",
   "ADA-USD",
+  "BRK-B",
   "BTC-CAD",
   "BTC-EUR",
   "BTC-USD",
-  "CRML",
+  "CAD=X",
+  "CADUSD=X",
+  "CEG",
+  "DIS",
   "DOGE-USD",
+  "EPD",
+  "ET",
   "ETH-CAD",
-  "ETH-EUR",
   "ETH-USD",
-  "FCX",
-  "HBAR-USD",
+  "FXAIX",
   "HD",
-  "HOOD",
+  "HESM",
   "HYPE32196-USD",
-  "INFQ",
+  "JEPI",
+  "JEPQ",
   "LINK-USD",
-  "MP",
-  "PLTR",
-  "QBTS",
-  "RGTI",
+  "O",
+  "PG",
+  "QQQI",
+  "QQQM",
+  "SCHD",
+  "SGOV",
   "SHIB-USD",
-  "SLS",
-  "SNOW",
-  "SOFI",
   "SOL-USD",
   "SPCX",
-  "SUI20947-USD",
-  "TMC",
-  "TSLA",
+  "SPMO",
   "TTWO",
-  "UEC",
-  "USAR",
+  "VRT",
+  "VYM",
   "XLM-USD",
+  "XRP",
   "XRP-CAD",
   "XRP-EUR",
-  "XRP-USD",
-  "ZEC-USD",
-  "^DJI",
-  "^GSPC"
+  "XRP-USD"
  ],
  "warnings": [
   "amd: pattern '\\\\bAMD\\\\b' is very short — expect false matches",
@@ -20907,7 +20976,7 @@
   "watchlist": 15,
   "brands": 440,
   "brands_scored": 425,
-  "elapsed_s": 641,
+  "elapsed_s": 626,
   "ai": false
  }
 }
