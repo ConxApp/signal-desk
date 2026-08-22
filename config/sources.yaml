@@ -1,0 +1,52 @@
+# Which communities get sampled. Two DISJOINT universes — the split is what
+# makes the "am I ahead of Wall Street?" metric possible.
+
+# Where products enter the culture first. This is the alpha.
+consumer_subreddits:
+  - BuyItForLife
+  - running
+  - RunningShoeGeeks
+  - Sneakers
+  - femalefashionadvice
+  - malefashionadvice
+  - streetwear
+  - SkincareAddiction
+  - MakeupAddiction
+  - beauty
+  - gadgets
+  - BuyItForLife
+  - ToyCollecting
+  - funkopop
+  - blindbox
+  - Parenting
+  - Mommit
+  - teenagers
+  - GenZ
+  - TikTokCringe
+  - Fitness
+  - xxfitness
+  - EnergyDrinks
+  - Coffee
+  - CampingGear
+  - onebag
+  - PetAdvice
+  - homeautomation
+  - hardware
+  - buildapc
+  - AusFinance          # local colour — you're in Adelaide
+  - australia
+
+# Deliberately tracked so we can tell when the edge is GONE.
+# Never mixed into the consumer numbers.
+finance_subreddits:
+  - wallstreetbets
+  - stocks
+  - investing
+  - StockMarket
+  - ValueInvesting
+  - options
+  - ASX_Bets
+  - fiaustralia
+
+# Posts+comments pulled per subreddit per run. 100 is the API max per call.
+sample_limit: 100

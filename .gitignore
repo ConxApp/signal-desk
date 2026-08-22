@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+
+# demo output — regenerate locally with tests/make_demo.py, never published
+site/demo*.html
+site/demo_data.json
+
+# a separate git repo that ended up inside this folder by accident.
+# Ignored so it can never be swept into this project. Safe to delete off
+# your disk whenever you like — nothing here uses it.
+/test/

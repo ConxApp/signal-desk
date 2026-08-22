@@ -1,0 +1,171 @@
+# ============================================================================
+# THE ONLY FILE YOU NEED TO EDIT.
+#
+# Two rules that decide whether this works:
+#
+#  1. PREFER PRODUCT NAMES OVER BRAND NAMES.
+#     "Cloudmonster" is unambiguous. "On" is useless. "Labubu" is perfect.
+#     "Pop Mart" is fine. The narrower the word, the cleaner the signal.
+#
+#  2. USE `exclude` WHENEVER A TERM HAS AN EVERYDAY MEANING.
+#     Every false match dilutes the baseline and hides real spikes.
+#
+# `kind` matters: product-led names are where social arbitrage actually works.
+# tech/platform names are tracked but weighted differently — nobody posts
+# "just copped an AMD datacentre GPU".
+# ============================================================================
+
+defaults:
+  baseline_days: 45
+
+entities:
+
+  # ---------------------------------------------------------------- holdings
+  - key: amd
+    ticker: AMD
+    name: AMD
+    kind: tech
+    include: ['\bAMD\b', '\bRyzen\b', '\bRadeon\b', '\bThreadripper\b', '\bInstinct MI\d+\b']
+    exclude: []
+    wikipedia: Advanced_Micro_Devices
+    news_query: '"AMD" (Ryzen OR Radeon OR Instinct)'
+
+  - key: tesla
+    ticker: TSLA
+    name: Tesla
+    kind: product
+    include: ['\bTesla\b', '\bCybertruck\b', '\bModel [3SXY]\b', '\bFSD\b', '\bOptimus robot\b']
+    exclude: ['\bNikola Tesla\b', '\btesla coil\b', '\btesla \(unit\)\b']
+    wikipedia: Tesla,_Inc.
+    news_query: '"Tesla" (Cybertruck OR "Model Y" OR FSD)'
+
+  - key: robinhood
+    ticker: HOOD
+    name: Robinhood
+    kind: platform
+    include: ['\bRobinhood\b', '\bRobinhood Gold\b']
+    exclude: ['\bRobin Hood\b.*\b(?:Sherwood|Nottingham|arrow)\b']
+    wikipedia: Robinhood_Markets
+    news_query: '"Robinhood Markets"'
+
+  - key: atlassian
+    ticker: TEAM
+    name: Atlassian
+    kind: platform
+    include: ['\bAtlassian\b', '\bJira\b', '\bConfluence\b', '\bBitbucket\b', '\bTrello\b']
+    exclude: []
+    wikipedia: Atlassian
+    news_query: '"Atlassian" OR "Jira"'
+
+  - key: crispr
+    ticker: CRSP
+    name: CRISPR Therapeutics
+    kind: tech
+    include: ['\bCRISPR Therapeutics\b', '\bCasgevy\b', '\bCTX\d{3}\b']
+    exclude: []
+    wikipedia: CRISPR_Therapeutics
+    news_query: '"CRISPR Therapeutics" OR "Casgevy"'
+    note: >
+      Deliberately narrow. Matching bare "CRISPR" would pick up every
+      gene-editing paper on Reddit and drown the company signal.
+
+  - key: bloom_energy
+    ticker: BE
+    name: Bloom Energy
+    kind: tech
+    include: ['\bBloom Energy\b', '\bBloom Box\b', '\bBloom (?:fuel cell|Electrolyzer)\b']
+    exclude: []
+    wikipedia: Bloom_Energy
+    news_query: '"Bloom Energy"'
+    note: >
+      GUESS — you said "Blue Energy". If you meant something else, change this.
+
+  # ------------------------------------------------- social-arbitrage plays
+  - key: popmart
+    ticker: 9992.HK
+    name: Pop Mart / Labubu
+    kind: product
+    include: ['\bLabubu\b', '\bPop ?Mart\b', '\bThe Monsters\b.*\bblind box\b', '\bSkullpanda\b', '\bMolly\b.*\bblind box\b']
+    exclude: []
+    wikipedia: Pop_Mart
+    news_query: '"Pop Mart" OR "Labubu"'
+    note: >
+      Hong Kong listed — check your broker can actually trade it before you
+      act on any signal here. Stooq price data for .HK is unreliable.
+
+  - key: deckers
+    ticker: DECK
+    name: Deckers (Hoka / UGG)
+    kind: product
+    include: ['\bHoka\b', '\bClifton \d\b', '\bBondi \d\b', '\bSpeedgoat\b', '\bMach X\b', '\bUGG\b']
+    exclude: ['\bhookah\b']
+    wikipedia: Deckers_Brands
+    news_query: '"Hoka" OR "Deckers Outdoor"'
+
+  - key: onon
+    ticker: ONON
+    name: On Holding
+    kind: product
+    include: ['\bCloudmonster\b', '\bCloudsurfer\b', '\bCloudtilt\b', '\bCloudrunner\b', '\bOn Cloud\w*\b', '\bOn Running\b']
+    exclude: ['\brunning late\b', '\bon running out\b', '\bkeep on running\b']
+    wikipedia: On_(company)
+    news_query: '"On Holding" OR "On Running"'
+    note: >
+      Textbook case for rule 1. Never match bare "On" — always the product line.
+
+  - key: celsius
+    ticker: CELH
+    name: Celsius Holdings
+    kind: product
+    include: ['\bCelsius\b.*\b(?:energy drink|can|flavou?r|sipping)\b', '\bCelsius Essentials\b']
+    exclude: ['\bdegrees? Celsius\b', '\b\d+ ?°? ?C(?:elsius)?\b', '\bCelsius to Fahrenheit\b']
+    wikipedia: Celsius_Holdings
+    news_query: '"Celsius Holdings" OR "Celsius energy drink"'
+    note: >
+      Requires context words — bare "Celsius" is a temperature unit and would
+      be pure noise.
+
+  - key: elf
+    ticker: ELF
+    name: e.l.f. Beauty
+    kind: product
+    include: ['\be\.?l\.?f\.? (?:beauty|cosmetics|primer|halo glow|makeup)\b', '\bHalo Glow\b', '\bPower Grip\b']
+    exclude: ['\belf bar\b', '\belf on the shelf\b', '\bELF ?QUEST\b']
+    wikipedia: E.l.f._Beauty
+    news_query: '"e.l.f. Beauty"'
+
+  - key: crocs
+    ticker: CROX
+    name: Crocs
+    kind: product
+    include: ['\bCrocs\b', '\bJibbitz\b', '\bEcho Wave\b']
+    exclude: []
+    wikipedia: Crocs
+    news_query: '"Crocs Inc"'
+
+  - key: dutch_bros
+    ticker: BROS
+    name: Dutch Bros
+    kind: product
+    include: ['\bDutch Bros\b', '\bDutch Brothers coffee\b']
+    exclude: []
+    wikipedia: Dutch_Bros
+    news_query: '"Dutch Bros"'
+
+  - key: oddity
+    ticker: ODD
+    name: Oddity Tech (Il Makiage)
+    kind: product
+    include: ['\bIl ?Makiage\b', '\bSpoiled Child\b', '\bOddity Tech\b']
+    exclude: []
+    wikipedia: Oddity_Tech
+    news_query: '"Oddity Tech" OR "Il Makiage"'
+
+  - key: birkenstock
+    ticker: BIRK
+    name: Birkenstock
+    kind: product
+    include: ['\bBirkenstock\b', '\bBirkies\b', '\bBoston clog\b', '\bArizona sandal\b']
+    exclude: []
+    wikipedia: Birkenstock
+    news_query: '"Birkenstock"'

@@ -1,0 +1,64 @@
+name: signal scan
+
+on:
+  schedule:
+    # 07:10 and 19:10 UTC = ~16:40 and ~04:40 Adelaide.
+    # Two samples a day gives better coverage of a 100-post window without
+    # getting anywhere near Reddit's rate limit.
+    - cron: '10 7,19 * * *'
+  workflow_dispatch:        # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write           # so the run can commit the day's data back
+
+concurrency:
+  group: signal-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run scan
+        env:
+          REDDIT_CLIENT_ID:     ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          SLACK_WEBHOOK_URL:    ${{ secrets.SLACK_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL:  ${{ secrets.DISCORD_WEBHOOK_URL }}
+          USER_AGENT:           ${{ secrets.USER_AGENT }}
+        run: python sigscan/run.py
+
+      - name: Commit today's data
+        run: |
+          git config user.name  "signal-scan"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ site/
+          git diff --staged --quiet || git commit -m "scan $(date -u +%Y-%m-%d)"
+          git push
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  publish:
+    needs: scan
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4
