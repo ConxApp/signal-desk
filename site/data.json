@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-22T05:39:22.823789+00:00",
+ "generated": "2026-08-22T05:53:05.831919+00:00",
  "date": "2026-08-22",
  "reddit_enabled": false,
  "sources": {
@@ -29,9 +29,14 @@
    "note": "PET: HTTPError"
   },
   "gdelt": {
-   "ok": 4,
-   "fail": 25,
-   "note": "HTTPError"
+   "ok": 1,
+   "fail": 10,
+   "note": "HTTP 429 then 429"
+  },
+  "google_news": {
+   "ok": 23,
+   "fail": 0,
+   "note": ""
   }
  },
  "signals": [
@@ -266,11 +271,330 @@
     "app_rank": 0.0
    },
    "rank_score": 64.4,
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "e.l.f. Cosmetics Answers Community Demand with the Return of Pickle-Inspired Glow Reviver Melting Lip Balms",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2dOTG9KX01keU90UVVGdk9fM1hmSEU1MTlvQ2Z5dHhHQUF0TjNJQWdpaVhRa0V3dktWalByRlFBXzE0NjRSelU2bGdTbGk0QU1Ec0xiTVlkSXNYZ0lYS3drMmlueE9sa2R2UVRPQzBaZktXUXRhNTRrQkpQYXBaOHVxWF9UMmc1bU5JbGlPV1ZZVnJtMWtRS2NwczdDSlFZR3pVMmNfUQ?oc=5",
+     "domain": "e.l.f. Beauty",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "e.l.f. Beauty (ELF) & Ulta Beauty (ULTA): Rhode Is Carrying e.l.f. Beauty. Ulta Is Winning on Rich Shoppers Instead",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTlV3TlhQcl9qUWVwZEFLQXp0eWpHUkxfRWV2cm1MRExGTWpxYk1DcWltUV84ZHdaTklFbHFHTFdJRmlWZTZhd3Q0S1hfckktazdnYTNsY2ZRZllEelh0MEVOaERzMUhGMWJpU2ZJRUV0Z29hVjRlbWNpY3RPR0RUMVVuOXQtcUFZ?oc=5",
+     "domain": "Yahoo Finance",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "For e.l.f. Beauty, Inclusivity Is a Business Model, Not a Policy",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdkhUWTV2WDJNUWQwWWpINlhCNUxQeU5PQlkwdGpidlJKOXZjNWxNMldsTFZZenBDMXdiQlBiZ2xOX1Y0b3Blc1hDaVZPWXRrdnpId0RjeF9OSEt3OUgxRUZrVElWalh6ZWdMT1lBNUJ0TnhGckplU0RQTVI2Z2hVcmIzdzh3cU5IUVpjRlZLQTlWcXp0UEtDRGk2N3NTeUQ3eDNQY09CSkZZY3JWR1k0UzRLd2hkeU5DY0lZdXNmVUJtYTMyU0VUV2FQSncxTjQzSWplYnNhU0NHcjk1dm1wdzZfaTYyal9XaGZDYkpPN3NnbzFl?oc=5",
+     "domain": "WSJ",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "ELF Financials: Income Statement, Balance Sheet & Cash Flow",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RME9TZnBSbktwLXgtMEhwU3FYVl9Ic0IzQkdTOEMweV9FMmc4bW9ZWkpaWjVZZUluX3A2X3k3aElZaVMydGlDT3ZmcXVsZlpsWHNDUw?oc=5",
+     "domain": "Stock Titan",
+     "date": "2026-08-15"
+    },
+    {
+     "title": "Coupang vs. e.l.f. Beauty: Which Consumer Stock Is a Better Buy in 2026?",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVU54aXdfbldkN1VwNENhYVFHSnBFX1JudktPZlk5YU1tcXp5NHAzYk5UYmFzYTZCNTVHTGFtT0Zkb3pUMFYxeldUcDMwbEhzeFN1cUJrbjhrZnpWN0RsRUxCZ1N5Z2Z2OHRIZlg1d09hZ1RiUmRVanlieUFkMXUyUGR2VV8xWWNveTlBd3ltLTBjWEIwQ1hfNmhydXhXWHlvTUIxdTU2cjk2a2JWd3NJV3NhY21XVWRDbEJr?oc=5",
+     "domain": "The Motley Fool",
+     "date": "2026-08-22"
+    },
+    {
+     "title": "Why e.l.f. Beauty (ELF) Stock Is Up Today",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUVXbGI5VFNPc2ZxRllabmpmM2gwUFJLcmNsNmYyOWtNZmFnSzlGSURULXlqUl9sZ2FkaW9adnpDSi1xWk9vNEtadDc5SUN1ZVF0ZEx3a3ZncFBybHpPdGpYSnNCU1d1MndfMG82cGJBLWRZdFF0NHpxbWsxNVlSZE43a1A?oc=5",
+     "domain": "Quiver Quantitative",
+     "date": "2026-08-19"
+    }
+   ],
    "explain": {
-    "summary": "e.l.f. Beauty: attention is rising, led by news coverage (+5.0σ vs its own baseline). Stock: +11.5% over 5 days.",
+    "summary": "e.l.f. Beauty: attention is rising, led by news coverage (+5.0σ vs its own baseline). In the news: “e.l.f. Cosmetics Answers Community Demand with the Return of Pickle-Inspired Glow Reviver…” (e.l.f. Beauty); “e.l.f. Beauty (ELF) & Ulta Beauty (ULTA): Rhode Is Carrying e.l.f. Beauty. Ulta Is Winnin…” (Yahoo Finance). Stock: +11.5% over 5 days.",
     "tone": "unknown",
-    "drivers": [],
+    "drivers": [
+     "news: e.l.f. Cosmetics Answers Community Demand with the Return of Pickle-Inspired Gl…"
+    ],
+    "source": "heuristic"
+   }
+  },
+  {
+   "entity": "robinhood",
+   "date": "2026-08-22",
+   "social_z": 0.0,
+   "finance_z": 0.0,
+   "wiki_z": -12.0,
+   "news_z": 12.0,
+   "breadth": 0.0,
+   "acceleration": 0.0,
+   "lead_ratio": 0.5,
+   "sentiment": 0.0,
+   "intent_rate": 0.0,
+   "scarcity_rate": 0.0,
+   "unpriced": 0.143,
+   "direction": "mixed",
+   "breadth_gate": 0.15,
+   "price_return_5d": 0.1315,
+   "volume_z": 1.93,
+   "arb_score": 14.0,
+   "flags": [],
+   "why": [],
+   "name": "Robinhood",
+   "ticker": "HOOD",
+   "kind": "platform",
+   "note": "",
+   "mentions": 0,
+   "examples": [],
+   "sparkline": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "wiki_spark": [
+    617,
+    441,
+    440,
+    620,
+    605,
+    689,
+    676,
+    644,
+    519,
+    422,
+    628,
+    617,
+    718,
+    687,
+    518,
+    418,
+    449,
+    576,
+    521,
+    535,
+    636,
+    577,
+    359,
+    341,
+    513,
+    345,
+    457,
+    540,
+    517,
+    0
+   ],
+   "history_days": 91,
+   "social_days": 0,
+   "attention": {
+    "entity": "robinhood",
+    "date": "2026-08-22",
+    "attention_z": 10.8,
+    "driver": "news",
+    "channels": {
+     "wiki": -1.03,
+     "news": 10.8
+    },
+    "corroborating": [],
+    "stage": "rising",
+    "acceleration": 8.0,
+    "trends_hit": 0,
+    "finance_noticed": true,
+    "price_return_5d": 0.1315,
+    "price_return_20d": 0.1393,
+    "volume_z": 1.93,
+    "unpriced": 0.143,
+    "has_prices": true,
+    "has_social": false,
+    "direction": "unknown",
+    "attention_score": 62.9,
+    "past_spikes": {
+     "n": 0,
+     "median_10d": 0.0,
+     "hit_rate": 0.0
+    },
+    "flags": [
+     "ATTENTION_SPIKE",
+     "FINANCE_NOTICED",
+     "RISING"
+    ],
+    "why": [
+     "news coverage are 10.8σ above this name's own 45-day baseline",
+     "the ticker is trending on Yahoo Finance — the investing crowd is already looking",
+     "still accelerating (+8.0σ over the last 3 days vs the 4 before)"
+    ],
+    "z_spark": [
+     -1.01,
+     1.29,
+     0.97,
+     -1.35,
+     -0.13,
+     -0.1,
+     1.68,
+     0.98,
+     0.67,
+     -1.82,
+     0.16,
+     -0.54,
+     -0.06,
+     0.84,
+     -0.51,
+     -1.3,
+     -0.16,
+     -0.21,
+     -0.65,
+     -0.73,
+     1.12,
+     0.39,
+     -1.07,
+     -1.07,
+     -1.07,
+     1.23,
+     0.73,
+     2.52,
+     10.54,
+     12.0
+    ],
+    "driver_spark": [
+     0.001,
+     0.004,
+     0.004,
+     0.001,
+     0.002,
+     0.002,
+     0.005,
+     0.004,
+     0.004,
+     0.0,
+     0.003,
+     0.002,
+     0.002,
+     0.004,
+     0.002,
+     0.0,
+     0.002,
+     0.002,
+     0.001,
+     0.001,
+     0.004,
+     0.003,
+     0.0,
+     0.0,
+     0.0,
+     0.004,
+     0.003,
+     0.006,
+     0.022,
+     0.035
+    ],
+    "price_spark": [
+     109.86,
+     113.45,
+     115.54,
+     106.02,
+     99.96,
+     99.28,
+     106.36,
+     104.48,
+     101.58,
+     94.91,
+     95.65,
+     92.76,
+     89.84,
+     86.6,
+     86.56,
+     90.34,
+     93.51,
+     92.8,
+     90.71,
+     93.29,
+     94.52,
+     94.38,
+     94.91,
+     99.37,
+     95.56,
+     96.25,
+     91.53,
+     95.77,
+     95.1,
+     108.13
+    ],
+    "channel_dates": {
+     "wiki": "2026-08-21",
+     "news": "2026-08-22"
+    },
+    "app_rank": 0.0
+   },
+   "rank_score": 62.9,
+   "headlines": [
+    {
+     "title": "Why Robinhood Markets Stock Popped Today",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUDlVRmQ1SkJmYzRGcjg4WW5ZNFM2dzk0X1M4QU51VFF1TkNWcF9fcWZLY0hVS09CQy1oMUI4bEh4bWpOaGFYVEtaa1hfQzh3LWRfWF9aZnlrSVc3MzJCY1E3aVdMQjNTRE9sSUFMNWJOc2NKdHFtOXNiMmFWWWZ6Q1dIMlpOX1VPUGhIdTJQU0QzOUdtYkpfTUNGdDJDY1VK?oc=5",
+     "domain": "Yahoo Finance",
+     "date": "2026-08-22"
+    },
+    {
+     "title": "Democratizing Private Markets: Expanding Access While Preserving Investor Protection",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOVp4dmJnUk4tVndGN3c1MURiRlE0ODNoZGNJTXR6VDFTQ3lWaWt4bVBKZXVBam9qOU01ZHpQNDVVLWN5VTROMWdsTk9jUmdWMDRfd1hEUFlnSk9tM3p6V3NyNEt6X0FvbWx2bzZPRHpsYlY2MUpDa3ZSSjJNX0pKYjhlR2k5V2dETVpoNFFEc1I2YWc?oc=5",
+     "domain": "Robinhood",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "U.S. Indexes Rose Friday; Robinhood Markets Led Increases",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGJETlFjaW56VzFUdmxVbGhoanhUM25SSkVvR1dKRXB1clBaM002TEFJZ0t5ZGEzbmhEUC1ubkFBT2MwMWU3S04zajVyRVBhWDdNVGZHRTJmM2ZZWGFSWFAyQ3pHU2VqcjdKbkZFdWlyN3RraUxpNTVOUGFGbHd0cUs4dUpmRzdoeXJXWkVYalcwaHpra1hWS0VqOVN2Zw?oc=5",
+     "domain": "Barron's",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "Why Is Robinhood Stock Surging Friday?",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZklfVUhscHFnRWo3dXZZc0o3Y2EteWJEeDZFMmhoQl9YdVNKYlBCMWZNNktIZWJoSDFlakxlbVEtWHpJc0kwbzAxNTFnN0RSSWh1emNTRGFUVkhyV1UwNUwwdlRzTVRwQllEUGlHbmdlUXEtV0dsQjJ4TURpd0ZTSmVTYXVsZ1d3alZzSTZ5eTVuSnR2dWRZczVMZEVGU1E?oc=5",
+     "domain": "Benzinga",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "Robinhood Stock Sinks After-Hours: 3 Reasons Why Analysts, Retail Traders Are Shrugging Off The Dip",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTkpPYkRLemM4THNjVGtkc21LQzFUUmVMMGxVLXR2VzVhSjN6N2VwVS0wM096RDJrcjV5ejZhMlBvVmRyTlhXOUlNUmxjV0tzY01hVWpiQUNCRzI2VUZJU2JKX2JSeFdEbzJJcmhHVDh5RDVVTDdaWVU2RVljSzB6a1IxWXVodkxPQWJRT29yekJ6N0ZaQ0tBLTNFYzdkVmdVcENyRV9nWXAzaFJTc1BUT00zSzhNTUtTTG11WmlKbzVtTjd5anNBMEJIdlhJaDZRV2Z4eWVZWDlQLThDTktNR0ZUaFpCN0JPMEU0ag?oc=5",
+     "domain": "Stocktwits",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "Robinhood Markets (NASDAQ:HOOD) Stock Price Up 4.6% - Time to Buy?",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeVdfTUNqcy1UWGpYYmZpZU0yQkRCcjA4LU9QbTlmMi1HUWthSnZqQ19hUERYbUdENFg0X1hUdUd1aDJaMVhGQ2tUS3RVeHMyMU9ISldaSnRnbzZNaXJucnlJdmJac28zMXEybkdrbUtyZGtkdjNEWjRQT1JCaU1rQUlBbENGSTFtdFBBY1NjdXJVbVNFYlFFWGFMZ0d3aG10NGYzejFzSGNfTllWbVlwNEln?oc=5",
+     "domain": "MarketBeat",
+     "date": "2026-08-19"
+    }
+   ],
+   "explain": {
+    "summary": "Robinhood: attention is rising, led by news coverage (+10.8σ vs its own baseline). In the news: “Why Robinhood Markets Stock Popped Today” (Yahoo Finance); “Democratizing Private Markets: Expanding Access While Preserving Investor Protection” (Robinhood). Stock: +13.2% over 5 days.",
+    "tone": "unknown",
+    "drivers": [
+     "news: Why Robinhood Markets Stock Popped Today"
+    ],
     "source": "heuristic"
    }
   },
@@ -505,47 +829,47 @@
    "rank_score": 52.2,
    "headlines": [
     {
-     "title": "Downtown Des Moines residents urge city to ditch Dutch Bros drive - thru",
-     "url": "https://www.yahoo.com/news/articles/downtown-des-moines-residents-urge-110241900.html",
-     "domain": "yahoo.com",
+     "title": "Dutch Bros Coffee planning first St. Pete location at Tyrone Gardens",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdVppemlRUmVhMTg4ZlJnTmppalJJZXN0c2JvUEVlenBYS3hDSXNxLUZOempqNXBYdEhMQ1BuV3JxRDZHOXBtQTBfM1lSbGtTY3pveXhBWjFFQlpSbVBSVWhGT211QndkZDhOUkNJNlBKUGgwQ0tDZ085MkhrOVNwNzFTX0tma0c1RUdab2RJdlJpNmJUeUp4YVktZU1Hdw?oc=5",
+     "domain": "St Pete Rising",
      "date": "2026-08-18"
     },
     {
-     "title": "Dutch Bros goes on the autumn offensive ( BROS : NYSE )",
-     "url": "https://seekingalpha.com/news/4635842-dutch-bros-goes-on-the-autumn-offensive",
-     "domain": "seekingalpha.com",
-     "date": "2026-08-21"
+     "title": "Dutch Bros aims for another San Jose coffee drive-thru at former Hollywood Video site",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSm10Y29Kcy1ZSlZ5ZTh1Q3cwOXB1aGJFN3FXdGpmSmZ5UkxMYzB6Y295bmtvYTVlVFJDcm51S2JrMVRTSkFETHYtZEl3Q2k5ekRrNzl1dURvZElJUUptN3hKTjJvR0JqcVV0VkhZdVJsaE5MdTQzNG9qTENkY0pjMVVXUnFMb0NQUnFYVEE4NGxaRWxuZEFwQ0VYV2pjVm9WeHg1Sms3UDE2WnNIeV95VdIBtgFBVV95cUxOY0JQT3lMbVpFYmRzclZibXc4VlQ3M0JtY2RxYmV3dUllNmpRVS02aF8ya2R2NDV1dnBrSlU1cDVLTzZmb3lHMTF2YmxhSFdfNVZfYzJKQUpxZUhCYzlFNE9HV0UzMVpTTHpEU01JTFFxYkhjWTZXYnNYbmhsVjhiOEk1Q2dmRWZrYzB1WnVDRi11NGZuTlQ1UFBXVjVSOEFocDluclBuNUpIMzBMY3U0SHBRempXdw?oc=5",
+     "domain": "The Mercury News",
+     "date": "2026-08-17"
     },
     {
-     "title": "Vote On Dutch Bros . Proposal Delayed In Downers Grove",
-     "url": "https://patch.com/illinois/downersgrove/vote-dutch-bros-proposal-delayed-downers-grove",
-     "domain": "patch.com",
-     "date": "2026-08-19"
+     "title": "Downtown Des Moines residents urge city to ditch Dutch Bros drive-thru",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZ0N3SmRyMy1PaTV0OEdic3o5THVyNV80R0pZblQ4YnVyX3FnbVFuZm14M1VyMzN1VWdwdXdsRXlMbTBsQ192N29PSHFOcThFU2tROTZQLW0tUVFTbGFHM0tYbE0yb1Rtc0ZvREZVTEVBM09XbHNEOEItbUVDdGtOSGxvMHVxQS1DWEF4SzhtdkNfRzdkZ1dDSEZRbUFRaVJTY05WNjRpQm5fR3h0QzJNdnE5ZnhKMXJTVnFtRXNOYnQ1QXJZbzV2QThmT0RJWW5lX2JyUWNiQk95S2kweXFvcmMzMk4zYXR5a3djR1BDSTFVblFK?oc=5",
+     "domain": "The Des Moines Register",
+     "date": "2026-08-18"
     },
     {
-     "title": "Dutch Bros : The Business Keeps Getting Better , Yet the Multiple Keeps Shrinking",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/dutch-bros-business-keeps-getting-114500025.html",
-     "domain": "finance.yahoo.com",
+     "title": "By the numbers: Inside Dutch Bros’ growth strategy",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUEFQU3NYYzVhQmNSd0dJTm5jY3hHQjJRTlNRalJhWWJJQ1piaGhzTGlteFQzV09tNmVYMUhwNnNBQlllSnVGRVpYQWR1U01ENHEySGw5Nk5KU05qWF9PTzNnUl9mRE5aYW5GVkt4d2FZVkhBTWpha2VWVUxnNUgyWjJXQ2hOSk9GaXd0aDhfYw?oc=5",
+     "domain": "Restaurant Dive",
      "date": "2026-08-20"
     },
     {
-     "title": "Dutch Bros Opens As Buffalo Grove Clove Development Continues To Fill In",
-     "url": "https://patch.com/illinois/buffalogrove/dutch-bros-opens-buffalo-groves-clove-development-continues-fill",
-     "domain": "patch.com",
+     "title": "Dutch Bros Climbs On Q4 Beat — How Much Upside Does Wall Street See?",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWDRRMV95S1NrXzlxeldOSTBiVW1LaGZuQ1VOeUlDZjhnbnlycF85YnBlbUtiM2ZjdHhxeGpOc1pmWTk2NVVnN3NxVWFEZVpCWkNxRjFVckdJRTBXMGtPUXhGbE5EU005TkZka0RBeGo4Vmp1X2RZLTJsOWZVRFBBWDctOUgwODcwZEtJMUZobC03QkVkemxzSlpjZ0pnNjBjU3djclkyS2F1cmtfdFo3cTRWY3M5S0pZTTV2LWxoQlV0YkRuc216VA?oc=5",
+     "domain": "Stocktwits",
      "date": "2026-08-18"
     },
     {
-     "title": "Four Chains That Dont Use Real Pumpkin in Their PSLs - Hits 96",
-     "url": "https://www.hits96.com/four-chains-that-dont-use-real-pumpkin-in-their-psls/",
-     "domain": "hits96.com",
-     "date": "2026-08-18"
+     "title": "Dutch Bros is brewing up a new location in northwest Reno",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLUpVWEZ4ZVhRa1gwMGRnM3J0VHc3S0hLWTVERWxYTWRHMVhrU2t6NkxmX3pEaWRCMjZuUTFETW1wdUMxVUhWQVg0OER3cGNZaWxoWnByYXNjNlhzUC1NcE45MmRfOVBjTXB2VG1oTFpueW5kclZFWXhaVkVIMUYwVEc5U1ExUno0RVhWdlJiRFYtc1JaV1NmbWxiaXgySHhfQkVPMnF1cEtNaFJjOGd0dkpBRTRCMC1DaWJUbWVXRm5MQ1FfLWc?oc=5",
+     "domain": "Reno Gazette Journal",
+     "date": "2026-08-20"
     }
    ],
    "explain": {
-    "summary": "Dutch Bros: attention is rising, led by Wikipedia lookups (+2.4σ vs its own baseline). In the news: “Downtown Des Moines residents urge city to ditch Dutch Bros drive - thru” (yahoo.com); “Dutch Bros goes on the autumn offensive ( BROS : NYSE )” (seekingalpha.com). Stock: -4.1% over 5 days.",
+    "summary": "Dutch Bros: attention is rising, led by Wikipedia lookups (+2.4σ vs its own baseline). In the news: “Dutch Bros Coffee planning first St. Pete location at Tyrone Gardens” (St Pete Rising); “Dutch Bros aims for another San Jose coffee drive-thru at former Hollywood Video site” (The Mercury News). Stock: -4.1% over 5 days.",
     "tone": "unknown",
     "drivers": [
-     "news: Downtown Des Moines residents urge city to ditch Dutch Bros drive - thru"
+     "news: Dutch Bros Coffee planning first St. Pete location at Tyrone Gardens"
     ],
     "source": "heuristic"
    }
@@ -780,11 +1104,50 @@
     "app_rank": 0.0
    },
    "rank_score": 50.7,
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Bloom Energy Says It Has Visibility on 25 Gigawatts of Deployments. Here's What That Would Be Worth.",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXBiUkJfRHMxd0pXbzdCZXlLdzlsSjBTN2tCNWlLTUtNTWJEU01lS2E0eE1XcFV4d2lodGNybmRnX0pOUDhGUzRFTzA2d2FvcWtHcmxEQ2pXRUt6aHBYUG1LcFlkeWFYYW5HMHl4cHVobHlLVzRqVG02UUxfWDVJSTZpRWw3ZmVoeVJTQ05VY2E0dw?oc=5",
+     "domain": "Yahoo Finance",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "Plug Power Falls 5%, Bloom Energy Sinks 8% With the 10-Year Yield Near a 52-Week High",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdl9IMm00eDRqbzh0OVhSRW1WTW1LZVdIbWlWODRwRFdaekhLckNXZTNadkxKRjRiUnlkTXNNSkxxV2VUNnN0MlZaRHlFWXN3YkNHOHRVTEExaUtrbHlvYm1PQmJxajgtNWhzQk5KN1BhN252a0RjcUJrWm1SaEdtbG50ZWF4U3hoR29oQWV2T2NuaF85MXl6UkZzbU96RVNOZ2Q5Zjl5RGZvdDJkZTBPM1N4RDk4S3Vja0VQcXNtV1pEal9H?oc=5",
+     "domain": "24/7 Wall St.",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "Bloom Energy Introduces Power Connect, Cutting Onsite Power Installation Time by Over 40%",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMVAyUnRZUlBLTlgyZmctT2ROTzQtVHFOR1o2WjN1bjBTUDlvb2c4XzVPekRQcDlVemJHcWtuRnhlTnZiZTFJX0ZKaUVkTVYtRERITDNMbTUzanBnMFlfVXVrLWtoY0dMSjd0d0hWVU9sTHQ5bmNXNlpxY0RKcnZFNUhkcG1RanZmMW5wWklsWUFzV2JrRm5neFNrNlBVYWRyU3BhemJUWWlfZG4wak1XSzRNcmMyZWFuWTMyUHk4ZWprTW13c2d3bUtrS2JpNUJnRVpPSl9qSk15c2Nj?oc=5",
+     "domain": "Business Wire",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Nebius Switches to Bloom Fuel Cells for NJ AI Data Center",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWWFsaW5nbkFfdmhjRmFDRTNibGdIeFhFampmYmJUVDF6aXA1VUxiem5oS3YtM0xrTE1DdmZRMk1lQlNiRmNLSUZzM2Zfa3UtRTA2MlVqZlo1bm9mNjBEWjJTcnFndFpQSlhfNjctUEJ0MDQzUzN1VldwTTl1ZFc0VkN2cGIwWVd5YnRJdVNXa1FRSUNBQUlJRWlkX3dGd01xNmFBaFZHZDFFdnJvQ2FKTlpkMmF3cXJzTEg2ckNwZ1ZORkFHU0pydVkwZmNTOFJqVHc?oc=5",
+     "domain": "Fuel Cells Works",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "Bloom Energy: Up 136% This Year -- Is There Still Room to Run?",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT1M0Smw5SGJldmZwLW5fdS1BdHhDVzNGLWh0V0h0MHU5eVJRbTBiWklBZ3ljRU5RMHllS055ZTRObkozcGh5RWZfaTZpV3F4NDRwemxzM0g4TUVIMkJqazUxWTZoSUVZWjE4OHZaS3Y3aDQ1S0tGRDJ5NlloT0tMc0xsNWhiTDRKbk5ubDdLbGZmeklmRkpz?oc=5",
+     "domain": "The Motley Fool",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "BE stock analysis: Is Bloom Energy a buy or a trap?",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOanBWakpiSHdrUUFCQXVMSW9fa2VYbWNoMFlLdlVlRXZBRmE5dlAyTWlBelh1OEYyUmdwNnowZnNqUlhjdGNPTG1kOVBBVEkwRGRSUmZOWURVNVZIdFprMWtVaE5falRNOERWZXFOZFVNY3FwekQzeGFfakNkT2d1VERxVEtEYWZMd1hhSDFtVm9GU19fUUVPVFJsaXJfTEd4X2gteTNYN1FGTUZGS3RDbw?oc=5",
+     "domain": "Investing.com",
+     "date": "2026-08-18"
+    }
+   ],
    "explain": {
-    "summary": "Bloom Energy: attention is rising, led by news coverage (+2.5σ vs its own baseline). Stock: -12.4% over 5 days.",
+    "summary": "Bloom Energy: attention is rising, led by news coverage (+2.5σ vs its own baseline). In the news: “Bloom Energy Says It Has Visibility on 25 Gigawatts of Deployments. Here's What That Woul…” (Yahoo Finance); “Plug Power Falls 5%, Bloom Energy Sinks 8% With the 10-Year Yield Near a 52-Week High” (24/7 Wall St.). Stock: -12.4% over 5 days.",
     "tone": "unknown",
-    "drivers": [],
+    "drivers": [
+     "news: Bloom Energy Says It Has Visibility on 25 Gigawatts of Deployments. Here's What…"
+    ],
     "source": "heuristic"
    }
   },
@@ -1013,41 +1376,47 @@
    "rank_score": 23.7,
    "headlines": [
     {
-     "title": "CRISPR Therapeutics Stock Is Up Only 8 % This Year . Is Cathie Wood Bet on the Gene - Editing Stock Dead Money ?",
-     "url": "https://www.fool.com/investing/2026/08/21/crispr-therapeutics-stock-is-up-only-8-this-year/?source=iedfolrf0000001",
-     "domain": "fool.com",
+     "title": "CRISPR Therapeutics Stock Is Up Only 8% This Year. Is Cathie Wood's Bet on the Gene-Editing Stock Dead Money?",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY1pGei0yTkpOZDZEcDBPOWtKUnROcG12c0NiX3kyeTR5M3dkZTJlZGlyTGtnRktHdUM2S2gyTXlWcXlQV25fMWpRSDlUTU1YQnQ4eXhobnBvZEl4Z2xQd3R6R2dkWm9oc1JBOTFMRndJSjB3aVVNRjdSRDVZalcyN3RPdEpmYXlwUzFBVF9yc3VHT0hvOG5xVg?oc=5",
+     "domain": "Yahoo Finance",
      "date": "2026-08-21"
     },
     {
-     "title": "Vertex Pharmaceutical Rally Has a New Engine -- and Wall Street Thinks the Best Is Still Ahead",
-     "url": "https://www.fool.com/investing/2026/08/20/vertex-pharmaceuticals-rally-has-a-new-engine-and/?source=iedfolrf0000001",
-     "domain": "fool.com",
+     "title": "CRSP, VRTX Stocks Surge As FDA Clears Casgevy For Children Ages 2 And Up",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYktrRnhKM1NTMmJLOGE5VW1jYU5QX3N4VmZWanhjMklxX0d1X3NzN0tmb21LNVJlOTFWZzVlamhPYWo0SDM5aUwtZkFkOURGRDNfWm9BQkh3NjYxTkhPVll0UFA0S1ZEYm5Ock9iMURqa1llQjBlSUdlaFlsbXdVWktodllGcVZoQUN2aWg5QzJmMVdLdnVTUWd2U1Y5MWJHSkJ3UTNCTFRKSFB1NFY1Sy1hVkNWbFVsVFJQOTVLQTg2VGkzWG91ekF1MkFkMVRf?oc=5",
+     "domain": "Stocktwits",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "CRISPR Therapeutics Jumps as CASGEVY Momentum and Pipeline Catalysts Draw Buyers",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1EtdWlnbVRJSnlwdmNBcUVtNEYwcmtqaklBTEdRSVV5WXhNVkhNU2d3UTVyai0zLS1fTmltSlNfNVJEalFocTF3TlBUOG5Cd3poNkpZQVQxVldrX0dKVHlmeks1anFySU0zS3cyakRpYVdia1JHMUdMQXlyZVJwcnA4X2RlLWVRSW5NSWdpa09ONXluZzhFaEtMVlF6WG9HdHVkN19Bc2dqSjdEbTdnMnhuYw?oc=5",
+     "domain": "Quiver Quantitative",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "CRISPR Therapeutics (NASDAQ:CRSP) Trading Up 11.2% - Time to Buy?",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3ROWXc3SmFSOHpUejdPNlNEUUNGbHA3eU9NYjNpb0xkWlo4QVpxMTB2UU9XUEp2ZTYxamhSTVRlbUlGLV9vczRpTWlqcHcxMGpLcUMwbDhrTGdzNU9lVUx1elFlMnd6WENMaU9sUzZ1aEUtSk43QnpiOWtiWFhiV2tnMjZWRnhSamM3SEdqeVdGeGctVHByaGNYRTNRdmRoMXlONS05RDE3SDMzN2VldQ?oc=5",
+     "domain": "MarketBeat",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "CRISPR Therapeutics AG (CRSP) Earnings Forecast: Future EPS & Revenue Growth Estimates",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxNDB5U1hjZWZZWWpBdTlIMHBBbF8tY09EbE9vd3plZFgtZXZxakVaUGF1OWVGNzlCM3VrNl9ZWFJpQWRfU19yLTR2bmV5dmdXcmRxTnNSQWZCY2ZweWlZOWZOQmxhQQ?oc=5",
+     "domain": "TradingKey",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "CRISPR Therapeutics AG (NASDAQ:CRSP) Given Consensus Recommendation of \"Moderate Buy\" by Brokerages",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTTI1ckhSR1BvdEhRV1k2SVVKRXUxZkswcEIwN2dSQ3lnZmVJN0RLdHhYallKVjBsdXFYZFdXTF9adENacGFlOUIxbWp3b2h6X3NQdllxbmVzWW5ERUkwcy1MU2VBcVVUVTJaazdnbFVwSGFVVEZ6cGJiQ01qc1JRLVd4V3lTR3RpWXh3WXlZWHBhblRyMUFJUnlpY21OU183YUtPT0NkVXllTUpPWDVqeG93VUdUOWFabDdkSkk2eGQyRTVzSEVDVTR6Mk43bktuaThKeFhYTmR5dk1QN2U3WnFR?oc=5",
+     "domain": "MarketBeat",
      "date": "2026-08-20"
-    },
-    {
-     "title": "CRISPR Therapeutics ( NASDAQ : CRSP ) Stock Price Up 11 . 2 % – What Next ?",
-     "url": "https://www.tickerreport.com/banking-finance/13550260/crispr-therapeutics-nasdaqcrsp-stock-price-up-11-2-whats-next.html",
-     "domain": "tickerreport.com",
-     "date": "2026-08-19"
-    },
-    {
-     "title": "Spreading the word on a breakthrough sickle cell therapy",
-     "url": "https://www.mmm-online.com/news/spreading-the-word-on-a-breakthrough-sickle-cell-therapy/",
-     "domain": "mmm-online.com",
-     "date": "2026-08-19"
-    },
-    {
-     "title": "MaxCyte ( MXCT ) Q2 2026 Earnings Call Transcript",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/maxcyte-mxct-q2-2026-earnings-230144548.html",
-     "domain": "finance.yahoo.com",
-     "date": "2026-08-21"
     }
    ],
    "explain": {
-    "summary": "CRISPR Therapeutics: attention is around normal, led by Wikipedia lookups (+1.0σ vs its own baseline). In the news: “CRISPR Therapeutics Stock Is Up Only 8 % This Year . Is Cathie Wood Bet on the Gene - Edi…” (fool.com); “Vertex Pharmaceutical Rally Has a New Engine -- and Wall Street Thinks the Best Is Still …” (fool.com). Stock: +11.1% over 5 days.",
+    "summary": "CRISPR Therapeutics: attention is around normal, led by Wikipedia lookups (+1.0σ vs its own baseline). In the news: “CRISPR Therapeutics Stock Is Up Only 8% This Year. Is Cathie Wood's Bet on the Gene-Editi…” (Yahoo Finance); “CRSP, VRTX Stocks Surge As FDA Clears Casgevy For Children Ages 2 And Up” (Stocktwits). Stock: +11.1% over 5 days.",
     "tone": "unknown",
     "drivers": [
-     "news: CRISPR Therapeutics Stock Is Up Only 8 % This Year . Is Cathie Wood Bet on the …"
+     "news: CRISPR Therapeutics Stock Is Up Only 8% This Year. Is Cathie Wood's Bet on the …"
     ],
     "source": "heuristic"
    }
@@ -1277,17 +1646,47 @@
    "rank_score": 20.7,
    "headlines": [
     {
-     "title": "Reviewing Kimberly - Clark ( NASDAQ : KMB ) and ODDITY Tech ( NASDAQ : ODD )",
-     "url": "https://www.themarketsdaily.com/2026/08/21/reviewing-kimberly-clark-nasdaqkmb-and-oddity-tech-nasdaqodd.html",
-     "domain": "themarketsdaily.com",
+     "title": "Oddity Tech (ODD) Stock Gets Fair Value Bump After Cautious Analyst Revisions",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT0xtcG5lSlhhUEUzV1N1bGwzMkY1Qi1iMFZ3NWdzRFR5R0pubDdMQzJ2M0t2Y2dDUzB2cDlfcGg3bnR6WXhQQXlHcXhVcm5yalVndnZnYzdBOHdldUxxc3hra0lEQjYyeDJaa0xQY0JETllkNXU1RHhlOXBHUC1nQ0dtbDdleEM3clVNYTh6VEU1eWQzb2c?oc=5",
+     "domain": "Yahoo Finance",
+     "date": "2026-08-16"
+    },
+    {
+     "title": "ODDITY Tech Ltd (ODD) Shares Surge 5.8% -- What GF Score of 72 T",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTZGMDNSUFgyYjVzOTJYeG5wQzF5OVYxUUZ4TnhSZzk0LVdrXzN5Uld3YjRHQ2lsbHA2NWhGMTloTm9KZVVfTDZsdlNpSEdkYzBjZVBRd1dOdkJXUmVMZko2Rk5UUjVlZVkyZ3p1aUctZWlLWFRlTFYxMFJhOWYyWTVNU005ckwxMlpTalh5QU5pZXhmVmFyeUluN205NVo1WjJEX0RZTXp6UV9ZY1JR?oc=5",
+     "domain": "GuruFocus",
+     "date": "2026-08-22"
+    },
+    {
+     "title": "ODD Stock Records Worst Day Ever: Truist Slashes Target By 78%, Wall Street Calls Oddity 'Difficult To Forecast'",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWZqR1V0WWZnZHlxTmE5cmpRQmRVRjRTb09ydjY2eUwwRG4tc3FRc08wR0E4c0pRQWl5Q1BQTXNkeUhZbk5JR19JWDdIYlFhREpEekZEbzB0dzBmOHJRRTNfN1JfZWc0RWprWUhMSVNaaDljanhGTlY0Y0xYZUxLc21mZ2F0S3FkVWNzQkJFYTVQazlXSVJ6b29pYURrNXdmaHgza292a1VLUQ?oc=5",
+     "domain": "Stocktwits",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "Analysts Offer Insights on Consumer Goods Companies: The Estée Lauder Companies (EL) and Diageo (OtherDGEAF)",
+     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPYmJhWTMwRmxDOFJ3V0YxeWVsME1BQUY5bnU2N3hFeS1tXzYyUmhTc3lIbmxNbndGcnNNNHIxN0FEelEyR2NTSktwMW1CRVZ0QjRhU1BkVllvXzNESV9jclB6MU9LY0hHVDBreEhHM0tyeEpVRzJJb054dGVreUFRRVVhMUxKQl9SR3lPOWJoYV9xRFVCbkl6NElBVmxxMk1iWjJqN2Q4SmhlMHVibUJVS2R0Zi0wMkhaY1NiOVNqNGgxQy1KdE1UakV5TTJibDZ1SlVtYlc3NzZ3aHJWX1NoY2x3UzFxYk5wWHQxb1FOem5yalNwSUNUamRTcHdhV0JUWG5hTWRwRl9HZEpObC1QUzV2c3ZKZXM?oc=5",
+     "domain": "The Globe and Mail",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "ODDITY (ODD) Earnings Check: EPS Falls Short of Its Estimate in the Reported Period; Market Reaction: Shares Finish 1.74% Higher in the Latest Session - Earning",
+     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNeE1RMjdXd1pPRU5sMjA4WHJOT0NhQmFIa21kRGE5anlrNXlGNW5aOUZLYXVia3l3U0thdElpSG9sd2h0RHBvTUhBQm9BLXB6UC1DbjE3R210NEN3Z3pDdkVjRGVxN3ZZdm4tdUp4UEVBOXZpV2JNQy1nREtwNVhpZ2pTT3FuMGpkdWV5bzd2LU9TQjNodXFMcVNoMzRNRVhSY1dUd3BRQS1sM3VxY1VSdDJuc0IyTGpmMlhBQ05EcURYcmpPVWdiMm9OdzA3SlI0cWxCeGQ3aW9yXy16cjJheElkbHJKSnhQdThVY0M0NWtQWGFBeUZaLTBROEthQ2tmeDBDMTRIYy1JcHJVNHpYMTlsbjk?oc=5",
+     "domain": "vinanet.vn",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "ODDITY Tech Adds Veteran Investor David S. Cohen to Board and Audit Committee",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUUgtZExVd1A3UnNYRDBxOWFkTnF6VktHVmc3SmFWUk95Z2lFRXpZX1Qwa24zdWlXQ0FyOG9Db09uUjBPSm1SSXA2NlhkcEhJcXhOd3ZwbkdieHFka3FQY2kzMTU5alZJeVNkelI3V3c3SWZhbmNYSERSNmZDcEExRTBRSXllSmVzMXg1S2IwY09mZm5ycUhjVlRTbU5YWndEX2VhTHZtSExvaGZJS0taeV9pajBGb0ZLbnZPZEtqYVJQNnJULWlJ?oc=5",
+     "domain": "TipRanks",
      "date": "2026-08-21"
     }
    ],
    "explain": {
-    "summary": "Oddity Tech (Il Makiage): attention is around normal, led by Wikipedia lookups (+0.7σ vs its own baseline). In the news: “Reviewing Kimberly - Clark ( NASDAQ : KMB ) and ODDITY Tech ( NASDAQ : ODD )” (themarketsdaily.com). Stock: +0.8% over 5 days.",
+    "summary": "Oddity Tech (Il Makiage): attention is around normal, led by Wikipedia lookups (+0.7σ vs its own baseline). In the news: “Oddity Tech (ODD) Stock Gets Fair Value Bump After Cautious Analyst Revisions” (Yahoo Finance); “ODDITY Tech Ltd (ODD) Shares Surge 5.8% -- What GF Score of 72 T” (GuruFocus). Stock: +0.8% over 5 days.",
     "tone": "unknown",
     "drivers": [
-     "news: Reviewing Kimberly - Clark ( NASDAQ : KMB ) and ODDITY Tech ( NASDAQ : ODD )"
+     "news: Oddity Tech (ODD) Stock Gets Fair Value Bump After Cautious Analyst Revisions"
     ],
     "source": "heuristic"
    }
@@ -1519,11 +1918,50 @@
     "app_rank": 0.0
    },
    "rank_score": 17.5,
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Connect Salesforce to the Teamwork Graph to unlock customer context for your teams and agents",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb3AtVHZuUUpPQzRoQ2dlc1NDa3hXemVaOEw2U1JDc3lYMlFxcU5HVDlRTFppNlBlbUI5Xzg4SUJrTFdKM1FYVjl5NU5qcG1MZ21CYmVKYTB1NVE2MDdBTlZIVl9oeXZ6dWo0cENld2lnN1JSaXlHMUg5eW41YUNNNXZfb2E3WVBkMHc?oc=5",
+     "domain": "Atlassian",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "Red Agent Exploits Snowflake Vuln Missed by Github Copilot",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05dE1qQ3hxeElfay14TEt5LWx4MXZuTjZoN2tqVVVJbkE0RFBkcTd2aC1UQm9VbG1mNzFDRHZuSWtVcUxvckhfZ0QwNzhhOW5ZV2tSTTZZOGFJZEwzcWhyYXpwVG1nQkFvYy1LUw?oc=5",
+     "domain": "wiz.io",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "Why Atlassian (TEAM) Stock Is Down Today",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU25QZkRiVEJQa04tSHBaTmFuc2hmVE1LSEh5WGNKYVVPemhVbThGWUFJLXRyeTJYTnFXdUFkRV8tdXRXdWhEMkVvbi1oUGRrUWhvTXp2SkdiM0NCcTNXenlXaTEtWW9ST1Jjd050YUQ1dElCWW1DWU1oamdqRlZBaGc5aw?oc=5",
+     "domain": "Quiver Quantitative",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "SaaSpocalypse Defied: Atlassian and Cloudflare Push Back Against Enterprise Tech Fears",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaEhmYU81bkZIT1BSZDNxZHpzLWlfVDlPOGNTZnZhRkpwcEo0MzlTT0RzVUkzMGRmbE12RFM1bXUtRHdEZ1J3cG1qWTNPempWZno3WWdkRlRqOU1URURkVlVjNWgzQmx4bEZBUVNSTUtNdndMaXZ3Unc2VmItX2ZrdVZsUTg2cmsyRlJISUdjZWxoc29EakF1bVlkRE1MelRDSnpvTkJUemVFUVNuWmlLTw?oc=5",
+     "domain": "Yahoo Finance",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "WIN: Be our VIP in Las Vegas",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONzY5cExuVG5nckk0US04cW1kdVIyX3RUcExFMmhWNGEzanZtOGNTT2Fzdjc4aWFZMXg4WnJ1Q0JBQy0tRXF0NGZYUzMtdml2SDhSb210aEZ4aDZjX3Fkd0xIUVVNbGFQaUYyZEVFQnZZbFJtSHlsYnQ2ZkVEa01GR1Q0TXBrQlc3VE9waWhVaTdveDBmbGJmbWVaY3RnVlF3a3c?oc=5",
+     "domain": "williamsf1",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "5 Interesting Learnings from Atlassian at $6.6 Billion in ARR: 28% Growth, 44% RPO Growth, and a 35% One-Day Stock Pop",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHQyQkJzNFlIZDNndllLdE1zSFd4M01yYlJLcVdwSzZ5OERnVHBvRjRVN0hTWXIwZFVMb05MbXhSUlp3R0FXNWdoNXFkTlhuU2ZfWWF1d2xYTVpmUWQyWG9qVnJ5Y1JzMlN2MS0xeGpUUEJzS0YzeWlKeTkxUm8wR3RrQWRmUk51Y0IwYVBTVkhwakd2YXU3NkdfZ0YwMmhPaDNMNVN4RndmSEY4ai1fNnc3MEkwMnFQcGtuT0Jfd1JUVkdaQVRSQmI3Zm5jdEFM?oc=5",
+     "domain": "saastr.com",
+     "date": "2026-08-19"
+    }
+   ],
    "explain": {
-    "summary": "Atlassian: attention is fading from a recent peak, led by Wikipedia lookups (+0.4σ vs its own baseline). Stock: +5.9% over 5 days.",
+    "summary": "Atlassian: attention is fading from a recent peak, led by Wikipedia lookups (+0.4σ vs its own baseline). In the news: “Connect Salesforce to the Teamwork Graph to unlock customer context for your teams and ag…” (Atlassian); “Red Agent Exploits Snowflake Vuln Missed by Github Copilot” (wiz.io). Stock: +5.9% over 5 days.",
     "tone": "unknown",
-    "drivers": [],
+    "drivers": [
+     "news: Connect Salesforce to the Teamwork Graph to unlock customer context for your te…"
+    ],
     "source": "heuristic"
    }
   },
@@ -1750,11 +2188,50 @@
     "app_rank": 0.0
    },
    "rank_score": 13.4,
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Hoka Tecton X 4 fixes the Tecton X 3’s flaws without losing its magic",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rd2FYUVpsYUNwQW9rLV9qTW50Ym5FZnpwU21WOHM0YVB3aVVhMU5DazBzd19GU2UteVJxeXRCY2NYaHdsZ29rMHZEQlRON2UtendFb015YXBtTWtsSy1sQVY4QWl3TE5pVEFkRU1NdGRlQQ?oc=5",
+     "domain": "Believe in the Run",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "Kerry Washington and Natalie Portman’s Podiatrist-Approved Sneakers Are Like “Walking on Little Clouds,” Per Fans",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrdGFSanMwZXM3Q2V1VUpUa1BPT3U5SzZOVlVocWhRbTVNaE51WWhCN09uX3k1T3NieTNSRDRvZUxGZGNKb0w4UDFkdU5yOTh4SmdxNUhGblhuNkJJaUMtZ1p6cjZHcVRtU2xaNUV4bUE?oc=5",
+     "domain": "instyle.com",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Hoka Updated My Favorite Supportive Walking Shoe, and Now I Want a New Pair in Every Color",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EOFBTdzRCOEVVVGlLemxHbGJzdjdJLTRIdDROcmhUVm9YVTY1cjJBTTdRcVdXT0hTaDdTdjRpVmgtV3YwWWNpWVRGRGlURUFJWUFnR1ZxYjllZVc3ZE9OaDNFWkM5aWVzUG1LRUxn?oc=5",
+     "domain": "EatingWell",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Hoka Arahi 9 Review: Cooler, Softer, Same Smooth Ride",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yZ2dzc0s2akd6N21TSGNBODNjZFE0OWRWbVRyd21KSnluV3ZnR1VzaEpSQU5DQ08yY1MzOEZRY0lqeFF4NVdqbFVaSmRjcG4yTERZTEI4M0h3RVU4cGVhQURB?oc=5",
+     "domain": "Alastair Running",
+     "date": "2026-08-16"
+    },
+    {
+     "title": "Hoka Rebuilds Its Popular Clifton Sneaker for Lifestyle Wear",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQem44eUxDR3A4bDZCMmp1SEJKdFVKODd5SnF2dWVhWFQ5UHhOejJOS1dXTFBTLXV0RWg3aUZycjVmeEZzNDFNdFIwcnZTZHc5eHdoaEdTOTlsMGJUamp3U1FnTlhiZzZFOThLTXo3V1BfU0oyWlhUM0ZWVjhuTmcyZmp6RXZySTZJZllmSk44NFRYTUU?oc=5",
+     "domain": "WWD",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "REI Beats HOKA Prices on Clifton 10 - They’re Now Under $100 for a Limited Time",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX3MwRGRfY05EVHpkbHVuZ096Y055bTBNTEZaTVQ3N3M0aVdZNUlPSndBeHo0TEJRR2dYZ1lSeXo1RlozZ1VTZkRrWmhuRDltaDNKWFF2Q1doOEZoQTAzcm41OUpuQnNzOWpDM2pZRmJoSGIwUXNsZHZ5RW43blRSYk5UQ18yNTFYblF4bno2OGRtd2M3NjJHYUlnUEVIS1ByQjFqVHZEbzJNSHR0T3Y2T2poRzZBLURrQWdHSlRZV1RzNzd4STNn?oc=5",
+     "domain": "PennLive.com",
+     "date": "2026-08-17"
+    }
+   ],
    "explain": {
-    "summary": "Deckers (Hoka / UGG): attention is around normal, led by Wikipedia lookups (-0.8σ vs its own baseline). Stock: -1.5% over 5 days.",
+    "summary": "Deckers (Hoka / UGG): attention is around normal, led by Wikipedia lookups (-0.8σ vs its own baseline). In the news: “Hoka Tecton X 4 fixes the Tecton X 3’s flaws without losing its magic” (Believe in the Run); “Kerry Washington and Natalie Portman’s Podiatrist-Approved Sneakers Are Like “Walking on …” (instyle.com). Stock: -1.5% over 5 days.",
     "tone": "unknown",
-    "drivers": [],
+    "drivers": [
+     "news: Hoka Tecton X 4 fixes the Tecton X 3’s flaws without losing its magic"
+    ],
     "source": "heuristic"
    }
   },
@@ -2217,241 +2694,6 @@
    "headlines": [],
    "explain": {
     "summary": "On Holding: attention is around normal, led by news coverage (+0.2σ vs its own baseline). Stock: -6.8% over 5 days.",
-    "tone": "unknown",
-    "drivers": [],
-    "source": "heuristic"
-   }
-  },
-  {
-   "entity": "robinhood",
-   "date": "2026-08-21",
-   "social_z": 0.0,
-   "finance_z": 0.0,
-   "wiki_z": -1.03,
-   "news_z": 0.0,
-   "breadth": 0.0,
-   "acceleration": 0.0,
-   "lead_ratio": 0.5,
-   "sentiment": 0.0,
-   "intent_rate": 0.0,
-   "scarcity_rate": 0.0,
-   "unpriced": 0.143,
-   "direction": "mixed",
-   "breadth_gate": 0.15,
-   "price_return_5d": 0.1315,
-   "volume_z": 1.93,
-   "arb_score": 4.0,
-   "flags": [],
-   "why": [],
-   "name": "Robinhood",
-   "ticker": "HOOD",
-   "kind": "platform",
-   "note": "",
-   "mentions": 0,
-   "examples": [],
-   "sparkline": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "wiki_spark": [
-    635,
-    617,
-    441,
-    440,
-    620,
-    605,
-    689,
-    676,
-    644,
-    519,
-    422,
-    628,
-    617,
-    718,
-    687,
-    518,
-    418,
-    449,
-    576,
-    521,
-    535,
-    636,
-    577,
-    359,
-    341,
-    513,
-    345,
-    457,
-    540,
-    517
-   ],
-   "history_days": 90,
-   "social_days": 0,
-   "attention": {
-    "entity": "robinhood",
-    "date": "2026-08-21",
-    "attention_z": 0.0,
-    "driver": "wiki",
-    "channels": {
-     "wiki": -1.03
-    },
-    "corroborating": [],
-    "stage": "quiet",
-    "acceleration": 1.55,
-    "trends_hit": 0,
-    "finance_noticed": true,
-    "price_return_5d": 0.1315,
-    "price_return_20d": 0.1393,
-    "volume_z": 1.93,
-    "unpriced": 0.143,
-    "has_prices": true,
-    "has_social": false,
-    "direction": "unknown",
-    "attention_score": 10.8,
-    "past_spikes": {
-     "n": 0,
-     "median_10d": 0.0,
-     "hit_rate": 0.0
-    },
-    "flags": [
-     "FINANCE_NOTICED"
-    ],
-    "why": [
-     "the ticker is trending on Yahoo Finance — the investing crowd is already looking"
-    ],
-    "z_spark": [
-     -0.4,
-     -0.41,
-     -1.49,
-     -1.31,
-     -0.1,
-     -0.2,
-     0.31,
-     0.22,
-     0.03,
-     -1.16,
-     -2.24,
-     -0.06,
-     -0.18,
-     0.87,
-     0.45,
-     -1.41,
-     -2.94,
-     -2.32,
-     -0.59,
-     -1.15,
-     -0.98,
-     0.14,
-     -0.58,
-     -3.82,
-     -3.9,
-     -1.19,
-     -3.33,
-     -1.74,
-     -0.79,
-     -1.03
-    ],
-    "driver_spark": [
-     6.455,
-     6.426,
-     6.091,
-     6.089,
-     6.431,
-     6.407,
-     6.537,
-     6.518,
-     6.469,
-     6.254,
-     6.047,
-     6.444,
-     6.426,
-     6.578,
-     6.534,
-     6.252,
-     6.038,
-     6.109,
-     6.358,
-     6.258,
-     6.284,
-     6.457,
-     6.36,
-     5.886,
-     5.835,
-     6.242,
-     5.846,
-     6.127,
-     6.293,
-     6.25
-    ],
-    "price_spark": [
-     109.86,
-     113.45,
-     115.54,
-     106.02,
-     99.96,
-     99.28,
-     106.36,
-     104.48,
-     101.58,
-     94.91,
-     95.65,
-     92.76,
-     89.84,
-     86.6,
-     86.56,
-     90.34,
-     93.51,
-     92.8,
-     90.71,
-     93.29,
-     94.52,
-     94.38,
-     94.91,
-     99.37,
-     95.56,
-     96.25,
-     91.53,
-     95.77,
-     95.1,
-     108.13
-    ],
-    "channel_dates": {
-     "wiki": "2026-08-21"
-    },
-    "app_rank": 0.0
-   },
-   "rank_score": 10.8,
-   "headlines": [],
-   "explain": {
-    "summary": "Robinhood: attention is around normal, led by Wikipedia lookups (-1.0σ vs its own baseline). Stock: +13.2% over 5 days.",
     "tone": "unknown",
     "drivers": [],
     "source": "heuristic"
@@ -3919,11 +4161,49 @@
     },
     "app_rank": 0.0
    },
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Take-Two Subpoenas Microsoft And Discord Over GTA 6 Leaks",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWNpelZiNFZVc0cwanVJR0VweDFEZFprX0UycVBhNHM5dkhTTjdGSUIxLS1LRUdIWkotN29pRHB4V0VFMXVkcWlYLVBlMzR0MkRXbkh0OHE4QmVDTEpVWDBVN0NuLUN2UnZOSFM0bVRnZ1VfbzVhbXkyY0pfdTdpa2lmUWZNWnJoc09NOHJtdkpidDkweS1oclFTRjdyeEpDMk1vc3pmNHFrWHlnSXp1eQ?oc=5",
+     "domain": "Kotaku",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "I Hope GTA 6 Borrows a Lot From GTA 4",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00THBGb3dFdmQzY1BUNk5RcF9ZX1dsdzRuelM5QmVIdG1WMVFLSElJYk9jOG9UcDh5amNxTC1tN2lmWWV2MUE2TjVTRF94UVRsNDNYdTFwOGNRVlRhLUtHXzRqNVNOTmpBVk1OeUtNUzB3OXdO?oc=5",
+     "domain": "IGN",
+     "date": "2026-08-15"
+    },
+    {
+     "title": "GTA 6 leaks: Map and gameplay potentially revealed",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeTgtVlBaQm1jemdMcWNjb01obkdPN01yaTBsSlZ0RENPbld3bG5CQnlZZUt0SHdXWlZnaDVHTE56bXB2clhaQ3dXeDYyYVhpS1RZVXQwVFlOdmFxR09kampNYVZNb3BxWmQxR0pxTFNOeHN4MnFTVENlZ2F4bFlOZ0ZFUy1JX2U0M1Bv?oc=5",
+     "domain": "Mashable",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "GTA 6 cars need gas? OK, I'm finally on board",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOE5lOVFIdFEzYTNHQ0JQVjBWdUNvcjczdnBGc3hPRS15Q25jVkZPTkJPM0JISDVHVnV3NVhyTnFUQlYydU5tbDB1WTNCSDNRRmFheW94bXBFeWNmbUhHS25nbFpReFJTQzk5NGkxbFA2b2pwV09qWGJ2Tksxb2tPa1g4Ukg1S2lfVHpnTk51ZExvQzVf?oc=5",
+     "domain": "PC Gamer",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "‘GTA 6’ Developer Rockstar Games Subpoenas Microsoft, Discord Amid Leaks",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWWl4ZWw1SzZqbmg5cE5rMXczYWRhRGVQaXEyUkVSSGtZRmlRbVBPQzdvQzNJR2JSYnpSek1QOGR6Vl9pNUNiSGNkVGFwVWxDZkZabGpCbHB5ZDlxMVJyZHBRd2Mzd2UzR0Fyekk1a2J6TjVRbWZDX2xENE5ySnZDUDR1NkxkUVhsb3hSSGRZN3A3LWNyMklpdTA2ZVR0Zw?oc=5",
+     "domain": "Variety",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "The ‘GTA 6’ Leaker Is Leaking Again, Ending Rumors Of Being Caught",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUmppZV9McWlTeHBOVVg5SHRJaGF4OTlQUmlnUFVKLVBiQVhlRDI1UDlEeHU3UmVHcDVfaWNUN3ctemgzVlJUTTl3Vzc2SFhOU2lpcDJpZ3MwZEczUHItMTJRZlMyYkpmQi0xdEw2eFFxeFpzcTNBYktpcWs2eW5pSmNBS0ZiOFhwR09DTWNFX3NYVUFTU1lUTmxUTU1VRE03LTl6X25KeVNsWnA4am9VSi1xc3o?oc=5",
+     "domain": "Forbes",
+     "date": "2026-08-21"
+    }
+   ],
    "explain": {
-    "summary": "GTA 6 / Take-Two / NBA 2K: attention is rising, led by Wikipedia lookups (+6.5σ vs its own baseline). Stock: -3.0% over 5 days — the stock has not reacted yet.",
+    "summary": "GTA 6 / Take-Two / NBA 2K: attention is rising, led by Wikipedia lookups (+6.5σ vs its own baseline). In the news: “Take-Two Subpoenas Microsoft And Discord Over GTA 6 Leaks” (Kotaku); “I Hope GTA 6 Borrows a Lot From GTA 4” (IGN). Stock: -3.0% over 5 days — the stock has not reacted yet.",
     "tone": "unknown",
     "drivers": [
+     "news: Take-Two Subpoenas Microsoft And Discord Over GTA 6 Leaks",
      "Google trending search"
     ],
     "source": "heuristic"
@@ -4213,11 +4493,50 @@
     },
     "app_rank": 0.0
    },
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Former Abercrombie & Fitch CEO Michael Jeffries competent to face sex trafficking trial, judge rules",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjVDYVQtZENXRWltampkU1VrREZpSWw2VFd1RTdpZmRtZ0pzVWhTZzZkWkYwbU9ZNnJKd0c5dk9yd0N3OU45ODRTSC1UY1VURy1tOG1nQnkya212X2dZTDM3cmYtb21NcXVlVi1DVjNVTWNVRWp2QnJ3Tld1MUx4Uko2a042T3Bzem9nUlB2NW8tUlJSNTFVbWVXZWxuZjRybGY5QkZCY1RuUUEzYllRcFFYMGh0MTA0Nnc?oc=5",
+     "domain": "NBC News",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "A&F Expands Distribution of NFL Product Through Fanatics Partnership",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0RHMmRIRmVmRU94VlhyUE1rV0VPaTh2bjlxTHF1Q2Z5YXpfOXNRZlpSNU1keGFsbVItS2lXemlxMEVOZTJ2bGZMMFFwV09pQVYzYzJIdjViZUtEeTVjZUhWOEhYREZWTFpxcU5GUTBkMjBsUGtJdVd3cUxtTkFXQmhETU53Mk9KR0xQVXUyQmk2M3V6N3VCMFRuNXhPU3dQSTRxUGFDMzhMRDVvNzFqMFJnRVBTdw?oc=5",
+     "domain": "WWD",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "SPORTS BUSINESS JOURNAL: Abercrombie & Fitch, Fanatics team up to expand NFL collection distribution",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUkoweTd3LUtsdzV0eE9zSU1PX3BOTnFkQTllMGlxRzU3Sng4ZVRVaFpDZlB5UnBRN2xGSnkzd2s0RVhMZUhMQ1BQNTRiS1Mtd1RVU2hrQkdRRWhjamNpMURhd3ctLS1Yc1BTYm9TNUlpaG5rQ21vXzFmT3ZacmV4R0xnNlRvck1kRFh0ckdwVmZONzJJOUMwcmZJNFZabEdSc0tmWG5NUWJlZmxzWHdFd0FPWHVTWEpOMEdQdFVzZGhMUFkySmFxRzZ3eHQtQQ?oc=5",
+     "domain": "Fanatics Inc",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "Former Abercrombie & Fitch CEO ruled mentally competent for sex trafficking trial",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVFZTRENmOXNXX28zWXllLVJ1VHFwTEVRUzNJdEVYcUtXR01SN0JpRjYtdUFCR1QxUURfelMySm5xVktqcGFicnhRZUYxLVk3M2xkT1VsWmx2UHpkSWMzaElZMFN6eUZGUlJ3MTIyYWhsdTAxNmtMcXlYN0ZGMTJkaGNyVGpXRXhTTjNrN3dDaktvQ21aOVUw?oc=5",
+     "domain": "amNewYork",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "Gear up for football with the new Abercrombie & Fitch NFL collection",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMlgzdVJQZ1ItS0dhQVlLYm9YRFZmUE82QUlNVHp1YjYzM2NRVzFtZ2RVdUxXMWxWZVBnVGY2dnpQd3Z6d0JPWnVSU3hJcDcxUC1PQU1vbUxrWG9SdjREUnE0cUhpVDVfTlJ6NEhUeUFQMmdjNGI5NENva3Z1Z1RnSWlhQ0s5WnZOMHZQOHBNMVVkLXFwMjFCU0YwdUZ0NVB2bmIwOVVkVFNsVU4tcHFGbVVYSnB4T1lhbW43dldwTzc1S05YUy12RHFhYWc?oc=5",
+     "domain": "Sarasota Herald-Tribune",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Former Abercrombie & Fitch CEO Ruled Competent to Face Sex-Trafficking Trial",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYm1MVWhlT2l3ZDJYOC1tSGExM0dnMEZBZFhrUE9pQ1VkZ2J4VzNXSU1aZE54aUxIM18zZThHdEZldy1uMmtuSThNZjNaVnBNc2ppWVprRE1Ubi1xUG0tMGRsOVB2T3pBRjlyZW53dHd0NHRxMUZHRFdjYmRxbGx6dFJfY1QxUUZ6NnB6SmhQcC1RT0hCRExCNUxGNS1wVVR2OGxqODRkQkg3VG1vSnFTLUNNOXBMemVrbXc?oc=5",
+     "domain": "WSJ",
+     "date": "2026-08-21"
+    }
+   ],
    "explain": {
-    "summary": "Abercrombie & Fitch: attention is rising, led by Wikipedia lookups (+6.2σ vs its own baseline). Stock: +0.8% over 5 days — the stock has not reacted yet.",
+    "summary": "Abercrombie & Fitch: attention is rising, led by Wikipedia lookups (+6.2σ vs its own baseline). In the news: “Former Abercrombie & Fitch CEO Michael Jeffries competent to face sex trafficking trial, …” (NBC News); “A&F Expands Distribution of NFL Product Through Fanatics Partnership” (WWD). Stock: +0.8% over 5 days — the stock has not reacted yet.",
     "tone": "unknown",
-    "drivers": [],
+    "drivers": [
+     "news: Former Abercrombie & Fitch CEO Michael Jeffries competent to face sex trafficki…"
+    ],
     "source": "heuristic"
    }
   },
@@ -4514,11 +4833,50 @@
     },
     "app_rank": 17.0
    },
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Amazon Prime Air drone delivery is expanding to nearly 500 US cities and towns this year",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR1FIZVdwZWpWd2FwTHliRUprMC1IVl9DWnpzVmNTeTFvUHh0NEZGNFVvNGk0aHh0NFUtV0pNNjQyZFp5ZG1BZkVnYVlMQlk2ZWJOSWhvSHdPTk92SHdNN0tGWnVEV1dNcEplYzBvNVpoWl91Y2hHdnVpWF9zWDE1UUpNU2dWREVsQkxsSXRNbXhUUXc?oc=5",
+     "domain": "About Amazon",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Amazon accused of using public park as on-foot delivery distribution site",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM0tBdWRRMWZWaUpaUGhTa2trNDR3RGt3bFVPTFVnOVFxdndyMjBzVjNxWnh5aFZ3UE1LaGIwZURKS3hwd3RINEx4d1diQ3cxQnBTZlhVaEpWTXBrSjJ5X0tQWE9rVDlXcGZiZTVTVDRfWU94a3VJSzJqZkVneV9MRUhINjdaRDRES2FpNzJId1hkRFNLc2hNVFhibEN3dTlyVTV4V2pac2FWNHljOWZLOE1URXnSAbwBQVVfeXFMTlVFUWZiQ2ZsMlFlYUQ5XzNsaHhGY0dnc2FVYnZOM04wck5uOXA5d0IxTkt1MU1KczZTbWNUU2w5TE1nbUh0Q3JHbmxFckM0S1E0RHpQN015dEEwMkRKVFlXRWUtZko1aTdxR1JYY3EzMXpZZVlEektmOVlNTjhGdVJRTTRDeXdodVRkRnE5ZHJtSy1yZG9qTDE2eUd0VlFYZlc4aGpXVVBGbGV5aU5VeENxRUtldjZNRXlRM0Y?oc=5",
+     "domain": "NBC 7 San Diego",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "Amazon to expand drone service to nearly 500 cities after targeting 1 million deliveries this year",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3BxOFZnTzBJVWI5ZGxBWXUwWWdmTG9EYmlDcTBLbXpHb1NyT3lzNDVCWmtyOFRMSUVHbjk5VllueGM0OE5nc0JwRllRTWFBeTUxVlg5MDRhY1NjQmdZWEF6MnFkYWlWZjV1Xy0xWFdxVWt4RlRjS2RRR0Z3OThpNlMxR3p2M3JFQmZld2RFam9DeXhEZm1hcEM2d1haUzQ4dHBjbmgzX3Z0NEXSAbABQVVfeXFMTV9jM3FXZ1NsU0NkVVlISXpLanlUczBVQ2ZDeE4zTDFZUDJBUzRlRlVIalh5MG9aMktBWU1tZWtCR0lYOGVqMDhkdXRvbzgyZno0NC1UdDY1X1BxdHBXbVBqUGg0aFpKamItNmQ5QXFXVmZnSzZwbVQzR3Y2OC1KdmdNeVB5WTg4T1g0ZkdGRktWb0E2aTlCNzVrMV83cTNGQ1R6dXpMUk1HTFZXM3Y0dEY?oc=5",
+     "domain": "CNBC",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Person wearing Amazon vest, at least 2 others burglarize San Jose home",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV0pLbWZ0TWFkSUlLUGt2bE1vNzEtWUw3djlQejlBSWVxVHVvaHZfZXhtdTFFUkhyS0pEd0luZEJGa3dwTVFrcVlKM09HN2lQZmsyUUVVUWpRNmU3OUtNU3lRRWxyWTBXLWowZVFSMDFlRHhRS0lLeHB0dGNRdGlHQi11MjFrTEotX3FrYktYVEtoV29tcl9V0gGfAUFVX3lxTE9jQnFtNDRIeUEwYlBVY3I4UkhFQWdoZUNOZVZ0WGlpZkc0U3JoYlNyWmZ3UTFsaV9RRUE5VmczY05xdmttYXJ0b0xxUGQ5cW1BSllzZlFiRy1yZTd3NlFNcklFTExmWlkydTRrSVBYT3NIaHYyb0VYMHpPa1dja2h6RUFfV2JUNkc4dVEwYmd3NEdidXJvaDY5VWpZcFVIVQ?oc=5",
+     "domain": "NBC Bay Area",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "Grok 4.6 on Amazon Bedrock",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QTmxWMTBnM015a1RPY25GeUVaY0dkQ3BudkZQVEltMEJqTUZrYzlHR2VYNkVoTFhsTmZ1RjBvMXRZa3p1QnpNTDd3eVk1VW93aW1J?oc=5",
+     "domain": "x.ai",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Amazon facility opens north of Ukiah",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjaFlKazhONC0wVlBpZERKZkNuS0NCRVFvejNPNGg5czdtcjY4Wmw5bzZIaE5jU2dEd09pS2ZUWmV0Q041UlktTmpfZEJTdE5fdzl2RWZtSTA3emVLYUhNc2V6WlV2Uk5kaHhGWUNfQTNoc2FMZ2E0?oc=5",
+     "domain": "The Mendocino Voice",
+     "date": "2026-08-17"
+    }
+   ],
    "explain": {
-    "summary": "Amazon / Prime / Alexa / Ring: attention is rising, led by Wikipedia lookups (+6.3σ vs its own baseline). Stock: -1.5% over 5 days — the stock has not reacted yet.",
+    "summary": "Amazon / Prime / Alexa / Ring: attention is rising, led by Wikipedia lookups (+6.3σ vs its own baseline). In the news: “Amazon Prime Air drone delivery is expanding to nearly 500 US cities and towns this year” (About Amazon); “Amazon accused of using public park as on-foot delivery distribution site” (NBC 7 San Diego). Stock: -1.5% over 5 days — the stock has not reacted yet.",
     "tone": "unknown",
-    "drivers": [],
+    "drivers": [
+     "news: Amazon Prime Air drone delivery is expanding to nearly 500 US cities and towns …"
+    ],
     "source": "heuristic"
    }
   },
@@ -4806,11 +5164,50 @@
     },
     "app_rank": 0.0
    },
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Neutrogena is the target of fans' anger over Hayden Panettiere's death",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQemJqUDhxNjRYdWtfRm8zUmw5eHlYLXdZbUZ5cTJNdGZYaU5FTDhHUTlpUGpVQXJFSS1zMmlJR3dsOHh0UnBWYjZsVGpmWklCOGJMZzBQNEhzRzhiTXVMRjVSRlJFZFNMeWI1eExwSFF4b1FKV21lZlBPY0xLSHpoMThiNnlmempoUXNBVDR2R0RoVllxRXkxaGxOcjk?oc=5",
+     "domain": "Fortune",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Neutrogena addresses its treatment of Hayden Panettiere after she spoke about postpartum depression",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNVhRcVVNX1FLaDlCOURkS0phV05CX0hHTHZUTGNfelo4LXJzSlVVWXdaV3ZaczJka1VKTlNDalZmLWxYLTI3bjZFam9keGM3Z1VVemJhWDBtTzBLZjRpNzFHUmtiSlVTemd6dkZTMHdvbmpFZzlFNmJPd0RET0thWTd0WFdjSW14M2xyMXlrbENibTg?oc=5",
+     "domain": "CBS News",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "Neutrogena acknowledges Hayden Panettiere backlash after actress's death",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM1ZBMmdCVGsteG41Z29hOHVSR2VaRnA3SWxzbXVZR1JlV1NFY25wSFZJNW1UR3dhUnBmaU1CNkdSbzBTcFVVM3dxb05DTXBGUWktV0c2eUZGSE9Ba0tnRzhsLWp1VUIyc1ZyQllBTXRDSGFYRm4tbVpvekM2Sm9mUjRkLVdYUTB2VnpNZlZXSWpxa1hQb2c2Y2kxendvM2lDQ1Z1c3NiLXd2NDJlWVh3V2M2NEd6dXAtUDY4M3o5c9IBxAFBVV95cUxOa0pHNzhBUlQ3WUlZOXh2NHhnV1dseVZ6Q2g4V0RBbUV3RFUwcXdwQUFXc01SWFg2UF9VZXAyUFBhZmg5RXNsdTJTY20zZUpHdEhsT3h5NUlZZmgxZ2kxUGFoMHhJcVFURVFKOFRLRm5mbWhtbEZzZkJMMXdUekFKbG1udk5lWU9naUpfUkpKM3JtSTVIb09qeTZvSG5ZYkh4MnAwWHhLaXZOa2RkaXpXZXh3dWptV0ItR0c4WE5TaUQxYjdI?oc=5",
+     "domain": "ABC News - Breaking News, Latest News and Videos",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "Neutrogena apologizes to Hayden Panettiere days after her death at 36",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeVpvRkZpZG94YkQxNG5NNE5fOGs2QVZGSXJ0clcxQnhFbms3cjc3MWc3a1hVdnpBR3pTMjFVcTM2UDVsaDQwYkZmQXFhbWZtY1k2REpmRV83azRsWVhXQXdKMnowbVFjVDJQcnY1YV9FS1FubjhIRUwzNU9DNWhFeFBVV2J2cFJFNTZ6R3VQbjM3d3FKRXRTU2twTGltanhBdU9vN1ZBV3RYd1hBQnVKdHphMnBoTXVFaHBKb0d2VdIB0wFBVV95cUxPUHQwbUVraEduME0xZzBha011ZVFsSkNaYU5tRThPemk5Zzg5MGozaTNHT1lSck04cjVOVjVydE1rc2cteUtTVnRKU3FmQlZQVWEzZ1ZxWEUycW1yOUZWbUlxQ3gyM0RmbVlrN2hqTHJnMFZpbjVKOVd3T1UwZVhCMmhhVU4xdzN1YVh6TTVRa2Y4WFVmdDRiR2Vjc09OeTdLZ0NodmNXTlg1RWk4Ykx5aFVKelRxeFdFVmF5RlhxV0JCSDh4ejZGckNDb2s3VXFVeE1r?oc=5",
+     "domain": "Cleveland.com",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "Neutrogena Comments on Hayden Panettiere’s Death Amid Backlash and Says ‘We Made Her Feel Unsupported’; Actor Said the Company Nearly Fired Her for Talking Abou",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQXzNMa0lJeDEtTWRYZURhX0FtcElIVlRRT0FpS1pPdlFHaVVLTG5rYU9BYUNObFFrR01ZMEhBdEZNa3RCZUZTTUY0LVd5M3htQW5hNVF4Z3N0UnlRbFhoWWpzS1I5TlpmMHVuVGtYbnBFeDg3aERzcTdhNURQUWxseXltYnZjdjVRTlVxVFZIZnlNZXd6QXFUT2syamE0MmNtalRvVDhpdw?oc=5",
+     "domain": "Variety",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "Will a Neutrogena boycott by Hayden Panettiere's fans work?",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd3RNQ2NHeFZEOE5WNVZsRGh6RVkwcW9tN3VkTGFaX2pvdUhqTkJ5anBaYnkyeU1YWXdYODlkMFZXSXFzZzROSXZjT0tDN0h1cTNGdkY4b0Y4eXhSX3RFb2E0RjE4MFJjdTVWdFVFb0ZpOF9FMER4UElLYl9vSE9ZRWdFSXBhc1JYSjVTSlJPbU1MN3Q5T0QyNE1uUUlzM3U0eElpMUJ3?oc=5",
+     "domain": "USA Today",
+     "date": "2026-08-20"
+    }
+   ],
    "explain": {
-    "summary": "Neutrogena / Aveeno / Tylenol: attention is rising, led by Wikipedia lookups (+5.4σ vs its own baseline). Stock: -0.7% over 5 days — the stock has not reacted yet.",
+    "summary": "Neutrogena / Aveeno / Tylenol: attention is rising, led by Wikipedia lookups (+5.4σ vs its own baseline). In the news: “Neutrogena is the target of fans' anger over Hayden Panettiere's death” (Fortune); “Neutrogena addresses its treatment of Hayden Panettiere after she spoke about postpartum …” (CBS News). Stock: -0.7% over 5 days — the stock has not reacted yet.",
     "tone": "unknown",
-    "drivers": [],
+    "drivers": [
+     "news: Neutrogena is the target of fans' anger over Hayden Panettiere's death"
+    ],
     "source": "heuristic"
    }
   },
@@ -5032,11 +5429,50 @@
     },
     "app_rank": 0.0
    },
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Wag Wednesday: Meet Camille from Bakersfield Animal Care Center!",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa0dZSjBzdVR4UU1jX3g4dFRJV1lWTGJFalo3MGduTnBuY1ZKc0FwUTRxNVRQWlNUcFNSRzUxR2hVNk5taDloNHFWYkFma0JfSkE2al9MT05FNFZvdUNLdlBrUXBUNi05c3NCeDNCZllnMkxneS1hQ3dycmkxYmx4UzBmcXpVd09xV0dZWkI5TmZiakJtaVA5TTZLZHd6dnhfNzZpOTlTZHRJS3BaZUViS0hEUnpidkg1SFhSejlyWE9YSFU?oc=5",
+     "domain": "23ABC News Bakersfield",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Jaxson Dart’s girlfriend responds after WAG training camp controversy",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVk9FY0FTcGFKajRaT1E4X1lHamhIQUNCaEQwVzFVRThwWDFsSTRWdS11cmhUR0ljY21YdkVjek1WR3hSN2tlM1JzUi1nSmowV2pzQnVicjZJQlBfRkF6UTJYM0txZmpuTjZPRm9rdDRCUWYzeVFMbjBOWEx6cXlxckhZRzEyN2RGN25Dck8xQ2ZOSTNNYnRUZm51ZUlxLWFCd1dFVzROaUNkX2s?oc=5",
+     "domain": "New York Post",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "WAG-onomics: How Women Took Over the Business of Men’s Sports From the Sidelines",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdkxka3QwckNhVVlQOWRLMFRfZHJSYU9seFB6blpWX2N1WlhtcXJGZmVJeU9QS29UdlRXYmt1SVg4d1JDWTBiYkoxZzUydFhfeFhRdEZEcjFyZld2T3hPMVFDeHE2SjE0SEZQZWpuY3pPS1pxZHc0Z09JVXBwU2l3d2FpSVpQMWRtSFlmbG8xaHQ5N1NzcE9r?oc=5",
+     "domain": "Cultured Mag",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "Austria Approves the WAG Loop 1 Pipeline — Built for Gas Now, Hydrogen Later, and Life After Russian Supply",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSmx3RnVBcUc4a00tWmU4Vmh4NkY0NkJ2OVdYZVR3QnV1RmR3WHJvU0IwVVBERkNhOEVFTFoyT25GOGpXaV9nTEozZXJKS0pRV3RESXpBYy1HcUl3dHBPakJpRnVYNVdzOURDRGlPY1NONXFJN01pUUhJRmZqRG5nWFFSb0xrYldvQmI3cURnQkpDcV9RRC1YQmYyZjdpcVpoWFZ4SE83WkFnc08xanlXU0VNbW9YWXZRXzEtMXU1RVVtc0RUbHg5dk5acDY5d1RXZ0lDOTBGNWNRRVR1Wml5d2FHaUtCS3RHblBv?oc=5",
+     "domain": "Fuel Cells Works",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "PAWS for People 2026 Wag & PAWSathon set for this fall",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMlA0TGM1QnRDektmTE1GYnE2ZzdpaWhYbkRlamNlcC1IQklRSzBMZzlFSzluOUtJbmJPa1o1VG9aT3NoTFNjZFh0bVB2SW10cXI1X2hKdlhrZUF0ZUxUSGJ2cG5LZHg3eHpBWFk0aUFkWUE1TGU4bXRXenloUjRENkpOVnM1eHVMNjhXSG9naE14VXl6VDE3TUhqTGlLTXdvcFN4azM3YUgzcDhHdWd2UE16bE04WU13NEpjdGxxTnRkQ2xCTW1pTWdjVUdoNDN5Wlc4X0x5bWg?oc=5",
+     "domain": "Coastal Point",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "Azzi Fudd Proving To Everyone Why She's WAG Of The Year Musetti Roma (SomUfm0Zm4)",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lLW1GcVRWcFpKaTRleGRSLTZPQmNXSXRZSnRGRFJ4QUtOMG5SbFRXMnJIaDBjdEhLMGFienRXRU5sMGNTR2lnYWhKRVRTYi1JTHJQbUQwY1NpRWQxcXFrSA?oc=5",
+     "domain": "Mshale",
+     "date": "2026-08-17"
+    }
+   ],
    "explain": {
-    "summary": "Wag!: attention is rising, led by Wikipedia lookups (+4.4σ vs its own baseline).",
+    "summary": "Wag!: attention is rising, led by Wikipedia lookups (+4.4σ vs its own baseline). In the news: “Wag Wednesday: Meet Camille from Bakersfield Animal Care Center!” (23ABC News Bakersfield); “Jaxson Dart’s girlfriend responds after WAG training camp controversy” (New York Post).",
     "tone": "unknown",
-    "drivers": [],
+    "drivers": [
+     "news: Wag Wednesday: Meet Camille from Bakersfield Animal Care Center!"
+    ],
     "source": "heuristic"
    }
   },
@@ -5322,11 +5758,50 @@
     },
     "app_rank": 0.0
    },
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "5 things: Ross Dress for Less opens in Pocket area's Lake Crest Village",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGFJV0wwOVd4VXJHbG5uZHk1RUp4dk1RZXY4SG5PRndFOUt1SkhMNDRCa2xDNmw2alRkaXQyT2kyNkFsNGo3azZBeWNEU3o5b2F5Zml6SHRWTnRXNTVWNkFNNHRjZkJJT2EwQ0lMN3BEcjJQRkJyODRVNWhzNjAwdzZOYm5CRVV4cGxGVU5UaHJvXzFUWnBZVGtmV1NvYThuNXk2WjRTQWpPUQ?oc=5",
+     "domain": "The Business Journals",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "Ross Stores Trounces Earnings, Set To Retake Buy Point",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVmVBeTVPUGpVU2ZKX2c2OUhIU2JXUkszVGVkWWFKdmNxakhubDhUNnRMNEhQWGxVTXdHbHotWk93MWdBUEk5ME1LX2REU2g2V1UyTUk3YTJGSnFSN3NtaUtBYS1MYjVfbU9oMTNVVUtsQkdjRFI0ZWk0eXNXWlZ3SEljTzRnLUxTOXc?oc=5",
+     "domain": "Investor's Business Daily",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "Ross Dress For Less Now Open At Lake Crest Village Shopping Center",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS2lpQ1dqMVpPcUxSODFEZ3p1WmdwdjByLTd4SFFkclBRRFBrWHRCSVJ0ZzAwSUwxRUs3UGZHNFlubnlic3FIRFVrdnJLSGFlR2J6ZFh0bWhMV2RXMHJCZVNXYVgzRl9OaFVRa1d0b0hacHVyZkdsY1lYSzcwQjBsaFpjSERiLVVhU0dKank1VGd5YjVsNWhMQ0kzakN2TE0taUxIVE53cFc?oc=5",
+     "domain": "WhatNow",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "Store traffic lifts Ross Stores sales in second quarter",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbWRFdUlzWHV3X3hhVnlBSDVUNjZWMHZmb1hTbWduVUhDczNLcDYwTmZYcXJGZUN4eGptWlF2OWxVRzFvaXAtS3RZUkVzRGVIeDY2VE5hYjVtODZRVHBGeWVKandLSWpoSlBDMmllNlpuRjFtSEJ4S2NGRHR5RHRlS3R6T0Q3T0w1RkRqTElJU2JMU28?oc=5",
+     "domain": "Mass Market Retailers",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "Ross Posts 13% Sales Jump as Inflation Drives Shoppers to Off-Price Retailers",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUxfb21fS21pMEx0R1g5cF94TlVCUHpfSXVJNmk2NW5NSWZwUFk2MmFxb3QzbklqQVBIVThoUm9HcDV4b2ZYQS1WN2NnQ3pyMkVlNXhiaDdtLVpnZ3d6cm4xdFI2M3VvaGlsR0g0RkFsLUhSM3BSUU1WOXJ5alFkLWhtZ251THVaLWYxX3hzbEdHaUJBTlNKQ0lYNDVGS09sUDBSdFhRVUltR0xTZlBQMUxvR2syVkVK?oc=5",
+     "domain": "PYMNTS.com",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "SRS Real Estate Partners Brokers Sale of 31,086-Square-Foot Retail Property in Las Vegas for $6.2 Million",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVmZvMmpLOEsxbi1JcW9yY1ZqU25FYXp2MGExQmlzV1UzMWVVVGl5M3VRT0lGSWg4UlFaZkFsXzVnSFhIcFItQmpCQktCTzRRU243S2E2bzVNR2Q3QnpJNERtOWItRkRaZ2g2YnpVTjZJc29jOWNkdE9qYmNEdnhjSnRfdW90Rlg5clhOSnN0RFV2YUxJSkQ0bXVQYmJTR3BfQzQ0NmZ6STlKVzhFQWgyWHQxYmJYci0taENuRXdjTnJ5V2NZbVVQTGNYODRoUll1N0k3dFJB?oc=5",
+     "domain": "Shopping Center Business",
+     "date": "2026-08-19"
+    }
+   ],
    "explain": {
-    "summary": "Ross Dress for Less: attention is rising, led by Wikipedia lookups (+4.8σ vs its own baseline). Stock: -2.6% over 5 days.",
+    "summary": "Ross Dress for Less: attention is rising, led by Wikipedia lookups (+4.8σ vs its own baseline). In the news: “5 things: Ross Dress for Less opens in Pocket area's Lake Crest Village” (The Business Journals); “Ross Stores Trounces Earnings, Set To Retake Buy Point” (Investor's Business Daily). Stock: -2.6% over 5 days.",
     "tone": "unknown",
-    "drivers": [],
+    "drivers": [
+     "news: 5 things: Ross Dress for Less opens in Pocket area's Lake Crest Village"
+    ],
     "source": "heuristic"
    }
   },
@@ -5610,11 +6085,50 @@
     },
     "app_rank": 0.0
    },
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Primo Brands (PRMB) Completes $489.4 Million Follow On Equity Offering",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOWw5ZHRISG8ydXFvZFRmc0wxOTFQSkVhRE93S2R3eVRkVVNmY0p4MWRxMXM1Z2YzYTlaMnBCZjMzbU85RGlfLWJIU2lLT2lOamc3dzhYcW1NbHVJUUgwdS1ORnJYLUlJYW5YS3NoamhxRzYwYTc5ODN5ZW8ySnJCaDRoZmdPV0dvNDFsOHVhZ3NvMVhmOE5oQjZhc1I?oc=5",
+     "domain": "Yahoo Finance",
+     "date": "2026-08-15"
+    },
+    {
+     "title": "Primo Brands raises $489.4M in follow-on offering",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUkNnQzZ2QkduTnFoX01TZF9BVk1SbjFEUEFjTXVNTkVsYkdzR2YxM1BZRTdJZzlVOVlQY1NpSzkzT1UzTVNPNzUxdTJQaVRrNjZYS3JTS2FYbGFBcXRkaUszSHpmTXJsTkhNWDZYWVZ6LTY5TE8yb2p1dTVDbHNIWlhWaTdmZm1GU3c?oc=5",
+     "domain": "Dealroom",
+     "date": "2026-08-16"
+    },
+    {
+     "title": "Primo Brands Corporation (NYSE:PRMB) Given Average Recommendation of \"Moderate Buy\" by Brokerages",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQzAyYW41OEhla09nRUJPTE5pMUV6U2JSMlpOVlVvUF90ZU1TVVJZT3RkRXBOWGJiMFV6N0FzMGIzTFRNVnlXeHFOZVRsMUFWMFc5c1UxajJSUElaSmRJbkZVOUxTaDRlTFNEUXNsUlZpUWtMM0pfdTJodkozaEVCTnRiMnc4QW9aS092dkZ1dDVlclBFaFc1ZUphUjAwUmhSSUpqQmVmRW1CeHFsUnFJY0d6UUlBaXV4a0Ytd2dGYnl2ODNITE1TS045LTRoWUtlZHNNd1FlVmJDbnRtQkZJ?oc=5",
+     "domain": "MarketBeat",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "Two Days Left Until Primo Brands Corporation (NYSE:PRMB) Trades Ex-Dividend",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdlFfMEk3eGY2VzlZTE1ZalJSOEI0LW5nblhRMHJZSjluSHRMU1pUdkZYRU5DaWt3STdHSjRyVzRGZVVCaGNJMGlVeWw1a1l0VzMzRmE0cTVZeFM3c1I1LU5hTGpEMTZYSDA2QkZ1enJNTV85cnB0Q2JDeWc0eWRvRUp5dXNRU3F0QW9NMDdjQlVGa1dwc0lhRmI5UHdqdTAtRTVJZ1FqYW12Mk11NDM3WUZfMDBtTEZRUTdVeDNYLUV5U3loMWJWZng4T0V0TW1RWFJZX3hQLUN5d9IB3wFBVV95cUxNcUtOeTJpYlpEeDVyRFgwVE9UMVc2UFdmUW9pZmpLUVl5VUIzYU9tcTYxR0pfWnUyQlQybXNXMHRrQTlmRkI1WkdURFU4eU5YZVNhRTZNMTZzS0hnY2NNanVIT2E3S193TG40XzdNSDBvZ01vT0Z0VTFBdnRHdHVaVnF1Vm9DSl9BVEdoaVJVejRybXZiTTBDYUt4SXJkOU8wYWt4YWtYUGcxa0Q4SGYxVGx1ek5XVGxEd05FQjBQdG9zYmhpS3VneGxNMnRDUGU4cklqY0JHZTkweUg2MEZv?oc=5",
+     "domain": "simplywall.st",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "Allison Spector resigns from Primo Brands board as ORCP stake falls",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRDU3VWlNVnIwbUtRdFhhLVhqWkJhNXY0cnJBdFRVVTJJVUI1YWM1U09VYlNFMWVCVTZybDY3dy1yYnpnZEc2Qmx6TFNfcGNUbjBxQ2RjZ3N0MERiVUwzMWx5bk1xaXA4cjFhU1lNWFpnY05nMlVrUkF0cFN5aVdwYTV4SlFkYlROLUd1aVYyUU5jQmcyVW5iRHBUc2Zpemp4bFdqZEpkTUZMUTE4NmctZmU4aGJOemoxMTVjbjc3cEJrczZOYnpaSA?oc=5",
+     "domain": "TradingView",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "2026-08-20 | Bronstein, Gewirtz & Grossman, LLC Encourages Primo Brands Corporation (PRMB) Shareholders to Inquire about Securities Investigation | TSX:PRMW | P",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNel8wV0szUk1jbUM0bVFRSEtKZTEwbHJmR1hlckF3OW0xS3laRDQwNGd0NHJrWEpaUU9OVGpQUTItY3RXU0FGMnRIbUNKazdkZXZob083MFhCMHA0a3RhSmgyTkpNTkNfa2luck9JeWRQRnpWZEhnR2hKdVhfWEdVemNLTjRIRlVVdS1UUTV0TGdqQXg0eUMwbm0tTGJlbUppc2dSMUxkTENQMnBZYVJuVXJWR1BKUXpRWUFIa2hzLVJSZXM?oc=5",
+     "domain": "Stockhouse",
+     "date": "2026-08-20"
+    }
+   ],
    "explain": {
-    "summary": "Primo Brands / Poland Spring / Saratoga: attention is rising, led by Wikipedia lookups (+4.2σ vs its own baseline). Stock: -6.4% over 5 days.",
+    "summary": "Primo Brands / Poland Spring / Saratoga: attention is rising, led by Wikipedia lookups (+4.2σ vs its own baseline). In the news: “Primo Brands (PRMB) Completes $489.4 Million Follow On Equity Offering” (Yahoo Finance); “Primo Brands raises $489.4M in follow-on offering” (Dealroom). Stock: -6.4% over 5 days.",
     "tone": "unknown",
-    "drivers": [],
+    "drivers": [
+     "news: Primo Brands (PRMB) Completes $489.4 Million Follow On Equity Offering"
+    ],
     "source": "heuristic"
    }
   },
@@ -5894,11 +6408,50 @@
     },
     "app_rank": 0.0
    },
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Hyundai Ioniq 5 N at the 0–150–0-MPH Speed Test 2026",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTjV0bEJ2N0lOSktsZEk0T2ktQkw1a0tLVUZ0UUFUSXVWN25VdzI3ajFqTmRuYVdicXc0NFFpMWVQa0l5TTRUT0lkdF9pbVhmOXpyV2k0YU0tMmpRVDNHNnpIWjczbjdDRGtBTjlkZXkyQ3JpTjJRQ2tuWnJuaGkwdzdZOXpWNWRPelhnUU81WFhqbUM5?oc=5",
+     "domain": "Car and Driver",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "A NEW ICON’S ARRIVAL: GENESIS UNVEILS GV90 FLAGSHIP SUV",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZlotTGhXNVRweUE1YW1pb2RobUw1d01BbzRHYjRsV2pPMWlyVkRvNU1Sa1VfS2d0VzVIMzB2UUFJZFAwR3p3OGxiY3JKZUx3YlBPampKSVVyUlhHaEc3SXRMRC05QXNxa25VWkFlNEEwOUF0OTdNSGZuQ01nMEtrVVpUMXdzRnJ5Nm8yYVRXM3NFRG9tYkpReFFyZw?oc=5",
+     "domain": "Hyundai Motor Group",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "Hyundai considering U.S. production increase at new Georgia plant, CEO tells CNBC",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSUs2ZndobXZzVWozaEljaDRzSUFyRUFUVnBXYXVmdktteFU2d01vMFZXOHFXbC1sUlVobkwtc3J5YTFLOTd0Q0VLWlRHWmNHcnk2THZ3ZW1VZ1lndkNGeS02OGg5TWRnSmQxaEtZa2VmeVVEQmx3dENDYnlHdldWV3JR0gGHAUFVX3lxTFBNUko1ZWZnRjdVNk5ZOVBJS21ScVhidlJHS2pvdkgyNlpNcjNqM3NRRXZiZEpkSEhNczBsWXZEQ2pWNV8zOVBlSlN5WlZSQXI5am9SVENud1pRZmVGdmU2SHBjZ0FkaUhnV2pRMWNWRnc4RWFwRnVKbHpKeFVXUW1WRlF0a0d1WQ?oc=5",
+     "domain": "CNBC",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "Hyundai Motor's South Korean union stages first full strike in a decade over pay",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd1NFbENBWGRhVEpxLXVyaFFZTzhNczN6TlNQcHhFZGtTM2ZERGpzLWRrbGdxYnNDYkJBQUYtQWxKaXZmaVpSRkhaeUlxb2NrSnMyckMwcUVzS2pHMGRfZUFITTlUb0xvUVpoWWFNUm85cGJfRTRKX2FlSnBqbXduNkZnbWJVVFIzQkw5bXdpcE1hbkRRZ213cWdtV3dIZFVON3ZsakZPZjFRU0QzTWhWYU82a1I3T2xySlE4WkRyak9jM09zcF9YLQ?oc=5",
+     "domain": "Reuters",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "2027 Hyundai Tucson First Look: Bigger, Boxier, Roomier",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMHBJUllJNW1DNkdJRXRESGNhWFBkczMtcWF5cWR1VHZPcFRKVkU1bXBqd3NraGtqaVlfUTJENklSZHJkU1hMWWRRckVxdXdTUll1ZVRBOXFqcnl6NWlnZVprNFdoNXRlMllEUTVLZHJJbmN0S3VsNC1mMF92SUxLNQ?oc=5",
+     "domain": "Edmunds",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "Here’s our first look at the new Hyundai Tucson inside and out [Images]",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdnBxZEZSS2szMEdxZ1dGUlp3TUlRR3hYcFA4aWVaMFp5RlFPWHhHUHNKM2ViTm43a21RUkhxUXBHclJfdFFmb2VjcU1WTUU3V2JBMnNTNWZKbnpPMTZzV3VOZGZaUTBILUVZNEZCa0swdUVlSFAtT2s0Y1V0U1BoWVV3bEF1Q3k4VGxn?oc=5",
+     "domain": "Electrek",
+     "date": "2026-08-19"
+    }
+   ],
    "explain": {
-    "summary": "Hyundai / Kia / Genesis: attention is rising, led by Wikipedia lookups (+2.2σ vs its own baseline). Stock: -0.8% over 5 days.",
+    "summary": "Hyundai / Kia / Genesis: attention is rising, led by Wikipedia lookups (+2.2σ vs its own baseline). In the news: “Hyundai Ioniq 5 N at the 0–150–0-MPH Speed Test 2026” (Car and Driver); “A NEW ICON’S ARRIVAL: GENESIS UNVEILS GV90 FLAGSHIP SUV” (Hyundai Motor Group). Stock: -0.8% over 5 days.",
     "tone": "unknown",
-    "drivers": [],
+    "drivers": [
+     "news: Hyundai Ioniq 5 N at the 0–150–0-MPH Speed Test 2026"
+    ],
     "source": "heuristic"
    }
   },
@@ -6184,11 +6737,50 @@
     },
     "app_rank": 0.0
    },
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Paradox Interactive Unit Announces Publishing Partnership With Blue Isle Studios",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLS1GNXlCNGN3akdoWXZxdGRLMGxIVjJZZHY1dExTMndHeDZKRlE1bVhDZHhyMmU0aVBmVkFtTkZoZDhLaEdxUENzZ2tIUGVWaF96VExkd3dyb0NXRF9lZTNlbHdwdlZiaUFtM1ZlamtYa0R0c241dnJHSGZfdG5yTkVMOWpfcGVOaGt3bmRZeV9IWWNjOFZUWEx0N3pfMEUwS3QzMWRwNmo0X3A2OHE5Wjk5NWJRVEo1UGpESXpubnNIYk9iUkx0dmJZSFpkYmEtUGlvYzY5RnotZkIyNGpvc2stam4?oc=5",
+     "domain": "TradingView",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "Guardians of the Wild Sky reveals publisher Paradox and 2027 Steam early access release window",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcTlMb25kaVFaOUlQeGUzQUhOcDJfaHZ6c0Z5eVh4LWlqZ1NGbFNiT1VxVVNPUHlpeExTeDQxNG11QlNHeTIzcUVoM2xBaUMwa2ExTUJzek5fM3pLeWp2Z3R5R2xSNU5UaG03cnZURnpYUF9CZHZjUmwyWDd3TExoUHd3OGFmeUt4WUNaNFlvdVpwcC0wOWZPVkgtYkpUSHViekpra0N3MmI1SzN6SHltNWpyOVFkMnFYNjExYXFkNUZVT0xBMWx5NWlzS1ZDSy05Y01nY2d0cnZ0VGFxMkIxT0pn?oc=5",
+     "domain": "Massively Overpowered",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "Acquisitions of own shares in Paradox Interactive AB (publ)",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjBnS2xXb21rWWtBQU1ZMzRZbWhqcFdQaEZhT0RCR2htTVRZaGxrS0hVWU5zRi1UeWdjckk2LVhvazRoSHphSGx1SERYZmRSam1Ddm9Jc1JwVVZZMk42VmtkU0JFU0kxclc2aTJmZUJqWHE3ZlhHYmNMMXVVZHRGWEtkRnM5RUlaenJqaEhJLTdvWHNKYjNRSnVkU3lsalVnTzdrem5tOW5xYmRLeUVB?oc=5",
+     "domain": "marketscreener.com",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "Paradox Arc Partners With Blue Isle Studios to Publish Guardians of the Wild Sky",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwUjUydnJBWW5pNllsZDJwQUYyUXB5NmhpRUZJbVZNZWVaR2dYdnNxeUxiUGVJNEp4Z2l1QUVmZFBnWUpuOEZFMXR3NTdXN0pscHFxVTNYYmRjYmVMNjVqWG5JQjFHeUpYLTdTbUk3WjdOWVd0bmtCLQ?oc=5",
+     "domain": "Simulation Daily",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "Hearts of Iron IV to become more technologically advanced - Paradox to improve performance, modern processor support being tested",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYVJ1a2VtU19NX2hVbERmUlRVa3JlMWtiQ1JTbHJpbGd3QXRCU1U2S0c2cXFvUmQtR1lKN2JIcXR5U05SSHFGd3FmMHY5aXZWMC1VZlZXaHhseC1KVFBlMVl5RlYzb09UeDhlQnloZjJJXzhvNTZEb2JCMXFCRTA0a3JrbzVaWE5sNEE2Q0J3eGZqRzllSVdsLUdGOWJVT3FzeUtNQzdHZWdZV0taV2JCWXR4WnRIblRXblpuTXRidFd2NTJxU0ZhQnFEUUpid9IB0wFBVV95cUxNQzBJUHhSd2dpakFZSjBrSk5sZEZCUWpVWl9TT2lVcG1SRUZXLWMzUTMzTlJHMFM5aFhQNXdJcG9IWjN5X0FyVTlabWNKQUFmRnJFT0pQU0ZGWXE1M1RQQlV1NzFGYWlLWHR6Vy1SVEpyQU92TmsyRE1xU2U5eWx3VlNmd1k1X3J1eEdDZkladS1PbHI3bTY0OGhEd3FMZ3ktMzNQeXRTeWl2NlNaOXRPODZuNFY1Y0dSX2hVUVJsWkZpcllUZ0FyTmhyLWVpTm5NTHRB?oc=5",
+     "domain": "ixbt.games",
+     "date": "2026-08-15"
+    },
+    {
+     "title": "Guardians of the Wild Sky is a co-op survival-crafting creature collector with airships and dragons",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX01oRE5KYnV3T3lBa1dtUkxJWFZXSk52S2M5SkREWlZEbzZNeEN3eGJRZmtnZ2ViU2N1TTJDck9QdWtLd083LV9ZZTh1T09LdHVjZUpEMVJ0N2s1bUdOajI1ZDd3OThjUnYzMnFtYUtwcUZ3b240b1ZpTmRTN2oyR1hjdmFCUE9TaDlJU2JSRzY0RGg2bjZ4b3djZVFuMDNhc2ctamJZQTUyMkpnVi1nTlp3LVRXZVhtMm0wS29ybzcwWFZDMW9aV2xCREg?oc=5",
+     "domain": "Pixelkin",
+     "date": "2026-08-18"
+    }
+   ],
    "explain": {
-    "summary": "Paradox Interactive: attention is rising, led by Wikipedia lookups (+3.0σ vs its own baseline). Stock: +8.7% over 5 days.",
+    "summary": "Paradox Interactive: attention is rising, led by Wikipedia lookups (+3.0σ vs its own baseline). In the news: “Paradox Interactive Unit Announces Publishing Partnership With Blue Isle Studios” (TradingView); “Guardians of the Wild Sky reveals publisher Paradox and 2027 Steam early access release w…” (Massively Overpowered). Stock: +8.7% over 5 days.",
     "tone": "unknown",
-    "drivers": [],
+    "drivers": [
+     "news: Paradox Interactive Unit Announces Publishing Partnership With Blue Isle Studios"
+    ],
     "source": "heuristic"
    }
   },
@@ -6472,11 +7064,50 @@
     },
     "app_rank": 0.0
    },
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Dan Murphy’s And The NFL Join Forces Ahead Of Historic MCG Showdown",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMkttYjlXQWxqaXVMaEdhXzUweWxiVWJQYWNrd0JIX2pYNHBlNUY4Vy1ibl9ucF91RlpudkdxRm1QREtPMnJCbFFJMjh1T0N3aUV6RlFpZDY0dXZMeU00UUc5b1c5SFB0c1NnUDNnR3paald2bXFVSHNhV1FKZnllc3lxOEowLXpPWkY1X1pzQVBKVTFqejd2MTE2bHIxVVV5Q1hocXBReEdiV1o5eTRDN21RS1p3UQ?oc=5",
+     "domain": "Endeavour Group",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Dan Murphy's scores partnership with NFL for historic Melbourne game",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcGw5SnVTMWFJVWQ3QUdVeWNGdEg0b3V6Wjk0eHFMQk9QaVJuRzZPenNaZktDQUJkcnJmVUFESG9Yb0ZtNFhxZHc2T0FidTN4NzZmY3R3OHBCMnFJalhCcmF5RjVQVWs0NW1QaktqMTlnYUpjY05FNXcxNHozTXpSRkhUV2NBX1hycnBZR0hvN3VSM1BCNkZxVg?oc=5",
+     "domain": "Mi-3.com.au.",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Dan Murphy’s partners with NFL as league gets ready to touchdown in Aus",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb2hqWkllbnlXdGwxSTBPWVVmSno5cmZxczJMME15RC1hcDc1NkJISmNqTDFzYi1LelNfS28xRWNYVVdtLXc1ZFhGcll6NHlqZllwMUpnZGlwdDBaLTRUUTZlNGs0SFdUcmRHd0NEX09RejY4Sk1tYUZQTlF0cWFVWDNFT0dTYjM4SVV1MnVmVFJWMWlVQXExVFZ6MEZhS0NMbGs1ck52N01GZGc?oc=5",
+     "domain": "Drinks Trade",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Dan Murphy’s trials new ultra convenient pick up model",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVzRZVGQ2dU9wM2s0VEZCUm0wTUR2dTJBQ1c0NFp2OHBGTzNRTGZuZDFOa3AwLXBlREZuaHUxNl9FcFlhR19zT0tuQk4tRnVtWXFfdWk5cGtjeGNKdlFWWUt0ZE5veVJUaHhCN1gyZkZuenFuMHlqWThoRi1aSzZnZmc2SlEtdHFDTmIzX3BsVXJBN25wcFVWaEItLUZGVUwy?oc=5",
+     "domain": "theshout.com.au",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "Dan Murphy’s joins the NFL",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LbF9nZzdDUFkyaGhRc0dCLXRJZlJXbWdlVXlwSWY2aElQSU1LZUJTV2QyVTQxSHN1SjVtUERYMnMxT1h1TTQzYVdqNHpaN0xrc0pUd1lLTld5QTNXX1prRWNrMXo1UF9ENnlsV2RQdklnN2NM0gF0QVVfeXFMTUtsX2dnN0NQWTJoaFFzR0ItdElmUldtZ2VVeXBJZjZoSVBJTUtlQlNXZDJVNDFIc3VKNW1QRFgyczFPWHVNNDNhV2o0elo3TGtzSlR3WUtOV3lBM1dfWmtFY2sxejVQX0Q2eWxXZFB2SWc3Y0w?oc=5",
+     "domain": "Drinks Digest",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Endeavour Group (ASX:EDV) Grinds Near 12-Month Lows as Cost-of-Living Bites the Dan Murphy's Owner Before FY26 Results",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWXVyNVlSZUt1MnVleTlyOW9rNTk3dHZwRjB2LU5SWlFIbExpbHRRcklwWDg3eXdMeFAtVE90X21oZllWb1JXS3dLT05jVzlaSXlsZVV1b1lXVmg4NnNmNllORjVZRFRUX3NKcG9SWTlPRklyMUYyX01zTEtYWFcyZUJSeTJFN3Vrd1BFNXRvejRuS2dzcXFXOTFPbXhFaml2RnUzNGtnY1ZfNG5oTHU2VGVPNktjT1N3MFQ0V2J3bkRzZk9nSEItcVpYMUVSUTN6STJhamFiQV9qLUExMTZVdGhHWjcydw?oc=5",
+     "domain": "Kalkine",
+     "date": "2026-08-18"
+    }
+   ],
    "explain": {
-    "summary": "Dan Murphy's / BWS (Endeavour): attention is rising, led by Wikipedia lookups (+2.9σ vs its own baseline). Stock: -5.0% over 5 days — the stock has not reacted yet.",
+    "summary": "Dan Murphy's / BWS (Endeavour): attention is rising, led by Wikipedia lookups (+2.9σ vs its own baseline). In the news: “Dan Murphy’s And The NFL Join Forces Ahead Of Historic MCG Showdown” (Endeavour Group); “Dan Murphy's scores partnership with NFL for historic Melbourne game” (Mi-3.com.au.). Stock: -5.0% over 5 days — the stock has not reacted yet.",
     "tone": "unknown",
-    "drivers": [],
+    "drivers": [
+     "news: Dan Murphy’s And The NFL Join Forces Ahead Of Historic MCG Showdown"
+    ],
     "source": "heuristic"
    }
   },
@@ -6756,11 +7387,50 @@
     },
     "app_rank": 0.0
    },
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "After You See These Pictures, You’ll Return Your Canada Goose Jacket",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQNXNOd3o0d19BOTctZ0hDWDRTNnBfeHlzc0g0U3VzTWVVX1M5amRwTHhVZUZ2Z0ktdHU5b25KZDlCTXQ3VFItNDlkWW9MNXBhMVVoZWxoYkR2YklOUlM2aXRQQlhmS0tyaXNxZnlNZw?oc=5",
+     "domain": "People for the Ethical Treatment of Animals (PETA)",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Polar Bears International x Canada Goose",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQME9XdV80X3F2c1Q4MjExZ0dTSGFaNktYRE13eEVwRjFrd3QyaUd5bVd3UTVVOExiTktKZGRMR0k3cWxRUUU0Z0Noem5DUjhpaDZIUmpFdkZNS0FPTWJGVlE1SU0wZldicXl5bjZkaTN6TmE1SFM0MXFlTktPNGozRThCbDkzY0tvNHZCU2szNFdUSU96OFBTemxpVExUZ2wteFh4N0RPOGpMLTZBVmc?oc=5",
+     "domain": "Polar Bears International",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Early Canada goose hunting season opens Sept. 1 in Pennsylvania",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2VhampseWhsTkRjYjhRZ3g2di10UTgzLVpVQnNLcjFvaVU0X1hCT1poVmNoNFgxUGRVUEJfOFVTZXdmQ3pEaGR5TFkxRHBVSUlGX3AxNDdwR1Bqd2xsTE84cFMwM3hSZVBlQ2tTRXhoVnpfWnlzdHFTNXNzb1Zaa3VyWUlZNU9zYWtwcHItMkZseEVBMUJPVG5GZmZPbWt1QThFZmIwOA?oc=5",
+     "domain": "Wilkes-Barre Citizens' Voice",
+     "date": "2026-08-15"
+    },
+    {
+     "title": "Canada Goose Presents the Fall/Winter 2026 Collection",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbmE2aVlkc1R1MDQ4TmZQT0pSU21KNFZrdk03aHF1QnJnZ1Rhc0dkWGFsdWZDcFE1Z2FKbXhCMHprOS0wUy04MnhaMWtTWHFKUnR4eHlUVFc0ZlE3M3FXYlNwZlJKVmF6Q3NXa1RHNUJQcDBoTmJySFdlZUpXN1hMNGoxcXdoRWZvaUpJM2pKRDZ1SnhKUlR1SmoxdVpyVzhrTTVGSVZ1dzRhd29k?oc=5",
+     "domain": "PR Newswire",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "Vermont’s resident Canada Goose season starts Sept. 1",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcmE5VHBCM0lDbTFObHRVaHFIZlBpaEVUcHV4SGJDbXpKdUEyZ1JySEVJN1hGakdxMENqYUR3X0xpRTJvVmpTd2FzNDhDbnYzY2VkblR0NW05OWdCbzMwdUJZOExEMkhTeU92aXlRNlpwQVc1a1ktdWo0a0xGRDFXU2NhbjBxVHVVSk8yd1F6T3phRThqcjFQbFJIZ0xHRnRzdXh3STRzODdaUVlSbmFDd3p3SHh0Sm5fVFo5c2xGWk85dGVOYjlfWDhuZ0xoM0xJUVE?oc=5",
+     "domain": "Brattleboro Reformer",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "Haider Ackermann Makes His Fall/Winter Debut at Canada Goose + More Fashion News",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRFBIempfWmpEZVRWWXZWdW1iTm9SeHdwekNaTURWcGVzUVFmaFBCNVN0Z2d0aGdoZ0pNQXp2THdINHpZZGdJZ0hGZVN3RUlhSWVNQ0hFU0tWSlpJSlJCWW1aRjI2QXMwRlpyMDRnTWdwOHd3UDJUWDcyR29rV3pIUmtKeFpsaXg0NXNyY0x1UGJWc2JXQmlFbWszVndxSHJsV0M1ZjRHWTA1X3FTd2I3MDhtTQ?oc=5",
+     "domain": "FASHION Magazine",
+     "date": "2026-08-21"
+    }
+   ],
    "explain": {
-    "summary": "Canada Goose: attention is rising, led by Wikipedia lookups (+2.4σ vs its own baseline). Stock: +0.0% over 5 days.",
+    "summary": "Canada Goose: attention is rising, led by Wikipedia lookups (+2.4σ vs its own baseline). In the news: “After You See These Pictures, You’ll Return Your Canada Goose Jacket” (People for the Ethical Treatment of Animals (PETA)); “Polar Bears International x Canada Goose” (Polar Bears International). Stock: +0.0% over 5 days.",
     "tone": "unknown",
-    "drivers": [],
+    "drivers": [
+     "news: After You See These Pictures, You’ll Return Your Canada Goose Jacket"
+    ],
     "source": "heuristic"
    }
   },
@@ -7045,11 +7715,50 @@
     },
     "app_rank": 19.0
    },
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "DoorDash Stock Eyes Breakout Relief As Earnings Loom, Ad Growth in Focus",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNERNWnFNaXY5WUFKcU9FTzgySnNSblFZRFBnemxyNXB5WVF2U1BMWGgwdGFveHZPSG9CTUcwWGpDcmJBY25tcXN4T2pXVHBWVVhTMXBPbEMzQWxrTDRNRUJfR3F6bHBiYkR2b0VDZGhOLThQN1ZCTXV0Q0hzRFFnQkRqRTJYa2FDcko4cnRBOTBXY2s5elZTNl9Xa0d3M2FDMGRuY3NjX0haTjNDdTZXcFpTYlpwa2k2eEtMZ2pKWGpFUHROV3lKUndqM0p6Skgy?oc=5",
+     "domain": "Stocktwits",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "You Can Now Buy Digital Video Games on DoorDash",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcExDa2RvdlFIMjh2S3Zvbk1HT2I4aXFEb0dybDdKc1FMMF8yR0l3bE84cUhqX1N6UlM3OXdLY0p3eUFRdWlKZGoyR0w3TThmVGlNcUxnZTRFRHRiV0xoT0RkbmVwc2VPZWhoSWp5VUlEZVR0bzkzWUZSU3YxQUtYcEd3?oc=5",
+     "domain": "IGN",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "Gap and Gap Factory Land on DoorDash Just in Time for First-Day Fits",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nS0FvSFVTcXYya1RycjdRUEZ0U3Nyakc2dTJnTGxFdDB3X2pLOGpwS1FSOXVLX1pJLUpRQ3NDcVZINGo0OEoya0VzQ2lFYWJYcHNJWlFlZklDM3NZc1hobWF2NnJQZlhBbERQLUZmY3dhbDczYmZzVkUtejNpYnc?oc=5",
+     "domain": "DoorDash",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "Amazon, Uber, DoorDash, and Walmart are taking the delivery wars to the skies",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRXJhVVN0bzQxMW52NWRSbWZwbzRWS3EyNGVNdnBNZklEajVfMFV4SUJaU1hYSzZublVFV0o0RmgtMTEteko4TjdienhRZ3dnbmIxNTUyZ0dTTEktN2tPTThsQ2RmMUt5QzlTeHpLWGFFUktaNjItUzVLVmtfYm5uX21qMHFRNms?oc=5",
+     "domain": "Fortune",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "DoorDash to host free small business workshop in Hoboken",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iNF9jZjRoeWpnMEItb05nelhoTU94U044SVJyQU4tZkJaaGhtcEozUEVjUVBtdkdUYjFxbkRoaGNpRzE4LWwzTTV6c2lURE5OaHJNdDJmRDFKaV96RDRqdnVZN3pkV0ROWUpz?oc=5",
+     "domain": "NJBIZ",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "DoorDash (DASH): 3 Reasons We Love This Stock",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObUhodVpuelFmaDg1Y2Y1Ym1xcVZ1eU9aU1o5SVR0dE5CSVNWUExYcUFFbm9ZN1hSQTZjUlh1bXphMTJ1ay02TGstMC1DZkNoUk9qQ2NIeDR0Q3hVZ2ZBTm1FTkpLeVFGYjNYRURHRkw4cUEzZnJTamtDVW9nZVBrbllnMTNpbUg4ZVBza05teXVIY0dJQkt4WA?oc=5",
+     "domain": "Yahoo Finance",
+     "date": "2026-08-16"
+    }
+   ],
    "explain": {
-    "summary": "DoorDash: attention is rising, led by Wikipedia lookups (+2.5σ vs its own baseline). Stock: +3.0% over 5 days.",
+    "summary": "DoorDash: attention is rising, led by Wikipedia lookups (+2.5σ vs its own baseline). In the news: “DoorDash Stock Eyes Breakout Relief As Earnings Loom, Ad Growth in Focus” (Stocktwits); “You Can Now Buy Digital Video Games on DoorDash” (IGN). Stock: +3.0% over 5 days.",
     "tone": "unknown",
-    "drivers": [],
+    "drivers": [
+     "news: DoorDash Stock Eyes Breakout Relief As Earnings Loom, Ad Growth in Focus"
+    ],
     "source": "heuristic"
    }
   },
@@ -7333,11 +8042,50 @@
     },
     "app_rank": 0.0
    },
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Bumble Tried to Change Dating, but the Dating Market Forced It to Change Instead",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RMmFtMDZHOHdNdlJ2QS1qYnkwaFlLT2ZicjA0MmJhQkw2WVhQcG03Q0ozN0pieW11RlR6TVYyYWRZVkVXN1ltM1RCS2h2dVlPblFTQVRyZTd0X05LSXF3bVZuTVZaZ00wcjFJ?oc=5",
+     "domain": "WIRED",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "CDFW News | CDFW Publishes Guidance on Conserving CESA Candidate Bumble Bees",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOWNwRmhWWGVHd0oyYlNIZ1VXQTV1WE9iUDV5WHJETXRTYkF1SnhpS3dZS3pXN3UySnh6VzJyU0VNV0FJbjA4LXVzWUU4YXZ6M2hDVmFiQ3dJTHdvZThqZnlzVjUwRUtJVkY4ZDgwQ2QxNHhQZnJTUVF2bV9fZ0NCaU9la3RWNVAwNEZxS0JPX04xN0JBbnlpcDYtZUxRbENma3J3?oc=5",
+     "domain": "California Department of Fish and Wildlife (.gov)",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Bumble Stock Is Rallying Today After Hours – What Is Causing The Bull Run?",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMGRpNkVDaEl4ZHE1cDNUazJnS2NrbVVTeWllUGhQUi1iUXBZRlRGQThGZVFEQnNlbkE3dUladnh6V28wZVBlTGN3YjZzMFl2TXZvOTNseHkxNlhrZ194SFhpUTVYSVluYkM2MjZ0NHBNMmlLd3RiOE1KNWdGclZ3VWVjMWF3V05tY2lVWEEyX3V0VzA1bGlxME9wMkR6S1o5RktKZHBn?oc=5",
+     "domain": "Stocktwits",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "Arthur Brooks: Why Bumble Embraced Human Nature",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2d1lYTS1idzZKcDhrQll5YVdGSGVTQUlKMGlkSHh4Q01HZHVLc2JiRUpPUG5fRTgyWEtjSUZkQnc1WFZWN1dKZTlnUlhCMng1elZsbWVjS3BLWktsWUcyVjhCLV8zQVRT?oc=5",
+     "domain": "The Free Press",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Where Bumble’s ex-CEO is going next and other female exec moves to know",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaHo4ek5tYWVqMVlaOGJ1ZldmZ3VqekJCVW5wSm90M0xKdjNPR0xOUVUzRkp6M29pT19kaWEtQ1NyZklWVC1nX2Y2VEVLV1kwOGJHOTBhWWI1UlprcE9wb1BWblpuOFNzZVdiOWNpejhJSW1RQThfWnJxUFNITjl6Vi00Zw?oc=5",
+     "domain": "Fortune",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "Maine urges residents to look for the endangered rusty patched bumble bee",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0ttZUp1UGhpcERpQURSMFowbzJ2aXp2MzQydm9VU2VWM05LNmV0RzR0TE9iVFR3V3Vvenk1SGNyQURWbHc4ckdQY2o0NEZUc2wySE1SVVBqUlZqbzMtYWtmbTdlVDdqUzVKUkx1Z1RGa1JFUU5ud3Y5aUMwRWpTblFSNmRVMkJZZy1XdDZSaWQ1Z3lKUlg0R3h6U0lNX3BGdlNOaDFpYUJvNTB5YVVpZFpHZHdBaUxF?oc=5",
+     "domain": "Seacoastonline.com",
+     "date": "2026-08-18"
+    }
+   ],
    "explain": {
-    "summary": "Bumble: attention is rising, led by Wikipedia lookups (+2.5σ vs its own baseline). Stock: +3.3% over 5 days — the stock has not reacted yet.",
+    "summary": "Bumble: attention is rising, led by Wikipedia lookups (+2.5σ vs its own baseline). In the news: “Bumble Tried to Change Dating, but the Dating Market Forced It to Change Instead” (WIRED); “CDFW News | CDFW Publishes Guidance on Conserving CESA Candidate Bumble Bees” (California Department of Fish and Wildlife (.gov)). Stock: +3.3% over 5 days — the stock has not reacted yet.",
     "tone": "unknown",
-    "drivers": [],
+    "drivers": [
+     "news: Bumble Tried to Change Dating, but the Dating Market Forced It to Change Instead"
+    ],
     "source": "heuristic"
    }
   },
@@ -7617,11 +8365,50 @@
     },
     "app_rank": 0.0
    },
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "More T.J. Maxx and Marshalls stores are on the way",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObW90OGd2RHB2Vmd1c09PZDJfTlhOQUduWUdWNF9nVnM0c0tzNEFUcUdDTGZhZENlUU5OTmVDYlR5ZFlJcnZzcjF3SFVKRFNNR2ZBWXB3clZIS21CNUhQem5RRlpYVEpqNXRlbDhqaHd6QThTMTdaZ2ZhWlRNeUNqUmtkR1lmVk1wZ1puVkF2MVJUR251TnprQVF3SWR0YzQ?oc=5",
+     "domain": "Boston.com",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "Good Samaritan shot during struggle in TJ Maxx parking lot in Alameda",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObFB6NGFaWUk3OVozOTJZalg1WkhvY1BlUGlOMEh0TGpZaHBfTWVrQ1o2THh6YVNFd0hMS0NkQU5heEl3eXJJY0loSklEVUtqOUpMS0M5QXlGNXF2c3BLMHFaNGhnMzdodklybi0zV21pQmh1TXRLa2FIX0lwWF9FQy1weWEzeDFZ?oc=5",
+     "domain": "KTVU",
+     "date": "2026-08-16"
+    },
+    {
+     "title": "TJ Maxx, Marshalls 'self-inflicted' slowdown clouds TJX earnings beat",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONU9kdE9LS3hRcEt0Q3Z4M0VCMlllZkVEbG5vMjExQ0RiSDVTTlBqYUIyaWNCWjlKem50RkRBUlJvMFpNaGtDd0VJSTROZzloMVRrVjg5WjdHb1lILVUyUE9SaklsN1pVWDAtVjBLbTZuRkY0YXc3VmFCWHdkcGtWZlh2ZERDa2thMHNsci1lYks4eWtkTVRRZ0FhM1pkdVlfd2FxMjk2eG9nWGZkQ241TjUyWjY?oc=5",
+     "domain": "Reuters",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "T.J. Maxx Parent TJX Says Self-Inflicted Issues Hurt Sales",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ19zeFZzNlF4b0FiZXBSNlh3V0o2cUl2ZWlEelJpTnpNWU5VaUtFMmFDOTE3b3B1V3BDLTlKeVNlaTFycXhOVFFUNGNkUGdkWGNWX3ZVOUlINTRjV3BwRXZCdTRrdnE0dGNzNGtDY3lFNFlIYlFUZVBDYWxPMC1hV0dKeGFFaV9lZnRrUWdXSFl2enAyRzJ3THNhRkFpV0VwbVVfWDF0VDFERkpVM096M19HNFFIRjQxenVQTGpfc0g4eUot?oc=5",
+     "domain": "WSJ",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "TJ Maxx, Marshalls Suffer Slowdowns as US Spending Tapers",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSnFyc2J0MFd6eUl2YXhfZGxzMTl1Ujc4dkV5T1hHMlFNYmdhcGl3VHFfR2lrMnVkOEwwN256WWJXNGtDR1VvMnRhbDhPa0wxOHF0b1dMaEZsb3FlQzdjQ3FkNEtSNEt0YXJ2NGFDeUdIM20ybzd5NmVXWUIzdEpXM2JhUjMwWFBTV0wtaFVwNHBPQldncXB3SlBzT1Jka05SZTJ3M2VB?oc=5",
+     "domain": "The Business of Fashion",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Transform Your Space With Cozy TJ Maxx Modern Farmhouse Steals!",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ0l5VXJhY3Q5bmpGM2tIQlhLYXozOHJmQndQVGpWZ3JfZF9faUlCckhMMDF4bVBkelpUNjF5YWFpU2xkVnF0YWZRUG10dVlsX0t0UHp6TjdlU3JKS2hGaHdEUWcySE5SdDB3ek54Wl94OHFVWGhHaGhFZk8xRmFUX2N3TXpFSTVFa3FFZy16dGlya3JmaHczT1BHbmxLdw?oc=5",
+     "domain": "Woman's World",
+     "date": "2026-08-20"
+    }
+   ],
    "explain": {
-    "summary": "TJ Maxx / Marshalls: attention is rising, led by Wikipedia lookups (+2.7σ vs its own baseline). Stock: -7.6% over 5 days.",
+    "summary": "TJ Maxx / Marshalls: attention is rising, led by Wikipedia lookups (+2.7σ vs its own baseline). In the news: “More T.J. Maxx and Marshalls stores are on the way” (Boston.com); “Good Samaritan shot during struggle in TJ Maxx parking lot in Alameda” (KTVU). Stock: -7.6% over 5 days.",
     "tone": "unknown",
-    "drivers": [],
+    "drivers": [
+     "news: More T.J. Maxx and Marshalls stores are on the way"
+    ],
     "source": "heuristic"
    }
   },
@@ -7839,11 +8626,50 @@
     },
     "app_rank": 0.0
    },
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Chobani’s designs for billion-dollar yogurt plant in Upstate NY are giving Apple Park vibes",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTmxVQmFfLXo2SHNRenlINnZmQmw5Z2VHUTA1dEJoZWs2UXYxUXZvYjFDOVNiazdwTHloUzA2TUJzRFdUeFdqVlc1TUVBY1lvVi1rWW1rNmVDWEJVVTJ4anQ3bWtNWGs1NS1aWUVKY0JOTUpBVUI0SXlpX2lSMklMRDUtTnc4cmJ6MzhtWHR3X25PRGtMUUFoOFJhLXkwc3o1U3poazVzdmNieDZ1NU1qWXNtc0N4Z3pDOV9IZUxfU3J2YXcwSUdxTUJReDZDYzAyUmfSAeYBQVVfeXFMUHFwYVlONzJjXzZpQklXdkFUQnVqUVhocmF2ejhDM2ptemlQdVJEdERXNnUyU1RleWdOcGZiZ1ZWZGk0Zm9sX1lINEVHeE0wN0ZTSjJBaDNWRmI1X2R0S1Y4cG9FR3VKWGFSX0R3cHI1aVJzeGVxYm1JQ2lyX2g1eURGRzh5d0lLT1hMTzdMd3YwUGllTEI1a0wxVmwyWWFUS0J5Q3BYTTZ2UHI4Smt1ZHA3TENYcjNiVGFYTkpmM0FQVkJreE40dHhOcDJUZG4ySXVwSmdOSm9EWnZ2X01ySXgtUkVmUGc?oc=5",
+     "domain": "Syracuse.com",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "Chobani’s New, Limited-Edition Coffee Creamer Will Have Us Skipping the Drive-Thru This Fall",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hTjhTZjBZMExLdFRFam1FS2UwV3hPM1JxVlBzbWZXNXdXTlg4NWdTRTFQU1pjVURSRFoweU51QVl5ZEhwR09nanZyVXdfV0hTdVFwNm41NU5fOVpubURmamM2eXl2R3lwVFBCRUp6cDJiZ0l2WE16OU9XVQ?oc=5",
+     "domain": "Allrecipes",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "This New Limited-Edition Chobani Creamer Is The First Of Its Kind",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXVDlCSF9LQVlWQ3JybktRUXBMTjNPb1ZDUmJ6cVJxazBnaEtXN1U4MUplbzlfdnJHem15NkRsODJDbU5obUxWTjRKblRzbVgxSXR2ZEtQZ3p5cXNHWEZHSHlwOFVmdw?oc=5",
+     "domain": "Sporked",
+     "date": "2026-08-20"
+    },
+    {
+     "title": "Chobani summer program provides nearly 184,000 meals to Magic Valley families",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOM1N1S2Rsc001ZFZfRTY4OUxLMGdkZ2U0bVh5LWQ2QW1WOWhvbVptWnlfWkFQVGxULWNFcHVzb3MwQW4tTTBqZlBZdjdydVBiTmJRb3YtUmZZT19JaHZkWFB3Q2RVdTBNek5lS2JuNEt6MWpHT2Vaa2FvRjhqXzBJX3l6UHNuUHBHWWl2UnZoUWJmNEpTa3FTa09FZ2FFS2t4UFA5YTdnaHdfOENyY0QtaGxqNTVIZEdOTVpjeDV0TzZ2ZnIxd2FxWm81WUxZODhaclNCc1RONTI4T1BEM1NVandwR1dGeG1HWVE?oc=5",
+     "domain": "KTVB",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "I Tried And Ranked 17 Chobani Flip Flavors",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QTXJ2bmphdHUzc3Q0eC1ndUk5SF9MWkFqNWxxZkJzb2xjNWl4TnhtNjZ6ZjgtTmFCYzhKYXYtMjNmSDU4LWxHYldBSEJady1xTGhKMHJid1BMdFZuZGhfQ21JdEFVMXAtUWlVclA0Qk5ydTRPRnB4bEY4MGs?oc=5",
+     "domain": "AOL.com",
+     "date": "2026-08-21"
+    },
+    {
+     "title": "How H&M, Chobani, UrbanStems and Teleties are refining their partnership strategies",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYWVXT0N3TXBldUF4WU41RWNPMHJPektET1BQLXEtWWpSNXBtanRBYy1oYXpXUTBWZUNxU1llcHR2WE9DVEJhQXZIdmViMy03RzFNaHNDVVRKVFUwazFiTmh6cnBkTWVhNjRMR3VTWEFqRmgtLThfRWNlckRKV095dUxaZjJGbHl5c24tYy1FT3YwSXJwSHdGLVYxYmpvM0JiVEJ0ZUdmZ3o4dWNjX2ZwMg?oc=5",
+     "domain": "Digiday",
+     "date": "2026-08-17"
+    }
+   ],
    "explain": {
-    "summary": "Chobani / La Colombe: attention is rising, led by Wikipedia lookups (+2.3σ vs its own baseline).",
+    "summary": "Chobani / La Colombe: attention is rising, led by Wikipedia lookups (+2.3σ vs its own baseline). In the news: “Chobani’s designs for billion-dollar yogurt plant in Upstate NY are giving Apple Park vib…” (Syracuse.com); “Chobani’s New, Limited-Edition Coffee Creamer Will Have Us Skipping the Drive-Thru This F…” (Allrecipes).",
     "tone": "unknown",
-    "drivers": [],
+    "drivers": [
+     "news: Chobani’s designs for billion-dollar yogurt plant in Upstate NY are giving Appl…"
+    ],
     "source": "heuristic"
    }
   },
@@ -12078,6 +12904,292 @@
    }
   },
   {
+   "entity": "apple",
+   "date": "2026-08-22",
+   "attention_z": 0.0,
+   "driver": "wiki",
+   "channels": {
+    "wiki": -0.14
+   },
+   "corroborating": [],
+   "stage": "quiet",
+   "acceleration": 1.72,
+   "trends_hit": 5000,
+   "finance_noticed": false,
+   "price_return_5d": 0.0112,
+   "price_return_20d": -0.0711,
+   "volume_z": -0.21,
+   "unpriced": 0.9441,
+   "has_prices": true,
+   "has_social": false,
+   "direction": "unknown",
+   "attention_score": 28.8,
+   "past_spikes": {
+    "n": 1,
+    "median_10d": -0.024,
+    "hit_rate": 0.0
+   },
+   "flags": [
+    "TRENDING_SEARCH"
+   ],
+   "why": [
+    "appeared in Google's daily trending searches"
+   ],
+   "z_spark": [
+    -0.62,
+    -0.49,
+    -2.02,
+    -1.75,
+    0.36,
+    1.59,
+    0.57,
+    0.29,
+    0.52,
+    -1.49,
+    -1.41,
+    -0.03,
+    -0.51,
+    0.76,
+    -0.06,
+    -1.1,
+    -2.21,
+    -2.1,
+    -0.44,
+    -0.17,
+    0.39,
+    0.42,
+    -0.34,
+    -1.93,
+    -1.38,
+    0.39,
+    0.28,
+    0.7,
+    1.71,
+    -0.14
+   ],
+   "driver_spark": [
+    8.608,
+    8.616,
+    8.508,
+    8.536,
+    8.659,
+    8.744,
+    8.688,
+    8.672,
+    8.689,
+    8.545,
+    8.534,
+    8.631,
+    8.593,
+    8.691,
+    8.646,
+    8.575,
+    8.465,
+    8.461,
+    8.576,
+    8.601,
+    8.648,
+    8.664,
+    8.608,
+    8.476,
+    8.5,
+    8.647,
+    8.639,
+    8.687,
+    8.766,
+    8.629
+   ],
+   "price_spark": [
+    317.31,
+    314.86,
+    327.5,
+    333.26,
+    333.74,
+    326.59,
+    327.74,
+    325.89,
+    321.66,
+    333.02,
+    336.91,
+    340.08,
+    338.19,
+    333.43,
+    308.91,
+    303.42,
+    309.38,
+    311.0,
+    312.41,
+    313.33,
+    308.26,
+    304.91,
+    302.25,
+    305.26,
+    305.93,
+    305.59,
+    310.03,
+    316.83,
+    311.3,
+    309.35
+   ],
+   "channel_dates": {
+    "wiki": "2026-08-21"
+   },
+   "app_rank": 0.0,
+   "key": "apple",
+   "name": "Apple / iPhone / AirPods",
+   "ticker": "AAPL",
+   "company": "Apple",
+   "sector": "tech",
+   "private": false,
+   "on_watchlist": false,
+   "mentions": 0,
+   "examples": [],
+   "apps": [],
+   "history_days": 91,
+   "attention": {
+    "entity": "apple",
+    "date": "2026-08-22",
+    "attention_z": 0.0,
+    "driver": "wiki",
+    "channels": {
+     "wiki": -0.14
+    },
+    "corroborating": [],
+    "stage": "quiet",
+    "acceleration": 1.72,
+    "trends_hit": 5000,
+    "finance_noticed": false,
+    "price_return_5d": 0.0112,
+    "price_return_20d": -0.0711,
+    "volume_z": -0.21,
+    "unpriced": 0.9441,
+    "has_prices": true,
+    "has_social": false,
+    "direction": "unknown",
+    "attention_score": 28.8,
+    "past_spikes": {
+     "n": 1,
+     "median_10d": -0.024,
+     "hit_rate": 0.0
+    },
+    "flags": [
+     "TRENDING_SEARCH"
+    ],
+    "why": [
+     "appeared in Google's daily trending searches"
+    ],
+    "z_spark": [
+     -0.62,
+     -0.49,
+     -2.02,
+     -1.75,
+     0.36,
+     1.59,
+     0.57,
+     0.29,
+     0.52,
+     -1.49,
+     -1.41,
+     -0.03,
+     -0.51,
+     0.76,
+     -0.06,
+     -1.1,
+     -2.21,
+     -2.1,
+     -0.44,
+     -0.17,
+     0.39,
+     0.42,
+     -0.34,
+     -1.93,
+     -1.38,
+     0.39,
+     0.28,
+     0.7,
+     1.71,
+     -0.14
+    ],
+    "driver_spark": [
+     8.608,
+     8.616,
+     8.508,
+     8.536,
+     8.659,
+     8.744,
+     8.688,
+     8.672,
+     8.689,
+     8.545,
+     8.534,
+     8.631,
+     8.593,
+     8.691,
+     8.646,
+     8.575,
+     8.465,
+     8.461,
+     8.576,
+     8.601,
+     8.648,
+     8.664,
+     8.608,
+     8.476,
+     8.5,
+     8.647,
+     8.639,
+     8.687,
+     8.766,
+     8.629
+    ],
+    "price_spark": [
+     317.31,
+     314.86,
+     327.5,
+     333.26,
+     333.74,
+     326.59,
+     327.74,
+     325.89,
+     321.66,
+     333.02,
+     336.91,
+     340.08,
+     338.19,
+     333.43,
+     308.91,
+     303.42,
+     309.38,
+     311.0,
+     312.41,
+     313.33,
+     308.26,
+     304.91,
+     302.25,
+     305.26,
+     305.93,
+     305.59,
+     310.03,
+     316.83,
+     311.3,
+     309.35
+    ],
+    "channel_dates": {
+     "wiki": "2026-08-21"
+    },
+    "app_rank": 0.0
+   },
+   "headlines": [],
+   "explain": {
+    "summary": "Apple / iPhone / AirPods: attention is around normal, led by Wikipedia lookups (-0.1σ vs its own baseline). Stock: +1.1% over 5 days.",
+    "tone": "unknown",
+    "drivers": [
+     "Google trending search"
+    ],
+    "source": "heuristic"
+   }
+  },
+  {
    "entity": "vans",
    "date": "2026-08-21",
    "attention_z": 1.85,
@@ -15638,6 +16750,302 @@
    }
   },
   {
+   "entity": "disney",
+   "date": "2026-08-22",
+   "attention_z": 0.94,
+   "driver": "wiki",
+   "channels": {
+    "wiki": 0.94
+   },
+   "corroborating": [],
+   "stage": "fading",
+   "acceleration": -2.8,
+   "trends_hit": 200,
+   "finance_noticed": false,
+   "price_return_5d": 0.0087,
+   "price_return_20d": 0.1363,
+   "volume_z": -1.47,
+   "unpriced": 0.9565,
+   "has_prices": true,
+   "has_social": false,
+   "direction": "unknown",
+   "attention_score": 22.8,
+   "past_spikes": {
+    "n": 1,
+    "median_10d": 0.0546,
+    "hit_rate": 1.0
+   },
+   "flags": [
+    "TRENDING_SEARCH",
+    "FADING"
+   ],
+   "why": [
+    "appeared in Google's daily trending searches",
+    "app is on the App Store top-100 chart (rank 34) — baseline still forming",
+    "attention is coming off a recent peak"
+   ],
+   "z_spark": [
+    -0.29,
+    1.11,
+    -0.56,
+    1.95,
+    1.27,
+    1.33,
+    0.78,
+    0.51,
+    1.24,
+    1.3,
+    2.86,
+    2.9,
+    1.72,
+    2.74,
+    2.01,
+    0.92,
+    0.03,
+    0.58,
+    1.68,
+    4.63,
+    11.38,
+    6.12,
+    3.14,
+    6.68,
+    6.05,
+    7.41,
+    5.18,
+    2.49,
+    1.23,
+    0.94
+   ],
+   "driver_spark": [
+    8.092,
+    8.158,
+    8.078,
+    8.202,
+    8.172,
+    8.175,
+    8.151,
+    8.14,
+    8.177,
+    8.183,
+    8.27,
+    8.282,
+    8.238,
+    8.312,
+    8.264,
+    8.201,
+    8.141,
+    8.178,
+    8.251,
+    8.454,
+    8.946,
+    8.574,
+    8.388,
+    8.674,
+    8.644,
+    8.759,
+    8.603,
+    8.42,
+    8.315,
+    8.282
+   ],
+   "price_spark": [
+    96.0,
+    95.87,
+    97.15,
+    99.71,
+    97.67,
+    96.41,
+    96.14,
+    95.87,
+    92.83,
+    94.85,
+    96.65,
+    98.89,
+    98.48,
+    96.16,
+    96.19,
+    98.14,
+    98.18,
+    101.76,
+    104.68,
+    104.91,
+    103.18,
+    103.53,
+    103.22,
+    104.8,
+    106.85,
+    103.5,
+    103.95,
+    106.93,
+    107.32,
+    107.78
+   ],
+   "channel_dates": {
+    "wiki": "2026-08-21"
+   },
+   "app_rank": 34.0,
+   "key": "disney",
+   "name": "Disney / Disney+ / Hulu / ESPN",
+   "ticker": "DIS",
+   "company": "Walt Disney Company",
+   "sector": "media",
+   "private": false,
+   "on_watchlist": false,
+   "mentions": 0,
+   "examples": [],
+   "apps": [
+    "ESPN Fantasy Sports & More #34 US",
+    "Disney+ #82 US",
+    "Disney+ #86 AU"
+   ],
+   "history_days": 91,
+   "attention": {
+    "entity": "disney",
+    "date": "2026-08-22",
+    "attention_z": 0.94,
+    "driver": "wiki",
+    "channels": {
+     "wiki": 0.94
+    },
+    "corroborating": [],
+    "stage": "fading",
+    "acceleration": -2.8,
+    "trends_hit": 200,
+    "finance_noticed": false,
+    "price_return_5d": 0.0087,
+    "price_return_20d": 0.1363,
+    "volume_z": -1.47,
+    "unpriced": 0.9565,
+    "has_prices": true,
+    "has_social": false,
+    "direction": "unknown",
+    "attention_score": 22.8,
+    "past_spikes": {
+     "n": 1,
+     "median_10d": 0.0546,
+     "hit_rate": 1.0
+    },
+    "flags": [
+     "TRENDING_SEARCH",
+     "FADING"
+    ],
+    "why": [
+     "appeared in Google's daily trending searches",
+     "app is on the App Store top-100 chart (rank 34) — baseline still forming",
+     "attention is coming off a recent peak"
+    ],
+    "z_spark": [
+     -0.29,
+     1.11,
+     -0.56,
+     1.95,
+     1.27,
+     1.33,
+     0.78,
+     0.51,
+     1.24,
+     1.3,
+     2.86,
+     2.9,
+     1.72,
+     2.74,
+     2.01,
+     0.92,
+     0.03,
+     0.58,
+     1.68,
+     4.63,
+     11.38,
+     6.12,
+     3.14,
+     6.68,
+     6.05,
+     7.41,
+     5.18,
+     2.49,
+     1.23,
+     0.94
+    ],
+    "driver_spark": [
+     8.092,
+     8.158,
+     8.078,
+     8.202,
+     8.172,
+     8.175,
+     8.151,
+     8.14,
+     8.177,
+     8.183,
+     8.27,
+     8.282,
+     8.238,
+     8.312,
+     8.264,
+     8.201,
+     8.141,
+     8.178,
+     8.251,
+     8.454,
+     8.946,
+     8.574,
+     8.388,
+     8.674,
+     8.644,
+     8.759,
+     8.603,
+     8.42,
+     8.315,
+     8.282
+    ],
+    "price_spark": [
+     96.0,
+     95.87,
+     97.15,
+     99.71,
+     97.67,
+     96.41,
+     96.14,
+     95.87,
+     92.83,
+     94.85,
+     96.65,
+     98.89,
+     98.48,
+     96.16,
+     96.19,
+     98.14,
+     98.18,
+     101.76,
+     104.68,
+     104.91,
+     103.18,
+     103.53,
+     103.22,
+     104.8,
+     106.85,
+     103.5,
+     103.95,
+     106.93,
+     107.32,
+     107.78
+    ],
+    "channel_dates": {
+     "wiki": "2026-08-21"
+    },
+    "app_rank": 34.0
+   },
+   "headlines": [],
+   "explain": {
+    "summary": "Disney / Disney+ / Hulu / ESPN: attention is fading from a recent peak, led by Wikipedia lookups (+0.9σ vs its own baseline). Stock: +0.9% over 5 days.",
+    "tone": "unknown",
+    "drivers": [
+     "Google trending search"
+    ],
+    "source": "heuristic"
+   }
+  },
+  {
    "entity": "fivebelow",
    "date": "2026-08-21",
    "attention_z": 1.28,
@@ -17356,296 +18764,6 @@
    "headlines": [],
    "explain": {
     "summary": "Guinness / Don Julio / Casamigos: attention is fading from a recent peak, led by Wikipedia lookups (+1.2σ vs its own baseline).",
-    "tone": "unknown",
-    "drivers": [],
-    "source": "heuristic"
-   }
-  },
-  {
-   "entity": "disney",
-   "date": "2026-08-22",
-   "attention_z": 0.94,
-   "driver": "wiki",
-   "channels": {
-    "wiki": 0.94
-   },
-   "corroborating": [],
-   "stage": "fading",
-   "acceleration": -2.8,
-   "trends_hit": 0,
-   "finance_noticed": false,
-   "price_return_5d": 0.0087,
-   "price_return_20d": 0.1363,
-   "volume_z": -1.47,
-   "unpriced": 0.9565,
-   "has_prices": true,
-   "has_social": false,
-   "direction": "unknown",
-   "attention_score": 17.8,
-   "past_spikes": {
-    "n": 1,
-    "median_10d": 0.0546,
-    "hit_rate": 1.0
-   },
-   "flags": [
-    "FADING"
-   ],
-   "why": [
-    "app is on the App Store top-100 chart (rank 34) — baseline still forming",
-    "attention is coming off a recent peak"
-   ],
-   "z_spark": [
-    -0.29,
-    1.11,
-    -0.56,
-    1.95,
-    1.27,
-    1.33,
-    0.78,
-    0.51,
-    1.24,
-    1.3,
-    2.86,
-    2.9,
-    1.72,
-    2.74,
-    2.01,
-    0.92,
-    0.03,
-    0.58,
-    1.68,
-    4.63,
-    11.38,
-    6.12,
-    3.14,
-    6.68,
-    6.05,
-    7.41,
-    5.18,
-    2.49,
-    1.23,
-    0.94
-   ],
-   "driver_spark": [
-    8.092,
-    8.158,
-    8.078,
-    8.202,
-    8.172,
-    8.175,
-    8.151,
-    8.14,
-    8.177,
-    8.183,
-    8.27,
-    8.282,
-    8.238,
-    8.312,
-    8.264,
-    8.201,
-    8.141,
-    8.178,
-    8.251,
-    8.454,
-    8.946,
-    8.574,
-    8.388,
-    8.674,
-    8.644,
-    8.759,
-    8.603,
-    8.42,
-    8.315,
-    8.282
-   ],
-   "price_spark": [
-    96.0,
-    95.87,
-    97.15,
-    99.71,
-    97.67,
-    96.41,
-    96.14,
-    95.87,
-    92.83,
-    94.85,
-    96.65,
-    98.89,
-    98.48,
-    96.16,
-    96.19,
-    98.14,
-    98.18,
-    101.76,
-    104.68,
-    104.91,
-    103.18,
-    103.53,
-    103.22,
-    104.8,
-    106.85,
-    103.5,
-    103.95,
-    106.93,
-    107.32,
-    107.78
-   ],
-   "channel_dates": {
-    "wiki": "2026-08-21"
-   },
-   "app_rank": 34.0,
-   "key": "disney",
-   "name": "Disney / Disney+ / Hulu / ESPN",
-   "ticker": "DIS",
-   "company": "Walt Disney Company",
-   "sector": "media",
-   "private": false,
-   "on_watchlist": false,
-   "mentions": 0,
-   "examples": [],
-   "apps": [
-    "ESPN Fantasy Sports & More #34 US",
-    "Disney+ #82 US",
-    "Disney+ #86 AU"
-   ],
-   "history_days": 91,
-   "attention": {
-    "entity": "disney",
-    "date": "2026-08-22",
-    "attention_z": 0.94,
-    "driver": "wiki",
-    "channels": {
-     "wiki": 0.94
-    },
-    "corroborating": [],
-    "stage": "fading",
-    "acceleration": -2.8,
-    "trends_hit": 0,
-    "finance_noticed": false,
-    "price_return_5d": 0.0087,
-    "price_return_20d": 0.1363,
-    "volume_z": -1.47,
-    "unpriced": 0.9565,
-    "has_prices": true,
-    "has_social": false,
-    "direction": "unknown",
-    "attention_score": 17.8,
-    "past_spikes": {
-     "n": 1,
-     "median_10d": 0.0546,
-     "hit_rate": 1.0
-    },
-    "flags": [
-     "FADING"
-    ],
-    "why": [
-     "app is on the App Store top-100 chart (rank 34) — baseline still forming",
-     "attention is coming off a recent peak"
-    ],
-    "z_spark": [
-     -0.29,
-     1.11,
-     -0.56,
-     1.95,
-     1.27,
-     1.33,
-     0.78,
-     0.51,
-     1.24,
-     1.3,
-     2.86,
-     2.9,
-     1.72,
-     2.74,
-     2.01,
-     0.92,
-     0.03,
-     0.58,
-     1.68,
-     4.63,
-     11.38,
-     6.12,
-     3.14,
-     6.68,
-     6.05,
-     7.41,
-     5.18,
-     2.49,
-     1.23,
-     0.94
-    ],
-    "driver_spark": [
-     8.092,
-     8.158,
-     8.078,
-     8.202,
-     8.172,
-     8.175,
-     8.151,
-     8.14,
-     8.177,
-     8.183,
-     8.27,
-     8.282,
-     8.238,
-     8.312,
-     8.264,
-     8.201,
-     8.141,
-     8.178,
-     8.251,
-     8.454,
-     8.946,
-     8.574,
-     8.388,
-     8.674,
-     8.644,
-     8.759,
-     8.603,
-     8.42,
-     8.315,
-     8.282
-    ],
-    "price_spark": [
-     96.0,
-     95.87,
-     97.15,
-     99.71,
-     97.67,
-     96.41,
-     96.14,
-     95.87,
-     92.83,
-     94.85,
-     96.65,
-     98.89,
-     98.48,
-     96.16,
-     96.19,
-     98.14,
-     98.18,
-     101.76,
-     104.68,
-     104.91,
-     103.18,
-     103.53,
-     103.22,
-     104.8,
-     106.85,
-     103.5,
-     103.95,
-     106.93,
-     107.32,
-     107.78
-    ],
-    "channel_dates": {
-     "wiki": "2026-08-21"
-    },
-    "app_rank": 34.0
-   },
-   "headlines": [],
-   "explain": {
-    "summary": "Disney / Disney+ / Hulu / ESPN: attention is fading from a recent peak, led by Wikipedia lookups (+0.9σ vs its own baseline). Stock: +0.9% over 5 days.",
     "tone": "unknown",
     "drivers": [],
     "source": "heuristic"
@@ -19565,274 +20683,60 @@
     "drivers": [],
     "source": "heuristic"
    }
-  },
-  {
-   "entity": "konami",
-   "date": "2026-08-21",
-   "attention_z": 1.27,
-   "driver": "wiki",
-   "channels": {
-    "wiki": 1.27
-   },
-   "corroborating": [],
-   "stage": "fading",
-   "acceleration": -0.83,
-   "trends_hit": 0,
-   "finance_noticed": false,
-   "price_return_5d": 0.0,
-   "price_return_20d": 0.0,
-   "volume_z": 0.0,
-   "unpriced": 0.5,
-   "has_prices": false,
-   "has_social": false,
-   "direction": "unknown",
-   "attention_score": 14.6,
-   "past_spikes": {
-    "n": 0,
-    "median_10d": 0.0,
-    "hit_rate": 0.0
-   },
-   "flags": [
-    "FADING"
-   ],
-   "why": [
-    "attention is coming off a recent peak"
-   ],
-   "z_spark": [
-    0.21,
-    -0.48,
-    0.14,
-    0.66,
-    1.54,
-    1.84,
-    2.56,
-    2.15,
-    -0.72,
-    -1.26,
-    -0.3,
-    -0.78,
-    2.81,
-    1.35,
-    -0.45,
-    0.11,
-    -0.02,
-    0.22,
-    0.19,
-    -0.05,
-    1.33,
-    2.43,
-    1.61,
-    -0.05,
-    1.75,
-    5.38,
-    1.68,
-    -0.16,
-    3.26,
-    1.27
-   ],
-   "driver_spark": [
-    6.837,
-    6.793,
-    6.812,
-    6.841,
-    6.887,
-    6.903,
-    6.948,
-    6.927,
-    6.774,
-    6.718,
-    6.778,
-    6.743,
-    6.976,
-    6.881,
-    6.764,
-    6.798,
-    6.789,
-    6.806,
-    6.804,
-    6.787,
-    6.867,
-    6.93,
-    6.903,
-    6.79,
-    6.913,
-    7.144,
-    6.903,
-    6.788,
-    7.006,
-    6.872
-   ],
-   "price_spark": [],
-   "channel_dates": {
-    "wiki": "2026-08-21"
-   },
-   "app_rank": 0.0,
-   "key": "konami",
-   "name": "Konami / Metal Gear / Silent Hill",
-   "ticker": "9766.T",
-   "company": "Konami",
-   "sector": "gaming",
-   "private": false,
-   "on_watchlist": false,
-   "mentions": 0,
-   "examples": [],
-   "apps": [],
-   "history_days": 90,
-   "attention": {
-    "entity": "konami",
-    "date": "2026-08-21",
-    "attention_z": 1.27,
-    "driver": "wiki",
-    "channels": {
-     "wiki": 1.27
-    },
-    "corroborating": [],
-    "stage": "fading",
-    "acceleration": -0.83,
-    "trends_hit": 0,
-    "finance_noticed": false,
-    "price_return_5d": 0.0,
-    "price_return_20d": 0.0,
-    "volume_z": 0.0,
-    "unpriced": 0.5,
-    "has_prices": false,
-    "has_social": false,
-    "direction": "unknown",
-    "attention_score": 14.6,
-    "past_spikes": {
-     "n": 0,
-     "median_10d": 0.0,
-     "hit_rate": 0.0
-    },
-    "flags": [
-     "FADING"
-    ],
-    "why": [
-     "attention is coming off a recent peak"
-    ],
-    "z_spark": [
-     0.21,
-     -0.48,
-     0.14,
-     0.66,
-     1.54,
-     1.84,
-     2.56,
-     2.15,
-     -0.72,
-     -1.26,
-     -0.3,
-     -0.78,
-     2.81,
-     1.35,
-     -0.45,
-     0.11,
-     -0.02,
-     0.22,
-     0.19,
-     -0.05,
-     1.33,
-     2.43,
-     1.61,
-     -0.05,
-     1.75,
-     5.38,
-     1.68,
-     -0.16,
-     3.26,
-     1.27
-    ],
-    "driver_spark": [
-     6.837,
-     6.793,
-     6.812,
-     6.841,
-     6.887,
-     6.903,
-     6.948,
-     6.927,
-     6.774,
-     6.718,
-     6.778,
-     6.743,
-     6.976,
-     6.881,
-     6.764,
-     6.798,
-     6.789,
-     6.806,
-     6.804,
-     6.787,
-     6.867,
-     6.93,
-     6.903,
-     6.79,
-     6.913,
-     7.144,
-     6.903,
-     6.788,
-     7.006,
-     6.872
-    ],
-    "price_spark": [],
-    "channel_dates": {
-     "wiki": "2026-08-21"
-    },
-    "app_rank": 0.0
-   },
-   "headlines": [],
-   "explain": {
-    "summary": "Konami / Metal Gear / Silent Hill: attention is fading from a recent peak, led by Wikipedia lookups (+1.3σ vs its own baseline).",
-    "tone": "unknown",
-    "drivers": [],
-    "source": "heuristic"
-   }
   }
  ],
  "trends_raw": {
   "US": [
    {
-    "title": "crypto news",
-    "traffic": "200+"
+    "title": "fc juárez vs club américa standings",
+    "traffic": "10000+"
    },
    {
-    "title": "max holloway",
-    "traffic": "200+"
+    "title": "dodgers",
+    "traffic": "10000+"
    },
    {
-    "title": "xrp news",
-    "traffic": "200+"
-   },
-   {
-    "title": "anthony hernandez",
+    "title": "querétaro f.c. vs toluca fc standings",
     "traffic": "500+"
    },
    {
-    "title": "hyperliquid",
+    "title": "tommy edman",
+    "traffic": "5000+"
+   },
+   {
+    "title": "san andreas fault",
     "traffic": "200+"
    },
    {
-    "title": "league of legends",
-    "traffic": "500+"
+    "title": "prison break",
+    "traffic": "200+"
    },
    {
-    "title": "luke weaver",
-    "traffic": "500+"
-   },
-   {
-    "title": "alex bregman",
+    "title": "eth",
     "traffic": "1000+"
    },
    {
-    "title": "crypto",
-    "traffic": "2000+"
+    "title": "apple iphone 18 pro",
+    "traffic": "500+"
    },
    {
-    "title": "solana price",
+    "title": "mason montgomery",
+    "traffic": "200+"
+   },
+   {
+    "title": "mariners game today",
     "traffic": "500+"
    }
   ],
   "AU": [
+   {
+    "title": "melbourne vs bulldogs",
+    "traffic": "500+"
+   },
+   {
+    "title": "knights game today",
+    "traffic": "100+"
+   },
    {
     "title": "dockers game today",
     "traffic": "200+"
@@ -19851,7 +20755,7 @@
    },
    {
     "title": "elijah hollands",
-    "traffic": "200+"
+    "traffic": "500+"
    },
    {
     "title": "knights vs sea eagles",
@@ -19863,14 +20767,6 @@
    },
    {
     "title": "warren mcdonough",
-    "traffic": "200+"
-   },
-   {
-    "title": "josh hazlewood",
-    "traffic": "100+"
-   },
-   {
-    "title": "tai tuivasa",
     "traffic": "200+"
    }
   ]
@@ -19926,7 +20822,7 @@
   "watchlist": 15,
   "brands": 438,
   "brands_scored": 423,
-  "elapsed_s": 761,
+  "elapsed_s": 572,
   "ai": false
  }
 }
