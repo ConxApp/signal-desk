@@ -1348,14 +1348,20 @@
 {"close": 149.0, "date": "2026-08-21", "entity": "popmart", "news_articles": 0.0037, "volume": 44114816.0, "wiki_views": 282}
 {"close": 108.12999725341797, "date": "2026-08-21", "entity": "robinhood", "news_articles": 0.0224, "volume": 50228800.0, "wiki_views": 517}
 {"close": 362.8599853515625, "date": "2026-08-21", "entity": "tesla", "volume": 58979800.0, "wiki_views": 2590}
-{"date": "2026-08-22", "entity": "amd", "news_articles": 0.0251}
-{"date": "2026-08-22", "entity": "birkenstock", "news_articles": 0.0}
-{"date": "2026-08-22", "entity": "bloom_energy", "news_articles": 0.0068}
-{"date": "2026-08-22", "entity": "celsius", "news_articles": 0.0}
-{"date": "2026-08-22", "entity": "crocs", "news_articles": 0.0}
-{"date": "2026-08-22", "entity": "deckers", "news_articles": 0.0}
-{"date": "2026-08-22", "entity": "dutch_bros", "news_articles": 0.0}
-{"date": "2026-08-22", "entity": "elf", "news_articles": 0.0046}
-{"date": "2026-08-22", "entity": "onon", "news_articles": 0.3008}
-{"date": "2026-08-22", "entity": "popmart", "news_articles": 0.0073}
-{"date": "2026-08-22", "entity": "robinhood", "news_articles": 0.0329}
+{"date": "2026-08-22", "entity": "amd", "news_articles": 0.0251, "wiki_views": 99}
+{"date": "2026-08-22", "entity": "atlassian", "wiki_views": 548}
+{"date": "2026-08-22", "entity": "birkenstock", "news_articles": 0.0, "wiki_views": 504}
+{"date": "2026-08-22", "entity": "bloom_energy", "news_articles": 0.0061, "wiki_views": 193}
+{"date": "2026-08-22", "entity": "celsius", "news_articles": 0.0, "wiki_views": 291}
+{"date": "2026-08-22", "entity": "crispr", "wiki_views": 36}
+{"date": "2026-08-22", "entity": "crocs", "news_articles": 0.0, "wiki_views": 735}
+{"date": "2026-08-22", "entity": "deckers", "news_articles": 0.0, "wiki_views": 284}
+{"date": "2026-08-22", "entity": "dutch_bros", "news_articles": 0.0, "wiki_views": 15}
+{"date": "2026-08-22", "entity": "elf", "news_articles": 0.0046, "wiki_views": 163}
+{"date": "2026-08-22", "entity": "oddity", "wiki_views": 37}
+{"date": "2026-08-22", "entity": "onon", "news_articles": 0.3008, "wiki_views": 1122}
+{"date": "2026-08-22", "entity": "popmart", "news_articles": 0.0073, "wiki_views": 284}
+{"date": "2026-08-22", "entity": "robinhood", "news_articles": 0.0329, "wiki_views": 383}
+{"date": "2026-08-22", "entity": "tesla", "wiki_views": 2447}
+{"date": "2026-08-23", "entity": "bloom_energy", "news_articles": 0.0147}
+{"date": "2026-08-23", "entity": "crocs", "news_articles": 0.0}
