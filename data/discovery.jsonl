@@ -465,7 +465,7 @@
 {"date": "2026-05-25", "entity": "birkenstock", "wiki_views": 604}
 {"date": "2026-05-25", "entity": "bjs", "wiki_views": 614}
 {"date": "2026-05-25", "entity": "block", "wiki_views": 603}
-{"date": "2026-05-25", "entity": "bmw", "wiki_views": 3016}
+{"close": 75.44000244140625, "date": "2026-05-25", "entity": "bmw", "volume": 1048048.0, "wiki_views": 3016}
 {"date": "2026-05-25", "entity": "booking", "wiki_views": 324}
 {"date": "2026-05-25", "entity": "boston_beer", "wiki_views": 184}
 {"date": "2026-05-25", "entity": "breville", "wiki_views": 177}
@@ -890,7 +890,7 @@
 {"date": "2026-05-26", "entity": "birkenstock", "wiki_views": 606}
 {"close": 84.91000366210938, "date": "2026-05-26", "entity": "bjs", "volume": 3414400.0, "wiki_views": 561}
 {"close": 69.16999816894531, "date": "2026-05-26", "entity": "block", "volume": 5078000.0, "wiki_views": 741}
-{"date": "2026-05-26", "entity": "bmw", "wiki_views": 3170}
+{"close": 75.26000213623047, "date": "2026-05-26", "entity": "bmw", "volume": 654110.0, "wiki_views": 3170}
 {"close": 163.3000030517578, "date": "2026-05-26", "entity": "booking", "volume": 6369700.0, "wiki_views": 329}
 {"date": "2026-05-26", "entity": "boston_beer", "wiki_views": 127}
 {"date": "2026-05-26", "entity": "breville", "wiki_views": 125}
@@ -960,7 +960,7 @@
 {"close": 310.4200134277344, "date": "2026-05-26", "entity": "dominos", "volume": 665200.0, "wiki_views": 787}
 {"close": 17.579999923706055, "date": "2026-05-26", "entity": "dominos_au", "volume": 395505.0, "wiki_views": 38}
 {"close": 154.0, "date": "2026-05-26", "entity": "doordash", "volume": 3970200.0, "wiki_views": 956}
-{"date": "2026-05-26", "entity": "draftkings", "wiki_views": 350}
+{"close": 23.809999465942383, "date": "2026-05-26", "entity": "draftkings", "volume": 10991800.0, "wiki_views": 350}
 {"close": 70.30000305175781, "date": "2026-05-26", "entity": "drmartens", "volume": 1567769.0, "wiki_views": 423}
 {"close": 4235.5, "date": "2026-05-26", "entity": "drsquatch", "volume": 2580360.0, "wiki_views": 107}
 {"close": 106.4800033569336, "date": "2026-05-26", "entity": "duolingo", "volume": 1164100.0, "wiki_views": 2230}
@@ -1314,7 +1314,7 @@
 {"date": "2026-05-27", "entity": "birkenstock", "wiki_views": 575}
 {"close": 84.19999694824219, "date": "2026-05-27", "entity": "bjs", "volume": 4140200.0, "wiki_views": 570}
 {"close": 71.41999816894531, "date": "2026-05-27", "entity": "block", "volume": 6358800.0, "wiki_views": 702}
-{"date": "2026-05-27", "entity": "bmw", "wiki_views": 2949}
+{"close": 77.0199966430664, "date": "2026-05-27", "entity": "bmw", "volume": 1179194.0, "wiki_views": 2949}
 {"close": 168.3699951171875, "date": "2026-05-27", "entity": "booking", "volume": 9931800.0, "wiki_views": 373}
 {"date": "2026-05-27", "entity": "boston_beer", "wiki_views": 141}
 {"date": "2026-05-27", "entity": "breville", "wiki_views": 149}
@@ -1384,7 +1384,7 @@
 {"close": 311.7200012207031, "date": "2026-05-27", "entity": "dominos", "volume": 718700.0, "wiki_views": 760}
 {"close": 17.81999969482422, "date": "2026-05-27", "entity": "dominos_au", "volume": 410139.0, "wiki_views": 50}
 {"close": 157.5800018310547, "date": "2026-05-27", "entity": "doordash", "volume": 3840000.0, "wiki_views": 867}
-{"date": "2026-05-27", "entity": "draftkings", "wiki_views": 364}
+{"close": 25.06999969482422, "date": "2026-05-27", "entity": "draftkings", "volume": 11819500.0, "wiki_views": 364}
 {"close": 73.19999694824219, "date": "2026-05-27", "entity": "drmartens", "volume": 2048354.0, "wiki_views": 388}
 {"close": 4324.5, "date": "2026-05-27", "entity": "drsquatch", "volume": 6383183.0, "wiki_views": 117}
 {"close": 107.81999969482422, "date": "2026-05-27", "entity": "duolingo", "volume": 805900.0, "wiki_views": 1548}
@@ -1739,7 +1739,7 @@
 {"date": "2026-05-28", "entity": "birkenstock", "wiki_views": 578}
 {"close": 86.0, "date": "2026-05-28", "entity": "bjs", "volume": 3355700.0, "wiki_views": 462}
 {"close": 74.3499984741211, "date": "2026-05-28", "entity": "block", "volume": 6625000.0, "wiki_views": 769}
-{"date": "2026-05-28", "entity": "bmw", "wiki_views": 3045}
+{"close": 75.94000244140625, "date": "2026-05-28", "entity": "bmw", "volume": 869511.0, "wiki_views": 3045}
 {"close": 169.82000732421875, "date": "2026-05-28", "entity": "booking", "volume": 7322100.0, "wiki_views": 390}
 {"date": "2026-05-28", "entity": "boston_beer", "wiki_views": 180}
 {"date": "2026-05-28", "entity": "breville", "wiki_views": 130}
@@ -1809,7 +1809,7 @@
 {"close": 310.3500061035156, "date": "2026-05-28", "entity": "dominos", "volume": 650900.0, "wiki_views": 734}
 {"close": 17.610000610351562, "date": "2026-05-28", "entity": "dominos_au", "volume": 384871.0, "wiki_views": 61}
 {"close": 156.6999969482422, "date": "2026-05-28", "entity": "doordash", "volume": 4418900.0, "wiki_views": 962}
-{"date": "2026-05-28", "entity": "draftkings", "wiki_views": 323}
+{"close": 24.530000686645508, "date": "2026-05-28", "entity": "draftkings", "volume": 12718200.0, "wiki_views": 323}
 {"close": 73.5, "date": "2026-05-28", "entity": "drmartens", "volume": 2496769.0, "wiki_views": 464}
 {"close": 4263.5, "date": "2026-05-28", "entity": "drsquatch", "volume": 7559092.0, "wiki_views": 126}
 {"close": 108.66999816894531, "date": "2026-05-28", "entity": "duolingo", "volume": 639600.0, "wiki_views": 1967}
@@ -2164,7 +2164,7 @@
 {"date": "2026-05-29", "entity": "birkenstock", "wiki_views": 586}
 {"close": 85.27999877929688, "date": "2026-05-29", "entity": "bjs", "volume": 2993300.0, "wiki_views": 491}
 {"close": 75.72000122070312, "date": "2026-05-29", "entity": "block", "volume": 7380400.0, "wiki_views": 758}
-{"date": "2026-05-29", "entity": "bmw", "wiki_views": 3088}
+{"close": 74.76000213623047, "date": "2026-05-29", "entity": "bmw", "volume": 1961879.0, "wiki_views": 3088}
 {"close": 167.42999267578125, "date": "2026-05-29", "entity": "booking", "volume": 8488900.0, "wiki_views": 330}
 {"date": "2026-05-29", "entity": "boston_beer", "wiki_views": 203}
 {"date": "2026-05-29", "entity": "breville", "wiki_views": 107}
@@ -2234,7 +2234,7 @@
 {"close": 310.5799865722656, "date": "2026-05-29", "entity": "dominos", "volume": 714200.0, "wiki_views": 841}
 {"close": 17.989999771118164, "date": "2026-05-29", "entity": "dominos_au", "volume": 787556.0, "wiki_views": 35}
 {"close": 159.2899932861328, "date": "2026-05-29", "entity": "doordash", "volume": 5736700.0, "wiki_views": 919}
-{"date": "2026-05-29", "entity": "draftkings", "wiki_views": 383}
+{"close": 24.489999771118164, "date": "2026-05-29", "entity": "draftkings", "volume": 34297500.0, "wiki_views": 383}
 {"close": 74.0, "date": "2026-05-29", "entity": "drmartens", "volume": 5302653.0, "wiki_views": 396}
 {"close": 4205.5, "date": "2026-05-29", "entity": "drsquatch", "volume": 13589210.0, "wiki_views": 153}
 {"close": 111.36000061035156, "date": "2026-05-29", "entity": "duolingo", "volume": 1305300.0, "wiki_views": 1082}
@@ -3439,7 +3439,7 @@
 {"date": "2026-06-01", "entity": "birkenstock", "wiki_views": 489}
 {"close": 88.04000091552734, "date": "2026-06-01", "entity": "bjs", "volume": 2912100.0, "wiki_views": 439}
 {"close": 76.0999984741211, "date": "2026-06-01", "entity": "block", "volume": 7923900.0, "wiki_views": 865}
-{"date": "2026-06-01", "entity": "bmw", "wiki_views": 2783}
+{"close": 73.72000122070312, "date": "2026-06-01", "entity": "bmw", "volume": 1367856.0, "wiki_views": 2783}
 {"close": 169.25, "date": "2026-06-01", "entity": "booking", "volume": 6638700.0, "wiki_views": 350}
 {"date": "2026-06-01", "entity": "boston_beer", "wiki_views": 171}
 {"date": "2026-06-01", "entity": "breville", "wiki_views": 129}
@@ -3509,7 +3509,7 @@
 {"close": 313.7099914550781, "date": "2026-06-01", "entity": "dominos", "volume": 706900.0, "wiki_views": 954}
 {"close": 17.579999923706055, "date": "2026-06-01", "entity": "dominos_au", "volume": 319531.0, "wiki_views": 36}
 {"close": 164.77999877929688, "date": "2026-06-01", "entity": "doordash", "volume": 4522800.0, "wiki_views": 868}
-{"date": "2026-06-01", "entity": "draftkings", "wiki_views": 284}
+{"close": 26.329999923706055, "date": "2026-06-01", "entity": "draftkings", "volume": 16002900.0, "wiki_views": 284}
 {"close": 72.30000305175781, "date": "2026-06-01", "entity": "drmartens", "volume": 837309.0, "wiki_views": 411}
 {"close": 4132.5, "date": "2026-06-01", "entity": "drsquatch", "volume": 5346803.0, "wiki_views": 117}
 {"close": 117.97000122070312, "date": "2026-06-01", "entity": "duolingo", "volume": 1906900.0, "wiki_views": 1177}
@@ -3864,7 +3864,7 @@
 {"date": "2026-06-02", "entity": "birkenstock", "wiki_views": 474}
 {"close": 88.55999755859375, "date": "2026-06-02", "entity": "bjs", "volume": 2962000.0, "wiki_views": 391}
 {"close": 74.1500015258789, "date": "2026-06-02", "entity": "block", "volume": 4903500.0, "wiki_views": 896}
-{"date": "2026-06-02", "entity": "bmw", "wiki_views": 2784}
+{"close": 72.9800033569336, "date": "2026-06-02", "entity": "bmw", "volume": 1333090.0, "wiki_views": 2784}
 {"close": 167.2100067138672, "date": "2026-06-02", "entity": "booking", "volume": 7011700.0, "wiki_views": 345}
 {"date": "2026-06-02", "entity": "boston_beer", "wiki_views": 140}
 {"date": "2026-06-02", "entity": "breville", "wiki_views": 145}
@@ -3934,7 +3934,7 @@
 {"close": 307.5299987792969, "date": "2026-06-02", "entity": "dominos", "volume": 530500.0, "wiki_views": 806}
 {"close": 16.549999237060547, "date": "2026-06-02", "entity": "dominos_au", "volume": 649541.0, "wiki_views": 38}
 {"close": 156.9499969482422, "date": "2026-06-02", "entity": "doordash", "volume": 3810900.0, "wiki_views": 882}
-{"date": "2026-06-02", "entity": "draftkings", "wiki_views": 290}
+{"close": 25.299999237060547, "date": "2026-06-02", "entity": "draftkings", "volume": 8486900.0, "wiki_views": 290}
 {"close": 72.80000305175781, "date": "2026-06-02", "entity": "drmartens", "volume": 661145.0, "wiki_views": 445}
 {"close": 4105.0, "date": "2026-06-02", "entity": "drsquatch", "volume": 6193618.0, "wiki_views": 124}
 {"close": 109.94999694824219, "date": "2026-06-02", "entity": "duolingo", "volume": 1724000.0, "wiki_views": 1062}
@@ -4289,7 +4289,7 @@
 {"date": "2026-06-03", "entity": "birkenstock", "wiki_views": 477}
 {"close": 89.18000030517578, "date": "2026-06-03", "entity": "bjs", "volume": 2182500.0, "wiki_views": 423}
 {"close": 69.80000305175781, "date": "2026-06-03", "entity": "block", "volume": 7207600.0, "wiki_views": 839}
-{"date": "2026-06-03", "entity": "bmw", "wiki_views": 2775}
+{"close": 71.31999969482422, "date": "2026-06-03", "entity": "bmw", "volume": 1411136.0, "wiki_views": 2775}
 {"close": 164.77999877929688, "date": "2026-06-03", "entity": "booking", "volume": 6981100.0, "wiki_views": 306}
 {"date": "2026-06-03", "entity": "boston_beer", "wiki_views": 141}
 {"date": "2026-06-03", "entity": "breville", "wiki_views": 137}
@@ -4359,7 +4359,7 @@
 {"close": 306.7699890136719, "date": "2026-06-03", "entity": "dominos", "volume": 762100.0, "wiki_views": 1051}
 {"close": 15.949999809265137, "date": "2026-06-03", "entity": "dominos_au", "volume": 796721.0, "wiki_views": 33}
 {"close": 154.5800018310547, "date": "2026-06-03", "entity": "doordash", "volume": 4136000.0, "wiki_views": 820}
-{"date": "2026-06-03", "entity": "draftkings", "wiki_views": 307}
+{"close": 25.110000610351562, "date": "2026-06-03", "entity": "draftkings", "volume": 7226800.0, "wiki_views": 307}
 {"close": 71.5, "date": "2026-06-03", "entity": "drmartens", "volume": 1065216.0, "wiki_views": 383}
 {"close": 4120.0, "date": "2026-06-03", "entity": "drsquatch", "volume": 6541455.0, "wiki_views": 99}
 {"close": 107.4000015258789, "date": "2026-06-03", "entity": "duolingo", "volume": 1878600.0, "wiki_views": 971}
@@ -4714,7 +4714,7 @@
 {"date": "2026-06-04", "entity": "birkenstock", "wiki_views": 459}
 {"close": 88.4000015258789, "date": "2026-06-04", "entity": "bjs", "volume": 2793500.0, "wiki_views": 360}
 {"close": 70.88999938964844, "date": "2026-06-04", "entity": "block", "volume": 4572000.0, "wiki_views": 803}
-{"date": "2026-06-04", "entity": "bmw", "wiki_views": 2803}
+{"close": 70.23999786376953, "date": "2026-06-04", "entity": "bmw", "volume": 1311482.0, "wiki_views": 2803}
 {"close": 167.49000549316406, "date": "2026-06-04", "entity": "booking", "volume": 6666200.0, "wiki_views": 310}
 {"date": "2026-06-04", "entity": "boston_beer", "wiki_views": 146}
 {"date": "2026-06-04", "entity": "breville", "wiki_views": 109}
@@ -4784,7 +4784,7 @@
 {"close": 307.510009765625, "date": "2026-06-04", "entity": "dominos", "volume": 745900.0, "wiki_views": 1012}
 {"close": 16.030000686645508, "date": "2026-06-04", "entity": "dominos_au", "volume": 283698.0, "wiki_views": 33}
 {"close": 160.07000732421875, "date": "2026-06-04", "entity": "doordash", "volume": 4552000.0, "wiki_views": 832}
-{"date": "2026-06-04", "entity": "draftkings", "wiki_views": 378}
+{"close": 25.3700008392334, "date": "2026-06-04", "entity": "draftkings", "volume": 9390800.0, "wiki_views": 378}
 {"close": 71.0, "date": "2026-06-04", "entity": "drmartens", "volume": 1317574.0, "wiki_views": 353}
 {"close": 4078.0, "date": "2026-06-04", "entity": "drsquatch", "volume": 4326607.0, "wiki_views": 114}
 {"close": 109.1500015258789, "date": "2026-06-04", "entity": "duolingo", "volume": 1086200.0, "wiki_views": 902}
@@ -5139,7 +5139,7 @@
 {"date": "2026-06-05", "entity": "birkenstock", "wiki_views": 537}
 {"close": 89.20999908447266, "date": "2026-06-05", "entity": "bjs", "volume": 2511800.0, "wiki_views": 430}
 {"close": 68.1500015258789, "date": "2026-06-05", "entity": "block", "volume": 4888100.0, "wiki_views": 793}
-{"date": "2026-06-05", "entity": "bmw", "wiki_views": 2801}
+{"close": 70.37999725341797, "date": "2026-06-05", "entity": "bmw", "volume": 1211685.0, "wiki_views": 2801}
 {"close": 165.83999633789062, "date": "2026-06-05", "entity": "booking", "volume": 7810300.0, "wiki_views": 315}
 {"date": "2026-06-05", "entity": "boston_beer", "wiki_views": 147}
 {"date": "2026-06-05", "entity": "breville", "wiki_views": 146}
@@ -5209,7 +5209,7 @@
 {"close": 313.989990234375, "date": "2026-06-05", "entity": "dominos", "volume": 878800.0, "wiki_views": 799}
 {"close": 16.010000228881836, "date": "2026-06-05", "entity": "dominos_au", "volume": 248165.0, "wiki_views": 43}
 {"close": 156.8000030517578, "date": "2026-06-05", "entity": "doordash", "volume": 6439700.0, "wiki_views": 844}
-{"date": "2026-06-05", "entity": "draftkings", "wiki_views": 292}
+{"close": 24.93000030517578, "date": "2026-06-05", "entity": "draftkings", "volume": 9416000.0, "wiki_views": 292}
 {"close": 71.0, "date": "2026-06-05", "entity": "drmartens", "volume": 1060134.0, "wiki_views": 408}
 {"close": 4188.5, "date": "2026-06-05", "entity": "drsquatch", "volume": 5421664.0, "wiki_views": 140}
 {"close": 109.02999877929688, "date": "2026-06-05", "entity": "duolingo", "volume": 1044100.0, "wiki_views": 990}
@@ -6413,7 +6413,7 @@
 {"date": "2026-06-08", "entity": "birkenstock", "wiki_views": 516}
 {"close": 91.61000061035156, "date": "2026-06-08", "entity": "bjs", "volume": 2058200.0, "wiki_views": 450}
 {"close": 69.91999816894531, "date": "2026-06-08", "entity": "block", "volume": 5792700.0, "wiki_views": 761}
-{"date": "2026-06-08", "entity": "bmw", "wiki_views": 2716}
+{"close": 69.73999786376953, "date": "2026-06-08", "entity": "bmw", "volume": 1175687.0, "wiki_views": 2716}
 {"close": 162.3000030517578, "date": "2026-06-08", "entity": "booking", "volume": 6621000.0, "wiki_views": 374}
 {"date": "2026-06-08", "entity": "boston_beer", "wiki_views": 139}
 {"date": "2026-06-08", "entity": "breville", "wiki_views": 140}
@@ -6483,7 +6483,7 @@
 {"close": 313.5299987792969, "date": "2026-06-08", "entity": "dominos", "volume": 738400.0, "wiki_views": 901}
 {"date": "2026-06-08", "entity": "dominos_au", "wiki_views": 44}
 {"close": 152.49000549316406, "date": "2026-06-08", "entity": "doordash", "volume": 4198100.0, "wiki_views": 798}
-{"date": "2026-06-08", "entity": "draftkings", "wiki_views": 351}
+{"close": 24.780000686645508, "date": "2026-06-08", "entity": "draftkings", "volume": 11628600.0, "wiki_views": 351}
 {"close": 71.5, "date": "2026-06-08", "entity": "drmartens", "volume": 1044019.0, "wiki_views": 441}
 {"close": 4191.0, "date": "2026-06-08", "entity": "drsquatch", "volume": 3470034.0, "wiki_views": 167}
 {"close": 117.95999908447266, "date": "2026-06-08", "entity": "duolingo", "volume": 2100200.0, "wiki_views": 953}
@@ -6838,7 +6838,7 @@
 {"date": "2026-06-09", "entity": "birkenstock", "wiki_views": 470}
 {"close": 89.56999969482422, "date": "2026-06-09", "entity": "bjs", "volume": 2591800.0, "wiki_views": 385}
 {"close": 68.29000091552734, "date": "2026-06-09", "entity": "block", "volume": 5407800.0, "wiki_views": 810}
-{"date": "2026-06-09", "entity": "bmw", "wiki_views": 2623}
+{"close": 68.72000122070312, "date": "2026-06-09", "entity": "bmw", "volume": 1267492.0, "wiki_views": 2623}
 {"close": 163.99000549316406, "date": "2026-06-09", "entity": "booking", "volume": 8153200.0, "wiki_views": 356}
 {"date": "2026-06-09", "entity": "boston_beer", "wiki_views": 111}
 {"date": "2026-06-09", "entity": "breville", "wiki_views": 127}
@@ -6908,7 +6908,7 @@
 {"close": 317.69000244140625, "date": "2026-06-09", "entity": "dominos", "volume": 592700.0, "wiki_views": 837}
 {"close": 15.609999656677246, "date": "2026-06-09", "entity": "dominos_au", "volume": 442273.0, "wiki_views": 41}
 {"close": 155.6699981689453, "date": "2026-06-09", "entity": "doordash", "volume": 4217900.0, "wiki_views": 943}
-{"date": "2026-06-09", "entity": "draftkings", "wiki_views": 467}
+{"close": 27.59000015258789, "date": "2026-06-09", "entity": "draftkings", "volume": 20304200.0, "wiki_views": 467}
 {"close": 72.4000015258789, "date": "2026-06-09", "entity": "drmartens", "volume": 1399250.0, "wiki_views": 373}
 {"close": 4284.5, "date": "2026-06-09", "entity": "drsquatch", "volume": 3146801.0, "wiki_views": 141}
 {"close": 117.86000061035156, "date": "2026-06-09", "entity": "duolingo", "volume": 1825400.0, "wiki_views": 985}
@@ -7262,7 +7262,7 @@
 {"date": "2026-06-10", "entity": "birkenstock", "wiki_views": 418}
 {"close": 92.48999786376953, "date": "2026-06-10", "entity": "bjs", "volume": 1637800.0, "wiki_views": 390}
 {"close": 66.62999725341797, "date": "2026-06-10", "entity": "block", "volume": 3795400.0, "wiki_views": 776}
-{"date": "2026-06-10", "entity": "bmw", "wiki_views": 2648}
+{"close": 67.62000274658203, "date": "2026-06-10", "entity": "bmw", "volume": 1394234.0, "wiki_views": 2648}
 {"close": 160.63999938964844, "date": "2026-06-10", "entity": "booking", "volume": 6791900.0, "wiki_views": 322}
 {"date": "2026-06-10", "entity": "boston_beer", "wiki_views": 132}
 {"date": "2026-06-10", "entity": "breville", "wiki_views": 134}
@@ -7332,7 +7332,7 @@
 {"close": 314.7699890136719, "date": "2026-06-10", "entity": "dominos", "volume": 524600.0, "wiki_views": 816}
 {"close": 15.9399995803833, "date": "2026-06-10", "entity": "dominos_au", "volume": 427685.0, "wiki_views": 41}
 {"close": 151.0, "date": "2026-06-10", "entity": "doordash", "volume": 3497400.0, "wiki_views": 897}
-{"date": "2026-06-10", "entity": "draftkings", "wiki_views": 362}
+{"close": 28.790000915527344, "date": "2026-06-10", "entity": "draftkings", "volume": 28884300.0, "wiki_views": 362}
 {"close": 73.9000015258789, "date": "2026-06-10", "entity": "drmartens", "volume": 1082671.0, "wiki_views": 368}
 {"close": 4401.5, "date": "2026-06-10", "entity": "drsquatch", "volume": 5552885.0, "wiki_views": 134}
 {"close": 121.91999816894531, "date": "2026-06-10", "entity": "duolingo", "volume": 2119700.0, "wiki_views": 993}
@@ -7687,7 +7687,7 @@
 {"date": "2026-06-11", "entity": "birkenstock", "wiki_views": 412}
 {"close": 90.93000030517578, "date": "2026-06-11", "entity": "bjs", "volume": 1296700.0, "wiki_views": 371}
 {"close": 69.08999633789062, "date": "2026-06-11", "entity": "block", "volume": 5934200.0, "wiki_views": 710}
-{"date": "2026-06-11", "entity": "bmw", "wiki_views": 2675}
+{"close": 66.54000091552734, "date": "2026-06-11", "entity": "bmw", "volume": 2219844.0, "wiki_views": 2675}
 {"close": 163.58999633789062, "date": "2026-06-11", "entity": "booking", "volume": 8094500.0, "wiki_views": 344}
 {"date": "2026-06-11", "entity": "boston_beer", "wiki_views": 145}
 {"date": "2026-06-11", "entity": "breville", "wiki_views": 123}
@@ -7757,7 +7757,7 @@
 {"close": 312.260009765625, "date": "2026-06-11", "entity": "dominos", "volume": 986700.0, "wiki_views": 971}
 {"close": 15.710000038146973, "date": "2026-06-11", "entity": "dominos_au", "volume": 345251.0, "wiki_views": 45}
 {"close": 154.58999633789062, "date": "2026-06-11", "entity": "doordash", "volume": 4863200.0, "wiki_views": 1014}
-{"date": "2026-06-11", "entity": "draftkings", "wiki_views": 411}
+{"close": 30.020000457763672, "date": "2026-06-11", "entity": "draftkings", "volume": 19296500.0, "wiki_views": 411}
 {"close": 73.5999984741211, "date": "2026-06-11", "entity": "drmartens", "volume": 1263164.0, "wiki_views": 365}
 {"close": 4352.0, "date": "2026-06-11", "entity": "drsquatch", "volume": 5723954.0, "wiki_views": 119}
 {"close": 123.84500122070312, "date": "2026-06-11", "entity": "duolingo", "volume": 1378400.0, "wiki_views": 1664}
@@ -8112,7 +8112,7 @@
 {"date": "2026-06-12", "entity": "birkenstock", "wiki_views": 423}
 {"close": 91.04000091552734, "date": "2026-06-12", "entity": "bjs", "volume": 1299800.0, "wiki_views": 386}
 {"close": 69.5199966430664, "date": "2026-06-12", "entity": "block", "volume": 4632700.0, "wiki_views": 690}
-{"date": "2026-06-12", "entity": "bmw", "wiki_views": 2720}
+{"close": 67.0, "date": "2026-06-12", "entity": "bmw", "volume": 1653121.0, "wiki_views": 2720}
 {"close": 164.94000244140625, "date": "2026-06-12", "entity": "booking", "volume": 6491800.0, "wiki_views": 276}
 {"date": "2026-06-12", "entity": "boston_beer", "wiki_views": 131}
 {"date": "2026-06-12", "entity": "breville", "wiki_views": 157}
@@ -8182,7 +8182,7 @@
 {"close": 323.8800048828125, "date": "2026-06-12", "entity": "dominos", "volume": 840500.0, "wiki_views": 821}
 {"close": 15.899999618530273, "date": "2026-06-12", "entity": "dominos_au", "volume": 413118.0, "wiki_views": 44}
 {"close": 150.5800018310547, "date": "2026-06-12", "entity": "doordash", "volume": 3910500.0, "wiki_views": 997}
-{"date": "2026-06-12", "entity": "draftkings", "wiki_views": 379}
+{"close": 29.0, "date": "2026-06-12", "entity": "draftkings", "volume": 14361600.0, "wiki_views": 379}
 {"close": 73.30000305175781, "date": "2026-06-12", "entity": "drmartens", "volume": 2108925.0, "wiki_views": 359}
 {"close": 4386.0, "date": "2026-06-12", "entity": "drsquatch", "volume": 3357969.0, "wiki_views": 106}
 {"close": 122.62999725341797, "date": "2026-06-12", "entity": "duolingo", "volume": 1108000.0, "wiki_views": 1327}
@@ -9386,7 +9386,7 @@
 {"date": "2026-06-15", "entity": "birkenstock", "wiki_views": 466}
 {"close": 90.20999908447266, "date": "2026-06-15", "entity": "bjs", "volume": 1911900.0, "wiki_views": 382}
 {"close": 74.3499984741211, "date": "2026-06-15", "entity": "block", "volume": 9545400.0, "wiki_views": 746}
-{"date": "2026-06-15", "entity": "bmw", "wiki_views": 2594}
+{"close": 68.33999633789062, "date": "2026-06-15", "entity": "bmw", "volume": 1207351.0, "wiki_views": 2594}
 {"close": 174.63999938964844, "date": "2026-06-15", "entity": "booking", "volume": 9471700.0, "wiki_views": 341}
 {"date": "2026-06-15", "entity": "boston_beer", "wiki_views": 154}
 {"date": "2026-06-15", "entity": "breville", "wiki_views": 108}
@@ -9456,7 +9456,7 @@
 {"close": 316.5199890136719, "date": "2026-06-15", "entity": "dominos", "volume": 852000.0, "wiki_views": 1018}
 {"close": 15.970000267028809, "date": "2026-06-15", "entity": "dominos_au", "volume": 581563.0, "wiki_views": 42}
 {"close": 168.08999633789062, "date": "2026-06-15", "entity": "doordash", "volume": 6828800.0, "wiki_views": 1071}
-{"date": "2026-06-15", "entity": "draftkings", "wiki_views": 398}
+{"close": 28.790000915527344, "date": "2026-06-15", "entity": "draftkings", "volume": 10608700.0, "wiki_views": 398}
 {"close": 72.0999984741211, "date": "2026-06-15", "entity": "drmartens", "volume": 798677.0, "wiki_views": 346}
 {"close": 4356.5, "date": "2026-06-15", "entity": "drsquatch", "volume": 4044792.0, "wiki_views": 85}
 {"close": 127.05999755859375, "date": "2026-06-15", "entity": "duolingo", "volume": 1510500.0, "wiki_views": 902}
@@ -9811,7 +9811,7 @@
 {"date": "2026-06-16", "entity": "birkenstock", "wiki_views": 492}
 {"close": 89.25, "date": "2026-06-16", "entity": "bjs", "volume": 1852600.0, "wiki_views": 353}
 {"close": 74.68000030517578, "date": "2026-06-16", "entity": "block", "volume": 6056600.0, "wiki_views": 685}
-{"date": "2026-06-16", "entity": "bmw", "wiki_views": 2639}
+{"close": 67.9000015258789, "date": "2026-06-16", "entity": "bmw", "volume": 1516629.0, "wiki_views": 2639}
 {"close": 175.72000122070312, "date": "2026-06-16", "entity": "booking", "volume": 7444100.0, "wiki_views": 342}
 {"date": "2026-06-16", "entity": "boston_beer", "wiki_views": 160}
 {"date": "2026-06-16", "entity": "breville", "wiki_views": 118}
@@ -9881,7 +9881,7 @@
 {"close": 320.510009765625, "date": "2026-06-16", "entity": "dominos", "volume": 801600.0, "wiki_views": 1129}
 {"close": 15.880000114440918, "date": "2026-06-16", "entity": "dominos_au", "volume": 229416.0, "wiki_views": 48}
 {"close": 170.02999877929688, "date": "2026-06-16", "entity": "doordash", "volume": 4862400.0, "wiki_views": 1299}
-{"date": "2026-06-16", "entity": "draftkings", "wiki_views": 256}
+{"close": 28.510000228881836, "date": "2026-06-16", "entity": "draftkings", "volume": 9487300.0, "wiki_views": 256}
 {"close": 72.5, "date": "2026-06-16", "entity": "drmartens", "volume": 1090750.0, "wiki_views": 362}
 {"close": 4396.5, "date": "2026-06-16", "entity": "drsquatch", "volume": 2984307.0, "wiki_views": 99}
 {"close": 128.07000732421875, "date": "2026-06-16", "entity": "duolingo", "volume": 960800.0, "wiki_views": 867}
@@ -10235,7 +10235,7 @@
 {"date": "2026-06-17", "entity": "birkenstock", "wiki_views": 508}
 {"close": 86.79000091552734, "date": "2026-06-17", "entity": "bjs", "volume": 1875700.0, "wiki_views": 348}
 {"close": 72.83999633789062, "date": "2026-06-17", "entity": "block", "volume": 6103100.0, "wiki_views": 777}
-{"date": "2026-06-17", "entity": "bmw", "wiki_views": 2679}
+{"close": 62.2400016784668, "date": "2026-06-17", "entity": "bmw", "volume": 5736376.0, "wiki_views": 2679}
 {"close": 171.6300048828125, "date": "2026-06-17", "entity": "booking", "volume": 5895000.0, "wiki_views": 326}
 {"date": "2026-06-17", "entity": "boston_beer", "wiki_views": 283}
 {"date": "2026-06-17", "entity": "breville", "wiki_views": 125}
@@ -10305,7 +10305,7 @@
 {"close": 314.3599853515625, "date": "2026-06-17", "entity": "dominos", "volume": 674100.0, "wiki_views": 1120}
 {"close": 16.309999465942383, "date": "2026-06-17", "entity": "dominos_au", "volume": 336963.0, "wiki_views": 47}
 {"close": 165.66000366210938, "date": "2026-06-17", "entity": "doordash", "volume": 5354900.0, "wiki_views": 1227}
-{"date": "2026-06-17", "entity": "draftkings", "wiki_views": 399}
+{"close": 26.31999969482422, "date": "2026-06-17", "entity": "draftkings", "volume": 12962400.0, "wiki_views": 399}
 {"close": 70.5, "date": "2026-06-17", "entity": "drmartens", "volume": 1027028.0, "wiki_views": 352}
 {"close": 4362.5, "date": "2026-06-17", "entity": "drsquatch", "volume": 2650486.0, "wiki_views": 121}
 {"close": 123.38999938964844, "date": "2026-06-17", "entity": "duolingo", "volume": 1356100.0, "wiki_views": 994}
@@ -10660,7 +10660,7 @@
 {"date": "2026-06-18", "entity": "birkenstock", "wiki_views": 514}
 {"close": 85.22000122070312, "date": "2026-06-18", "entity": "bjs", "volume": 3025600.0, "wiki_views": 396}
 {"close": 74.77999877929688, "date": "2026-06-18", "entity": "block", "volume": 8663500.0, "wiki_views": 716}
-{"date": "2026-06-18", "entity": "bmw", "wiki_views": 2634}
+{"close": 59.7400016784668, "date": "2026-06-18", "entity": "bmw", "volume": 3967431.0, "wiki_views": 2634}
 {"close": 171.77999877929688, "date": "2026-06-18", "entity": "booking", "volume": 18363000.0, "wiki_views": 337}
 {"date": "2026-06-18", "entity": "boston_beer", "wiki_views": 260}
 {"date": "2026-06-18", "entity": "breville", "wiki_views": 119}
@@ -10730,7 +10730,7 @@
 {"close": 312.4700012207031, "date": "2026-06-18", "entity": "dominos", "volume": 2507900.0, "wiki_views": 826}
 {"close": 16.219999313354492, "date": "2026-06-18", "entity": "dominos_au", "volume": 262405.0, "wiki_views": 44}
 {"close": 173.4600067138672, "date": "2026-06-18", "entity": "doordash", "volume": 7724700.0, "wiki_views": 1068}
-{"date": "2026-06-18", "entity": "draftkings", "wiki_views": 339}
+{"close": 26.389999389648438, "date": "2026-06-18", "entity": "draftkings", "volume": 14981000.0, "wiki_views": 339}
 {"close": 72.30000305175781, "date": "2026-06-18", "entity": "drmartens", "volume": 1400638.0, "wiki_views": 365}
 {"close": 4403.5, "date": "2026-06-18", "entity": "drsquatch", "volume": 3364801.0, "wiki_views": 105}
 {"close": 125.55999755859375, "date": "2026-06-18", "entity": "duolingo", "volume": 1663800.0, "wiki_views": 928}
@@ -11085,7 +11085,7 @@
 {"date": "2026-06-19", "entity": "birkenstock", "wiki_views": 555}
 {"date": "2026-06-19", "entity": "bjs", "wiki_views": 378}
 {"date": "2026-06-19", "entity": "block", "wiki_views": 554}
-{"date": "2026-06-19", "entity": "bmw", "wiki_views": 2779}
+{"close": 59.97999954223633, "date": "2026-06-19", "entity": "bmw", "volume": 3960197.0, "wiki_views": 2779}
 {"date": "2026-06-19", "entity": "booking", "wiki_views": 287}
 {"date": "2026-06-19", "entity": "boston_beer", "wiki_views": 246}
 {"date": "2026-06-19", "entity": "breville", "wiki_views": 106}
@@ -12359,7 +12359,7 @@
 {"date": "2026-06-22", "entity": "birkenstock", "wiki_views": 769}
 {"close": 83.81999969482422, "date": "2026-06-22", "entity": "bjs", "volume": 2478700.0, "wiki_views": 461}
 {"close": 73.06999969482422, "date": "2026-06-22", "entity": "block", "volume": 5137800.0, "wiki_views": 785}
-{"date": "2026-06-22", "entity": "bmw", "wiki_views": 2982}
+{"close": 60.939998626708984, "date": "2026-06-22", "entity": "bmw", "volume": 2075742.0, "wiki_views": 2982}
 {"close": 167.77000427246094, "date": "2026-06-22", "entity": "booking", "volume": 8274700.0, "wiki_views": 297}
 {"date": "2026-06-22", "entity": "boston_beer", "wiki_views": 147}
 {"date": "2026-06-22", "entity": "breville", "wiki_views": 287}
@@ -12429,7 +12429,7 @@
 {"close": 295.1099853515625, "date": "2026-06-22", "entity": "dominos", "volume": 1214000.0, "wiki_views": 1024}
 {"close": 16.860000610351562, "date": "2026-06-22", "entity": "dominos_au", "volume": 343361.0, "wiki_views": 44}
 {"close": 172.0800018310547, "date": "2026-06-22", "entity": "doordash", "volume": 7581600.0, "wiki_views": 1172}
-{"date": "2026-06-22", "entity": "draftkings", "wiki_views": 309}
+{"close": 25.649999618530273, "date": "2026-06-22", "entity": "draftkings", "volume": 8125300.0, "wiki_views": 309}
 {"close": 70.0999984741211, "date": "2026-06-22", "entity": "drmartens", "volume": 933936.0, "wiki_views": 718}
 {"close": 4392.5, "date": "2026-06-22", "entity": "drsquatch", "volume": 2666065.0, "wiki_views": 91}
 {"close": 127.25, "date": "2026-06-22", "entity": "duolingo", "volume": 1360700.0, "wiki_views": 978}
@@ -12783,7 +12783,7 @@
 {"date": "2026-06-23", "entity": "birkenstock", "wiki_views": 634}
 {"close": 86.12999725341797, "date": "2026-06-23", "entity": "bjs", "volume": 3176000.0, "wiki_views": 397}
 {"close": 72.37000274658203, "date": "2026-06-23", "entity": "block", "volume": 4715900.0, "wiki_views": 1050}
-{"date": "2026-06-23", "entity": "bmw", "wiki_views": 2805}
+{"close": 61.060001373291016, "date": "2026-06-23", "entity": "bmw", "volume": 1558638.0, "wiki_views": 2805}
 {"close": 168.94000244140625, "date": "2026-06-23", "entity": "booking", "volume": 9166100.0, "wiki_views": 335}
 {"date": "2026-06-23", "entity": "boston_beer", "wiki_views": 157}
 {"date": "2026-06-23", "entity": "breville", "wiki_views": 217}
@@ -12853,7 +12853,7 @@
 {"close": 283.0299987792969, "date": "2026-06-23", "entity": "dominos", "volume": 1491400.0, "wiki_views": 983}
 {"close": 15.989999771118164, "date": "2026-06-23", "entity": "dominos_au", "volume": 462632.0, "wiki_views": 44}
 {"close": 171.52000427246094, "date": "2026-06-23", "entity": "doordash", "volume": 6170900.0, "wiki_views": 1229}
-{"date": "2026-06-23", "entity": "draftkings", "wiki_views": 597}
+{"close": 25.149999618530273, "date": "2026-06-23", "entity": "draftkings", "volume": 14777700.0, "wiki_views": 597}
 {"close": 69.30000305175781, "date": "2026-06-23", "entity": "drmartens", "volume": 1303505.0, "wiki_views": 359}
 {"close": 4453.5, "date": "2026-06-23", "entity": "drsquatch", "volume": 3449326.0, "wiki_views": 106}
 {"close": 132.17999267578125, "date": "2026-06-23", "entity": "duolingo", "volume": 1992600.0, "wiki_views": 949}
@@ -13207,7 +13207,7 @@
 {"date": "2026-06-24", "entity": "birkenstock", "wiki_views": 607}
 {"close": 87.51000213623047, "date": "2026-06-24", "entity": "bjs", "volume": 2879700.0, "wiki_views": 374}
 {"close": 75.68000030517578, "date": "2026-06-24", "entity": "block", "volume": 6370100.0, "wiki_views": 694}
-{"date": "2026-06-24", "entity": "bmw", "wiki_views": 2481}
+{"close": 60.900001525878906, "date": "2026-06-24", "entity": "bmw", "volume": 1320803.0, "wiki_views": 2481}
 {"close": 181.25, "date": "2026-06-24", "entity": "booking", "volume": 13956100.0, "wiki_views": 354}
 {"date": "2026-06-24", "entity": "boston_beer", "wiki_views": 201}
 {"date": "2026-06-24", "entity": "breville", "wiki_views": 296}
@@ -13277,7 +13277,7 @@
 {"close": 287.6199951171875, "date": "2026-06-24", "entity": "dominos", "volume": 1235300.0, "wiki_views": 848}
 {"close": 15.720000267028809, "date": "2026-06-24", "entity": "dominos_au", "volume": 460946.0, "wiki_views": 40}
 {"close": 177.92999267578125, "date": "2026-06-24", "entity": "doordash", "volume": 7084300.0, "wiki_views": 1065}
-{"date": "2026-06-24", "entity": "draftkings", "wiki_views": 343}
+{"close": 24.530000686645508, "date": "2026-06-24", "entity": "draftkings", "volume": 11698200.0, "wiki_views": 343}
 {"close": 70.19999694824219, "date": "2026-06-24", "entity": "drmartens", "volume": 1489581.0, "wiki_views": 344}
 {"close": 4544.0, "date": "2026-06-24", "entity": "drsquatch", "volume": 4192934.0, "wiki_views": 123}
 {"close": 132.14999389648438, "date": "2026-06-24", "entity": "duolingo", "volume": 2642200.0, "wiki_views": 1185}
@@ -13632,7 +13632,7 @@
 {"date": "2026-06-25", "entity": "birkenstock", "wiki_views": 464}
 {"close": 86.30999755859375, "date": "2026-06-25", "entity": "bjs", "volume": 1405500.0, "wiki_views": 316}
 {"close": 74.08000183105469, "date": "2026-06-25", "entity": "block", "volume": 5008700.0, "wiki_views": 812}
-{"date": "2026-06-25", "entity": "bmw", "wiki_views": 2473}
+{"close": 60.779998779296875, "date": "2026-06-25", "entity": "bmw", "volume": 1608412.0, "wiki_views": 2473}
 {"close": 177.0500030517578, "date": "2026-06-25", "entity": "booking", "volume": 10844600.0, "wiki_views": 348}
 {"date": "2026-06-25", "entity": "boston_beer", "wiki_views": 153}
 {"date": "2026-06-25", "entity": "breville", "wiki_views": 123}
@@ -13702,7 +13702,7 @@
 {"close": 285.44000244140625, "date": "2026-06-25", "entity": "dominos", "volume": 767000.0, "wiki_views": 829}
 {"close": 16.200000762939453, "date": "2026-06-25", "entity": "dominos_au", "volume": 427702.0, "wiki_views": 51}
 {"close": 176.91000366210938, "date": "2026-06-25", "entity": "doordash", "volume": 3640900.0, "wiki_views": 987}
-{"date": "2026-06-25", "entity": "draftkings", "wiki_views": 290}
+{"close": 23.100000381469727, "date": "2026-06-25", "entity": "draftkings", "volume": 12556700.0, "wiki_views": 290}
 {"close": 72.0, "date": "2026-06-25", "entity": "drmartens", "volume": 2017546.0, "wiki_views": 372}
 {"close": 4579.5, "date": "2026-06-25", "entity": "drsquatch", "volume": 3908627.0, "wiki_views": 109}
 {"close": 119.94000244140625, "date": "2026-06-25", "entity": "duolingo", "volume": 1734100.0, "wiki_views": 878}
@@ -14057,7 +14057,7 @@
 {"date": "2026-06-26", "entity": "birkenstock", "wiki_views": 578}
 {"close": 88.87000274658203, "date": "2026-06-26", "entity": "bjs", "volume": 3753000.0, "wiki_views": 366}
 {"close": 77.81999969482422, "date": "2026-06-26", "entity": "block", "volume": 11651400.0, "wiki_views": 704}
-{"date": "2026-06-26", "entity": "bmw", "wiki_views": 2558}
+{"close": 59.060001373291016, "date": "2026-06-26", "entity": "bmw", "volume": 1661635.0, "wiki_views": 2558}
 {"close": 181.4600067138672, "date": "2026-06-26", "entity": "booking", "volume": 12746700.0, "wiki_views": 279}
 {"date": "2026-06-26", "entity": "boston_beer", "wiki_views": 149}
 {"date": "2026-06-26", "entity": "breville", "wiki_views": 146}
@@ -14127,7 +14127,7 @@
 {"close": 298.17999267578125, "date": "2026-06-26", "entity": "dominos", "volume": 1565600.0, "wiki_views": 779}
 {"close": 16.030000686645508, "date": "2026-06-26", "entity": "dominos_au", "volume": 327428.0, "wiki_views": 56}
 {"close": 183.08999633789062, "date": "2026-06-26", "entity": "doordash", "volume": 7399200.0, "wiki_views": 931}
-{"date": "2026-06-26", "entity": "draftkings", "wiki_views": 299}
+{"close": 25.700000762939453, "date": "2026-06-26", "entity": "draftkings", "volume": 16724400.0, "wiki_views": 299}
 {"close": 71.69999694824219, "date": "2026-06-26", "entity": "drmartens", "volume": 1794089.0, "wiki_views": 355}
 {"close": 4600.5, "date": "2026-06-26", "entity": "drsquatch", "volume": 4929367.0, "wiki_views": 86}
 {"close": 121.48999786376953, "date": "2026-06-26", "entity": "duolingo", "volume": 2306800.0, "wiki_views": 886}
@@ -15329,7 +15329,7 @@
 {"date": "2026-06-29", "entity": "birkenstock", "wiki_views": 524}
 {"close": 89.33999633789062, "date": "2026-06-29", "entity": "bjs", "volume": 1806900.0, "wiki_views": 426}
 {"close": 78.0199966430664, "date": "2026-06-29", "entity": "block", "volume": 7056300.0, "wiki_views": 831}
-{"date": "2026-06-29", "entity": "bmw", "wiki_views": 2800}
+{"close": 57.5, "date": "2026-06-29", "entity": "bmw", "volume": 1879422.0, "wiki_views": 2800}
 {"close": 182.41000366210938, "date": "2026-06-29", "entity": "booking", "volume": 8451400.0, "wiki_views": 398}
 {"date": "2026-06-29", "entity": "boston_beer", "wiki_views": 135}
 {"date": "2026-06-29", "entity": "breville", "wiki_views": 142}
@@ -15399,7 +15399,7 @@
 {"close": 294.04998779296875, "date": "2026-06-29", "entity": "dominos", "volume": 911800.0, "wiki_views": 725}
 {"close": 16.450000762939453, "date": "2026-06-29", "entity": "dominos_au", "volume": 342900.0, "wiki_views": 26}
 {"close": 184.82000732421875, "date": "2026-06-29", "entity": "doordash", "volume": 5042600.0, "wiki_views": 1036}
-{"date": "2026-06-29", "entity": "draftkings", "wiki_views": 298}
+{"close": 25.799999237060547, "date": "2026-06-29", "entity": "draftkings", "volume": 11266900.0, "wiki_views": 298}
 {"close": 70.5, "date": "2026-06-29", "entity": "drmartens", "volume": 1153811.0, "wiki_views": 320}
 {"close": 4580.0, "date": "2026-06-29", "entity": "drsquatch", "volume": 2785072.0, "wiki_views": 102}
 {"close": 116.02999877929688, "date": "2026-06-29", "entity": "duolingo", "volume": 1684300.0, "wiki_views": 933}
@@ -15753,7 +15753,7 @@
 {"date": "2026-06-30", "entity": "birkenstock", "wiki_views": 544}
 {"close": 87.22000122070312, "date": "2026-06-30", "entity": "bjs", "volume": 2162900.0, "wiki_views": 425}
 {"close": 76.0, "date": "2026-06-30", "entity": "block", "volume": 7409400.0, "wiki_views": 806}
-{"date": "2026-06-30", "entity": "bmw", "wiki_views": 2830}
+{"close": 57.2599983215332, "date": "2026-06-30", "entity": "bmw", "volume": 3500213.0, "wiki_views": 2830}
 {"close": 178.24000549316406, "date": "2026-06-30", "entity": "booking", "volume": 6582000.0, "wiki_views": 294}
 {"date": "2026-06-30", "entity": "boston_beer", "wiki_views": 166}
 {"date": "2026-06-30", "entity": "breville", "wiki_views": 147}
@@ -15823,7 +15823,7 @@
 {"close": 296.0400085449219, "date": "2026-06-30", "entity": "dominos", "volume": 894100.0, "wiki_views": 772}
 {"close": 15.630000114440918, "date": "2026-06-30", "entity": "dominos_au", "volume": 592571.0, "wiki_views": 40}
 {"close": 184.52999877929688, "date": "2026-06-30", "entity": "doordash", "volume": 4180300.0, "wiki_views": 988}
-{"date": "2026-06-30", "entity": "draftkings", "wiki_views": 346}
+{"close": 25.260000228881836, "date": "2026-06-30", "entity": "draftkings", "volume": 10951200.0, "wiki_views": 346}
 {"close": 69.0999984741211, "date": "2026-06-30", "entity": "drmartens", "volume": 681626.0, "wiki_views": 372}
 {"close": 4527.5, "date": "2026-06-30", "entity": "drsquatch", "volume": 5751695.0, "wiki_views": 85}
 {"close": 115.0199966430664, "date": "2026-06-30", "entity": "duolingo", "volume": 938700.0, "wiki_views": 756}
@@ -16178,7 +16178,7 @@
 {"date": "2026-07-01", "entity": "birkenstock", "wiki_views": 526}
 {"close": 86.55999755859375, "date": "2026-07-01", "entity": "bjs", "volume": 2378300.0, "wiki_views": 396}
 {"close": 77.12999725341797, "date": "2026-07-01", "entity": "block", "volume": 5632200.0, "wiki_views": 776}
-{"date": "2026-07-01", "entity": "bmw", "wiki_views": 2779}
+{"close": 58.20000076293945, "date": "2026-07-01", "entity": "bmw", "volume": 1584041.0, "wiki_views": 2779}
 {"close": 182.63999938964844, "date": "2026-07-01", "entity": "booking", "volume": 7100800.0, "wiki_views": 306}
 {"date": "2026-07-01", "entity": "boston_beer", "wiki_views": 145}
 {"date": "2026-07-01", "entity": "breville", "wiki_views": 140}
@@ -16248,7 +16248,7 @@
 {"close": 304.17999267578125, "date": "2026-07-01", "entity": "dominos", "volume": 733500.0, "wiki_views": 737}
 {"close": 15.699999809265137, "date": "2026-07-01", "entity": "dominos_au", "volume": 505348.0, "wiki_views": 36}
 {"close": 188.8699951171875, "date": "2026-07-01", "entity": "doordash", "volume": 4221100.0, "wiki_views": 978}
-{"date": "2026-07-01", "entity": "draftkings", "wiki_views": 284}
+{"close": 25.770000457763672, "date": "2026-07-01", "entity": "draftkings", "volume": 9375300.0, "wiki_views": 284}
 {"close": 70.9000015258789, "date": "2026-07-01", "entity": "drmartens", "volume": 1315003.0, "wiki_views": 380}
 {"close": 4561.5, "date": "2026-07-01", "entity": "drsquatch", "volume": 3390134.0, "wiki_views": 109}
 {"close": 121.21499633789062, "date": "2026-07-01", "entity": "duolingo", "volume": 1177400.0, "wiki_views": 851}
@@ -16603,7 +16603,7 @@
 {"date": "2026-07-02", "entity": "birkenstock", "wiki_views": 497}
 {"close": 89.18000030517578, "date": "2026-07-02", "entity": "bjs", "volume": 1916400.0, "wiki_views": 431}
 {"close": 78.83000183105469, "date": "2026-07-02", "entity": "block", "volume": 5480900.0, "wiki_views": 624}
-{"date": "2026-07-02", "entity": "bmw", "wiki_views": 2574}
+{"close": 60.20000076293945, "date": "2026-07-02", "entity": "bmw", "volume": 1814094.0, "wiki_views": 2574}
 {"close": 184.55999755859375, "date": "2026-07-02", "entity": "booking", "volume": 14188400.0, "wiki_views": 285}
 {"date": "2026-07-02", "entity": "boston_beer", "wiki_views": 159}
 {"date": "2026-07-02", "entity": "breville", "wiki_views": 148}
@@ -16673,7 +16673,7 @@
 {"close": 311.6600036621094, "date": "2026-07-02", "entity": "dominos", "volume": 804200.0, "wiki_views": 925}
 {"close": 15.850000381469727, "date": "2026-07-02", "entity": "dominos_au", "volume": 271890.0, "wiki_views": 40}
 {"close": 192.00999450683594, "date": "2026-07-02", "entity": "doordash", "volume": 4581900.0, "wiki_views": 873}
-{"date": "2026-07-02", "entity": "draftkings", "wiki_views": 376}
+{"close": 25.889999389648438, "date": "2026-07-02", "entity": "draftkings", "volume": 7359500.0, "wiki_views": 376}
 {"close": 71.69999694824219, "date": "2026-07-02", "entity": "drmartens", "volume": 1893188.0, "wiki_views": 361}
 {"close": 4636.0, "date": "2026-07-02", "entity": "drsquatch", "volume": 4522861.0, "wiki_views": 91}
 {"close": 125.76000213623047, "date": "2026-07-02", "entity": "duolingo", "volume": 1001700.0, "wiki_views": 842}
@@ -17028,7 +17028,7 @@
 {"date": "2026-07-03", "entity": "birkenstock", "wiki_views": 599}
 {"date": "2026-07-03", "entity": "bjs", "wiki_views": 414}
 {"date": "2026-07-03", "entity": "block", "wiki_views": 575}
-{"date": "2026-07-03", "entity": "bmw", "wiki_views": 2574}
+{"close": 60.560001373291016, "date": "2026-07-03", "entity": "bmw", "volume": 1319768.0, "wiki_views": 2574}
 {"date": "2026-07-03", "entity": "booking", "wiki_views": 291}
 {"date": "2026-07-03", "entity": "boston_beer", "wiki_views": 187}
 {"date": "2026-07-03", "entity": "breville", "wiki_views": 110}
@@ -18302,7 +18302,7 @@
 {"date": "2026-07-06", "entity": "birkenstock", "wiki_views": 516}
 {"close": 87.52999877929688, "date": "2026-07-06", "entity": "bjs", "volume": 2175300.0, "wiki_views": 700}
 {"close": 78.91999816894531, "date": "2026-07-06", "entity": "block", "volume": 3786500.0, "wiki_views": 628}
-{"date": "2026-07-06", "entity": "bmw", "wiki_views": 2470}
+{"close": 60.119998931884766, "date": "2026-07-06", "entity": "bmw", "volume": 1100529.0, "wiki_views": 2470}
 {"close": 181.02999877929688, "date": "2026-07-06", "entity": "booking", "volume": 7362100.0, "wiki_views": 326}
 {"date": "2026-07-06", "entity": "boston_beer", "wiki_views": 164}
 {"date": "2026-07-06", "entity": "breville", "wiki_views": 135}
@@ -18372,7 +18372,7 @@
 {"close": 305.9100036621094, "date": "2026-07-06", "entity": "dominos", "volume": 828100.0, "wiki_views": 814}
 {"close": 16.15999984741211, "date": "2026-07-06", "entity": "dominos_au", "volume": 321954.0, "wiki_views": 33}
 {"close": 188.4600067138672, "date": "2026-07-06", "entity": "doordash", "volume": 5511700.0, "wiki_views": 1299}
-{"date": "2026-07-06", "entity": "draftkings", "wiki_views": 421}
+{"close": 26.209999084472656, "date": "2026-07-06", "entity": "draftkings", "volume": 9557900.0, "wiki_views": 421}
 {"close": 72.9000015258789, "date": "2026-07-06", "entity": "drmartens", "volume": 1717264.0, "wiki_views": 401}
 {"close": 4557.0, "date": "2026-07-06", "entity": "drsquatch", "volume": 4165123.0, "wiki_views": 97}
 {"close": 129.72000122070312, "date": "2026-07-06", "entity": "duolingo", "volume": 1653500.0, "wiki_views": 936}
@@ -18727,7 +18727,7 @@
 {"date": "2026-07-07", "entity": "birkenstock", "wiki_views": 507}
 {"close": 87.5199966430664, "date": "2026-07-07", "entity": "bjs", "volume": 1742600.0, "wiki_views": 925}
 {"close": 77.55999755859375, "date": "2026-07-07", "entity": "block", "volume": 4963600.0, "wiki_views": 665}
-{"date": "2026-07-07", "entity": "bmw", "wiki_views": 2442}
+{"close": 60.7400016784668, "date": "2026-07-07", "entity": "bmw", "volume": 1532298.0, "wiki_views": 2442}
 {"close": 181.9499969482422, "date": "2026-07-07", "entity": "booking", "volume": 5369500.0, "wiki_views": 292}
 {"date": "2026-07-07", "entity": "boston_beer", "wiki_views": 150}
 {"date": "2026-07-07", "entity": "breville", "wiki_views": 132}
@@ -18797,7 +18797,7 @@
 {"close": 313.1400146484375, "date": "2026-07-07", "entity": "dominos", "volume": 766500.0, "wiki_views": 733}
 {"close": 16.34000015258789, "date": "2026-07-07", "entity": "dominos_au", "volume": 199072.0, "wiki_views": 53}
 {"close": 195.72000122070312, "date": "2026-07-07", "entity": "doordash", "volume": 4854100.0, "wiki_views": 1265}
-{"date": "2026-07-07", "entity": "draftkings", "wiki_views": 529}
+{"close": 26.90999984741211, "date": "2026-07-07", "entity": "draftkings", "volume": 8864300.0, "wiki_views": 529}
 {"close": 72.4000015258789, "date": "2026-07-07", "entity": "drmartens", "volume": 2242087.0, "wiki_views": 454}
 {"close": 4689.0, "date": "2026-07-07", "entity": "drsquatch", "volume": 2900016.0, "wiki_views": 101}
 {"close": 131.9499969482422, "date": "2026-07-07", "entity": "duolingo", "volume": 1109800.0, "wiki_views": 956}
@@ -19152,7 +19152,7 @@
 {"date": "2026-07-08", "entity": "birkenstock", "wiki_views": 530}
 {"close": 86.70999908447266, "date": "2026-07-08", "entity": "bjs", "volume": 1778400.0, "wiki_views": 567}
 {"close": 76.55000305175781, "date": "2026-07-08", "entity": "block", "volume": 4932800.0, "wiki_views": 652}
-{"date": "2026-07-08", "entity": "bmw", "wiki_views": 2507}
+{"close": 58.599998474121094, "date": "2026-07-08", "entity": "bmw", "volume": 1856294.0, "wiki_views": 2507}
 {"close": 174.2899932861328, "date": "2026-07-08", "entity": "booking", "volume": 5003400.0, "wiki_views": 369}
 {"date": "2026-07-08", "entity": "boston_beer", "wiki_views": 143}
 {"date": "2026-07-08", "entity": "breville", "wiki_views": 142}
@@ -19222,7 +19222,7 @@
 {"close": 302.3500061035156, "date": "2026-07-08", "entity": "dominos", "volume": 852700.0, "wiki_views": 753}
 {"close": 16.260000228881836, "date": "2026-07-08", "entity": "dominos_au", "volume": 159940.0, "wiki_views": 30}
 {"close": 189.35000610351562, "date": "2026-07-08", "entity": "doordash", "volume": 4397700.0, "wiki_views": 988}
-{"date": "2026-07-08", "entity": "draftkings", "wiki_views": 609}
+{"close": 27.170000076293945, "date": "2026-07-08", "entity": "draftkings", "volume": 9810700.0, "wiki_views": 609}
 {"close": 70.19999694824219, "date": "2026-07-08", "entity": "drmartens", "volume": 1008661.0, "wiki_views": 430}
 {"close": 4639.5, "date": "2026-07-08", "entity": "drsquatch", "volume": 3874517.0, "wiki_views": 108}
 {"close": 127.56999969482422, "date": "2026-07-08", "entity": "duolingo", "volume": 897100.0, "wiki_views": 848}
@@ -19577,7 +19577,7 @@
 {"date": "2026-07-09", "entity": "birkenstock", "wiki_views": 459}
 {"close": 85.62999725341797, "date": "2026-07-09", "entity": "bjs", "volume": 1723600.0, "wiki_views": 496}
 {"close": 77.41999816894531, "date": "2026-07-09", "entity": "block", "volume": 3047100.0, "wiki_views": 649}
-{"date": "2026-07-09", "entity": "bmw", "wiki_views": 2652}
+{"close": 58.279998779296875, "date": "2026-07-09", "entity": "bmw", "volume": 1396839.0, "wiki_views": 2652}
 {"close": 175.52000427246094, "date": "2026-07-09", "entity": "booking", "volume": 4613000.0, "wiki_views": 328}
 {"date": "2026-07-09", "entity": "boston_beer", "wiki_views": 151}
 {"date": "2026-07-09", "entity": "breville", "wiki_views": 144}
@@ -19647,7 +19647,7 @@
 {"close": 300.8800048828125, "date": "2026-07-09", "entity": "dominos", "volume": 672300.0, "wiki_views": 841}
 {"close": 16.389999389648438, "date": "2026-07-09", "entity": "dominos_au", "volume": 150894.0, "wiki_views": 39}
 {"close": 192.35000610351562, "date": "2026-07-09", "entity": "doordash", "volume": 3645200.0, "wiki_views": 1080}
-{"date": "2026-07-09", "entity": "draftkings", "wiki_views": 521}
+{"close": 26.290000915527344, "date": "2026-07-09", "entity": "draftkings", "volume": 13732600.0, "wiki_views": 521}
 {"close": 72.4000015258789, "date": "2026-07-09", "entity": "drmartens", "volume": 587656.0, "wiki_views": 482}
 {"close": 4551.0, "date": "2026-07-09", "entity": "drsquatch", "volume": 3283980.0, "wiki_views": 87}
 {"close": 129.9499969482422, "date": "2026-07-09", "entity": "duolingo", "volume": 917400.0, "wiki_views": 995}
@@ -20002,7 +20002,7 @@
 {"date": "2026-07-10", "entity": "birkenstock", "wiki_views": 548}
 {"close": 88.05000305175781, "date": "2026-07-10", "entity": "bjs", "volume": 1477700.0, "wiki_views": 475}
 {"close": 77.30000305175781, "date": "2026-07-10", "entity": "block", "volume": 3664300.0, "wiki_views": 670}
-{"date": "2026-07-10", "entity": "bmw", "wiki_views": 2634}
+{"close": 58.13999938964844, "date": "2026-07-10", "entity": "bmw", "volume": 1436559.0, "wiki_views": 2634}
 {"close": 178.38999938964844, "date": "2026-07-10", "entity": "booking", "volume": 3975400.0, "wiki_views": 325}
 {"date": "2026-07-10", "entity": "boston_beer", "wiki_views": 150}
 {"date": "2026-07-10", "entity": "breville", "wiki_views": 129}
@@ -20072,7 +20072,7 @@
 {"close": 299.4599914550781, "date": "2026-07-10", "entity": "dominos", "volume": 624400.0, "wiki_views": 884}
 {"close": 16.09000015258789, "date": "2026-07-10", "entity": "dominos_au", "volume": 143485.0, "wiki_views": 38}
 {"close": 191.82000732421875, "date": "2026-07-10", "entity": "doordash", "volume": 2652400.0, "wiki_views": 936}
-{"date": "2026-07-10", "entity": "draftkings", "wiki_views": 414}
+{"close": 26.475000381469727, "date": "2026-07-10", "entity": "draftkings", "volume": 7721600.0, "wiki_views": 414}
 {"close": 71.5, "date": "2026-07-10", "entity": "drmartens", "volume": 5213525.0, "wiki_views": 930}
 {"close": 4599.0, "date": "2026-07-10", "entity": "drsquatch", "volume": 3048535.0, "wiki_views": 64}
 {"close": 124.76000213623047, "date": "2026-07-10", "entity": "duolingo", "volume": 634700.0, "wiki_views": 855}
@@ -21275,7 +21275,7 @@
 {"date": "2026-07-13", "entity": "birkenstock", "wiki_views": 533}
 {"close": 90.12000274658203, "date": "2026-07-13", "entity": "bjs", "volume": 1604800.0, "wiki_views": 428}
 {"close": 78.72000122070312, "date": "2026-07-13", "entity": "block", "volume": 3927800.0, "wiki_views": 867}
-{"date": "2026-07-13", "entity": "bmw", "wiki_views": 2706}
+{"close": 57.91999816894531, "date": "2026-07-13", "entity": "bmw", "volume": 1082623.0, "wiki_views": 2706}
 {"close": 175.8000030517578, "date": "2026-07-13", "entity": "booking", "volume": 5079900.0, "wiki_views": 330}
 {"date": "2026-07-13", "entity": "boston_beer", "wiki_views": 124}
 {"date": "2026-07-13", "entity": "breville", "wiki_views": 117}
@@ -21345,7 +21345,7 @@
 {"close": 309.8500061035156, "date": "2026-07-13", "entity": "dominos", "volume": 1028500.0, "wiki_views": 831}
 {"close": 15.960000038146973, "date": "2026-07-13", "entity": "dominos_au", "volume": 249262.0, "wiki_views": 34}
 {"close": 189.57000732421875, "date": "2026-07-13", "entity": "doordash", "volume": 3667400.0, "wiki_views": 809}
-{"date": "2026-07-13", "entity": "draftkings", "wiki_views": 367}
+{"close": 26.450000762939453, "date": "2026-07-13", "entity": "draftkings", "volume": 13615600.0, "wiki_views": 367}
 {"close": 73.30000305175781, "date": "2026-07-13", "entity": "drmartens", "volume": 2607734.0, "wiki_views": 381}
 {"close": 4583.5, "date": "2026-07-13", "entity": "drsquatch", "volume": 5103356.0, "wiki_views": 95}
 {"close": 132.33999633789062, "date": "2026-07-13", "entity": "duolingo", "volume": 861800.0, "wiki_views": 895}
@@ -21699,7 +21699,7 @@
 {"date": "2026-07-14", "entity": "birkenstock", "wiki_views": 487}
 {"close": 89.70999908447266, "date": "2026-07-14", "entity": "bjs", "volume": 1931200.0, "wiki_views": 381}
 {"close": 79.98999786376953, "date": "2026-07-14", "entity": "block", "volume": 4928800.0, "wiki_views": 773}
-{"date": "2026-07-14", "entity": "bmw", "wiki_views": 2596}
+{"close": 57.31999969482422, "date": "2026-07-14", "entity": "bmw", "volume": 1567475.0, "wiki_views": 2596}
 {"close": 174.85000610351562, "date": "2026-07-14", "entity": "booking", "volume": 5409800.0, "wiki_views": 370}
 {"date": "2026-07-14", "entity": "boston_beer", "wiki_views": 142}
 {"date": "2026-07-14", "entity": "breville", "wiki_views": 143}
@@ -21769,7 +21769,7 @@
 {"close": 309.8500061035156, "date": "2026-07-14", "entity": "dominos", "volume": 857600.0, "wiki_views": 863}
 {"close": 16.75, "date": "2026-07-14", "entity": "dominos_au", "volume": 513928.0, "wiki_views": 32}
 {"close": 187.7899932861328, "date": "2026-07-14", "entity": "doordash", "volume": 3099200.0, "wiki_views": 1134}
-{"date": "2026-07-14", "entity": "draftkings", "wiki_views": 336}
+{"close": 25.209999084472656, "date": "2026-07-14", "entity": "draftkings", "volume": 12374000.0, "wiki_views": 336}
 {"close": 72.69999694824219, "date": "2026-07-14", "entity": "drmartens", "volume": 832697.0, "wiki_views": 365}
 {"close": 4564.0, "date": "2026-07-14", "entity": "drsquatch", "volume": 2588089.0, "wiki_views": 87}
 {"close": 128.35000610351562, "date": "2026-07-14", "entity": "duolingo", "volume": 771200.0, "wiki_views": 879}
@@ -22124,7 +22124,7 @@
 {"date": "2026-07-15", "entity": "birkenstock", "wiki_views": 470}
 {"close": 90.23999786376953, "date": "2026-07-15", "entity": "bjs", "volume": 1462800.0, "wiki_views": 377}
 {"close": 81.80999755859375, "date": "2026-07-15", "entity": "block", "volume": 10721200.0, "wiki_views": 887}
-{"date": "2026-07-15", "entity": "bmw", "wiki_views": 3023}
+{"close": 58.91999816894531, "date": "2026-07-15", "entity": "bmw", "volume": 1512831.0, "wiki_views": 3023}
 {"close": 182.8000030517578, "date": "2026-07-15", "entity": "booking", "volume": 6800500.0, "wiki_views": 324}
 {"date": "2026-07-15", "entity": "boston_beer", "wiki_views": 179}
 {"date": "2026-07-15", "entity": "breville", "wiki_views": 131}
@@ -22194,7 +22194,7 @@
 {"close": 310.8699951171875, "date": "2026-07-15", "entity": "dominos", "volume": 682500.0, "wiki_views": 935}
 {"close": 16.799999237060547, "date": "2026-07-15", "entity": "dominos_au", "volume": 277555.0, "wiki_views": 41}
 {"close": 190.16000366210938, "date": "2026-07-15", "entity": "doordash", "volume": 3900300.0, "wiki_views": 1040}
-{"date": "2026-07-15", "entity": "draftkings", "wiki_views": 416}
+{"close": 25.25, "date": "2026-07-15", "entity": "draftkings", "volume": 10525300.0, "wiki_views": 416}
 {"close": 74.19999694824219, "date": "2026-07-15", "entity": "drmartens", "volume": 752872.0, "wiki_views": 417}
 {"close": 4558.5, "date": "2026-07-15", "entity": "drsquatch", "volume": 7588480.0, "wiki_views": 115}
 {"close": 131.22000122070312, "date": "2026-07-15", "entity": "duolingo", "volume": 907800.0, "wiki_views": 916}
@@ -22549,7 +22549,7 @@
 {"date": "2026-07-16", "entity": "birkenstock", "wiki_views": 527}
 {"close": 93.06999969482422, "date": "2026-07-16", "entity": "bjs", "volume": 1885300.0, "wiki_views": 392}
 {"close": 81.5199966430664, "date": "2026-07-16", "entity": "block", "volume": 4148700.0, "wiki_views": 714}
-{"date": "2026-07-16", "entity": "bmw", "wiki_views": 3300}
+{"close": 58.31999969482422, "date": "2026-07-16", "entity": "bmw", "volume": 1331220.0, "wiki_views": 3300}
 {"close": 184.61000061035156, "date": "2026-07-16", "entity": "booking", "volume": 5880000.0, "wiki_views": 352}
 {"date": "2026-07-16", "entity": "boston_beer", "wiki_views": 145}
 {"date": "2026-07-16", "entity": "breville", "wiki_views": 704}
@@ -22619,7 +22619,7 @@
 {"close": 329.6700134277344, "date": "2026-07-16", "entity": "dominos", "volume": 1385900.0, "wiki_views": 1146}
 {"close": 17.190000534057617, "date": "2026-07-16", "entity": "dominos_au", "volume": 324137.0, "wiki_views": 33}
 {"close": 186.36000061035156, "date": "2026-07-16", "entity": "doordash", "volume": 3253200.0, "wiki_views": 1365}
-{"date": "2026-07-16", "entity": "draftkings", "wiki_views": 315}
+{"close": 24.84000015258789, "date": "2026-07-16", "entity": "draftkings", "volume": 8841800.0, "wiki_views": 315}
 {"close": 76.80000305175781, "date": "2026-07-16", "entity": "drmartens", "volume": 2203377.0, "wiki_views": 450}
 {"close": 4630.5, "date": "2026-07-16", "entity": "drsquatch", "volume": 2919279.0, "wiki_views": 144}
 {"close": 128.94000244140625, "date": "2026-07-16", "entity": "duolingo", "volume": 832500.0, "wiki_views": 964}
@@ -22974,7 +22974,7 @@
 {"date": "2026-07-17", "entity": "birkenstock", "wiki_views": 526}
 {"close": 93.4000015258789, "date": "2026-07-17", "entity": "bjs", "volume": 1557400.0, "wiki_views": 318}
 {"close": 79.94000244140625, "date": "2026-07-17", "entity": "block", "volume": 4903300.0, "wiki_views": 659}
-{"date": "2026-07-17", "entity": "bmw", "wiki_views": 2763}
+{"close": 58.540000915527344, "date": "2026-07-17", "entity": "bmw", "volume": 1751065.0, "wiki_views": 2763}
 {"close": 181.67999267578125, "date": "2026-07-17", "entity": "booking", "volume": 7196000.0, "wiki_views": 342}
 {"date": "2026-07-17", "entity": "boston_beer", "wiki_views": 173}
 {"date": "2026-07-17", "entity": "breville", "wiki_views": 216}
@@ -23044,7 +23044,7 @@
 {"close": 322.17999267578125, "date": "2026-07-17", "entity": "dominos", "volume": 1587900.0, "wiki_views": 990}
 {"close": 17.6200008392334, "date": "2026-07-17", "entity": "dominos_au", "volume": 540932.0, "wiki_views": 27}
 {"close": 184.13999938964844, "date": "2026-07-17", "entity": "doordash", "volume": 2561900.0, "wiki_views": 1013}
-{"date": "2026-07-17", "entity": "draftkings", "wiki_views": 265}
+{"close": 24.940000534057617, "date": "2026-07-17", "entity": "draftkings", "volume": 12735500.0, "wiki_views": 265}
 {"close": 75.9000015258789, "date": "2026-07-17", "entity": "drmartens", "volume": 1255187.0, "wiki_views": 351}
 {"close": 4673.0, "date": "2026-07-17", "entity": "drsquatch", "volume": 3235855.0, "wiki_views": 117}
 {"close": 133.85000610351562, "date": "2026-07-17", "entity": "duolingo", "volume": 1107700.0, "wiki_views": 861}
@@ -24246,7 +24246,7 @@
 {"date": "2026-07-20", "entity": "birkenstock", "wiki_views": 506}
 {"close": 93.91000366210938, "date": "2026-07-20", "entity": "bjs", "volume": 1231700.0, "wiki_views": 372}
 {"close": 79.29000091552734, "date": "2026-07-20", "entity": "block", "volume": 4218800.0, "wiki_views": 543}
-{"date": "2026-07-20", "entity": "bmw", "wiki_views": 2377}
+{"close": 58.34000015258789, "date": "2026-07-20", "entity": "bmw", "volume": 1125166.0, "wiki_views": 2377}
 {"close": 179.4499969482422, "date": "2026-07-20", "entity": "booking", "volume": 4059300.0, "wiki_views": 357}
 {"date": "2026-07-20", "entity": "boston_beer", "wiki_views": 125}
 {"date": "2026-07-20", "entity": "breville", "wiki_views": 149}
@@ -24316,7 +24316,7 @@
 {"close": 328.9700012207031, "date": "2026-07-20", "entity": "dominos", "volume": 2822000.0, "wiki_views": 1202}
 {"close": 17.09000015258789, "date": "2026-07-20", "entity": "dominos_au", "volume": 520770.0, "wiki_views": 32}
 {"close": 189.02000427246094, "date": "2026-07-20", "entity": "doordash", "volume": 2831500.0, "wiki_views": 930}
-{"date": "2026-07-20", "entity": "draftkings", "wiki_views": 265}
+{"close": 24.31999969482422, "date": "2026-07-20", "entity": "draftkings", "volume": 11197000.0, "wiki_views": 265}
 {"close": 74.19999694824219, "date": "2026-07-20", "entity": "drmartens", "volume": 278524.0, "wiki_views": 446}
 {"close": 4639.0, "date": "2026-07-20", "entity": "drsquatch", "volume": 2680017.0, "wiki_views": 112}
 {"close": 133.88999938964844, "date": "2026-07-20", "entity": "duolingo", "volume": 733400.0, "wiki_views": 887}
@@ -24671,7 +24671,7 @@
 {"date": "2026-07-21", "entity": "birkenstock", "wiki_views": 433}
 {"close": 92.33999633789062, "date": "2026-07-21", "entity": "bjs", "volume": 2247300.0, "wiki_views": 340}
 {"close": 80.37999725341797, "date": "2026-07-21", "entity": "block", "volume": 3447100.0, "wiki_views": 655}
-{"date": "2026-07-21", "entity": "bmw", "wiki_views": 2553}
+{"close": 57.560001373291016, "date": "2026-07-21", "entity": "bmw", "volume": 0.0, "wiki_views": 2553}
 {"close": 179.39999389648438, "date": "2026-07-21", "entity": "booking", "volume": 4039400.0, "wiki_views": 360}
 {"date": "2026-07-21", "entity": "boston_beer", "wiki_views": 120}
 {"date": "2026-07-21", "entity": "breville", "wiki_views": 213}
@@ -24741,7 +24741,7 @@
 {"close": 326.3399963378906, "date": "2026-07-21", "entity": "dominos", "volume": 970300.0, "wiki_views": 1192}
 {"close": 17.06999969482422, "date": "2026-07-21", "entity": "dominos_au", "volume": 360542.0, "wiki_views": 83}
 {"close": 188.0399932861328, "date": "2026-07-21", "entity": "doordash", "volume": 2807800.0, "wiki_views": 828}
-{"date": "2026-07-21", "entity": "draftkings", "wiki_views": 328}
+{"close": 23.850000381469727, "date": "2026-07-21", "entity": "draftkings", "volume": 9899600.0, "wiki_views": 328}
 {"close": 74.5999984741211, "date": "2026-07-21", "entity": "drmartens", "volume": 629017.0, "wiki_views": 378}
 {"close": 4553.0, "date": "2026-07-21", "entity": "drsquatch", "volume": 2547461.0, "wiki_views": 107}
 {"close": 124.70999908447266, "date": "2026-07-21", "entity": "duolingo", "volume": 1124800.0, "wiki_views": 913}
@@ -25096,7 +25096,7 @@
 {"date": "2026-07-22", "entity": "birkenstock", "wiki_views": 462}
 {"close": 91.87999725341797, "date": "2026-07-22", "entity": "bjs", "volume": 1388800.0, "wiki_views": 435}
 {"close": 77.45999908447266, "date": "2026-07-22", "entity": "block", "volume": 3834100.0, "wiki_views": 779}
-{"date": "2026-07-22", "entity": "bmw", "wiki_views": 2439}
+{"close": 57.65999984741211, "date": "2026-07-22", "entity": "bmw", "volume": 1475028.0, "wiki_views": 2439}
 {"close": 177.86000061035156, "date": "2026-07-22", "entity": "booking", "volume": 4851000.0, "wiki_views": 336}
 {"date": "2026-07-22", "entity": "boston_beer", "wiki_views": 150}
 {"date": "2026-07-22", "entity": "breville", "wiki_views": 147}
@@ -25166,7 +25166,7 @@
 {"close": 319.8299865722656, "date": "2026-07-22", "entity": "dominos", "volume": 936500.0, "wiki_views": 902}
 {"close": 16.889999389648438, "date": "2026-07-22", "entity": "dominos_au", "volume": 256403.0, "wiki_views": 65}
 {"close": 177.72999572753906, "date": "2026-07-22", "entity": "doordash", "volume": 3761600.0, "wiki_views": 887}
-{"date": "2026-07-22", "entity": "draftkings", "wiki_views": 278}
+{"close": 22.829999923706055, "date": "2026-07-22", "entity": "draftkings", "volume": 18940500.0, "wiki_views": 278}
 {"close": 75.5999984741211, "date": "2026-07-22", "entity": "drmartens", "volume": 753755.0, "wiki_views": 389}
 {"close": 4614.0, "date": "2026-07-22", "entity": "drsquatch", "volume": 2862755.0, "wiki_views": 105}
 {"close": 119.51000213623047, "date": "2026-07-22", "entity": "duolingo", "volume": 870000.0, "wiki_views": 868}
@@ -25521,7 +25521,7 @@
 {"date": "2026-07-23", "entity": "birkenstock", "wiki_views": 481}
 {"close": 91.29000091552734, "date": "2026-07-23", "entity": "bjs", "volume": 1586900.0, "wiki_views": 325}
 {"close": 76.48999786376953, "date": "2026-07-23", "entity": "block", "volume": 5624900.0, "wiki_views": 828}
-{"date": "2026-07-23", "entity": "bmw", "wiki_views": 2543}
+{"close": 56.91999816894531, "date": "2026-07-23", "entity": "bmw", "volume": 1432364.0, "wiki_views": 2543}
 {"close": 172.8300018310547, "date": "2026-07-23", "entity": "booking", "volume": 4669300.0, "wiki_views": 334}
 {"date": "2026-07-23", "entity": "boston_beer", "wiki_views": 153}
 {"date": "2026-07-23", "entity": "breville", "wiki_views": 225}
@@ -25591,7 +25591,7 @@
 {"close": 323.25, "date": "2026-07-23", "entity": "dominos", "volume": 712600.0, "wiki_views": 961}
 {"close": 16.8700008392334, "date": "2026-07-23", "entity": "dominos_au", "volume": 509793.0, "wiki_views": 54}
 {"close": 169.77000427246094, "date": "2026-07-23", "entity": "doordash", "volume": 4928200.0, "wiki_views": 877}
-{"date": "2026-07-23", "entity": "draftkings", "wiki_views": 278}
+{"close": 22.809999465942383, "date": "2026-07-23", "entity": "draftkings", "volume": 12296600.0, "wiki_views": 278}
 {"close": 73.9000015258789, "date": "2026-07-23", "entity": "drmartens", "volume": 430589.0, "wiki_views": 380}
 {"close": 4543.0, "date": "2026-07-23", "entity": "drsquatch", "volume": 2572476.0, "wiki_views": 85}
 {"close": 120.66999816894531, "date": "2026-07-23", "entity": "duolingo", "volume": 763000.0, "wiki_views": 882}
@@ -25945,7 +25945,7 @@
 {"date": "2026-07-24", "entity": "birkenstock", "wiki_views": 504}
 {"close": 92.94000244140625, "date": "2026-07-24", "entity": "bjs", "volume": 1456200.0, "wiki_views": 414}
 {"close": 77.1500015258789, "date": "2026-07-24", "entity": "block", "volume": 3195500.0, "wiki_views": 1094}
-{"date": "2026-07-24", "entity": "bmw", "wiki_views": 2608}
+{"close": 56.959999084472656, "date": "2026-07-24", "entity": "bmw", "volume": 1132716.0, "wiki_views": 2608}
 {"close": 177.4600067138672, "date": "2026-07-24", "entity": "booking", "volume": 5012000.0, "wiki_views": 333}
 {"date": "2026-07-24", "entity": "boston_beer", "wiki_views": 135}
 {"date": "2026-07-24", "entity": "breville", "wiki_views": 196}
@@ -26015,7 +26015,7 @@
 {"close": 332.9700012207031, "date": "2026-07-24", "entity": "dominos", "volume": 820600.0, "wiki_views": 910}
 {"close": 16.600000381469727, "date": "2026-07-24", "entity": "dominos_au", "volume": 238781.0, "wiki_views": 41}
 {"close": 172.91000366210938, "date": "2026-07-24", "entity": "doordash", "volume": 3687300.0, "wiki_views": 902}
-{"date": "2026-07-24", "entity": "draftkings", "wiki_views": 243}
+{"close": 23.010000228881836, "date": "2026-07-24", "entity": "draftkings", "volume": 8094700.0, "wiki_views": 243}
 {"close": 73.80000305175781, "date": "2026-07-24", "entity": "drmartens", "volume": 527290.0, "wiki_views": 397}
 {"close": 4575.5, "date": "2026-07-24", "entity": "drsquatch", "volume": 3967495.0, "wiki_views": 76}
 {"close": 122.23999786376953, "date": "2026-07-24", "entity": "duolingo", "volume": 695900.0, "wiki_views": 871}
@@ -27218,7 +27218,7 @@
 {"date": "2026-07-27", "entity": "birkenstock", "wiki_views": 657}
 {"close": 94.72000122070312, "date": "2026-07-27", "entity": "bjs", "volume": 1328200.0, "wiki_views": 367}
 {"close": 81.23999786376953, "date": "2026-07-27", "entity": "block", "volume": 4346500.0, "wiki_views": 847}
-{"date": "2026-07-27", "entity": "bmw", "wiki_views": 2982}
+{"close": 57.47999954223633, "date": "2026-07-27", "entity": "bmw", "volume": 1874965.0, "wiki_views": 2982}
 {"close": 186.7899932861328, "date": "2026-07-27", "entity": "booking", "volume": 5665000.0, "wiki_views": 382}
 {"date": "2026-07-27", "entity": "boston_beer", "wiki_views": 117}
 {"date": "2026-07-27", "entity": "breville", "wiki_views": 139}
@@ -27288,7 +27288,7 @@
 {"close": 343.5299987792969, "date": "2026-07-27", "entity": "dominos", "volume": 1075400.0, "wiki_views": 1354}
 {"close": 17.260000228881836, "date": "2026-07-27", "entity": "dominos_au", "volume": 237872.0, "wiki_views": 74}
 {"close": 184.3699951171875, "date": "2026-07-27", "entity": "doordash", "volume": 3640100.0, "wiki_views": 1038}
-{"date": "2026-07-27", "entity": "draftkings", "wiki_views": 267}
+{"close": 24.110000610351562, "date": "2026-07-27", "entity": "draftkings", "volume": 10287700.0, "wiki_views": 267}
 {"close": 76.0, "date": "2026-07-27", "entity": "drmartens", "volume": 588528.0, "wiki_views": 374}
 {"close": 4627.0, "date": "2026-07-27", "entity": "drsquatch", "volume": 3025717.0, "wiki_views": 126}
 {"close": 132.82000732421875, "date": "2026-07-27", "entity": "duolingo", "volume": 1281300.0, "wiki_views": 902}
@@ -27642,7 +27642,7 @@
 {"date": "2026-07-28", "entity": "birkenstock", "wiki_views": 612}
 {"close": 97.16000366210938, "date": "2026-07-28", "entity": "bjs", "volume": 1416900.0, "wiki_views": 388}
 {"close": 83.0999984741211, "date": "2026-07-28", "entity": "block", "volume": 4855000.0, "wiki_views": 798}
-{"date": "2026-07-28", "entity": "bmw", "wiki_views": 2515}
+{"close": 59.540000915527344, "date": "2026-07-28", "entity": "bmw", "volume": 1548690.0, "wiki_views": 2515}
 {"close": 199.30999755859375, "date": "2026-07-28", "entity": "booking", "volume": 9074000.0, "wiki_views": 329}
 {"date": "2026-07-28", "entity": "boston_beer", "wiki_views": 139}
 {"date": "2026-07-28", "entity": "breville", "wiki_views": 150}
@@ -27712,7 +27712,7 @@
 {"close": 350.4700012207031, "date": "2026-07-28", "entity": "dominos", "volume": 1127200.0, "wiki_views": 810}
 {"close": 17.059999465942383, "date": "2026-07-28", "entity": "dominos_au", "volume": 434743.0, "wiki_views": 61}
 {"close": 195.52000427246094, "date": "2026-07-28", "entity": "doordash", "volume": 3722100.0, "wiki_views": 985}
-{"date": "2026-07-28", "entity": "draftkings", "wiki_views": 306}
+{"close": 24.6200008392334, "date": "2026-07-28", "entity": "draftkings", "volume": 10372200.0, "wiki_views": 306}
 {"close": 78.30000305175781, "date": "2026-07-28", "entity": "drmartens", "volume": 857435.0, "wiki_views": 394}
 {"close": 4998.0, "date": "2026-07-28", "entity": "drsquatch", "volume": 10347856.0, "wiki_views": 129}
 {"close": 140.72999572753906, "date": "2026-07-28", "entity": "duolingo", "volume": 1529000.0, "wiki_views": 870}
@@ -28067,7 +28067,7 @@
 {"date": "2026-07-29", "entity": "birkenstock", "wiki_views": 559}
 {"close": 99.98999786376953, "date": "2026-07-29", "entity": "bjs", "volume": 1946300.0, "wiki_views": 377}
 {"close": 82.18000030517578, "date": "2026-07-29", "entity": "block", "volume": 4993200.0, "wiki_views": 736}
-{"date": "2026-07-29", "entity": "bmw", "wiki_views": 2772}
+{"close": 60.29999923706055, "date": "2026-07-29", "entity": "bmw", "volume": 1713051.0, "wiki_views": 2772}
 {"close": 201.3000030517578, "date": "2026-07-29", "entity": "booking", "volume": 7906000.0, "wiki_views": 339}
 {"date": "2026-07-29", "entity": "boston_beer", "wiki_views": 155}
 {"date": "2026-07-29", "entity": "breville", "wiki_views": 132}
@@ -28137,7 +28137,7 @@
 {"close": 360.0, "date": "2026-07-29", "entity": "dominos", "volume": 1292200.0, "wiki_views": 686}
 {"close": 17.959999084472656, "date": "2026-07-29", "entity": "dominos_au", "volume": 624558.0, "wiki_views": 38}
 {"close": 193.52999877929688, "date": "2026-07-29", "entity": "doordash", "volume": 3878100.0, "wiki_views": 1133}
-{"date": "2026-07-29", "entity": "draftkings", "wiki_views": 274}
+{"close": 24.549999237060547, "date": "2026-07-29", "entity": "draftkings", "volume": 7597300.0, "wiki_views": 274}
 {"close": 78.19999694824219, "date": "2026-07-29", "entity": "drmartens", "volume": 790623.0, "wiki_views": 339}
 {"close": 4986.0, "date": "2026-07-29", "entity": "drsquatch", "volume": 5292338.0, "wiki_views": 117}
 {"close": 140.1699981689453, "date": "2026-07-29", "entity": "duolingo", "volume": 1486500.0, "wiki_views": 858}
@@ -28492,7 +28492,7 @@
 {"date": "2026-07-30", "entity": "birkenstock", "wiki_views": 563}
 {"close": 98.44999694824219, "date": "2026-07-30", "entity": "bjs", "volume": 1367200.0, "wiki_views": 349}
 {"close": 82.58999633789062, "date": "2026-07-30", "entity": "block", "volume": 3737300.0, "wiki_views": 717}
-{"date": "2026-07-30", "entity": "bmw", "wiki_views": 2630}
+{"close": 60.18000030517578, "date": "2026-07-30", "entity": "bmw", "volume": 1574071.0, "wiki_views": 2630}
 {"close": 193.24000549316406, "date": "2026-07-30", "entity": "booking", "volume": 7597000.0, "wiki_views": 374}
 {"date": "2026-07-30", "entity": "boston_beer", "wiki_views": 147}
 {"date": "2026-07-30", "entity": "breville", "wiki_views": 133}
@@ -28562,7 +28562,7 @@
 {"close": 352.25, "date": "2026-07-30", "entity": "dominos", "volume": 835000.0, "wiki_views": 766}
 {"close": 19.59000015258789, "date": "2026-07-30", "entity": "dominos_au", "volume": 1543812.0, "wiki_views": 80}
 {"close": 197.52999877929688, "date": "2026-07-30", "entity": "doordash", "volume": 3433800.0, "wiki_views": 1093}
-{"date": "2026-07-30", "entity": "draftkings", "wiki_views": 267}
+{"close": 23.719999313354492, "date": "2026-07-30", "entity": "draftkings", "volume": 10773600.0, "wiki_views": 267}
 {"close": 77.69999694824219, "date": "2026-07-30", "entity": "drmartens", "volume": 894448.0, "wiki_views": 427}
 {"close": 4850.0, "date": "2026-07-30", "entity": "drsquatch", "volume": 3905826.0, "wiki_views": 89}
 {"close": 133.60000610351562, "date": "2026-07-30", "entity": "duolingo", "volume": 787400.0, "wiki_views": 778}
@@ -28916,7 +28916,7 @@
 {"date": "2026-07-31", "entity": "birkenstock", "wiki_views": 606}
 {"close": 97.77999877929688, "date": "2026-07-31", "entity": "bjs", "volume": 1107000.0, "wiki_views": 370}
 {"close": 81.23999786376953, "date": "2026-07-31", "entity": "block", "volume": 4698300.0, "wiki_views": 740}
-{"date": "2026-07-31", "entity": "bmw", "wiki_views": 2519}
+{"close": 59.29999923706055, "date": "2026-07-31", "entity": "bmw", "volume": 1632459.0, "wiki_views": 2519}
 {"close": 192.89999389648438, "date": "2026-07-31", "entity": "booking", "volume": 4599800.0, "wiki_views": 301}
 {"date": "2026-07-31", "entity": "boston_beer", "wiki_views": 136}
 {"date": "2026-07-31", "entity": "breville", "wiki_views": 121}
@@ -28986,7 +28986,7 @@
 {"close": 347.44000244140625, "date": "2026-07-31", "entity": "dominos", "volume": 652400.0, "wiki_views": 834}
 {"close": 18.56999969482422, "date": "2026-07-31", "entity": "dominos_au", "volume": 721792.0, "wiki_views": 102}
 {"close": 196.16000366210938, "date": "2026-07-31", "entity": "doordash", "volume": 3112700.0, "wiki_views": 969}
-{"date": "2026-07-31", "entity": "draftkings", "wiki_views": 268}
+{"close": 23.479999542236328, "date": "2026-07-31", "entity": "draftkings", "volume": 8444700.0, "wiki_views": 268}
 {"close": 77.4000015258789, "date": "2026-07-31", "entity": "drmartens", "volume": 665700.0, "wiki_views": 373}
 {"close": 4743.0, "date": "2026-07-31", "entity": "drsquatch", "volume": 3978613.0, "wiki_views": 76}
 {"close": 134.80999755859375, "date": "2026-07-31", "entity": "duolingo", "volume": 1025900.0, "wiki_views": 803}
@@ -30190,7 +30190,7 @@
 {"date": "2026-08-03", "entity": "birkenstock", "wiki_views": 594}
 {"close": 97.0999984741211, "date": "2026-08-03", "entity": "bjs", "volume": 1842300.0, "wiki_views": 388}
 {"close": 82.08999633789062, "date": "2026-08-03", "entity": "block", "volume": 4284100.0, "wiki_views": 708}
-{"date": "2026-08-03", "entity": "bmw", "wiki_views": 2547}
+{"close": 60.060001373291016, "date": "2026-08-03", "entity": "bmw", "volume": 1334861.0, "wiki_views": 2547}
 {"close": 192.7100067138672, "date": "2026-08-03", "entity": "booking", "volume": 7057500.0, "wiki_views": 341}
 {"date": "2026-08-03", "entity": "boston_beer", "wiki_views": 129}
 {"date": "2026-08-03", "entity": "breville", "wiki_views": 153}
@@ -30260,7 +30260,7 @@
 {"close": 364.4100036621094, "date": "2026-08-03", "entity": "dominos", "volume": 912700.0, "wiki_views": 900}
 {"close": 19.729999542236328, "date": "2026-08-03", "entity": "dominos_au", "volume": 458958.0, "wiki_views": 39}
 {"close": 200.5, "date": "2026-08-03", "entity": "doordash", "volume": 3456300.0, "wiki_views": 969}
-{"date": "2026-08-03", "entity": "draftkings", "wiki_views": 256}
+{"close": 23.5, "date": "2026-08-03", "entity": "draftkings", "volume": 12326800.0, "wiki_views": 256}
 {"close": 77.69999694824219, "date": "2026-08-03", "entity": "drmartens", "volume": 1124527.0, "wiki_views": 429}
 {"close": 4770.0, "date": "2026-08-03", "entity": "drsquatch", "volume": 6577014.0, "wiki_views": 90}
 {"close": 135.8000030517578, "date": "2026-08-03", "entity": "duolingo", "volume": 997400.0, "wiki_views": 813}
@@ -30614,7 +30614,7 @@
 {"date": "2026-08-04", "entity": "birkenstock", "wiki_views": 541}
 {"close": 96.6500015258789, "date": "2026-08-04", "entity": "bjs", "volume": 1154700.0, "wiki_views": 352}
 {"close": 84.63999938964844, "date": "2026-08-04", "entity": "block", "volume": 4657000.0, "wiki_views": 642}
-{"date": "2026-08-04", "entity": "bmw", "wiki_views": 2539}
+{"close": 59.959999084472656, "date": "2026-08-04", "entity": "bmw", "volume": 1642078.0, "wiki_views": 2539}
 {"close": 194.27000427246094, "date": "2026-08-04", "entity": "booking", "volume": 9369600.0, "wiki_views": 369}
 {"date": "2026-08-04", "entity": "boston_beer", "wiki_views": 113}
 {"date": "2026-08-04", "entity": "breville", "wiki_views": 150}
@@ -30684,7 +30684,7 @@
 {"close": 367.6300048828125, "date": "2026-08-04", "entity": "dominos", "volume": 1002900.0, "wiki_views": 799}
 {"close": 19.920000076293945, "date": "2026-08-04", "entity": "dominos_au", "volume": 382154.0, "wiki_views": 41}
 {"close": 202.3699951171875, "date": "2026-08-04", "entity": "doordash", "volume": 3842000.0, "wiki_views": 949}
-{"date": "2026-08-04", "entity": "draftkings", "wiki_views": 209}
+{"close": 23.610000610351562, "date": "2026-08-04", "entity": "draftkings", "volume": 12847600.0, "wiki_views": 209}
 {"close": 79.4000015258789, "date": "2026-08-04", "entity": "drmartens", "volume": 579800.0, "wiki_views": 326}
 {"close": 4748.5, "date": "2026-08-04", "entity": "drsquatch", "volume": 2762893.0, "wiki_views": 74}
 {"close": 137.75, "date": "2026-08-04", "entity": "duolingo", "volume": 1942700.0, "wiki_views": 892}
@@ -31039,7 +31039,7 @@
 {"date": "2026-08-05", "entity": "birkenstock", "wiki_views": 591}
 {"close": 96.69000244140625, "date": "2026-08-05", "entity": "bjs", "volume": 1236900.0, "wiki_views": 388}
 {"close": 84.19999694824219, "date": "2026-08-05", "entity": "block", "volume": 8553200.0, "wiki_views": 718}
-{"date": "2026-08-05", "entity": "bmw", "wiki_views": 2443}
+{"close": 59.099998474121094, "date": "2026-08-05", "entity": "bmw", "volume": 1176991.0, "wiki_views": 2443}
 {"close": 207.02000427246094, "date": "2026-08-05", "entity": "booking", "volume": 10654000.0, "wiki_views": 477}
 {"date": "2026-08-05", "entity": "boston_beer", "wiki_views": 132}
 {"date": "2026-08-05", "entity": "breville", "wiki_views": 105}
@@ -31109,7 +31109,7 @@
 {"close": 366.6099853515625, "date": "2026-08-05", "entity": "dominos", "volume": 680300.0, "wiki_views": 763}
 {"close": 19.290000915527344, "date": "2026-08-05", "entity": "dominos_au", "volume": 659242.0, "wiki_views": 169}
 {"close": 207.27000427246094, "date": "2026-08-05", "entity": "doordash", "volume": 5053700.0, "wiki_views": 1017}
-{"date": "2026-08-05", "entity": "draftkings", "wiki_views": 261}
+{"close": 21.760000228881836, "date": "2026-08-05", "entity": "draftkings", "volume": 26981300.0, "wiki_views": 261}
 {"close": 80.5999984741211, "date": "2026-08-05", "entity": "drmartens", "volume": 1386035.0, "wiki_views": 379}
 {"close": 4774.0, "date": "2026-08-05", "entity": "drsquatch", "volume": 3399856.0, "wiki_views": 109}
 {"close": 135.32000732421875, "date": "2026-08-05", "entity": "duolingo", "volume": 1871000.0, "wiki_views": 970}
@@ -31464,7 +31464,7 @@
 {"date": "2026-08-06", "entity": "birkenstock", "wiki_views": 571}
 {"close": 97.18000030517578, "date": "2026-08-06", "entity": "bjs", "volume": 916200.0, "wiki_views": 361}
 {"close": 79.0199966430664, "date": "2026-08-06", "entity": "block", "volume": 11657600.0, "wiki_views": 895}
-{"date": "2026-08-06", "entity": "bmw", "wiki_views": 2534}
+{"close": 58.619998931884766, "date": "2026-08-06", "entity": "bmw", "volume": 1152965.0, "wiki_views": 2534}
 {"close": 207.38999938964844, "date": "2026-08-06", "entity": "booking", "volume": 6867400.0, "wiki_views": 432}
 {"date": "2026-08-06", "entity": "boston_beer", "wiki_views": 134}
 {"date": "2026-08-06", "entity": "breville", "wiki_views": 130}
@@ -31534,7 +31534,7 @@
 {"close": 358.42999267578125, "date": "2026-08-06", "entity": "dominos", "volume": 509900.0, "wiki_views": 791}
 {"close": 19.950000762939453, "date": "2026-08-06", "entity": "dominos_au", "volume": 311463.0, "wiki_views": 48}
 {"close": 213.25999450683594, "date": "2026-08-06", "entity": "doordash", "volume": 8599900.0, "wiki_views": 964}
-{"date": "2026-08-06", "entity": "draftkings", "wiki_views": 267}
+{"close": 22.170000076293945, "date": "2026-08-06", "entity": "draftkings", "volume": 25692100.0, "wiki_views": 267}
 {"close": 82.19999694824219, "date": "2026-08-06", "entity": "drmartens", "volume": 1290767.0, "wiki_views": 370}
 {"close": 4709.0, "date": "2026-08-06", "entity": "drsquatch", "volume": 2595735.0, "wiki_views": 113}
 {"close": 122.58000183105469, "date": "2026-08-06", "entity": "duolingo", "volume": 3824400.0, "wiki_views": 745}
@@ -31889,7 +31889,7 @@
 {"date": "2026-08-07", "entity": "birkenstock", "wiki_views": 546}
 {"close": 96.4800033569336, "date": "2026-08-07", "entity": "bjs", "volume": 892200.0, "wiki_views": 371}
 {"close": 79.0, "date": "2026-08-07", "entity": "block", "volume": 6002000.0, "wiki_views": 642}
-{"date": "2026-08-07", "entity": "bmw", "wiki_views": 2475}
+{"close": 59.779998779296875, "date": "2026-08-07", "entity": "bmw", "volume": 1001007.0, "wiki_views": 2475}
 {"close": 214.4199981689453, "date": "2026-08-07", "entity": "booking", "volume": 7207600.0, "wiki_views": 403}
 {"date": "2026-08-07", "entity": "boston_beer", "wiki_views": 125}
 {"date": "2026-08-07", "entity": "breville", "wiki_views": 102}
@@ -31959,7 +31959,7 @@
 {"close": 350.95001220703125, "date": "2026-08-07", "entity": "dominos", "volume": 826700.0, "wiki_views": 726}
 {"close": 19.56999969482422, "date": "2026-08-07", "entity": "dominos_au", "volume": 274490.0, "wiki_views": 36}
 {"close": 216.25999450683594, "date": "2026-08-07", "entity": "doordash", "volume": 6257300.0, "wiki_views": 898}
-{"date": "2026-08-07", "entity": "draftkings", "wiki_views": 397}
+{"close": 24.030000686645508, "date": "2026-08-07", "entity": "draftkings", "volume": 37778300.0, "wiki_views": 397}
 {"close": 83.5999984741211, "date": "2026-08-07", "entity": "drmartens", "volume": 742510.0, "wiki_views": 313}
 {"close": 4670.0, "date": "2026-08-07", "entity": "drsquatch", "volume": 3107751.0, "wiki_views": 87}
 {"close": 130.89999389648438, "date": "2026-08-07", "entity": "duolingo", "volume": 1499600.0, "wiki_views": 743}
@@ -33164,7 +33164,7 @@
 {"date": "2026-08-10", "entity": "birkenstock", "wiki_views": 521}
 {"close": 96.19999694824219, "date": "2026-08-10", "entity": "bjs", "volume": 1961400.0, "wiki_views": 391}
 {"close": 78.9800033569336, "date": "2026-08-10", "entity": "block", "volume": 4207300.0, "wiki_views": 614}
-{"date": "2026-08-10", "entity": "bmw", "wiki_views": 2523}
+{"close": 59.29999923706055, "date": "2026-08-10", "entity": "bmw", "volume": 916715.0, "wiki_views": 2523}
 {"close": 212.8800048828125, "date": "2026-08-10", "entity": "booking", "volume": 4705300.0, "wiki_views": 314}
 {"date": "2026-08-10", "entity": "boston_beer", "wiki_views": 130}
 {"date": "2026-08-10", "entity": "breville", "wiki_views": 111}
@@ -33234,7 +33234,7 @@
 {"close": 347.8500061035156, "date": "2026-08-10", "entity": "dominos", "volume": 841200.0, "wiki_views": 754}
 {"close": 19.84000015258789, "date": "2026-08-10", "entity": "dominos_au", "volume": 221784.0, "wiki_views": 43}
 {"close": 209.86000061035156, "date": "2026-08-10", "entity": "doordash", "volume": 6822000.0, "wiki_views": 1021}
-{"date": "2026-08-10", "entity": "draftkings", "wiki_views": 254}
+{"close": 24.270000457763672, "date": "2026-08-10", "entity": "draftkings", "volume": 18762600.0, "wiki_views": 254}
 {"close": 83.80000305175781, "date": "2026-08-10", "entity": "drmartens", "volume": 1101238.0, "wiki_views": 385}
 {"close": 4637.0, "date": "2026-08-10", "entity": "drsquatch", "volume": 1831774.0, "wiki_views": 98}
 {"close": 137.19000244140625, "date": "2026-08-10", "entity": "duolingo", "volume": 1447000.0, "wiki_views": 832}
@@ -33589,7 +33589,7 @@
 {"date": "2026-08-11", "entity": "birkenstock", "wiki_views": 474}
 {"close": 93.95999908447266, "date": "2026-08-11", "entity": "bjs", "volume": 1169000.0, "wiki_views": 376}
 {"close": 79.06999969482422, "date": "2026-08-11", "entity": "block", "volume": 3516100.0, "wiki_views": 560}
-{"date": "2026-08-11", "entity": "bmw", "wiki_views": 2535}
+{"close": 60.119998931884766, "date": "2026-08-11", "entity": "bmw", "volume": 1463548.0, "wiki_views": 2535}
 {"close": 212.8699951171875, "date": "2026-08-11", "entity": "booking", "volume": 3496500.0, "wiki_views": 304}
 {"date": "2026-08-11", "entity": "boston_beer", "wiki_views": 137}
 {"date": "2026-08-11", "entity": "breville", "wiki_views": 128}
@@ -33659,7 +33659,7 @@
 {"close": 357.3399963378906, "date": "2026-08-11", "entity": "dominos", "volume": 703400.0, "wiki_views": 723}
 {"close": 19.75, "date": "2026-08-11", "entity": "dominos_au", "volume": 245599.0, "wiki_views": 57}
 {"close": 212.0, "date": "2026-08-11", "entity": "doordash", "volume": 4298500.0, "wiki_views": 903}
-{"date": "2026-08-11", "entity": "draftkings", "wiki_views": 241}
+{"close": 25.34000015258789, "date": "2026-08-11", "entity": "draftkings", "volume": 11397900.0, "wiki_views": 241}
 {"close": 86.19999694824219, "date": "2026-08-11", "entity": "drmartens", "volume": 1719854.0, "wiki_views": 414}
 {"close": 4606.5, "date": "2026-08-11", "entity": "drsquatch", "volume": 1804623.0, "wiki_views": 101}
 {"close": 135.44000244140625, "date": "2026-08-11", "entity": "duolingo", "volume": 860000.0, "wiki_views": 778}
@@ -34014,7 +34014,7 @@
 {"date": "2026-08-12", "entity": "birkenstock", "wiki_views": 447}
 {"close": 92.70999908447266, "date": "2026-08-12", "entity": "bjs", "volume": 2184100.0, "wiki_views": 334}
 {"close": 78.27999877929688, "date": "2026-08-12", "entity": "block", "volume": 4343100.0, "wiki_views": 581}
-{"date": "2026-08-12", "entity": "bmw", "wiki_views": 2380}
+{"close": 59.31999969482422, "date": "2026-08-12", "entity": "bmw", "volume": 1159070.0, "wiki_views": 2380}
 {"close": 212.25999450683594, "date": "2026-08-12", "entity": "booking", "volume": 3998200.0, "wiki_views": 275}
 {"date": "2026-08-12", "entity": "boston_beer", "wiki_views": 123}
 {"date": "2026-08-12", "entity": "breville", "wiki_views": 124}
@@ -34084,7 +34084,7 @@
 {"close": 353.7200012207031, "date": "2026-08-12", "entity": "dominos", "volume": 410100.0, "wiki_views": 733}
 {"close": 19.360000610351562, "date": "2026-08-12", "entity": "dominos_au", "volume": 216600.0, "wiki_views": 49}
 {"close": 212.49000549316406, "date": "2026-08-12", "entity": "doordash", "volume": 3105100.0, "wiki_views": 975}
-{"date": "2026-08-12", "entity": "draftkings", "wiki_views": 312}
+{"close": 25.510000228881836, "date": "2026-08-12", "entity": "draftkings", "volume": 8727600.0, "wiki_views": 312}
 {"close": 88.19999694824219, "date": "2026-08-12", "entity": "drmartens", "volume": 1560243.0, "wiki_views": 378}
 {"close": 4570.5, "date": "2026-08-12", "entity": "drsquatch", "volume": 2231996.0, "wiki_views": 78}
 {"close": 134.6300048828125, "date": "2026-08-12", "entity": "duolingo", "volume": 966100.0, "wiki_views": 860}
@@ -34439,7 +34439,7 @@
 {"date": "2026-08-13", "entity": "birkenstock", "wiki_views": 619}
 {"close": 93.52999877929688, "date": "2026-08-13", "entity": "bjs", "volume": 1298600.0, "wiki_views": 385}
 {"close": 83.08999633789062, "date": "2026-08-13", "entity": "block", "volume": 5225500.0, "wiki_views": 545}
-{"date": "2026-08-13", "entity": "bmw", "wiki_views": 2582}
+{"close": 58.7599983215332, "date": "2026-08-13", "entity": "bmw", "volume": 1279321.0, "wiki_views": 2582}
 {"close": 213.33999633789062, "date": "2026-08-13", "entity": "booking", "volume": 3684100.0, "wiki_views": 304}
 {"date": "2026-08-13", "entity": "boston_beer", "wiki_views": 118}
 {"date": "2026-08-13", "entity": "breville", "wiki_views": 149}
@@ -34509,7 +34509,7 @@
 {"close": 350.8800048828125, "date": "2026-08-13", "entity": "dominos", "volume": 617300.0, "wiki_views": 808}
 {"close": 19.440000534057617, "date": "2026-08-13", "entity": "dominos_au", "volume": 233763.0, "wiki_views": 53}
 {"close": 216.25999450683594, "date": "2026-08-13", "entity": "doordash", "volume": 3199200.0, "wiki_views": 894}
-{"date": "2026-08-13", "entity": "draftkings", "wiki_views": 356}
+{"close": 25.420000076293945, "date": "2026-08-13", "entity": "draftkings", "volume": 8296300.0, "wiki_views": 356}
 {"close": 88.5, "date": "2026-08-13", "entity": "drmartens", "volume": 1436157.0, "wiki_views": 408}
 {"close": 4628.5, "date": "2026-08-13", "entity": "drsquatch", "volume": 4790494.0, "wiki_views": 83}
 {"close": 144.10000610351562, "date": "2026-08-13", "entity": "duolingo", "volume": 1643600.0, "wiki_views": 962}
@@ -34864,7 +34864,7 @@
 {"date": "2026-08-14", "entity": "birkenstock", "wiki_views": 700}
 {"close": 93.41000366210938, "date": "2026-08-14", "entity": "bjs", "volume": 1150200.0, "wiki_views": 449}
 {"close": 82.87999725341797, "date": "2026-08-14", "entity": "block", "volume": 4281300.0, "wiki_views": 621}
-{"date": "2026-08-14", "entity": "bmw", "wiki_views": 2482}
+{"close": 59.400001525878906, "date": "2026-08-14", "entity": "bmw", "volume": 984283.0, "wiki_views": 2482}
 {"close": 212.05999755859375, "date": "2026-08-14", "entity": "booking", "volume": 4105500.0, "wiki_views": 321}
 {"date": "2026-08-14", "entity": "boston_beer", "wiki_views": 121}
 {"date": "2026-08-14", "entity": "breville", "wiki_views": 119}
@@ -34934,7 +34934,7 @@
 {"close": 346.2699890136719, "date": "2026-08-14", "entity": "dominos", "volume": 502800.0, "wiki_views": 736}
 {"close": 19.40999984741211, "date": "2026-08-14", "entity": "dominos_au", "volume": 220602.0, "wiki_views": 33}
 {"close": 217.02000427246094, "date": "2026-08-14", "entity": "doordash", "volume": 2626300.0, "wiki_views": 877}
-{"date": "2026-08-14", "entity": "draftkings", "wiki_views": 230}
+{"close": 26.139999389648438, "date": "2026-08-14", "entity": "draftkings", "volume": 8889800.0, "wiki_views": 230}
 {"close": 87.9000015258789, "date": "2026-08-14", "entity": "drmartens", "volume": 1051724.0, "wiki_views": 409}
 {"close": 4589.5, "date": "2026-08-14", "entity": "drsquatch", "volume": 1716036.0, "wiki_views": 83}
 {"close": 132.8300018310547, "date": "2026-08-14", "entity": "duolingo", "volume": 1065300.0, "wiki_views": 824}
@@ -36138,7 +36138,7 @@
 {"date": "2026-08-17", "entity": "birkenstock", "wiki_views": 528}
 {"close": 94.43000030517578, "date": "2026-08-17", "entity": "bjs", "volume": 1453000.0, "wiki_views": 478}
 {"close": 80.19999694824219, "date": "2026-08-17", "entity": "block", "volume": 3439000.0, "wiki_views": 573}
-{"date": "2026-08-17", "entity": "bmw", "wiki_views": 2695}
+{"close": 58.34000015258789, "date": "2026-08-17", "entity": "bmw", "volume": 1136443.0, "wiki_views": 2695}
 {"close": 204.75999450683594, "date": "2026-08-17", "entity": "booking", "volume": 5954900.0, "wiki_views": 338}
 {"date": "2026-08-17", "entity": "boston_beer", "wiki_views": 115}
 {"date": "2026-08-17", "entity": "breville", "wiki_views": 148}
@@ -36208,7 +36208,7 @@
 {"close": 335.4200134277344, "date": "2026-08-17", "entity": "dominos", "volume": 687000.0, "wiki_views": 598}
 {"close": 19.239999771118164, "date": "2026-08-17", "entity": "dominos_au", "volume": 166289.0, "wiki_views": 43}
 {"close": 212.72000122070312, "date": "2026-08-17", "entity": "doordash", "volume": 4447900.0, "wiki_views": 908}
-{"date": "2026-08-17", "entity": "draftkings", "wiki_views": 277}
+{"close": 25.299999237060547, "date": "2026-08-17", "entity": "draftkings", "volume": 8738200.0, "wiki_views": 277}
 {"close": 87.0, "date": "2026-08-17", "entity": "drmartens", "volume": 2351292.0, "wiki_views": 865}
 {"close": 4512.5, "date": "2026-08-17", "entity": "drsquatch", "volume": 2103920.0, "wiki_views": 97}
 {"close": 130.16000366210938, "date": "2026-08-17", "entity": "duolingo", "volume": 1484600.0, "wiki_views": 845}
@@ -36562,7 +36562,7 @@
 {"date": "2026-08-18", "entity": "birkenstock", "wiki_views": 479}
 {"close": 92.69000244140625, "date": "2026-08-18", "entity": "bjs", "volume": 1471800.0, "wiki_views": 437}
 {"close": 79.43000030517578, "date": "2026-08-18", "entity": "block", "volume": 3311600.0, "wiki_views": 590}
-{"date": "2026-08-18", "entity": "bmw", "wiki_views": 2418}
+{"close": 57.959999084472656, "date": "2026-08-18", "entity": "bmw", "volume": 1769430.0, "wiki_views": 2418}
 {"close": 208.25, "date": "2026-08-18", "entity": "booking", "volume": 4536300.0, "wiki_views": 395}
 {"date": "2026-08-18", "entity": "boston_beer", "wiki_views": 119}
 {"date": "2026-08-18", "entity": "breville", "wiki_views": 114}
@@ -36632,7 +36632,7 @@
 {"close": 336.25, "date": "2026-08-18", "entity": "dominos", "volume": 598200.0, "wiki_views": 682}
 {"close": 18.90999984741211, "date": "2026-08-18", "entity": "dominos_au", "volume": 222265.0, "wiki_views": 42}
 {"close": 216.35000610351562, "date": "2026-08-18", "entity": "doordash", "volume": 6405500.0, "wiki_views": 789}
-{"date": "2026-08-18", "entity": "draftkings", "wiki_views": 255}
+{"close": 24.040000915527344, "date": "2026-08-18", "entity": "draftkings", "volume": 8705100.0, "wiki_views": 255}
 {"close": 86.0, "date": "2026-08-18", "entity": "drmartens", "volume": 4623784.0, "wiki_views": 891}
 {"close": 4578.0, "date": "2026-08-18", "entity": "drsquatch", "volume": 4362601.0, "wiki_views": 92}
 {"close": 139.63999938964844, "date": "2026-08-18", "entity": "duolingo", "volume": 1574800.0, "wiki_views": 925}
@@ -36986,7 +36986,7 @@
 {"date": "2026-08-19", "entity": "birkenstock", "wiki_views": 447}
 {"close": 91.79000091552734, "date": "2026-08-19", "entity": "bjs", "volume": 2243500.0, "wiki_views": 394}
 {"close": 80.93000030517578, "date": "2026-08-19", "entity": "block", "volume": 3400300.0, "wiki_views": 643}
-{"date": "2026-08-19", "entity": "bmw", "wiki_views": 2366}
+{"close": 58.36000061035156, "date": "2026-08-19", "entity": "bmw", "volume": 1049271.0, "wiki_views": 2366}
 {"close": 213.0, "date": "2026-08-19", "entity": "booking", "volume": 5144600.0, "wiki_views": 277}
 {"date": "2026-08-19", "entity": "boston_beer", "wiki_views": 116}
 {"date": "2026-08-19", "entity": "breville", "wiki_views": 256}
@@ -37056,7 +37056,7 @@
 {"close": 336.5199890136719, "date": "2026-08-19", "entity": "dominos", "volume": 673700.0, "wiki_views": 619}
 {"close": 18.8799991607666, "date": "2026-08-19", "entity": "dominos_au", "volume": 175893.0, "wiki_views": 52}
 {"close": 220.22000122070312, "date": "2026-08-19", "entity": "doordash", "volume": 4596500.0, "wiki_views": 753}
-{"date": "2026-08-19", "entity": "draftkings", "wiki_views": 374}
+{"close": 25.309999465942383, "date": "2026-08-19", "entity": "draftkings", "volume": 6854500.0, "wiki_views": 374}
 {"close": 85.5999984741211, "date": "2026-08-19", "entity": "drmartens", "volume": 2888589.0, "wiki_views": 712}
 {"close": 4638.5, "date": "2026-08-19", "entity": "drsquatch", "volume": 3929708.0, "wiki_views": 83}
 {"close": 146.02999877929688, "date": "2026-08-19", "entity": "duolingo", "volume": 2262900.0, "wiki_views": 894}
@@ -37411,7 +37411,7 @@
 {"date": "2026-08-20", "entity": "birkenstock", "wiki_views": 463}
 {"close": 91.30000305175781, "date": "2026-08-20", "entity": "bjs", "volume": 5166200.0, "wiki_views": 391}
 {"close": 80.08000183105469, "date": "2026-08-20", "entity": "block", "volume": 2869700.0, "wiki_views": 667}
-{"date": "2026-08-20", "entity": "bmw", "wiki_views": 2458}
+{"close": 57.91999816894531, "date": "2026-08-20", "entity": "bmw", "volume": 1027284.0, "wiki_views": 2458}
 {"close": 209.8699951171875, "date": "2026-08-20", "entity": "booking", "volume": 3852800.0, "wiki_views": 289}
 {"date": "2026-08-20", "entity": "boston_beer", "wiki_views": 136}
 {"date": "2026-08-20", "entity": "breville", "wiki_views": 152}
@@ -37481,7 +37481,7 @@
 {"close": 334.3699951171875, "date": "2026-08-20", "entity": "dominos", "volume": 982300.0, "wiki_views": 695}
 {"close": 18.81999969482422, "date": "2026-08-20", "entity": "dominos_au", "volume": 160058.0, "wiki_views": 63}
 {"close": 222.36000061035156, "date": "2026-08-20", "entity": "doordash", "volume": 5870900.0, "wiki_views": 836}
-{"date": "2026-08-20", "entity": "draftkings", "wiki_views": 393}
+{"close": 25.030000686645508, "date": "2026-08-20", "entity": "draftkings", "volume": 8271100.0, "wiki_views": 393}
 {"close": 78.9000015258789, "date": "2026-08-20", "entity": "drmartens", "volume": 2714951.0, "wiki_views": 667}
 {"close": 4649.0, "date": "2026-08-20", "entity": "drsquatch", "volume": 4801826.0, "wiki_views": 96}
 {"close": 147.02999877929688, "date": "2026-08-20", "entity": "duolingo", "volume": 705800.0, "wiki_views": 866}
@@ -37836,7 +37836,7 @@
 {"date": "2026-08-21", "entity": "birkenstock", "wiki_views": 485}
 {"close": 96.41999816894531, "date": "2026-08-21", "entity": "bjs", "volume": 4179600.0, "wiki_views": 511}
 {"close": 82.16000366210938, "date": "2026-08-21", "entity": "block", "volume": 6718200.0, "wiki_views": 589}
-{"date": "2026-08-21", "entity": "bmw", "wiki_views": 2625}
+{"close": 58.880001068115234, "date": "2026-08-21", "entity": "bmw", "volume": 1128466.0, "wiki_views": 2625}
 {"close": 209.6199951171875, "date": "2026-08-21", "entity": "booking", "volume": 4502800.0, "wiki_views": 320}
 {"date": "2026-08-21", "entity": "boston_beer", "wiki_views": 120}
 {"date": "2026-08-21", "entity": "breville", "wiki_views": 121}
@@ -37906,7 +37906,7 @@
 {"close": 341.8500061035156, "date": "2026-08-21", "entity": "dominos", "volume": 702200.0, "wiki_views": 675}
 {"close": 18.93000030517578, "date": "2026-08-21", "entity": "dominos_au", "volume": 732943.0, "wiki_views": 91}
 {"close": 223.49000549316406, "date": "2026-08-21", "entity": "doordash", "volume": 3761400.0, "wiki_views": 1276}
-{"date": "2026-08-21", "entity": "draftkings", "wiki_views": 356}
+{"close": 26.170000076293945, "date": "2026-08-21", "entity": "draftkings", "volume": 8512200.0, "wiki_views": 356}
 {"close": 81.80000305175781, "date": "2026-08-21", "entity": "drmartens", "volume": 851240.0, "wiki_views": 436}
 {"close": 4681.0, "date": "2026-08-21", "entity": "drsquatch", "volume": 3153200.0, "wiki_views": 88}
 {"close": 146.1300048828125, "date": "2026-08-21", "entity": "duolingo", "volume": 679400.0, "wiki_views": 755}
@@ -38647,17 +38647,18 @@
 {"date": "2026-08-22", "entity": "zoetis", "wiki_views": 89}
 {"app_rank": 0, "date": "2026-08-23", "entity": "adidas"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "affirm"}
-{"app_rank": 61, "date": "2026-08-23", "entity": "airbnb"}
+{"app_rank": 54, "date": "2026-08-23", "entity": "airbnb"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "alaska_air"}
-{"app_rank": 13, "date": "2026-08-23", "entity": "alibaba"}
-{"app_rank": 17, "date": "2026-08-23", "entity": "amazon", "trends_hit": 200}
+{"app_rank": 10, "date": "2026-08-23", "entity": "alibaba", "trends_hit": 100}
+{"app_rank": 13, "date": "2026-08-23", "entity": "amazon", "trends_hit": 200}
 {"app_rank": 0, "date": "2026-08-23", "entity": "amc"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "american_air"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "apple"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "aristocrat"}
-{"app_rank": 0, "date": "2026-08-23", "entity": "bestbuy"}
-{"app_rank": 37, "date": "2026-08-23", "entity": "block"}
-{"app_rank": 53, "date": "2026-08-23", "entity": "booking"}
+{"app_rank": 99, "date": "2026-08-23", "entity": "bestbuy"}
+{"app_rank": 41, "date": "2026-08-23", "entity": "block"}
+{"date": "2026-08-23", "entity": "bmw", "trends_hit": 1000}
+{"app_rank": 46, "date": "2026-08-23", "entity": "booking"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "bumble"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "caesars"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "carmax"}
@@ -38669,22 +38670,22 @@
 {"app_rank": 0, "date": "2026-08-23", "entity": "chipotle"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "cinemark"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "coinbase"}
-{"app_rank": 11, "date": "2026-08-23", "entity": "coles"}
+{"app_rank": 14, "date": "2026-08-23", "entity": "coles"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "comcast"}
-{"app_rank": 41, "date": "2026-08-23", "entity": "costco"}
+{"app_rank": 55, "date": "2026-08-23", "entity": "costco"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "crumbl"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "crunch"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "delta"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "dexcom"}
-{"app_rank": 19, "date": "2026-08-23", "entity": "disney"}
-{"app_rank": 85, "date": "2026-08-23", "entity": "dominos"}
-{"app_rank": 14, "date": "2026-08-23", "entity": "doordash"}
-{"app_rank": 0, "date": "2026-08-23", "entity": "draftkings"}
-{"app_rank": 73, "date": "2026-08-23", "entity": "duolingo"}
+{"app_rank": 29, "date": "2026-08-23", "entity": "disney"}
+{"app_rank": 0, "date": "2026-08-23", "entity": "dominos"}
+{"app_rank": 16, "date": "2026-08-23", "entity": "doordash"}
+{"app_rank": 0, "date": "2026-08-23", "entity": "draftkings", "trends_hit": 200}
+{"app_rank": 72, "date": "2026-08-23", "entity": "duolingo"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "dutchbros"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "ea"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "easyjet"}
-{"app_rank": 96, "date": "2026-08-23", "entity": "ebay"}
+{"app_rank": 97, "date": "2026-08-23", "entity": "ebay"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "endeavour"}
 {"app_rank": 9, "date": "2026-08-23", "entity": "etsy"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "expedia"}
@@ -38694,10 +38695,10 @@
 {"app_rank": 0, "date": "2026-08-23", "entity": "function_health"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "gamestop"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "gm"}
-{"app_rank": 16, "date": "2026-08-23", "entity": "googlepixel"}
-{"app_rank": 63, "date": "2026-08-23", "entity": "grab"}
+{"app_rank": 12, "date": "2026-08-23", "entity": "googlepixel"}
+{"app_rank": 64, "date": "2026-08-23", "entity": "grab"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "grindr"}
-{"app_rank": 48, "date": "2026-08-23", "entity": "gyg"}
+{"app_rank": 63, "date": "2026-08-23", "entity": "gyg"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "harveynorman"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "hilton"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "hims"}
@@ -38711,25 +38712,25 @@
 {"app_rank": 0, "date": "2026-08-23", "entity": "instacart"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "jbhifi"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "jetblue"}
-{"app_rank": 68, "date": "2026-08-23", "entity": "kalshi", "trends_hit": 200}
+{"app_rank": 71, "date": "2026-08-23", "entity": "kalshi", "trends_hit": 1000}
 {"app_rank": 0, "date": "2026-08-23", "entity": "klarna"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "krafton"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "lifetime"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "lightwonder"}
-{"app_rank": 14, "date": "2026-08-23", "entity": "livenation"}
-{"app_rank": 72, "date": "2026-08-23", "entity": "lowes"}
+{"app_rank": 21, "date": "2026-08-23", "entity": "livenation"}
+{"app_rank": 85, "date": "2026-08-23", "entity": "lowes"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "lvmh"}
-{"app_rank": 31, "date": "2026-08-23", "entity": "lyft"}
+{"app_rank": 42, "date": "2026-08-23", "entity": "lyft"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "marriott"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "match"}
-{"app_rank": 60, "date": "2026-08-23", "entity": "mcdonalds"}
+{"app_rank": 54, "date": "2026-08-23", "entity": "mcdonalds"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "mercadolibre"}
-{"app_rank": 12, "date": "2026-08-23", "entity": "meta"}
+{"app_rank": 11, "date": "2026-08-23", "entity": "meta"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "mgm"}
-{"app_rank": 76, "date": "2026-08-23", "entity": "microsoft"}
+{"app_rank": 73, "date": "2026-08-23", "entity": "microsoft"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "myer"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "netease"}
-{"app_rank": 2, "date": "2026-08-23", "entity": "netflix"}
+{"app_rank": 5, "date": "2026-08-23", "entity": "netflix"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "nexon"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "nike"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "nintendo"}
@@ -38738,17 +38739,17 @@
 {"app_rank": 0, "date": "2026-08-23", "entity": "oscar"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "oura"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "papajohns"}
-{"app_rank": 82, "date": "2026-08-23", "entity": "paramount"}
-{"app_rank": 39, "date": "2026-08-23", "entity": "paypal"}
-{"app_rank": 10, "date": "2026-08-23", "entity": "pdd"}
+{"app_rank": 100, "date": "2026-08-23", "entity": "paramount"}
+{"app_rank": 50, "date": "2026-08-23", "entity": "paypal"}
+{"app_rank": 8, "date": "2026-08-23", "entity": "pdd"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "peloton"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "petco"}
-{"app_rank": 55, "date": "2026-08-23", "entity": "pinterest"}
+{"app_rank": 43, "date": "2026-08-23", "entity": "pinterest"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "planetfitness"}
-{"app_rank": 71, "date": "2026-08-23", "entity": "qantas"}
+{"app_rank": 75, "date": "2026-08-23", "entity": "qantas"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "rbi"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "rea"}
-{"app_rank": 51, "date": "2026-08-23", "entity": "reddit"}
+{"app_rank": 40, "date": "2026-08-23", "entity": "reddit"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "revolut"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "rivian"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "robinhood"}
@@ -38759,46 +38760,46 @@
 {"app_rank": 0, "date": "2026-08-23", "entity": "rush_street"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "ryanair"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "sea"}
-{"app_rank": 87, "date": "2026-08-23", "entity": "seek"}
+{"app_rank": 88, "date": "2026-08-23", "entity": "seek"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "shakeshack"}
-{"app_rank": 28, "date": "2026-08-23", "entity": "shein"}
+{"app_rank": 19, "date": "2026-08-23", "entity": "shein"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "sixflags"}
-{"app_rank": 64, "date": "2026-08-23", "entity": "snap"}
+{"app_rank": 37, "date": "2026-08-23", "entity": "snap"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "sofi"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "sony"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "southwest"}
-{"app_rank": 34, "date": "2026-08-23", "entity": "spotify"}
+{"app_rank": 32, "date": "2026-08-23", "entity": "spotify"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "starbucks"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "starz"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "stellantis"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "sweetgreen"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "taketwo"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "talkspace"}
-{"app_rank": 75, "date": "2026-08-23", "entity": "target"}
+{"app_rank": 74, "date": "2026-08-23", "entity": "target"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "teladoc"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "templewebster"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "tencent"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "tesla"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "topgolf"}
-{"app_rank": 57, "date": "2026-08-23", "entity": "trip_com"}
+{"app_rank": 52, "date": "2026-08-23", "entity": "trip_com"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "tripadvisor"}
-{"app_rank": 13, "date": "2026-08-23", "entity": "uber"}
+{"app_rank": 20, "date": "2026-08-23", "entity": "uber"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "ulta"}
-{"app_rank": 48, "date": "2026-08-23", "entity": "underdog"}
+{"app_rank": 56, "date": "2026-08-23", "entity": "underdog"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "united"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "vail"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "viking"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "wag"}
-{"app_rank": 26, "date": "2026-08-23", "entity": "walmart"}
+{"app_rank": 30, "date": "2026-08-23", "entity": "walmart"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "wayfair"}
-{"app_rank": 84, "date": "2026-08-23", "entity": "wbd"}
+{"app_rank": 67, "date": "2026-08-23", "entity": "wbd"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "wendys"}
-{"app_rank": 74, "date": "2026-08-23", "entity": "wesfarmers"}
+{"app_rank": 81, "date": "2026-08-23", "entity": "wesfarmers"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "whoop"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "wingstop"}
-{"app_rank": 21, "date": "2026-08-23", "entity": "wise"}
+{"app_rank": 18, "date": "2026-08-23", "entity": "wise"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "wizz"}
-{"app_rank": 24, "date": "2026-08-23", "entity": "woolworths"}
+{"app_rank": 33, "date": "2026-08-23", "entity": "woolworths"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "ww"}
-{"app_rank": 78, "date": "2026-08-23", "entity": "yum"}
+{"app_rank": 85, "date": "2026-08-23", "entity": "yum"}
 {"app_rank": 0, "date": "2026-08-23", "entity": "zip"}
