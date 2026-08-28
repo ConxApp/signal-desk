@@ -3685,7 +3685,7 @@
 {"close": 61.79999923706055, "date": "2026-06-01", "entity": "pernod", "volume": 798771.0, "wiki_views": 369}
 {"date": "2026-06-01", "entity": "petco", "wiki_views": 128}
 {"date": "2026-06-01", "entity": "petsmart", "wiki_views": 186}
-{"date": "2026-06-01", "entity": "pg", "wiki_views": 1274}
+{"close": 140.27999877929688, "date": "2026-06-01", "entity": "pg", "volume": 11093800.0, "wiki_views": 1274}
 {"close": 21.350000381469727, "date": "2026-06-01", "entity": "pinterest", "volume": 25066000.0, "wiki_views": 3619}
 {"date": "2026-06-01", "entity": "planetfitness", "wiki_views": 249}
 {"date": "2026-06-01", "entity": "playtika", "wiki_views": 95}
@@ -4110,7 +4110,7 @@
 {"close": 61.63999938964844, "date": "2026-06-02", "entity": "pernod", "volume": 401769.0, "wiki_views": 367}
 {"date": "2026-06-02", "entity": "petco", "wiki_views": 137}
 {"date": "2026-06-02", "entity": "petsmart", "wiki_views": 177}
-{"date": "2026-06-02", "entity": "pg", "wiki_views": 1321}
+{"close": 140.82000732421875, "date": "2026-06-02", "entity": "pg", "volume": 9599500.0, "wiki_views": 1321}
 {"close": 20.8700008392334, "date": "2026-06-02", "entity": "pinterest", "volume": 16953000.0, "wiki_views": 3535}
 {"date": "2026-06-02", "entity": "planetfitness", "wiki_views": 224}
 {"date": "2026-06-02", "entity": "playtika", "wiki_views": 89}
@@ -4535,7 +4535,7 @@
 {"close": 60.91999816894531, "date": "2026-06-03", "entity": "pernod", "volume": 583037.0, "wiki_views": 401}
 {"date": "2026-06-03", "entity": "petco", "wiki_views": 167}
 {"date": "2026-06-03", "entity": "petsmart", "wiki_views": 212}
-{"date": "2026-06-03", "entity": "pg", "wiki_views": 1318}
+{"close": 140.19000244140625, "date": "2026-06-03", "entity": "pg", "volume": 9351000.0, "wiki_views": 1318}
 {"close": 20.670000076293945, "date": "2026-06-03", "entity": "pinterest", "volume": 21050700.0, "wiki_views": 3471}
 {"date": "2026-06-03", "entity": "planetfitness", "wiki_views": 256}
 {"date": "2026-06-03", "entity": "playtika", "wiki_views": 117}
@@ -4960,7 +4960,7 @@
 {"close": 61.119998931884766, "date": "2026-06-04", "entity": "pernod", "volume": 670410.0, "wiki_views": 383}
 {"date": "2026-06-04", "entity": "petco", "wiki_views": 149}
 {"date": "2026-06-04", "entity": "petsmart", "wiki_views": 166}
-{"date": "2026-06-04", "entity": "pg", "wiki_views": 1318}
+{"close": 140.77999877929688, "date": "2026-06-04", "entity": "pg", "volume": 8194000.0, "wiki_views": 1318}
 {"close": 21.59000015258789, "date": "2026-06-04", "entity": "pinterest", "volume": 27526600.0, "wiki_views": 3587}
 {"date": "2026-06-04", "entity": "planetfitness", "wiki_views": 227}
 {"date": "2026-06-04", "entity": "playtika", "wiki_views": 105}
@@ -5385,7 +5385,7 @@
 {"close": 62.099998474121094, "date": "2026-06-05", "entity": "pernod", "volume": 725645.0, "wiki_views": 461}
 {"date": "2026-06-05", "entity": "petco", "wiki_views": 135}
 {"date": "2026-06-05", "entity": "petsmart", "wiki_views": 168}
-{"date": "2026-06-05", "entity": "pg", "wiki_views": 1341}
+{"close": 146.5399932861328, "date": "2026-06-05", "entity": "pg", "volume": 10963200.0, "wiki_views": 1341}
 {"close": 21.420000076293945, "date": "2026-06-05", "entity": "pinterest", "volume": 18229100.0, "wiki_views": 3338}
 {"date": "2026-06-05", "entity": "planetfitness", "wiki_views": 223}
 {"date": "2026-06-05", "entity": "playtika", "wiki_views": 172}
@@ -6659,7 +6659,7 @@
 {"close": 62.099998474121094, "date": "2026-06-08", "entity": "pernod", "volume": 443010.0, "wiki_views": 468}
 {"date": "2026-06-08", "entity": "petco", "wiki_views": 121}
 {"date": "2026-06-08", "entity": "petsmart", "wiki_views": 174}
-{"date": "2026-06-08", "entity": "pg", "wiki_views": 1436}
+{"close": 145.10000610351562, "date": "2026-06-08", "entity": "pg", "volume": 7200700.0, "wiki_views": 1436}
 {"close": 21.989999771118164, "date": "2026-06-08", "entity": "pinterest", "volume": 28861900.0, "wiki_views": 3289}
 {"date": "2026-06-08", "entity": "planetfitness", "wiki_views": 232}
 {"date": "2026-06-08", "entity": "playtika", "wiki_views": 117}
@@ -7083,7 +7083,7 @@
 {"close": 63.380001068115234, "date": "2026-06-09", "entity": "pernod", "volume": 1134805.0, "wiki_views": 422}
 {"date": "2026-06-09", "entity": "petco", "wiki_views": 158}
 {"date": "2026-06-09", "entity": "petsmart", "wiki_views": 150}
-{"date": "2026-06-09", "entity": "pg", "wiki_views": 1297}
+{"close": 148.6699981689453, "date": "2026-06-09", "entity": "pg", "volume": 8259300.0, "wiki_views": 1297}
 {"close": 21.920000076293945, "date": "2026-06-09", "entity": "pinterest", "volume": 23400300.0, "wiki_views": 3747}
 {"date": "2026-06-09", "entity": "planetfitness", "wiki_views": 215}
 {"date": "2026-06-09", "entity": "playtika", "wiki_views": 140}
@@ -7508,7 +7508,7 @@
 {"close": 63.060001373291016, "date": "2026-06-10", "entity": "pernod", "volume": 607343.0, "wiki_views": 402}
 {"date": "2026-06-10", "entity": "petco", "wiki_views": 155}
 {"date": "2026-06-10", "entity": "petsmart", "wiki_views": 163}
-{"date": "2026-06-10", "entity": "pg", "wiki_views": 1376}
+{"close": 149.0500030517578, "date": "2026-06-10", "entity": "pg", "volume": 7345900.0, "wiki_views": 1376}
 {"close": 21.770000457763672, "date": "2026-06-10", "entity": "pinterest", "volume": 20861700.0, "wiki_views": 3606}
 {"date": "2026-06-10", "entity": "planetfitness", "wiki_views": 225}
 {"date": "2026-06-10", "entity": "playtika", "wiki_views": 123}
@@ -7933,7 +7933,7 @@
 {"close": 62.97999954223633, "date": "2026-06-11", "entity": "pernod", "volume": 412301.0, "wiki_views": 370}
 {"date": "2026-06-11", "entity": "petco", "wiki_views": 110}
 {"date": "2026-06-11", "entity": "petsmart", "wiki_views": 172}
-{"date": "2026-06-11", "entity": "pg", "wiki_views": 1356}
+{"close": 148.33999633789062, "date": "2026-06-11", "entity": "pg", "volume": 6684700.0, "wiki_views": 1356}
 {"close": 21.5, "date": "2026-06-11", "entity": "pinterest", "volume": 19341900.0, "wiki_views": 3939}
 {"date": "2026-06-11", "entity": "planetfitness", "wiki_views": 172}
 {"date": "2026-06-11", "entity": "playtika", "wiki_views": 97}
@@ -8358,7 +8358,7 @@
 {"close": 63.439998626708984, "date": "2026-06-12", "entity": "pernod", "volume": 614426.0, "wiki_views": 383}
 {"date": "2026-06-12", "entity": "petco", "wiki_views": 119}
 {"date": "2026-06-12", "entity": "petsmart", "wiki_views": 167}
-{"date": "2026-06-12", "entity": "pg", "wiki_views": 1124}
+{"close": 149.61000061035156, "date": "2026-06-12", "entity": "pg", "volume": 6832000.0, "wiki_views": 1124}
 {"close": 20.209999084472656, "date": "2026-06-12", "entity": "pinterest", "volume": 12359200.0, "wiki_views": 4099}
 {"date": "2026-06-12", "entity": "planetfitness", "wiki_views": 208}
 {"date": "2026-06-12", "entity": "playtika", "wiki_views": 102}
@@ -9632,7 +9632,7 @@
 {"close": 63.2400016784668, "date": "2026-06-15", "entity": "pernod", "volume": 841895.0, "wiki_views": 316}
 {"date": "2026-06-15", "entity": "petco", "wiki_views": 134}
 {"date": "2026-06-15", "entity": "petsmart", "wiki_views": 142}
-{"date": "2026-06-15", "entity": "pg", "wiki_views": 1239}
+{"close": 150.4600067138672, "date": "2026-06-15", "entity": "pg", "volume": 9158900.0, "wiki_views": 1239}
 {"close": 21.329999923706055, "date": "2026-06-15", "entity": "pinterest", "volume": 15505600.0, "wiki_views": 4021}
 {"date": "2026-06-15", "entity": "planetfitness", "wiki_views": 277}
 {"date": "2026-06-15", "entity": "playtika", "wiki_views": 96}
@@ -10056,7 +10056,7 @@
 {"close": 63.400001525878906, "date": "2026-06-16", "entity": "pernod", "volume": 728550.0, "wiki_views": 354}
 {"date": "2026-06-16", "entity": "petco", "wiki_views": 413}
 {"date": "2026-06-16", "entity": "petsmart", "wiki_views": 138}
-{"date": "2026-06-16", "entity": "pg", "wiki_views": 1253}
+{"close": 152.49000549316406, "date": "2026-06-16", "entity": "pg", "volume": 8518900.0, "wiki_views": 1253}
 {"close": 21.15999984741211, "date": "2026-06-16", "entity": "pinterest", "volume": 20454000.0, "wiki_views": 4283}
 {"date": "2026-06-16", "entity": "planetfitness", "wiki_views": 221}
 {"date": "2026-06-16", "entity": "playtika", "wiki_views": 76}
@@ -10481,7 +10481,7 @@
 {"close": 62.52000045776367, "date": "2026-06-17", "entity": "pernod", "volume": 732587.0, "wiki_views": 346}
 {"date": "2026-06-17", "entity": "petco", "wiki_views": 148}
 {"date": "2026-06-17", "entity": "petsmart", "wiki_views": 165}
-{"date": "2026-06-17", "entity": "pg", "wiki_views": 1203}
+{"close": 150.55999755859375, "date": "2026-06-17", "entity": "pg", "volume": 7055800.0, "wiki_views": 1203}
 {"close": 20.360000610351562, "date": "2026-06-17", "entity": "pinterest", "volume": 19613500.0, "wiki_views": 4177}
 {"date": "2026-06-17", "entity": "planetfitness", "wiki_views": 255}
 {"date": "2026-06-17", "entity": "playtika", "wiki_views": 107}
@@ -10906,7 +10906,7 @@
 {"close": 63.86000061035156, "date": "2026-06-18", "entity": "pernod", "volume": 892131.0, "wiki_views": 413}
 {"date": "2026-06-18", "entity": "petco", "wiki_views": 113}
 {"date": "2026-06-18", "entity": "petsmart", "wiki_views": 111}
-{"date": "2026-06-18", "entity": "pg", "wiki_views": 1303}
+{"close": 150.3800048828125, "date": "2026-06-18", "entity": "pg", "volume": 17076100.0, "wiki_views": 1303}
 {"close": 20.270000457763672, "date": "2026-06-18", "entity": "pinterest", "volume": 39836000.0, "wiki_views": 3362}
 {"date": "2026-06-18", "entity": "planetfitness", "wiki_views": 268}
 {"date": "2026-06-18", "entity": "playtika", "wiki_views": 89}
@@ -12604,7 +12604,7 @@
 {"close": 63.47999954223633, "date": "2026-06-22", "entity": "pernod", "volume": 634735.0, "wiki_views": 280}
 {"date": "2026-06-22", "entity": "petco", "wiki_views": 115}
 {"date": "2026-06-22", "entity": "petsmart", "wiki_views": 145}
-{"date": "2026-06-22", "entity": "pg", "wiki_views": 1284}
+{"close": 147.67999267578125, "date": "2026-06-22", "entity": "pg", "volume": 10533000.0, "wiki_views": 1284}
 {"close": 19.5, "date": "2026-06-22", "entity": "pinterest", "volume": 21533900.0, "wiki_views": 3569}
 {"date": "2026-06-22", "entity": "planetfitness", "wiki_views": 181}
 {"date": "2026-06-22", "entity": "playtika", "wiki_views": 77}
@@ -13028,7 +13028,7 @@
 {"close": 64.4800033569336, "date": "2026-06-23", "entity": "pernod", "volume": 701858.0, "wiki_views": 331}
 {"date": "2026-06-23", "entity": "petco", "wiki_views": 132}
 {"date": "2026-06-23", "entity": "petsmart", "wiki_views": 163}
-{"date": "2026-06-23", "entity": "pg", "wiki_views": 1630}
+{"close": 150.86000061035156, "date": "2026-06-23", "entity": "pg", "volume": 7259600.0, "wiki_views": 1630}
 {"close": 19.530000686645508, "date": "2026-06-23", "entity": "pinterest", "volume": 24164900.0, "wiki_views": 3383}
 {"date": "2026-06-23", "entity": "planetfitness", "wiki_views": 229}
 {"date": "2026-06-23", "entity": "playtika", "wiki_views": 88}
@@ -13453,7 +13453,7 @@
 {"close": 66.23999786376953, "date": "2026-06-24", "entity": "pernod", "volume": 783194.0, "wiki_views": 351}
 {"date": "2026-06-24", "entity": "petco", "wiki_views": 109}
 {"date": "2026-06-24", "entity": "petsmart", "wiki_views": 179}
-{"date": "2026-06-24", "entity": "pg", "wiki_views": 1337}
+{"close": 152.0399932861328, "date": "2026-06-24", "entity": "pg", "volume": 8618500.0, "wiki_views": 1337}
 {"close": 19.860000610351562, "date": "2026-06-24", "entity": "pinterest", "volume": 9970000.0, "wiki_views": 3023}
 {"date": "2026-06-24", "entity": "planetfitness", "wiki_views": 205}
 {"date": "2026-06-24", "entity": "playtika", "wiki_views": 111}
@@ -13878,7 +13878,7 @@
 {"close": 66.0, "date": "2026-06-25", "entity": "pernod", "volume": 487508.0, "wiki_views": 360}
 {"date": "2026-06-25", "entity": "petco", "wiki_views": 122}
 {"date": "2026-06-25", "entity": "petsmart", "wiki_views": 138}
-{"date": "2026-06-25", "entity": "pg", "wiki_views": 1330}
+{"close": 148.5, "date": "2026-06-25", "entity": "pg", "volume": 11197200.0, "wiki_views": 1330}
 {"close": 19.479999542236328, "date": "2026-06-25", "entity": "pinterest", "volume": 14008300.0, "wiki_views": 3579}
 {"date": "2026-06-25", "entity": "planetfitness", "wiki_views": 190}
 {"date": "2026-06-25", "entity": "playtika", "wiki_views": 90}
@@ -14302,7 +14302,7 @@
 {"close": 65.95999908447266, "date": "2026-06-26", "entity": "pernod", "volume": 545760.0, "wiki_views": 374}
 {"date": "2026-06-26", "entity": "petco", "wiki_views": 116}
 {"date": "2026-06-26", "entity": "petsmart", "wiki_views": 157}
-{"date": "2026-06-26", "entity": "pg", "wiki_views": 1214}
+{"close": 149.02000427246094, "date": "2026-06-26", "entity": "pg", "volume": 16724600.0, "wiki_views": 1214}
 {"close": 20.81999969482422, "date": "2026-06-26", "entity": "pinterest", "volume": 24112500.0, "wiki_views": 3634}
 {"date": "2026-06-26", "entity": "planetfitness", "wiki_views": 208}
 {"date": "2026-06-26", "entity": "playtika", "wiki_views": 188}
@@ -15574,7 +15574,7 @@
 {"close": 64.87999725341797, "date": "2026-06-29", "entity": "pernod", "volume": 654279.0, "wiki_views": 348}
 {"date": "2026-06-29", "entity": "petco", "wiki_views": 111}
 {"date": "2026-06-29", "entity": "petsmart", "wiki_views": 151}
-{"date": "2026-06-29", "entity": "pg", "wiki_views": 1384}
+{"close": 148.4499969482422, "date": "2026-06-29", "entity": "pg", "volume": 10387700.0, "wiki_views": 1384}
 {"close": 21.8799991607666, "date": "2026-06-29", "entity": "pinterest", "volume": 16110400.0, "wiki_views": 3692}
 {"date": "2026-06-29", "entity": "planetfitness", "wiki_views": 193}
 {"date": "2026-06-29", "entity": "playtika", "wiki_views": 172}
@@ -15999,7 +15999,7 @@
 {"close": 63.86000061035156, "date": "2026-06-30", "entity": "pernod", "volume": 672987.0, "wiki_views": 370}
 {"date": "2026-06-30", "entity": "petco", "wiki_views": 138}
 {"date": "2026-06-30", "entity": "petsmart", "wiki_views": 148}
-{"date": "2026-06-30", "entity": "pg", "wiki_views": 1389}
+{"close": 146.63999938964844, "date": "2026-06-30", "entity": "pg", "volume": 9353800.0, "wiki_views": 1389}
 {"close": 21.030000686645508, "date": "2026-06-30", "entity": "pinterest", "volume": 12822900.0, "wiki_views": 4166}
 {"date": "2026-06-30", "entity": "planetfitness", "wiki_views": 180}
 {"date": "2026-06-30", "entity": "playtika", "wiki_views": 87}
@@ -16424,7 +16424,7 @@
 {"close": 61.97999954223633, "date": "2026-07-01", "entity": "pernod", "volume": 1069059.0, "wiki_views": 358}
 {"date": "2026-07-01", "entity": "petco", "wiki_views": 111}
 {"date": "2026-07-01", "entity": "petsmart", "wiki_views": 144}
-{"date": "2026-07-01", "entity": "pg", "wiki_views": 1227}
+{"close": 147.42999267578125, "date": "2026-07-01", "entity": "pg", "volume": 9571700.0, "wiki_views": 1227}
 {"close": 21.889999389648438, "date": "2026-07-01", "entity": "pinterest", "volume": 13232800.0, "wiki_views": 3666}
 {"date": "2026-07-01", "entity": "planetfitness", "wiki_views": 201}
 {"date": "2026-07-01", "entity": "playtika", "wiki_views": 107}
@@ -16849,7 +16849,7 @@
 {"close": 63.97999954223633, "date": "2026-07-02", "entity": "pernod", "volume": 675139.0, "wiki_views": 381}
 {"date": "2026-07-02", "entity": "petco", "wiki_views": 110}
 {"date": "2026-07-02", "entity": "petsmart", "wiki_views": 148}
-{"date": "2026-07-02", "entity": "pg", "wiki_views": 1208}
+{"close": 151.41000366210938, "date": "2026-07-02", "entity": "pg", "volume": 9256000.0, "wiki_views": 1208}
 {"close": 22.06999969482422, "date": "2026-07-02", "entity": "pinterest", "volume": 8210800.0, "wiki_views": 3142}
 {"date": "2026-07-02", "entity": "planetfitness", "wiki_views": 191}
 {"date": "2026-07-02", "entity": "playtika", "wiki_views": 83}
@@ -18548,7 +18548,7 @@
 {"close": 62.459999084472656, "date": "2026-07-06", "entity": "pernod", "volume": 519513.0, "wiki_views": 372}
 {"date": "2026-07-06", "entity": "petco", "wiki_views": 112}
 {"date": "2026-07-06", "entity": "petsmart", "wiki_views": 151}
-{"date": "2026-07-06", "entity": "pg", "wiki_views": 1277}
+{"close": 149.30999755859375, "date": "2026-07-06", "entity": "pg", "volume": 8323100.0, "wiki_views": 1277}
 {"close": 22.25, "date": "2026-07-06", "entity": "pinterest", "volume": 8244900.0, "wiki_views": 3576}
 {"date": "2026-07-06", "entity": "planetfitness", "wiki_views": 179}
 {"date": "2026-07-06", "entity": "playtika", "wiki_views": 96}
@@ -18973,7 +18973,7 @@
 {"close": 65.87999725341797, "date": "2026-07-07", "entity": "pernod", "volume": 943356.0, "wiki_views": 363}
 {"date": "2026-07-07", "entity": "petco", "wiki_views": 158}
 {"date": "2026-07-07", "entity": "petsmart", "wiki_views": 142}
-{"date": "2026-07-07", "entity": "pg", "wiki_views": 1330}
+{"close": 152.75, "date": "2026-07-07", "entity": "pg", "volume": 8061400.0, "wiki_views": 1330}
 {"close": 22.420000076293945, "date": "2026-07-07", "entity": "pinterest", "volume": 10406900.0, "wiki_views": 3487}
 {"date": "2026-07-07", "entity": "planetfitness", "wiki_views": 181}
 {"date": "2026-07-07", "entity": "playtika", "wiki_views": 105}
@@ -19398,7 +19398,7 @@
 {"close": 64.16000366210938, "date": "2026-07-08", "entity": "pernod", "volume": 759920.0, "wiki_views": 384}
 {"date": "2026-07-08", "entity": "petco", "wiki_views": 132}
 {"date": "2026-07-08", "entity": "petsmart", "wiki_views": 149}
-{"date": "2026-07-08", "entity": "pg", "wiki_views": 1421}
+{"close": 148.39999389648438, "date": "2026-07-08", "entity": "pg", "volume": 14272300.0, "wiki_views": 1421}
 {"close": 22.530000686645508, "date": "2026-07-08", "entity": "pinterest", "volume": 14094700.0, "wiki_views": 4169}
 {"date": "2026-07-08", "entity": "planetfitness", "wiki_views": 252}
 {"date": "2026-07-08", "entity": "playtika", "wiki_views": 89}
@@ -19823,7 +19823,7 @@
 {"close": 63.599998474121094, "date": "2026-07-09", "entity": "pernod", "volume": 496424.0, "wiki_views": 396}
 {"date": "2026-07-09", "entity": "petco", "wiki_views": 115}
 {"date": "2026-07-09", "entity": "petsmart", "wiki_views": 180}
-{"date": "2026-07-09", "entity": "pg", "wiki_views": 1430}
+{"close": 146.85000610351562, "date": "2026-07-09", "entity": "pg", "volume": 7748000.0, "wiki_views": 1430}
 {"close": 22.700000762939453, "date": "2026-07-09", "entity": "pinterest", "volume": 12154300.0, "wiki_views": 3443}
 {"date": "2026-07-09", "entity": "planetfitness", "wiki_views": 195}
 {"date": "2026-07-09", "entity": "playtika", "wiki_views": 98}
@@ -20247,7 +20247,7 @@
 {"close": 64.19999694824219, "date": "2026-07-10", "entity": "pernod", "volume": 405924.0, "wiki_views": 357}
 {"date": "2026-07-10", "entity": "petco", "wiki_views": 149}
 {"date": "2026-07-10", "entity": "petsmart", "wiki_views": 162}
-{"date": "2026-07-10", "entity": "pg", "wiki_views": 1241}
+{"close": 147.0399932861328, "date": "2026-07-10", "entity": "pg", "volume": 12473000.0, "wiki_views": 1241}
 {"close": 22.520000457763672, "date": "2026-07-10", "entity": "pinterest", "volume": 9856700.0, "wiki_views": 3217}
 {"date": "2026-07-10", "entity": "planetfitness", "wiki_views": 154}
 {"date": "2026-07-10", "entity": "playtika", "wiki_views": 77}
@@ -21520,7 +21520,7 @@
 {"close": 64.22000122070312, "date": "2026-07-13", "entity": "pernod", "volume": 646107.0, "wiki_views": 327}
 {"date": "2026-07-13", "entity": "petco", "wiki_views": 113}
 {"date": "2026-07-13", "entity": "petsmart", "wiki_views": 158}
-{"date": "2026-07-13", "entity": "pg", "wiki_views": 1276}
+{"close": 148.3699951171875, "date": "2026-07-13", "entity": "pg", "volume": 7816100.0, "wiki_views": 1276}
 {"close": 22.600000381469727, "date": "2026-07-13", "entity": "pinterest", "volume": 6780000.0, "wiki_views": 3001}
 {"date": "2026-07-13", "entity": "planetfitness", "wiki_views": 186}
 {"date": "2026-07-13", "entity": "playtika", "wiki_views": 75}
@@ -21945,7 +21945,7 @@
 {"close": 63.47999954223633, "date": "2026-07-14", "entity": "pernod", "volume": 516139.0, "wiki_views": 354}
 {"date": "2026-07-14", "entity": "petco", "wiki_views": 128}
 {"date": "2026-07-14", "entity": "petsmart", "wiki_views": 166}
-{"date": "2026-07-14", "entity": "pg", "wiki_views": 1333}
+{"close": 146.0800018310547, "date": "2026-07-14", "entity": "pg", "volume": 7668100.0, "wiki_views": 1333}
 {"close": 22.610000610351562, "date": "2026-07-14", "entity": "pinterest", "volume": 8484400.0, "wiki_views": 3637}
 {"date": "2026-07-14", "entity": "planetfitness", "wiki_views": 208}
 {"date": "2026-07-14", "entity": "playtika", "wiki_views": 89}
@@ -22370,7 +22370,7 @@
 {"close": 64.12000274658203, "date": "2026-07-15", "entity": "pernod", "volume": 599068.0, "wiki_views": 342}
 {"date": "2026-07-15", "entity": "petco", "wiki_views": 154}
 {"date": "2026-07-15", "entity": "petsmart", "wiki_views": 142}
-{"date": "2026-07-15", "entity": "pg", "wiki_views": 1292}
+{"close": 148.0500030517578, "date": "2026-07-15", "entity": "pg", "volume": 6180000.0, "wiki_views": 1292}
 {"close": 23.68000030517578, "date": "2026-07-15", "entity": "pinterest", "volume": 14066500.0, "wiki_views": 3327}
 {"date": "2026-07-15", "entity": "planetfitness", "wiki_views": 200}
 {"date": "2026-07-15", "entity": "playtika", "wiki_views": 76}
@@ -22795,7 +22795,7 @@
 {"close": 66.05999755859375, "date": "2026-07-16", "entity": "pernod", "volume": 603895.0, "wiki_views": 424}
 {"date": "2026-07-16", "entity": "petco", "wiki_views": 143}
 {"date": "2026-07-16", "entity": "petsmart", "wiki_views": 188}
-{"date": "2026-07-16", "entity": "pg", "wiki_views": 1188}
+{"close": 151.5, "date": "2026-07-16", "entity": "pg", "volume": 6485400.0, "wiki_views": 1188}
 {"close": 23.09000015258789, "date": "2026-07-16", "entity": "pinterest", "volume": 12258300.0, "wiki_views": 3194}
 {"date": "2026-07-16", "entity": "planetfitness", "wiki_views": 170}
 {"date": "2026-07-16", "entity": "playtika", "wiki_views": 86}
@@ -23219,7 +23219,7 @@
 {"close": 65.23999786376953, "date": "2026-07-17", "entity": "pernod", "volume": 703674.0, "wiki_views": 383}
 {"date": "2026-07-17", "entity": "petco", "wiki_views": 119}
 {"date": "2026-07-17", "entity": "petsmart", "wiki_views": 193}
-{"date": "2026-07-17", "entity": "pg", "wiki_views": 1189}
+{"close": 149.97999572753906, "date": "2026-07-17", "entity": "pg", "volume": 8917400.0, "wiki_views": 1189}
 {"close": 23.200000762939453, "date": "2026-07-17", "entity": "pinterest", "volume": 9116400.0, "wiki_views": 3030}
 {"date": "2026-07-17", "entity": "planetfitness", "wiki_views": 189}
 {"date": "2026-07-17", "entity": "playtika", "wiki_views": 80}
@@ -24492,7 +24492,7 @@
 {"close": 65.66000366210938, "date": "2026-07-20", "entity": "pernod", "volume": 412891.0, "wiki_views": 350}
 {"date": "2026-07-20", "entity": "petco", "wiki_views": 156}
 {"date": "2026-07-20", "entity": "petsmart", "wiki_views": 158}
-{"date": "2026-07-20", "entity": "pg", "wiki_views": 1218}
+{"close": 149.1300048828125, "date": "2026-07-20", "entity": "pg", "volume": 5788300.0, "wiki_views": 1218}
 {"close": 22.809999465942383, "date": "2026-07-20", "entity": "pinterest", "volume": 8944500.0, "wiki_views": 3179}
 {"date": "2026-07-20", "entity": "planetfitness", "wiki_views": 179}
 {"date": "2026-07-20", "entity": "playtika", "wiki_views": 137}
@@ -24917,7 +24917,7 @@
 {"close": 64.94000244140625, "date": "2026-07-21", "entity": "pernod", "volume": 634321.0, "wiki_views": 456}
 {"date": "2026-07-21", "entity": "petco", "wiki_views": 187}
 {"date": "2026-07-21", "entity": "petsmart", "wiki_views": 125}
-{"date": "2026-07-21", "entity": "pg", "wiki_views": 1246}
+{"close": 148.10000610351562, "date": "2026-07-21", "entity": "pg", "volume": 7027600.0, "wiki_views": 1246}
 {"close": 22.829999923706055, "date": "2026-07-21", "entity": "pinterest", "volume": 7380900.0, "wiki_views": 3338}
 {"date": "2026-07-21", "entity": "planetfitness", "wiki_views": 201}
 {"date": "2026-07-21", "entity": "playtika", "wiki_views": 135}
@@ -25342,7 +25342,7 @@
 {"close": 63.13999938964844, "date": "2026-07-22", "entity": "pernod", "volume": 827643.0, "wiki_views": 394}
 {"date": "2026-07-22", "entity": "petco", "wiki_views": 174}
 {"date": "2026-07-22", "entity": "petsmart", "wiki_views": 135}
-{"date": "2026-07-22", "entity": "pg", "wiki_views": 1345}
+{"close": 149.1300048828125, "date": "2026-07-22", "entity": "pg", "volume": 5371200.0, "wiki_views": 1345}
 {"close": 22.540000915527344, "date": "2026-07-22", "entity": "pinterest", "volume": 10074700.0, "wiki_views": 2841}
 {"date": "2026-07-22", "entity": "planetfitness", "wiki_views": 193}
 {"date": "2026-07-22", "entity": "playtika", "wiki_views": 108}
@@ -25766,7 +25766,7 @@
 {"close": 62.18000030517578, "date": "2026-07-23", "entity": "pernod", "volume": 810930.0, "wiki_views": 434}
 {"date": "2026-07-23", "entity": "petco", "wiki_views": 129}
 {"date": "2026-07-23", "entity": "petsmart", "wiki_views": 136}
-{"date": "2026-07-23", "entity": "pg", "wiki_views": 1304}
+{"close": 146.97000122070312, "date": "2026-07-23", "entity": "pg", "volume": 6499200.0, "wiki_views": 1304}
 {"close": 21.889999389648438, "date": "2026-07-23", "entity": "pinterest", "volume": 8583400.0, "wiki_views": 2941}
 {"date": "2026-07-23", "entity": "planetfitness", "wiki_views": 183}
 {"date": "2026-07-23", "entity": "playtika", "wiki_views": 107}
@@ -26191,7 +26191,7 @@
 {"close": 62.900001525878906, "date": "2026-07-24", "entity": "pernod", "volume": 378130.0, "wiki_views": 397}
 {"date": "2026-07-24", "entity": "petco", "wiki_views": 138}
 {"date": "2026-07-24", "entity": "petsmart", "wiki_views": 137}
-{"date": "2026-07-24", "entity": "pg", "wiki_views": 1215}
+{"close": 147.41000366210938, "date": "2026-07-24", "entity": "pg", "volume": 6620700.0, "wiki_views": 1215}
 {"close": 22.1299991607666, "date": "2026-07-24", "entity": "pinterest", "volume": 8711000.0, "wiki_views": 3107}
 {"date": "2026-07-24", "entity": "planetfitness", "wiki_views": 162}
 {"date": "2026-07-24", "entity": "playtika", "wiki_views": 81}
@@ -27463,7 +27463,7 @@
 {"close": 64.80000305175781, "date": "2026-07-27", "entity": "pernod", "volume": 808043.0, "wiki_views": 421}
 {"date": "2026-07-27", "entity": "petco", "wiki_views": 168}
 {"date": "2026-07-27", "entity": "petsmart", "wiki_views": 186}
-{"date": "2026-07-27", "entity": "pg", "wiki_views": 1259}
+{"close": 148.6300048828125, "date": "2026-07-27", "entity": "pg", "volume": 7301800.0, "wiki_views": 1259}
 {"close": 23.5, "date": "2026-07-27", "entity": "pinterest", "volume": 9334000.0, "wiki_views": 3076}
 {"date": "2026-07-27", "entity": "planetfitness", "wiki_views": 442}
 {"date": "2026-07-27", "entity": "playtika", "wiki_views": 75}
@@ -27888,7 +27888,7 @@
 {"close": 67.77999877929688, "date": "2026-07-28", "entity": "pernod", "volume": 891201.0, "wiki_views": 362}
 {"date": "2026-07-28", "entity": "petco", "wiki_views": 188}
 {"date": "2026-07-28", "entity": "petsmart", "wiki_views": 169}
-{"date": "2026-07-28", "entity": "pg", "wiki_views": 1500}
+{"close": 148.8800048828125, "date": "2026-07-28", "entity": "pg", "volume": 12848800.0, "wiki_views": 1500}
 {"close": 24.360000610351562, "date": "2026-07-28", "entity": "pinterest", "volume": 17109700.0, "wiki_views": 3076}
 {"date": "2026-07-28", "entity": "planetfitness", "wiki_views": 239}
 {"date": "2026-07-28", "entity": "playtika", "wiki_views": 88}
@@ -28313,7 +28313,7 @@
 {"close": 68.27999877929688, "date": "2026-07-29", "entity": "pernod", "volume": 830479.0, "wiki_views": 342}
 {"date": "2026-07-29", "entity": "petco", "wiki_views": 130}
 {"date": "2026-07-29", "entity": "petsmart", "wiki_views": 158}
-{"date": "2026-07-29", "entity": "pg", "wiki_views": 1606}
+{"close": 146.10000610351562, "date": "2026-07-29", "entity": "pg", "volume": 14616800.0, "wiki_views": 1606}
 {"close": 24.440000534057617, "date": "2026-07-29", "entity": "pinterest", "volume": 11059900.0, "wiki_views": 3350}
 {"date": "2026-07-29", "entity": "planetfitness", "wiki_views": 189}
 {"date": "2026-07-29", "entity": "playtika", "wiki_views": 99}
@@ -28737,7 +28737,7 @@
 {"close": 67.87999725341797, "date": "2026-07-30", "entity": "pernod", "volume": 735367.0, "wiki_views": 342}
 {"date": "2026-07-30", "entity": "petco", "wiki_views": 117}
 {"date": "2026-07-30", "entity": "petsmart", "wiki_views": 153}
-{"date": "2026-07-30", "entity": "pg", "wiki_views": 1551}
+{"close": 143.9600067138672, "date": "2026-07-30", "entity": "pg", "volume": 9571100.0, "wiki_views": 1551}
 {"close": 24.43000030517578, "date": "2026-07-30", "entity": "pinterest", "volume": 9843500.0, "wiki_views": 3071}
 {"date": "2026-07-30", "entity": "planetfitness", "wiki_views": 161}
 {"date": "2026-07-30", "entity": "playtika", "wiki_views": 95}
@@ -29161,7 +29161,7 @@
 {"close": 67.81999969482422, "date": "2026-07-31", "entity": "pernod", "volume": 588012.0, "wiki_views": 353}
 {"date": "2026-07-31", "entity": "petco", "wiki_views": 146}
 {"date": "2026-07-31", "entity": "petsmart", "wiki_views": 143}
-{"date": "2026-07-31", "entity": "pg", "wiki_views": 1389}
+{"close": 144.49000549316406, "date": "2026-07-31", "entity": "pg", "volume": 9152600.0, "wiki_views": 1389}
 {"close": 24.010000228881836, "date": "2026-07-31", "entity": "pinterest", "volume": 9810500.0, "wiki_views": 2918}
 {"date": "2026-07-31", "entity": "planetfitness", "wiki_views": 172}
 {"date": "2026-07-31", "entity": "playtika", "wiki_views": 113}
@@ -30435,7 +30435,7 @@
 {"close": 68.72000122070312, "date": "2026-08-03", "entity": "pernod", "volume": 680870.0, "wiki_views": 381}
 {"date": "2026-08-03", "entity": "petco", "wiki_views": 159}
 {"date": "2026-08-03", "entity": "petsmart", "wiki_views": 151}
-{"date": "2026-08-03", "entity": "pg", "wiki_views": 1344}
+{"close": 144.97000122070312, "date": "2026-08-03", "entity": "pg", "volume": 8843600.0, "wiki_views": 1344}
 {"close": 24.15999984741211, "date": "2026-08-03", "entity": "pinterest", "volume": 13106900.0, "wiki_views": 3262}
 {"date": "2026-08-03", "entity": "planetfitness", "wiki_views": 198}
 {"date": "2026-08-03", "entity": "playtika", "wiki_views": 71}
@@ -30860,7 +30860,7 @@
 {"close": 67.55999755859375, "date": "2026-08-04", "entity": "pernod", "volume": 476885.0, "wiki_views": 320}
 {"date": "2026-08-04", "entity": "petco", "wiki_views": 133}
 {"date": "2026-08-04", "entity": "petsmart", "wiki_views": 140}
-{"date": "2026-08-04", "entity": "pg", "wiki_views": 1517}
+{"close": 148.00999450683594, "date": "2026-08-04", "entity": "pg", "volume": 7362300.0, "wiki_views": 1517}
 {"close": 25.579999923706055, "date": "2026-08-04", "entity": "pinterest", "volume": 21955800.0, "wiki_views": 3287}
 {"date": "2026-08-04", "entity": "planetfitness", "wiki_views": 210}
 {"date": "2026-08-04", "entity": "playtika", "wiki_views": 96}
@@ -31285,7 +31285,7 @@
 {"close": 68.18000030517578, "date": "2026-08-05", "entity": "pernod", "volume": 585331.0, "wiki_views": 356}
 {"date": "2026-08-05", "entity": "petco", "wiki_views": 142}
 {"date": "2026-08-05", "entity": "petsmart", "wiki_views": 154}
-{"date": "2026-08-05", "entity": "pg", "wiki_views": 1583}
+{"close": 146.8000030517578, "date": "2026-08-05", "entity": "pg", "volume": 9753300.0, "wiki_views": 1583}
 {"close": 23.360000610351562, "date": "2026-08-05", "entity": "pinterest", "volume": 22990400.0, "wiki_views": 3097}
 {"date": "2026-08-05", "entity": "planetfitness", "wiki_views": 184}
 {"date": "2026-08-05", "entity": "playtika", "wiki_views": 87}
@@ -31710,7 +31710,7 @@
 {"close": 69.0199966430664, "date": "2026-08-06", "entity": "pernod", "volume": 833994.0, "wiki_views": 388}
 {"date": "2026-08-06", "entity": "petco", "wiki_views": 123}
 {"date": "2026-08-06", "entity": "petsmart", "wiki_views": 135}
-{"date": "2026-08-06", "entity": "pg", "wiki_views": 1399}
+{"close": 146.97000122070312, "date": "2026-08-06", "entity": "pg", "volume": 8766700.0, "wiki_views": 1399}
 {"close": 23.329999923706055, "date": "2026-08-06", "entity": "pinterest", "volume": 15925200.0, "wiki_views": 3204}
 {"date": "2026-08-06", "entity": "planetfitness", "wiki_views": 183}
 {"date": "2026-08-06", "entity": "playtika", "wiki_views": 102}
@@ -32135,7 +32135,7 @@
 {"close": 70.31999969482422, "date": "2026-08-07", "entity": "pernod", "volume": 697538.0, "wiki_views": 365}
 {"date": "2026-08-07", "entity": "petco", "wiki_views": 134}
 {"date": "2026-08-07", "entity": "petsmart", "wiki_views": 228}
-{"date": "2026-08-07", "entity": "pg", "wiki_views": 1314}
+{"close": 145.7899932861328, "date": "2026-08-07", "entity": "pg", "volume": 7565500.0, "wiki_views": 1314}
 {"close": 23.68000030517578, "date": "2026-08-07", "entity": "pinterest", "volume": 12427900.0, "wiki_views": 2925}
 {"date": "2026-08-07", "entity": "planetfitness", "wiki_views": 192}
 {"date": "2026-08-07", "entity": "playtika", "wiki_views": 123}
@@ -33410,7 +33410,7 @@
 {"close": 69.94000244140625, "date": "2026-08-10", "entity": "pernod", "volume": 718726.0, "wiki_views": 340}
 {"date": "2026-08-10", "entity": "petco", "wiki_views": 158}
 {"date": "2026-08-10", "entity": "petsmart", "wiki_views": 151}
-{"date": "2026-08-10", "entity": "pg", "wiki_views": 1275}
+{"close": 146.44000244140625, "date": "2026-08-10", "entity": "pg", "volume": 7386500.0, "wiki_views": 1275}
 {"close": 24.3700008392334, "date": "2026-08-10", "entity": "pinterest", "volume": 10876000.0, "wiki_views": 2967}
 {"date": "2026-08-10", "entity": "planetfitness", "wiki_views": 180}
 {"date": "2026-08-10", "entity": "playtika", "wiki_views": 81}
@@ -33835,7 +33835,7 @@
 {"close": 69.22000122070312, "date": "2026-08-11", "entity": "pernod", "volume": 494224.0, "wiki_views": 382}
 {"date": "2026-08-11", "entity": "petco", "wiki_views": 122}
 {"date": "2026-08-11", "entity": "petsmart", "wiki_views": 138}
-{"date": "2026-08-11", "entity": "pg", "wiki_views": 1367}
+{"close": 145.2100067138672, "date": "2026-08-11", "entity": "pg", "volume": 7936700.0, "wiki_views": 1367}
 {"close": 23.75, "date": "2026-08-11", "entity": "pinterest", "volume": 9785900.0, "wiki_views": 3277}
 {"date": "2026-08-11", "entity": "planetfitness", "wiki_views": 160}
 {"date": "2026-08-11", "entity": "playtika", "wiki_views": 89}
@@ -34260,7 +34260,7 @@
 {"close": 67.95999908447266, "date": "2026-08-12", "entity": "pernod", "volume": 579901.0, "wiki_views": 272}
 {"date": "2026-08-12", "entity": "petco", "wiki_views": 157}
 {"date": "2026-08-12", "entity": "petsmart", "wiki_views": 120}
-{"date": "2026-08-12", "entity": "pg", "wiki_views": 1231}
+{"close": 144.0800018310547, "date": "2026-08-12", "entity": "pg", "volume": 7195000.0, "wiki_views": 1231}
 {"close": 22.899999618530273, "date": "2026-08-12", "entity": "pinterest", "volume": 10744100.0, "wiki_views": 3051}
 {"date": "2026-08-12", "entity": "planetfitness", "wiki_views": 211}
 {"date": "2026-08-12", "entity": "playtika", "wiki_views": 118}
@@ -34685,7 +34685,7 @@
 {"close": 68.33999633789062, "date": "2026-08-13", "entity": "pernod", "volume": 502673.0, "wiki_views": 343}
 {"date": "2026-08-13", "entity": "petco", "wiki_views": 179}
 {"date": "2026-08-13", "entity": "petsmart", "wiki_views": 116}
-{"date": "2026-08-13", "entity": "pg", "wiki_views": 1219}
+{"close": 144.25999450683594, "date": "2026-08-13", "entity": "pg", "volume": 7491300.0, "wiki_views": 1219}
 {"close": 23.31999969482422, "date": "2026-08-13", "entity": "pinterest", "volume": 7945100.0, "wiki_views": 3093}
 {"date": "2026-08-13", "entity": "planetfitness", "wiki_views": 169}
 {"date": "2026-08-13", "entity": "playtika", "wiki_views": 89}
@@ -35110,7 +35110,7 @@
 {"close": 69.16000366210938, "date": "2026-08-14", "entity": "pernod", "volume": 491125.0, "wiki_views": 350}
 {"date": "2026-08-14", "entity": "petco", "wiki_views": 149}
 {"date": "2026-08-14", "entity": "petsmart", "wiki_views": 130}
-{"date": "2026-08-14", "entity": "pg", "wiki_views": 1252}
+{"close": 144.5500030517578, "date": "2026-08-14", "entity": "pg", "volume": 7249600.0, "wiki_views": 1252}
 {"close": 24.059999465942383, "date": "2026-08-14", "entity": "pinterest", "volume": 8644600.0, "wiki_views": 3308}
 {"date": "2026-08-14", "entity": "planetfitness", "wiki_views": 185}
 {"date": "2026-08-14", "entity": "playtika", "wiki_views": 73}
@@ -36383,7 +36383,7 @@
 {"close": 68.08000183105469, "date": "2026-08-17", "entity": "pernod", "volume": 415826.0, "wiki_views": 354}
 {"date": "2026-08-17", "entity": "petco", "wiki_views": 128}
 {"date": "2026-08-17", "entity": "petsmart", "wiki_views": 119}
-{"date": "2026-08-17", "entity": "pg", "wiki_views": 1527}
+{"close": 143.1199951171875, "date": "2026-08-17", "entity": "pg", "volume": 9867500.0, "wiki_views": 1527}
 {"close": 23.06999969482422, "date": "2026-08-17", "entity": "pinterest", "volume": 7557200.0, "wiki_views": 3666}
 {"date": "2026-08-17", "entity": "planetfitness", "wiki_views": 193}
 {"date": "2026-08-17", "entity": "playtika", "wiki_views": 59}
@@ -36807,7 +36807,7 @@
 {"close": 68.18000030517578, "date": "2026-08-18", "entity": "pernod", "volume": 392431.0, "wiki_views": 355}
 {"date": "2026-08-18", "entity": "petco", "wiki_views": 144}
 {"date": "2026-08-18", "entity": "petsmart", "wiki_views": 127}
-{"date": "2026-08-18", "entity": "pg", "wiki_views": 1298}
+{"close": 143.4499969482422, "date": "2026-08-18", "entity": "pg", "volume": 12746100.0, "wiki_views": 1298}
 {"close": 23.059999465942383, "date": "2026-08-18", "entity": "pinterest", "volume": 7617900.0, "wiki_views": 3336}
 {"date": "2026-08-18", "entity": "planetfitness", "wiki_views": 154}
 {"date": "2026-08-18", "entity": "playtika", "wiki_views": 93}
@@ -37232,7 +37232,7 @@
 {"close": 68.12000274658203, "date": "2026-08-19", "entity": "pernod", "volume": 536155.0, "wiki_views": 352}
 {"date": "2026-08-19", "entity": "petco", "wiki_views": 130}
 {"date": "2026-08-19", "entity": "petsmart", "wiki_views": 167}
-{"date": "2026-08-19", "entity": "pg", "wiki_views": 1353}
+{"close": 144.3800048828125, "date": "2026-08-19", "entity": "pg", "volume": 13948500.0, "wiki_views": 1353}
 {"close": 23.389999389648438, "date": "2026-08-19", "entity": "pinterest", "volume": 7607300.0, "wiki_views": 3508}
 {"date": "2026-08-19", "entity": "planetfitness", "wiki_views": 202}
 {"date": "2026-08-19", "entity": "playtika", "wiki_views": 93}
@@ -37657,7 +37657,7 @@
 {"close": 68.76000213623047, "date": "2026-08-20", "entity": "pernod", "volume": 429223.0, "wiki_views": 417}
 {"date": "2026-08-20", "entity": "petco", "wiki_views": 125}
 {"date": "2026-08-20", "entity": "petsmart", "wiki_views": 135}
-{"date": "2026-08-20", "entity": "pg", "wiki_views": 1261}
+{"close": 142.97000122070312, "date": "2026-08-20", "entity": "pg", "volume": 15794100.0, "wiki_views": 1261}
 {"close": 23.229999542236328, "date": "2026-08-20", "entity": "pinterest", "volume": 7178600.0, "wiki_views": 3414}
 {"date": "2026-08-20", "entity": "planetfitness", "wiki_views": 177}
 {"date": "2026-08-20", "entity": "playtika", "wiki_views": 69}
@@ -38082,7 +38082,7 @@
 {"date": "2026-08-21", "entity": "pernod", "wiki_views": 390}
 {"date": "2026-08-21", "entity": "petco", "wiki_views": 130}
 {"date": "2026-08-21", "entity": "petsmart", "wiki_views": 120}
-{"date": "2026-08-21", "entity": "pg", "wiki_views": 1211}
+{"close": 144.67999267578125, "date": "2026-08-21", "entity": "pg", "volume": 9785200.0, "wiki_views": 1211}
 {"close": 23.399999618530273, "date": "2026-08-21", "entity": "pinterest", "volume": 6836300.0, "wiki_views": 3649}
 {"date": "2026-08-21", "entity": "planetfitness", "wiki_views": 165}
 {"date": "2026-08-21", "entity": "playtika", "wiki_views": 84}
@@ -39361,7 +39361,7 @@
 {"date": "2026-08-24", "entity": "pernod", "wiki_views": 394}
 {"app_rank": 0, "date": "2026-08-24", "entity": "petco", "wiki_views": 130}
 {"date": "2026-08-24", "entity": "petsmart", "wiki_views": 150}
-{"date": "2026-08-24", "entity": "pg", "wiki_views": 1343}
+{"close": 146.60000610351562, "date": "2026-08-24", "entity": "pg", "volume": 7061800.0, "wiki_views": 1343}
 {"app_rank": 58, "close": 23.469999313354492, "date": "2026-08-24", "entity": "pinterest", "volume": 11486900.0, "wiki_views": 3693}
 {"app_rank": 0, "date": "2026-08-24", "entity": "planetfitness", "wiki_views": 155}
 {"date": "2026-08-24", "entity": "playtika", "wiki_views": 91}
@@ -39788,7 +39788,7 @@
 {"date": "2026-08-25", "entity": "pernod", "wiki_views": 362}
 {"app_rank": 0, "date": "2026-08-25", "entity": "petco", "wiki_views": 158}
 {"date": "2026-08-25", "entity": "petsmart", "wiki_views": 165}
-{"date": "2026-08-25", "entity": "pg", "wiki_views": 1283}
+{"close": 145.39999389648438, "date": "2026-08-25", "entity": "pg", "volume": 9125700.0, "wiki_views": 1283}
 {"app_rank": 63, "close": 23.65999984741211, "date": "2026-08-25", "entity": "pinterest", "volume": 8510300.0, "wiki_views": 4217}
 {"app_rank": 0, "date": "2026-08-25", "entity": "planetfitness", "wiki_views": 184}
 {"date": "2026-08-25", "entity": "playtika", "wiki_views": 81}
@@ -40215,7 +40215,7 @@
 {"date": "2026-08-26", "entity": "pernod", "wiki_views": 359}
 {"app_rank": 0, "date": "2026-08-26", "entity": "petco", "wiki_views": 144}
 {"date": "2026-08-26", "entity": "petsmart", "wiki_views": 139}
-{"date": "2026-08-26", "entity": "pg", "wiki_views": 1409}
+{"close": 145.0, "date": "2026-08-26", "entity": "pg", "volume": 8249100.0, "wiki_views": 1409}
 {"app_rank": 69, "close": 23.309999465942383, "date": "2026-08-26", "entity": "pinterest", "volume": 10389900.0, "wiki_views": 3919}
 {"app_rank": 0, "date": "2026-08-26", "entity": "planetfitness", "wiki_views": 191}
 {"date": "2026-08-26", "entity": "playtika", "wiki_views": 76}
@@ -40361,23 +40361,23 @@
 {"date": "2026-08-27", "entity": "acushnet", "wiki_views": 158}
 {"app_rank": 0, "date": "2026-08-27", "entity": "adidas", "wiki_views": 2040}
 {"app_rank": 0, "date": "2026-08-27", "entity": "affirm", "wiki_views": 230}
-{"app_rank": 65, "close": 184.39999389648438, "date": "2026-08-27", "entity": "airbnb", "volume": 4791779.0, "wiki_views": 1216}
+{"app_rank": 65, "close": 184.39999389648438, "date": "2026-08-27", "entity": "airbnb", "volume": 4792500.0, "wiki_views": 1216}
 {"app_rank": 0, "date": "2026-08-27", "entity": "alaska_air", "wiki_views": 138}
 {"date": "2026-08-27", "entity": "albertsons", "wiki_views": 468}
 {"date": "2026-08-27", "entity": "aldi", "wiki_views": 1750}
-{"app_rank": 15, "close": 116.30999755859375, "date": "2026-08-27", "entity": "alibaba", "volume": 14325654.0, "wiki_views": 1180}
+{"app_rank": 15, "close": 116.30999755859375, "date": "2026-08-27", "entity": "alibaba", "volume": 14342700.0, "wiki_views": 1180}
 {"date": "2026-08-27", "entity": "align", "wiki_views": 114}
 {"date": "2026-08-27", "entity": "allbirds", "wiki_views": 290}
 {"date": "2026-08-27", "entity": "alo", "wiki_views": 596}
 {"date": "2026-08-27", "entity": "alterra", "wiki_views": 55}
-{"app_rank": 19, "close": 256.260009765625, "date": "2026-08-27", "entity": "amazon", "volume": 35779842.0, "wiki_views": 7819}
+{"app_rank": 19, "close": 256.260009765625, "date": "2026-08-27", "entity": "amazon", "volume": 35852900.0, "wiki_views": 7819}
 {"app_rank": 0, "date": "2026-08-27", "entity": "amc", "wiki_views": 533}
-{"close": 476.6700134277344, "date": "2026-08-27", "entity": "amd", "volume": 16373484.0, "wiki_views": 1430}
+{"close": 476.6700134277344, "date": "2026-08-27", "entity": "amd", "volume": 16403600.0, "wiki_views": 1430}
 {"app_rank": 0, "date": "2026-08-27", "entity": "american_air", "wiki_views": 2240}
-{"close": 16.690000534057617, "date": "2026-08-27", "entity": "americaneagle", "volume": 4263596.0, "wiki_views": 395}
+{"close": 16.690000534057617, "date": "2026-08-27", "entity": "americaneagle", "volume": 4266100.0, "wiki_views": 395}
 {"date": "2026-08-27", "entity": "amorepacific", "wiki_views": 96}
 {"date": "2026-08-27", "entity": "anker", "wiki_views": 408}
-{"app_rank": 0, "close": 314.5799865722656, "date": "2026-08-27", "entity": "apple", "volume": 32248789.0, "wiki_views": 6925}
+{"app_rank": 0, "close": 314.5799865722656, "date": "2026-08-27", "entity": "apple", "volume": 32364000.0, "wiki_views": 6925}
 {"date": "2026-08-27", "entity": "applovin", "wiki_views": 338}
 {"date": "2026-08-27", "entity": "arcteryx", "wiki_views": 536}
 {"date": "2026-08-27", "entity": "arhaus", "wiki_views": 78}
@@ -40394,17 +40394,17 @@
 {"date": "2026-08-27", "entity": "beyondmeat", "wiki_views": 266}
 {"date": "2026-08-27", "entity": "birkenstock", "wiki_views": 397}
 {"date": "2026-08-27", "entity": "bjs", "wiki_views": 373}
-{"app_rank": 56, "close": 84.8499984741211, "date": "2026-08-27", "entity": "block", "volume": 5761639.0, "wiki_views": 734}
+{"app_rank": 56, "close": 84.8499984741211, "date": "2026-08-27", "entity": "block", "volume": 5762700.0, "wiki_views": 734}
 {"date": "2026-08-27", "entity": "bmw", "wiki_views": 2318}
-{"app_rank": 31, "close": 202.55999755859375, "date": "2026-08-27", "entity": "booking", "volume": 5416949.0, "wiki_views": 399}
+{"app_rank": 31, "close": 202.55999755859375, "date": "2026-08-27", "entity": "booking", "volume": 5418300.0, "wiki_views": 399}
 {"date": "2026-08-27", "entity": "boston_beer", "wiki_views": 103}
 {"date": "2026-08-27", "entity": "breville", "wiki_views": 140}
 {"date": "2026-08-27", "entity": "brinker", "wiki_views": 153}
 {"date": "2026-08-27", "entity": "brooks", "wiki_views": 205}
-{"close": 27.280000686645508, "date": "2026-08-27", "entity": "brownforman", "volume": 1762413.0, "wiki_views": 282}
-{"close": 28.440000534057617, "date": "2026-08-27", "entity": "buildabear", "volume": 5310627.0, "wiki_views": 293}
+{"close": 27.280000686645508, "date": "2026-08-27", "entity": "brownforman", "volume": 1762400.0, "wiki_views": 282}
+{"close": 28.440000534057617, "date": "2026-08-27", "entity": "buildabear", "volume": 5314800.0, "wiki_views": 293}
 {"app_rank": 0, "date": "2026-08-27", "entity": "bumble", "wiki_views": 400}
-{"date": "2026-08-27", "entity": "burberry", "wiki_views": 496}
+{"close": 1072.0, "date": "2026-08-27", "entity": "burberry", "volume": 906705.0, "wiki_views": 496}
 {"date": "2026-08-27", "entity": "burlington", "wiki_views": 183}
 {"date": "2026-08-27", "entity": "byd", "wiki_views": 2470}
 {"app_rank": 0, "date": "2026-08-27", "entity": "caesars", "wiki_views": 201}
@@ -40419,21 +40419,21 @@
 {"app_rank": 0, "date": "2026-08-27", "entity": "carvana", "wiki_views": 222}
 {"date": "2026-08-27", "entity": "cava", "wiki_views": 273}
 {"close": 234.0, "date": "2026-08-27", "entity": "cdprojekt", "volume": 574262.0, "wiki_views": 2086}
-{"close": 32.9900016784668, "date": "2026-08-27", "entity": "celsius", "volume": 7041369.0, "wiki_views": 478}
+{"close": 32.9900016784668, "date": "2026-08-27", "entity": "celsius", "volume": 7046600.0, "wiki_views": 478}
 {"date": "2026-08-27", "entity": "chagee", "wiki_views": 217}
 {"date": "2026-08-27", "entity": "cheesecake", "wiki_views": 503}
 {"app_rank": 0, "date": "2026-08-27", "entity": "chewy", "wiki_views": 192}
 {"date": "2026-08-27", "entity": "chickfila", "wiki_views": 1341}
 {"app_rank": 0, "date": "2026-08-27", "entity": "chime", "wiki_views": 242}
-{"app_rank": 0, "close": 37.220001220703125, "date": "2026-08-27", "entity": "chipotle", "volume": 9590744.0, "wiki_views": 1204}
+{"app_rank": 0, "close": 37.220001220703125, "date": "2026-08-27", "entity": "chipotle", "volume": 9593700.0, "wiki_views": 1204}
 {"date": "2026-08-27", "entity": "chobani", "wiki_views": 571}
 {"date": "2026-08-27", "entity": "church", "wiki_views": 183}
 {"app_rank": 0, "date": "2026-08-27", "entity": "cinemark", "wiki_views": 176}
-{"close": 123.23999786376953, "date": "2026-08-27", "entity": "coach", "volume": 3887905.0, "wiki_views": 619}
+{"close": 123.23999786376953, "date": "2026-08-27", "entity": "coach", "volume": 3957200.0, "wiki_views": 619}
 {"date": "2026-08-27", "entity": "cocacola", "wiki_views": 1682}
 {"app_rank": 0, "date": "2026-08-27", "entity": "coinbase", "wiki_views": 465}
 {"app_rank": 47, "close": 23.739999771118164, "date": "2026-08-27", "entity": "coles", "volume": 2892782.0, "wiki_views": 130}
-{"close": 90.95999908447266, "date": "2026-08-27", "entity": "colgate", "volume": 3200010.0, "wiki_views": 644}
+{"close": 90.95999908447266, "date": "2026-08-27", "entity": "colgate", "volume": 3318800.0, "wiki_views": 644}
 {"date": "2026-08-27", "entity": "collectors", "wiki_views": 105}
 {"date": "2026-08-27", "entity": "collinsfoods", "wiki_views": 23}
 {"date": "2026-08-27", "entity": "columbia", "wiki_views": 209}
@@ -40442,7 +40442,7 @@
 {"date": "2026-08-27", "entity": "constellation", "wiki_views": 193}
 {"date": "2026-08-27", "entity": "converse", "wiki_views": 436}
 {"date": "2026-08-27", "entity": "corsair", "wiki_views": 142}
-{"app_rank": 0, "close": 934.6599731445312, "date": "2026-08-27", "entity": "costco", "volume": 2233901.0, "wiki_views": 2318}
+{"app_rank": 0, "close": 934.6599731445312, "date": "2026-08-27", "entity": "costco", "volume": 2239600.0, "wiki_views": 2318}
 {"date": "2026-08-27", "entity": "coty", "wiki_views": 13}
 {"date": "2026-08-27", "entity": "coupang", "wiki_views": 501}
 {"date": "2026-08-27", "entity": "cracker", "wiki_views": 287}
@@ -40456,19 +40456,19 @@
 {"date": "2026-08-27", "entity": "dennys", "wiki_views": 418}
 {"app_rank": 0, "date": "2026-08-27", "entity": "dexcom", "wiki_views": 128}
 {"date": "2026-08-27", "entity": "diageo", "wiki_views": 1122}
-{"close": 131.77000427246094, "date": "2026-08-27", "entity": "dicks", "volume": 6735854.0, "wiki_views": 870}
+{"close": 131.77000427246094, "date": "2026-08-27", "entity": "dicks", "volume": 6744000.0, "wiki_views": 870}
 {"date": "2026-08-27", "entity": "dine", "wiki_views": 93}
-{"app_rank": 23, "close": 106.81999969482422, "date": "2026-08-27", "entity": "disney", "volume": 7676678.0, "wiki_views": 3559}
+{"app_rank": 23, "close": 106.81999969482422, "date": "2026-08-27", "entity": "disney", "volume": 8699500.0, "wiki_views": 3559}
 {"date": "2026-08-27", "entity": "dji", "wiki_views": 563}
 {"date": "2026-08-27", "entity": "dollargeneral", "wiki_views": 507}
 {"date": "2026-08-27", "entity": "dollartree", "wiki_views": 362}
-{"app_rank": 0, "close": 332.05499267578125, "date": "2026-08-27", "entity": "dominos", "volume": 787802.0, "wiki_views": 1298}
+{"app_rank": 0, "close": 332.05999755859375, "date": "2026-08-27", "entity": "dominos", "volume": 787900.0, "wiki_views": 1298}
 {"close": 20.299999237060547, "date": "2026-08-27", "entity": "dominos_au", "volume": 1045772.0, "wiki_views": 72}
-{"app_rank": 22, "close": 231.88999938964844, "date": "2026-08-27", "entity": "doordash", "volume": 3441119.0, "wiki_views": 700}
-{"app_rank": 0, "close": 24.219999313354492, "date": "2026-08-27", "entity": "draftkings", "trends_hit": 200, "volume": 7400080.0, "wiki_views": 459}
+{"app_rank": 22, "close": 231.88999938964844, "date": "2026-08-27", "entity": "doordash", "volume": 3441200.0, "wiki_views": 700}
+{"app_rank": 0, "close": 24.219999313354492, "date": "2026-08-27", "entity": "draftkings", "trends_hit": 200, "volume": 7402300.0, "wiki_views": 459}
 {"date": "2026-08-27", "entity": "drmartens", "wiki_views": 288}
 {"date": "2026-08-27", "entity": "drsquatch", "wiki_views": 112}
-{"app_rank": 71, "close": 142.86000061035156, "date": "2026-08-27", "entity": "duolingo", "volume": 939755.0, "wiki_views": 929}
+{"app_rank": 71, "close": 142.86000061035156, "date": "2026-08-27", "entity": "duolingo", "volume": 939900.0, "wiki_views": 929}
 {"app_rank": 0, "date": "2026-08-27", "entity": "dutchbros", "wiki_views": 394}
 {"date": "2026-08-27", "entity": "dyson", "wiki_views": 586}
 {"app_rank": 0, "date": "2026-08-27", "entity": "ea", "wiki_views": 1723}
@@ -40482,8 +40482,8 @@
 {"date": "2026-08-27", "entity": "equinox", "wiki_views": 112}
 {"close": 157.5, "date": "2026-08-27", "entity": "essilorluxottica", "volume": 658698.0, "wiki_views": 590}
 {"date": "2026-08-27", "entity": "esteelauder", "wiki_views": 437}
-{"app_rank": 9, "close": 82.94000244140625, "date": "2026-08-27", "entity": "etsy", "volume": 3999809.0, "wiki_views": 538}
-{"app_rank": 0, "close": 318.9200134277344, "date": "2026-08-27", "entity": "expedia", "volume": 1680441.0, "wiki_views": 698}
+{"app_rank": 9, "close": 82.94000244140625, "date": "2026-08-27", "entity": "etsy", "volume": 4000000.0, "wiki_views": 538}
+{"app_rank": 0, "close": 318.9200134277344, "date": "2026-08-27", "entity": "expedia", "volume": 1682500.0, "wiki_views": 698}
 {"date": "2026-08-27", "entity": "f45", "wiki_views": 98}
 {"date": "2026-08-27", "entity": "ferrari", "wiki_views": 1477}
 {"date": "2026-08-27", "entity": "ferrero", "wiki_views": 665}
@@ -40492,11 +40492,11 @@
 {"date": "2026-08-27", "entity": "fivebelow", "wiki_views": 235}
 {"date": "2026-08-27", "entity": "flightcentre", "wiki_views": 0}
 {"date": "2026-08-27", "entity": "floordecor", "wiki_views": 45}
-{"app_rank": 0, "close": 95.55500030517578, "date": "2026-08-27", "entity": "flutter", "trends_hit": 200, "volume": 0.0, "wiki_views": 166}
-{"close": 131.77000427246094, "date": "2026-08-27", "entity": "footlocker", "volume": 6735854.0, "wiki_views": 410}
+{"app_rank": 0, "close": 95.01000213623047, "date": "2026-08-27", "entity": "flutter", "trends_hit": 200, "volume": 1759400.0, "wiki_views": 166}
+{"close": 131.77000427246094, "date": "2026-08-27", "entity": "footlocker", "volume": 6744000.0, "wiki_views": 410}
 {"app_rank": 0, "date": "2026-08-27", "entity": "ford", "wiki_views": 2361}
 {"app_rank": 0, "date": "2026-08-27", "entity": "fox", "wiki_views": 833}
-{"close": 72.77999877929688, "date": "2026-08-27", "entity": "freshpet", "volume": 1254523.0, "wiki_views": 57}
+{"close": 72.77999877929688, "date": "2026-08-27", "entity": "freshpet", "volume": 1254500.0, "wiki_views": 57}
 {"app_rank": 0, "date": "2026-08-27", "entity": "function_health", "wiki_views": 69}
 {"date": "2026-08-27", "entity": "funko", "wiki_views": 256}
 {"date": "2026-08-27", "entity": "galderma", "wiki_views": 117}
@@ -40507,9 +40507,9 @@
 {"date": "2026-08-27", "entity": "glossier", "wiki_views": 40}
 {"date": "2026-08-27", "entity": "glp1_generic", "wiki_views": 565}
 {"app_rank": 0, "date": "2026-08-27", "entity": "gm", "wiki_views": 2555}
-{"app_rank": 8, "close": 340.6499938964844, "date": "2026-08-27", "entity": "googlepixel", "volume": 23284085.0, "wiki_views": 2905}
+{"app_rank": 8, "close": 340.6499938964844, "date": "2026-08-27", "entity": "googlepixel", "volume": 23352300.0, "wiki_views": 2905}
 {"date": "2026-08-27", "entity": "gopro", "wiki_views": 484}
-{"app_rank": 67, "close": 3.5899999141693115, "date": "2026-08-27", "entity": "grab", "volume": 30768238.0, "wiki_views": 334}
+{"app_rank": 67, "close": 3.5899999141693115, "date": "2026-08-27", "entity": "grab", "volume": 30814900.0, "wiki_views": 334}
 {"app_rank": 0, "date": "2026-08-27", "entity": "grindr", "wiki_views": 401}
 {"app_rank": 43, "close": 29.43000030517578, "date": "2026-08-27", "entity": "gyg", "volume": 330681.0, "wiki_views": 151}
 {"date": "2026-08-27", "entity": "gymshark", "wiki_views": 305}
@@ -40529,8 +40529,8 @@
 {"date": "2026-08-27", "entity": "hoka", "wiki_views": 781}
 {"app_rank": 0, "date": "2026-08-27", "entity": "homedepot", "wiki_views": 1307}
 {"close": 31.349000930786133, "date": "2026-08-27", "entity": "honda", "volume": 0.0, "wiki_views": 1512}
-{"close": 21.280000686645508, "date": "2026-08-27", "entity": "hormel", "volume": 18553724.0, "wiki_views": 300}
-{"app_rank": 0, "close": 173.27999877929688, "date": "2026-08-27", "entity": "hyatt", "volume": 463732.0, "wiki_views": 970}
+{"close": 21.280000686645508, "date": "2026-08-27", "entity": "hormel", "volume": 18565000.0, "wiki_views": 300}
+{"app_rank": 0, "close": 173.27999877929688, "date": "2026-08-27", "entity": "hyatt", "volume": 463700.0, "wiki_views": 970}
 {"date": "2026-08-27", "entity": "hydroflask", "wiki_views": 106}
 {"date": "2026-08-27", "entity": "hyperice", "wiki_views": 27}
 {"date": "2026-08-27", "entity": "hyundai", "wiki_views": 1467}
@@ -40564,7 +40564,7 @@
 {"date": "2026-08-27", "entity": "konami", "wiki_views": 997}
 {"close": 25.094999313354492, "date": "2026-08-27", "entity": "kraftheinz", "volume": 0.0, "wiki_views": 776}
 {"app_rank": 0, "close": 219500.0, "date": "2026-08-27", "entity": "krafton", "volume": 98172.0, "wiki_views": 777}
-{"close": 3.4200000762939453, "date": "2026-08-27", "entity": "krispykreme", "volume": 1842015.0, "wiki_views": 910}
+{"close": 3.4200000762939453, "date": "2026-08-27", "entity": "krispykreme", "volume": 1844300.0, "wiki_views": 910}
 {"date": "2026-08-27", "entity": "kroger", "wiki_views": 830}
 {"date": "2026-08-27", "entity": "labubu", "wiki_views": 922}
 {"date": "2026-08-27", "entity": "lambweston", "wiki_views": 56}
@@ -40576,38 +40576,38 @@
 {"date": "2026-08-27", "entity": "lindt", "wiki_views": 332}
 {"date": "2026-08-27", "entity": "lionsgate", "wiki_views": 502}
 {"date": "2026-08-27", "entity": "liquiddeath", "wiki_views": 515}
-{"app_rank": 2, "close": 180.63999938964844, "date": "2026-08-27", "entity": "livenation", "volume": 1952312.0, "wiki_views": 558}
+{"app_rank": 2, "close": 180.63999938964844, "date": "2026-08-27", "entity": "livenation", "volume": 1952400.0, "wiki_views": 558}
 {"date": "2026-08-27", "entity": "logitech", "wiki_views": 414}
 {"date": "2026-08-27", "entity": "loreal", "wiki_views": 764}
-{"close": 16.06999969482422, "date": "2026-08-27", "entity": "lovesac", "volume": 226421.0, "wiki_views": 93}
+{"close": 16.06999969482422, "date": "2026-08-27", "entity": "lovesac", "volume": 226400.0, "wiki_views": 93}
 {"close": 26.899999618530273, "date": "2026-08-27", "entity": "lovisa", "volume": 353393.0, "wiki_views": 10}
 {"app_rank": 0, "date": "2026-08-27", "entity": "lowes", "wiki_views": 481}
 {"date": "2026-08-27", "entity": "lucid", "wiki_views": 980}
 {"date": "2026-08-27", "entity": "luckin", "wiki_views": 329}
 {"date": "2026-08-27", "entity": "lululemon", "wiki_views": 1028}
 {"app_rank": 0, "date": "2026-08-27", "entity": "lvmh", "wiki_views": 2075}
-{"app_rank": 88, "close": 17.350000381469727, "date": "2026-08-27", "entity": "lyft", "volume": 6763519.0, "wiki_views": 479}
+{"app_rank": 88, "close": 17.350000381469727, "date": "2026-08-27", "entity": "lyft", "volume": 6763800.0, "wiki_views": 479}
 {"app_rank": 0, "date": "2026-08-27", "entity": "marriott", "wiki_views": 877}
 {"date": "2026-08-27", "entity": "mars", "wiki_views": 232}
 {"app_rank": 0, "date": "2026-08-27", "entity": "match", "wiki_views": 424}
 {"date": "2026-08-27", "entity": "mattel", "wiki_views": 989}
-{"app_rank": 77, "close": 260.05999755859375, "date": "2026-08-27", "entity": "mcdonalds", "volume": 5941184.0, "wiki_views": 3500}
+{"app_rank": 77, "close": 260.05999755859375, "date": "2026-08-27", "entity": "mcdonalds", "volume": 5963700.0, "wiki_views": 3500}
 {"date": "2026-08-27", "entity": "meituan", "wiki_views": 157}
 {"app_rank": 0, "date": "2026-08-27", "entity": "mercadolibre", "wiki_views": 266}
 {"date": "2026-08-27", "entity": "mercedes", "wiki_views": 873}
-{"app_rank": 5, "close": 571.0999755859375, "date": "2026-08-27", "entity": "meta", "volume": 15160180.0, "wiki_views": 7728}
-{"app_rank": 0, "close": 43.220001220703125, "date": "2026-08-27", "entity": "mgm", "trends_hit": 200, "volume": 0.0, "wiki_views": 409}
+{"app_rank": 5, "close": 571.0999755859375, "date": "2026-08-27", "entity": "meta", "volume": 15191500.0, "wiki_views": 7728}
+{"app_rank": 0, "close": 42.970001220703125, "date": "2026-08-27", "entity": "mgm", "trends_hit": 200, "volume": 1981600.0, "wiki_views": 409}
 {"date": "2026-08-27", "entity": "michaelkors", "wiki_views": 94}
-{"app_rank": 10, "close": 505.05999755859375, "date": "2026-08-27", "entity": "microsoft", "volume": 28615865.0, "wiki_views": 8445}
+{"app_rank": 10, "close": 505.05999755859375, "date": "2026-08-27", "entity": "microsoft", "volume": 28649300.0, "wiki_views": 8445}
 {"date": "2026-08-27", "entity": "mixue", "wiki_views": 471}
 {"date": "2026-08-27", "entity": "molson", "wiki_views": 469}
 {"date": "2026-08-27", "entity": "moncler", "wiki_views": 191}
 {"date": "2026-08-27", "entity": "mondelez", "wiki_views": 1189}
-{"close": 46.70000076293945, "date": "2026-08-27", "entity": "monster", "volume": 7320425.0, "wiki_views": 687}
+{"close": 46.70000076293945, "date": "2026-08-27", "entity": "monster", "volume": 7431000.0, "wiki_views": 687}
 {"app_rank": 0, "date": "2026-08-27", "entity": "myer", "wiki_views": 75}
 {"date": "2026-08-27", "entity": "nestle", "wiki_views": 1914}
-{"app_rank": 0, "close": 122.69000244140625, "date": "2026-08-27", "entity": "netease", "volume": 528818.0, "wiki_views": 1023}
-{"app_rank": 36, "close": 79.83999633789062, "date": "2026-08-27", "entity": "netflix", "trends_hit": 100, "volume": 27058234.0, "wiki_views": 6005}
+{"app_rank": 0, "close": 122.69000244140625, "date": "2026-08-27", "entity": "netease", "volume": 543100.0, "wiki_views": 1023}
+{"app_rank": 36, "close": 79.83999633789062, "date": "2026-08-27", "entity": "netflix", "trends_hit": 100, "volume": 27120400.0, "wiki_views": 6005}
 {"date": "2026-08-27", "entity": "newbalance", "wiki_views": 591}
 {"app_rank": 0, "date": "2026-08-27", "entity": "nexon", "wiki_views": 499}
 {"date": "2026-08-27", "entity": "nickscali", "wiki_views": 18}
@@ -40618,7 +40618,7 @@
 {"date": "2026-08-27", "entity": "novo", "wiki_views": 558}
 {"app_rank": 0, "date": "2026-08-27", "entity": "nubank", "wiki_views": 239}
 {"date": "2026-08-27", "entity": "nuskin", "wiki_views": 39}
-{"close": 227.97999572753906, "date": "2026-08-27", "entity": "nvidia", "volume": 297197891.0, "wiki_views": 10817}
+{"close": 227.97999572753906, "date": "2026-08-27", "entity": "nvidia", "volume": 298231200.0, "wiki_views": 10817}
 {"date": "2026-08-27", "entity": "oatly", "wiki_views": 122}
 {"date": "2026-08-27", "entity": "oddity", "wiki_views": 38}
 {"date": "2026-08-27", "entity": "olaplex", "wiki_views": 57}
@@ -40631,25 +40631,25 @@
 {"date": "2026-08-27", "entity": "owala", "wiki_views": 21}
 {"date": "2026-08-27", "entity": "pandaexpress", "wiki_views": 2197}
 {"date": "2026-08-27", "entity": "pandora", "wiki_views": 192}
-{"app_rank": 0, "close": 23.229999542236328, "date": "2026-08-27", "entity": "papajohns", "volume": 1105123.0, "wiki_views": 686}
-{"close": 144.5, "date": "2026-08-27", "entity": "paradox", "volume": 137061.0, "wiki_views": 947}
+{"app_rank": 0, "close": 23.229999542236328, "date": "2026-08-27", "entity": "papajohns", "volume": 1105600.0, "wiki_views": 686}
+{"close": 144.5, "date": "2026-08-27", "entity": "paradox", "volume": 139598.0, "wiki_views": 947}
 {"app_rank": 0, "close": 10.800000190734863, "date": "2026-08-27", "entity": "paramount", "volume": 8430008.0, "wiki_views": 2025}
 {"date": "2026-08-27", "entity": "patagonia", "wiki_views": 376}
-{"app_rank": 49, "close": 61.470001220703125, "date": "2026-08-27", "entity": "paypal", "volume": 9150597.0, "wiki_views": 2120}
-{"app_rank": 18, "close": 84.69000244140625, "date": "2026-08-27", "entity": "pdd", "volume": 8330873.0, "wiki_views": 502}
+{"app_rank": 49, "close": 61.470001220703125, "date": "2026-08-27", "entity": "paypal", "volume": 9165000.0, "wiki_views": 2120}
+{"app_rank": 18, "close": 84.69000244140625, "date": "2026-08-27", "entity": "pdd", "volume": 8336900.0, "wiki_views": 502}
 {"app_rank": 0, "date": "2026-08-27", "entity": "peloton", "wiki_views": 129}
 {"date": "2026-08-27", "entity": "pepsi", "wiki_views": 1597}
 {"date": "2026-08-27", "entity": "pernod", "wiki_views": 392}
 {"app_rank": 0, "date": "2026-08-27", "entity": "petco", "wiki_views": 110}
 {"date": "2026-08-27", "entity": "petsmart", "wiki_views": 131}
-{"date": "2026-08-27", "entity": "pg", "wiki_views": 1357}
-{"app_rank": 60, "close": 22.8799991607666, "date": "2026-08-27", "entity": "pinterest", "volume": 7520564.0, "wiki_views": 3708}
+{"close": 143.13999938964844, "date": "2026-08-27", "entity": "pg", "volume": 7806600.0, "wiki_views": 1357}
+{"app_rank": 60, "close": 22.8799991607666, "date": "2026-08-27", "entity": "pinterest", "volume": 7520700.0, "wiki_views": 3708}
 {"app_rank": 0, "date": "2026-08-27", "entity": "planetfitness", "wiki_views": 173}
 {"date": "2026-08-27", "entity": "playtika", "wiki_views": 76}
 {"date": "2026-08-27", "entity": "pokemon_tcg", "wiki_views": 1211}
 {"date": "2026-08-27", "entity": "polaris", "wiki_views": 184}
 {"date": "2026-08-27", "entity": "popmart", "wiki_views": 213}
-{"close": 45.220001220703125, "date": "2026-08-27", "entity": "porsche", "volume": 752926.0, "wiki_views": 1933}
+{"close": 45.220001220703125, "date": "2026-08-27", "entity": "porsche", "volume": 752964.0, "wiki_views": 1933}
 {"date": "2026-08-27", "entity": "portillos", "wiki_views": 209}
 {"date": "2026-08-27", "entity": "post", "wiki_views": 118}
 {"date": "2026-08-27", "entity": "prada", "wiki_views": 609}
@@ -40664,7 +40664,7 @@
 {"app_rank": 0, "close": 78.41500091552734, "date": "2026-08-27", "entity": "rbi", "volume": 0.0, "wiki_views": 836}
 {"app_rank": 0, "date": "2026-08-27", "entity": "rea", "wiki_views": 67}
 {"date": "2026-08-27", "entity": "redbull", "wiki_views": 1886}
-{"app_rank": 58, "close": 153.9499969482422, "date": "2026-08-27", "entity": "reddit", "volume": 2695722.0, "wiki_views": 6836}
+{"app_rank": 58, "close": 153.9499969482422, "date": "2026-08-27", "entity": "reddit", "volume": 2711000.0, "wiki_views": 6836}
 {"app_rank": 62, "date": "2026-08-27", "entity": "revolut", "wiki_views": 1689}
 {"date": "2026-08-27", "entity": "rh", "wiki_views": 146}
 {"date": "2026-08-27", "entity": "richemont", "wiki_views": 525}
@@ -40690,12 +40690,12 @@
 {"date": "2026-08-27", "entity": "shiseido", "wiki_views": 124}
 {"date": "2026-08-27", "entity": "signet", "wiki_views": 90}
 {"date": "2026-08-27", "entity": "simplygood", "wiki_views": 9}
-{"app_rank": 0, "close": 15.960000038146973, "date": "2026-08-27", "entity": "sixflags", "volume": 1663111.0, "wiki_views": 1601}
+{"app_rank": 0, "close": 15.960000038146973, "date": "2026-08-27", "entity": "sixflags", "volume": 1663100.0, "wiki_views": 1601}
 {"date": "2026-08-27", "entity": "skechers", "wiki_views": 406}
 {"date": "2026-08-27", "entity": "skims", "wiki_views": 272}
 {"date": "2026-08-27", "entity": "sleepnumber", "wiki_views": 57}
 {"close": 134.8350067138672, "date": "2026-08-27", "entity": "smucker", "volume": 0.0, "wiki_views": 297}
-{"app_rank": 72, "close": 5.329999923706055, "date": "2026-08-27", "entity": "snap", "volume": 30538012.0, "wiki_views": 981}
+{"app_rank": 72, "close": 5.329999923706055, "date": "2026-08-27", "entity": "snap", "volume": 30920400.0, "wiki_views": 981}
 {"app_rank": 0, "date": "2026-08-27", "entity": "sofi", "wiki_views": 461}
 {"date": "2026-08-27", "entity": "sonny_angel", "wiki_views": 146}
 {"date": "2026-08-27", "entity": "sonos", "wiki_views": 169}
@@ -40703,25 +40703,25 @@
 {"app_rank": 0, "date": "2026-08-27", "entity": "southwest", "wiki_views": 1317}
 {"date": "2026-08-27", "entity": "spectrum_brands", "wiki_views": 95}
 {"date": "2026-08-27", "entity": "spinmaster", "wiki_views": 304}
-{"app_rank": 42, "close": 527.25, "date": "2026-08-27", "entity": "spotify", "volume": 1758765.0, "wiki_views": 2553}
+{"app_rank": 42, "close": 527.25, "date": "2026-08-27", "entity": "spotify", "volume": 1759500.0, "wiki_views": 2553}
 {"date": "2026-08-27", "entity": "sprouts", "wiki_views": 241}
 {"date": "2026-08-27", "entity": "squareenix", "wiki_views": 1050}
 {"date": "2026-08-27", "entity": "squishmallows", "wiki_views": 165}
 {"date": "2026-08-27", "entity": "stanley", "wiki_views": 386}
-{"app_rank": 85, "close": 107.26000213623047, "date": "2026-08-27", "entity": "starbucks", "volume": 6417660.0, "wiki_views": 2101}
-{"app_rank": 0, "close": 27.170000076293945, "date": "2026-08-27", "entity": "starz", "volume": 169593.0, "wiki_views": 1284}
+{"app_rank": 85, "close": 107.26000213623047, "date": "2026-08-27", "entity": "starbucks", "volume": 6418200.0, "wiki_views": 2101}
+{"app_rank": 0, "close": 27.170000076293945, "date": "2026-08-27", "entity": "starz", "volume": 169600.0, "wiki_views": 1284}
 {"app_rank": 0, "date": "2026-08-27", "entity": "stellantis", "wiki_views": 2974}
 {"date": "2026-08-27", "entity": "swatch", "wiki_views": 447}
 {"app_rank": 0, "date": "2026-08-27", "entity": "sweetgreen", "wiki_views": 116}
-{"app_rank": 0, "close": 233.0, "date": "2026-08-27", "entity": "taketwo", "volume": 4195357.0, "wiki_views": 5566}
+{"app_rank": 0, "close": 233.0, "date": "2026-08-27", "entity": "taketwo", "volume": 4203600.0, "wiki_views": 5566}
 {"app_rank": 0, "date": "2026-08-27", "entity": "talkspace", "wiki_views": 35}
 {"app_rank": 0, "date": "2026-08-27", "entity": "target", "wiki_views": 1442}
 {"app_rank": 0, "date": "2026-08-27", "entity": "teladoc", "wiki_views": 45}
 {"app_rank": 0, "date": "2026-08-27", "entity": "templewebster", "wiki_views": 16}
-{"close": 62.47999954223633, "date": "2026-08-27", "entity": "tempursealy", "volume": 6089602.0, "wiki_views": 128}
+{"close": 62.47999954223633, "date": "2026-08-27", "entity": "tempursealy", "volume": 6095900.0, "wiki_views": 128}
 {"app_rank": 0, "date": "2026-08-27", "entity": "tencent", "wiki_views": 1983}
 {"app_rank": 0, "date": "2026-08-27", "entity": "tesla", "wiki_views": 2466}
-{"close": 200.1199951171875, "date": "2026-08-27", "entity": "texasroadhouse", "volume": 633675.0, "wiki_views": 695}
+{"close": 200.1199951171875, "date": "2026-08-27", "entity": "texasroadhouse", "volume": 633700.0, "wiki_views": 695}
 {"close": 13.635000228881836, "date": "2026-08-27", "entity": "timberland", "volume": 0.0, "wiki_views": 267}
 {"date": "2026-08-27", "entity": "tjx", "wiki_views": 429}
 {"app_rank": 0, "date": "2026-08-27", "entity": "topgolf", "wiki_views": 1775}
@@ -40730,17 +40730,17 @@
 {"date": "2026-08-27", "entity": "tractorsupply", "wiki_views": 170}
 {"date": "2026-08-27", "entity": "traderjoes", "wiki_views": 1169}
 {"date": "2026-08-27", "entity": "treasurywine", "wiki_views": 32}
-{"app_rank": 40, "close": 44.61000061035156, "date": "2026-08-27", "entity": "trip_com", "volume": 2052262.0, "wiki_views": 238}
+{"app_rank": 40, "close": 44.61000061035156, "date": "2026-08-27", "entity": "trip_com", "volume": 2182100.0, "wiki_views": 238}
 {"app_rank": 0, "date": "2026-08-27", "entity": "tripadvisor", "wiki_views": 242}
 {"date": "2026-08-27", "entity": "trupanion", "wiki_views": 13}
 {"date": "2026-08-27", "entity": "turtlebeach", "wiki_views": 44}
 {"date": "2026-08-27", "entity": "tyson", "wiki_views": 447}
-{"app_rank": 37, "close": 76.94999694824219, "date": "2026-08-27", "entity": "uber", "volume": 14341776.0, "wiki_views": 1563}
+{"app_rank": 37, "close": 76.94999694824219, "date": "2026-08-27", "entity": "uber", "volume": 14357100.0, "wiki_views": 1563}
 {"date": "2026-08-27", "entity": "ubisoft", "wiki_views": 1490}
 {"date": "2026-08-27", "entity": "ugg", "wiki_views": 144}
 {"app_rank": 0, "date": "2026-08-27", "entity": "ulta", "wiki_views": 204}
 {"app_rank": 31, "date": "2026-08-27", "entity": "underdog", "wiki_views": 48}
-{"date": "2026-08-27", "entity": "unilever", "wiki_views": 1721}
+{"close": 4752.0, "date": "2026-08-27", "entity": "unilever", "volume": 2517036.0, "wiki_views": 1721}
 {"date": "2026-08-27", "entity": "uniqlo", "wiki_views": 820}
 {"app_rank": 0, "date": "2026-08-27", "entity": "united", "wiki_views": 3315}
 {"date": "2026-08-27", "entity": "unity", "wiki_views": 743}
@@ -40756,7 +40756,7 @@
 {"date": "2026-08-27", "entity": "vuori", "wiki_views": 206}
 {"date": "2026-08-27", "entity": "vw", "wiki_views": 1823}
 {"app_rank": 0, "date": "2026-08-27", "entity": "wag", "wiki_views": 12}
-{"app_rank": 38, "close": 102.62999725341797, "date": "2026-08-27", "entity": "walmart", "volume": 29706412.0, "wiki_views": 3344}
+{"app_rank": 38, "close": 102.62999725341797, "date": "2026-08-27", "entity": "walmart", "volume": 29759100.0, "wiki_views": 3344}
 {"app_rank": 0, "date": "2026-08-27", "entity": "wayfair", "wiki_views": 401}
 {"app_rank": 0, "date": "2026-08-27", "entity": "wbd", "wiki_views": 2026}
 {"date": "2026-08-27", "entity": "weber", "wiki_views": 61}
@@ -40766,8 +40766,8 @@
 {"date": "2026-08-27", "entity": "whirlpool", "wiki_views": 400}
 {"app_rank": 0, "date": "2026-08-27", "entity": "whoop", "wiki_views": 347}
 {"date": "2026-08-27", "entity": "williamssonoma", "wiki_views": 61}
-{"app_rank": 0, "close": 109.94999694824219, "date": "2026-08-27", "entity": "wingstop", "volume": 1527940.0, "wiki_views": 563}
-{"app_rank": 16, "close": 980.2000122070312, "date": "2026-08-27", "entity": "wise", "volume": 990020.0, "wiki_views": 725}
+{"app_rank": 0, "close": 109.94999694824219, "date": "2026-08-27", "entity": "wingstop", "volume": 1529100.0, "wiki_views": 563}
+{"app_rank": 16, "close": 980.2000122070312, "date": "2026-08-27", "entity": "wise", "volume": 990068.0, "wiki_views": 725}
 {"app_rank": 0, "date": "2026-08-27", "entity": "wizz", "wiki_views": 1317}
 {"date": "2026-08-27", "entity": "wkkellogg", "wiki_views": 279}
 {"app_rank": 29, "close": 39.54999923706055, "date": "2026-08-27", "entity": "woolworths", "volume": 2676482.0, "wiki_views": 296}
@@ -40776,115 +40776,135 @@
 {"date": "2026-08-27", "entity": "xiaomi", "wiki_views": 1167}
 {"date": "2026-08-27", "entity": "xponential", "wiki_views": 17}
 {"date": "2026-08-27", "entity": "yeti", "wiki_views": 207}
-{"app_rank": 93, "close": 150.88499450683594, "date": "2026-08-27", "entity": "yum", "volume": 0.0, "wiki_views": 1034}
+{"app_rank": 93, "close": 150.75, "date": "2026-08-27", "entity": "yum", "volume": 1964000.0, "wiki_views": 1034}
 {"date": "2026-08-27", "entity": "zevia", "wiki_views": 69}
 {"app_rank": 0, "date": "2026-08-27", "entity": "zip", "wiki_views": 43}
 {"date": "2026-08-27", "entity": "zoetis", "wiki_views": 113}
 {"app_rank": 0, "date": "2026-08-28", "entity": "adidas"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "affirm"}
-{"app_rank": 69, "date": "2026-08-28", "entity": "airbnb"}
+{"app_rank": 71, "close": 189.44000244140625, "date": "2026-08-28", "entity": "airbnb", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "alaska_air"}
-{"app_rank": 15, "date": "2026-08-28", "entity": "alibaba"}
-{"app_rank": 21, "date": "2026-08-28", "entity": "amazon"}
+{"app_rank": 13, "close": 118.43820190429688, "date": "2026-08-28", "entity": "alibaba", "volume": 0.0}
+{"app_rank": 28, "close": 265.3500061035156, "date": "2026-08-28", "entity": "amazon", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "amc"}
+{"close": 468.7200012207031, "date": "2026-08-28", "entity": "amd", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "american_air"}
-{"app_rank": 0, "date": "2026-08-28", "entity": "apple"}
+{"close": 17.065000534057617, "date": "2026-08-28", "entity": "americaneagle", "volume": 0.0}
+{"app_rank": 0, "close": 319.80999755859375, "date": "2026-08-28", "entity": "apple", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "aristocrat"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "bestbuy"}
-{"app_rank": 46, "date": "2026-08-28", "entity": "block"}
-{"app_rank": 38, "date": "2026-08-28", "entity": "booking"}
+{"app_rank": 40, "close": 83.44999694824219, "date": "2026-08-28", "entity": "block", "volume": 0.0}
+{"app_rank": 44, "close": 205.23500061035156, "date": "2026-08-28", "entity": "booking", "volume": 0.0}
+{"close": 27.264999389648438, "date": "2026-08-28", "entity": "brownforman", "volume": 0.0}
+{"close": 29.829999923706055, "date": "2026-08-28", "entity": "buildabear", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "bumble"}
+{"close": 1084.0, "date": "2026-08-28", "entity": "burberry", "volume": 3644412.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "caesars"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "carmax"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "carnival"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "carsales"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "carvana"}
+{"close": 236.5, "date": "2026-08-28", "entity": "cdprojekt", "volume": 299088.0}
+{"close": 33.165000915527344, "date": "2026-08-28", "entity": "celsius", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "chewy"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "chime"}
-{"app_rank": 30, "date": "2026-08-28", "entity": "chipotle"}
+{"app_rank": 58, "close": 37.9900016784668, "date": "2026-08-28", "entity": "chipotle", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "cinemark"}
+{"close": 125.24500274658203, "date": "2026-08-28", "entity": "coach", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "coinbase"}
-{"app_rank": 52, "close": 23.510000228881836, "date": "2026-08-28", "entity": "coles", "volume": 0.0}
+{"app_rank": 67, "close": 23.799999237060547, "date": "2026-08-28", "entity": "coles", "volume": 2796810.0}
+{"close": 90.8499984741211, "date": "2026-08-28", "entity": "colgate", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "comcast"}
-{"app_rank": 88, "date": "2026-08-28", "entity": "costco"}
+{"app_rank": 93, "close": 945.283203125, "date": "2026-08-28", "entity": "costco", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "crumbl"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "crunch"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "delta"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "dexcom"}
-{"app_rank": 23, "date": "2026-08-28", "entity": "disney"}
-{"app_rank": 0, "date": "2026-08-28", "entity": "dominos"}
-{"app_rank": 25, "date": "2026-08-28", "entity": "doordash"}
-{"app_rank": 0, "date": "2026-08-28", "entity": "draftkings"}
-{"app_rank": 81, "date": "2026-08-28", "entity": "duolingo"}
+{"close": 135.17999267578125, "date": "2026-08-28", "entity": "dicks", "volume": 0.0}
+{"app_rank": 21, "close": 108.04000091552734, "date": "2026-08-28", "entity": "disney", "volume": 0.0}
+{"app_rank": 95, "close": 351.80999755859375, "date": "2026-08-28", "entity": "dominos", "volume": 0.0}
+{"app_rank": 12, "close": 236.49000549316406, "date": "2026-08-28", "entity": "doordash", "volume": 0.0}
+{"app_rank": 0, "close": 25.524999618530273, "date": "2026-08-28", "entity": "draftkings", "volume": 0.0}
+{"app_rank": 76, "close": 147.16000366210938, "date": "2026-08-28", "entity": "duolingo", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "dutchbros"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "ea"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "easyjet"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "ebay"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "endeavour"}
-{"app_rank": 15, "date": "2026-08-28", "entity": "etsy"}
-{"app_rank": 0, "date": "2026-08-28", "entity": "expedia"}
-{"app_rank": 0, "date": "2026-08-28", "entity": "flutter"}
+{"app_rank": 19, "close": 83.91000366210938, "date": "2026-08-28", "entity": "etsy", "volume": 0.0}
+{"app_rank": 0, "close": 328.864990234375, "date": "2026-08-28", "entity": "expedia", "volume": 0.0}
+{"app_rank": 0, "close": 101.37000274658203, "date": "2026-08-28", "entity": "flutter", "trends_hit": 100, "volume": 0.0}
+{"close": 135.17999267578125, "date": "2026-08-28", "entity": "footlocker", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "ford"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "fox"}
+{"close": 71.11000061035156, "date": "2026-08-28", "entity": "freshpet", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "function_health"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "gamestop"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "gm"}
-{"app_rank": 8, "date": "2026-08-28", "entity": "googlepixel"}
-{"app_rank": 73, "date": "2026-08-28", "entity": "grab"}
+{"app_rank": 8, "close": 347.6000061035156, "date": "2026-08-28", "entity": "googlepixel", "volume": 0.0}
+{"app_rank": 57, "close": 3.634999990463257, "date": "2026-08-28", "entity": "grab", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "grindr"}
-{"app_rank": 64, "close": 28.545000076293945, "date": "2026-08-28", "entity": "gyg", "volume": 0.0}
+{"app_rank": 39, "close": 28.190000534057617, "date": "2026-08-28", "entity": "gyg", "volume": 731373.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "harveynorman"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "hilton"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "hims"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "hingehealth"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "hm"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "homedepot"}
-{"app_rank": 0, "date": "2026-08-28", "entity": "hyatt"}
+{"close": 21.395000457763672, "date": "2026-08-28", "entity": "hormel", "volume": 0.0}
+{"app_rank": 0, "close": 172.78500366210938, "date": "2026-08-28", "entity": "hyatt", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "ihg"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "ikea"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "inditex"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "instacart"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "jbhifi"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "jetblue"}
-{"app_rank": 93, "date": "2026-08-28", "entity": "kalshi"}
+{"app_rank": 75, "date": "2026-08-28", "entity": "kalshi"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "klarna"}
 {"app_rank": 0, "close": 219000.0, "date": "2026-08-28", "entity": "krafton", "volume": 0.0}
+{"close": 3.5250000953674316, "date": "2026-08-28", "entity": "krispykreme", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "lifetime"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "lightwonder"}
-{"app_rank": 1, "date": "2026-08-28", "entity": "livenation"}
+{"app_rank": 4, "close": 180.72999572753906, "date": "2026-08-28", "entity": "livenation", "volume": 0.0}
+{"close": 16.030000686645508, "date": "2026-08-28", "entity": "lovesac", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "lowes"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "lvmh"}
-{"app_rank": 87, "date": "2026-08-28", "entity": "lyft"}
+{"app_rank": 72, "close": 17.825000762939453, "date": "2026-08-28", "entity": "lyft", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "marriott"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "match"}
-{"app_rank": 70, "date": "2026-08-28", "entity": "mcdonalds"}
+{"app_rank": 66, "close": 264.3500061035156, "date": "2026-08-28", "entity": "mcdonalds", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "mercadolibre"}
-{"app_rank": 7, "date": "2026-08-28", "entity": "meta"}
-{"app_rank": 0, "date": "2026-08-28", "entity": "mgm"}
-{"app_rank": 5, "date": "2026-08-28", "entity": "microsoft", "trends_hit": 200}
+{"app_rank": 6, "close": 577.0900268554688, "date": "2026-08-28", "entity": "meta", "volume": 0.0}
+{"app_rank": 0, "close": 42.55799865722656, "date": "2026-08-28", "entity": "mgm", "trends_hit": 100, "volume": 0.0}
+{"app_rank": 12, "close": 513.5, "date": "2026-08-28", "entity": "microsoft", "trends_hit": 200, "volume": 0.0}
+{"close": 46.900001525878906, "date": "2026-08-28", "entity": "monster", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "myer"}
-{"app_rank": 0, "date": "2026-08-28", "entity": "netease"}
-{"app_rank": 31, "date": "2026-08-28", "entity": "netflix"}
+{"app_rank": 0, "close": 122.36000061035156, "date": "2026-08-28", "entity": "netease", "volume": 0.0}
+{"app_rank": 8, "close": 81.7249984741211, "date": "2026-08-28", "entity": "netflix", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "nexon"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "nike"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "nintendo"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "norwegian"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "nubank"}
+{"close": 217.39999389648438, "date": "2026-08-28", "entity": "nvidia", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "oscar"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "oura"}
-{"app_rank": 0, "date": "2026-08-28", "entity": "papajohns"}
+{"app_rank": 0, "close": 23.559999465942383, "date": "2026-08-28", "entity": "papajohns", "volume": 0.0}
+{"close": 144.10000610351562, "date": "2026-08-28", "entity": "paradox", "volume": 107034.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "paramount", "trends_hit": 2000}
-{"app_rank": 49, "date": "2026-08-28", "entity": "paypal"}
-{"app_rank": 19, "date": "2026-08-28", "entity": "pdd"}
+{"app_rank": 49, "close": 53.70500183105469, "date": "2026-08-28", "entity": "paypal", "volume": 0.0}
+{"app_rank": 24, "close": 85.59500122070312, "date": "2026-08-28", "entity": "pdd", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "peloton"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "petco"}
-{"app_rank": 64, "date": "2026-08-28", "entity": "pinterest"}
+{"close": 143.61500549316406, "date": "2026-08-28", "entity": "pg", "trends_hit": 200, "volume": 0.0}
+{"app_rank": 60, "close": 23.200000762939453, "date": "2026-08-28", "entity": "pinterest", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "planetfitness"}
-{"app_rank": 58, "close": 9.505000114440918, "date": "2026-08-28", "entity": "qantas", "volume": 0.0}
+{"close": 45.95000076293945, "date": "2026-08-28", "entity": "porsche", "volume": 746611.0}
+{"app_rank": 75, "close": 9.579999923706055, "date": "2026-08-28", "entity": "qantas", "volume": 7378726.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "rbi"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "rea"}
-{"app_rank": 51, "date": "2026-08-28", "entity": "reddit"}
-{"app_rank": 66, "date": "2026-08-28", "entity": "revolut"}
+{"app_rank": 60, "close": 154.1199951171875, "date": "2026-08-28", "entity": "reddit", "volume": 0.0}
+{"app_rank": 74, "date": "2026-08-28", "entity": "revolut"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "rivian"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "robinhood"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "roblox"}
@@ -40894,46 +40914,49 @@
 {"app_rank": 0, "date": "2026-08-28", "entity": "rush_street"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "ryanair"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "sea"}
-{"app_rank": 44, "close": 14.8149995803833, "date": "2026-08-28", "entity": "seek", "volume": 0.0}
+{"app_rank": 64, "close": 14.789999961853027, "date": "2026-08-28", "entity": "seek", "volume": 1092510.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "shakeshack"}
-{"app_rank": 28, "date": "2026-08-28", "entity": "shein"}
-{"app_rank": 0, "date": "2026-08-28", "entity": "sixflags"}
-{"app_rank": 56, "date": "2026-08-28", "entity": "snap"}
+{"app_rank": 37, "date": "2026-08-28", "entity": "shein"}
+{"app_rank": 0, "close": 16.200000762939453, "date": "2026-08-28", "entity": "sixflags", "volume": 0.0}
+{"app_rank": 47, "close": 5.434999942779541, "date": "2026-08-28", "entity": "snap", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "sofi"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "sony"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "southwest"}
-{"app_rank": 43, "date": "2026-08-28", "entity": "spotify"}
-{"app_rank": 85, "date": "2026-08-28", "entity": "starbucks"}
-{"app_rank": 0, "date": "2026-08-28", "entity": "starz"}
+{"app_rank": 30, "close": 546.2050170898438, "date": "2026-08-28", "entity": "spotify", "volume": 0.0}
+{"app_rank": 77, "close": 108.0999984741211, "date": "2026-08-28", "entity": "starbucks", "volume": 0.0}
+{"app_rank": 0, "close": 27.915000915527344, "date": "2026-08-28", "entity": "starz", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "stellantis"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "sweetgreen"}
-{"app_rank": 0, "date": "2026-08-28", "entity": "taketwo"}
+{"app_rank": 0, "close": 233.91000366210938, "date": "2026-08-28", "entity": "taketwo", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "talkspace"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "target"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "teladoc"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "templewebster"}
+{"close": 65.12000274658203, "date": "2026-08-28", "entity": "tempursealy", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "tencent"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "tesla"}
+{"close": 199.07000732421875, "date": "2026-08-28", "entity": "texasroadhouse", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "topgolf"}
-{"app_rank": 45, "date": "2026-08-28", "entity": "trip_com"}
+{"app_rank": 65, "close": 45.20000076293945, "date": "2026-08-28", "entity": "trip_com", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "tripadvisor"}
-{"app_rank": 37, "date": "2026-08-28", "entity": "uber"}
+{"app_rank": 26, "close": 78.78500366210938, "date": "2026-08-28", "entity": "uber", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "ulta"}
-{"app_rank": 35, "date": "2026-08-28", "entity": "underdog"}
+{"app_rank": 39, "date": "2026-08-28", "entity": "underdog"}
+{"close": 4776.0, "date": "2026-08-28", "entity": "unilever", "volume": 6709213.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "united"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "vail"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "viking"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "wag"}
-{"app_rank": 36, "date": "2026-08-28", "entity": "walmart"}
+{"app_rank": 41, "close": 102.98500061035156, "date": "2026-08-28", "entity": "walmart", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "wayfair"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "wbd"}
 {"app_rank": 0, "date": "2026-08-28", "entity": "wendys"}
-{"app_rank": 0, "close": 78.7300033569336, "date": "2026-08-28", "entity": "wesfarmers", "volume": 0.0}
+{"app_rank": 0, "close": 79.79000091552734, "date": "2026-08-28", "entity": "wesfarmers", "volume": 2405351.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "whoop"}
-{"app_rank": 0, "date": "2026-08-28", "entity": "wingstop"}
-{"app_rank": 16, "date": "2026-08-28", "entity": "wise"}
+{"app_rank": 0, "close": 112.97000122070312, "date": "2026-08-28", "entity": "wingstop", "volume": 0.0}
+{"app_rank": 17, "close": 971.4000244140625, "date": "2026-08-28", "entity": "wise", "volume": 3290806.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "wizz"}
-{"app_rank": 39, "close": 39.13999938964844, "date": "2026-08-28", "entity": "woolworths", "volume": 0.0}
+{"app_rank": 46, "close": 39.650001525878906, "date": "2026-08-28", "entity": "woolworths", "volume": 2465942.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "ww"}
-{"app_rank": 0, "date": "2026-08-28", "entity": "yum"}
+{"app_rank": 76, "close": 154.4250030517578, "date": "2026-08-28", "entity": "yum", "volume": 0.0}
 {"app_rank": 0, "date": "2026-08-28", "entity": "zip"}
