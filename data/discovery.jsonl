@@ -3474,7 +3474,7 @@
 {"date": "2026-06-01", "entity": "church", "wiki_views": 207}
 {"date": "2026-06-01", "entity": "cinemark", "wiki_views": 176}
 {"close": 138.80999755859375, "date": "2026-06-01", "entity": "coach", "volume": 2173100.0, "wiki_views": 277}
-{"date": "2026-06-01", "entity": "cocacola", "wiki_views": 1723}
+{"close": 78.63999938964844, "date": "2026-06-01", "entity": "cocacola", "volume": 12776300.0, "wiki_views": 1723}
 {"date": "2026-06-01", "entity": "coinbase", "wiki_views": 676}
 {"close": 21.709999084472656, "date": "2026-06-01", "entity": "coles", "volume": 1480593.0, "wiki_views": 126}
 {"close": 88.43000030517578, "date": "2026-06-01", "entity": "colgate", "volume": 6343900.0, "wiki_views": 485}
@@ -3899,7 +3899,7 @@
 {"date": "2026-06-02", "entity": "church", "wiki_views": 156}
 {"date": "2026-06-02", "entity": "cinemark", "wiki_views": 241}
 {"close": 138.64999389648438, "date": "2026-06-02", "entity": "coach", "volume": 2280800.0, "wiki_views": 254}
-{"date": "2026-06-02", "entity": "cocacola", "wiki_views": 1721}
+{"close": 78.41000366210938, "date": "2026-06-02", "entity": "cocacola", "volume": 12533200.0, "wiki_views": 1721}
 {"date": "2026-06-02", "entity": "coinbase", "wiki_views": 596}
 {"close": 21.549999237060547, "date": "2026-06-02", "entity": "coles", "volume": 3172532.0, "wiki_views": 180}
 {"close": 88.2699966430664, "date": "2026-06-02", "entity": "colgate", "volume": 4153300.0, "wiki_views": 435}
@@ -4324,7 +4324,7 @@
 {"date": "2026-06-03", "entity": "church", "wiki_views": 172}
 {"date": "2026-06-03", "entity": "cinemark", "wiki_views": 205}
 {"close": 139.61000061035156, "date": "2026-06-03", "entity": "coach", "volume": 2448400.0, "wiki_views": 234}
-{"date": "2026-06-03", "entity": "cocacola", "wiki_views": 1716}
+{"close": 78.76000213623047, "date": "2026-06-03", "entity": "cocacola", "volume": 14964300.0, "wiki_views": 1716}
 {"date": "2026-06-03", "entity": "coinbase", "wiki_views": 615}
 {"close": 21.780000686645508, "date": "2026-06-03", "entity": "coles", "volume": 2443960.0, "wiki_views": 148}
 {"close": 84.87000274658203, "date": "2026-06-03", "entity": "colgate", "volume": 7489400.0, "wiki_views": 371}
@@ -4749,7 +4749,7 @@
 {"date": "2026-06-04", "entity": "church", "wiki_views": 159}
 {"date": "2026-06-04", "entity": "cinemark", "wiki_views": 227}
 {"close": 140.47000122070312, "date": "2026-06-04", "entity": "coach", "volume": 3295500.0, "wiki_views": 265}
-{"date": "2026-06-04", "entity": "cocacola", "wiki_views": 1726}
+{"close": 76.81999969482422, "date": "2026-06-04", "entity": "cocacola", "volume": 19361600.0, "wiki_views": 1726}
 {"date": "2026-06-04", "entity": "coinbase", "wiki_views": 574}
 {"close": 21.799999237060547, "date": "2026-06-04", "entity": "coles", "volume": 1734593.0, "wiki_views": 121}
 {"close": 85.0999984741211, "date": "2026-06-04", "entity": "colgate", "volume": 5636300.0, "wiki_views": 360}
@@ -5174,7 +5174,7 @@
 {"date": "2026-06-05", "entity": "church", "wiki_views": 154}
 {"date": "2026-06-05", "entity": "cinemark", "wiki_views": 276}
 {"close": 140.10000610351562, "date": "2026-06-05", "entity": "coach", "volume": 3127500.0, "wiki_views": 297}
-{"date": "2026-06-05", "entity": "cocacola", "wiki_views": 1688}
+{"close": 79.4800033569336, "date": "2026-06-05", "entity": "cocacola", "volume": 25708100.0, "wiki_views": 1688}
 {"date": "2026-06-05", "entity": "coinbase", "wiki_views": 587}
 {"close": 22.209999084472656, "date": "2026-06-05", "entity": "coles", "volume": 3477613.0, "wiki_views": 144}
 {"close": 88.58000183105469, "date": "2026-06-05", "entity": "colgate", "volume": 5961600.0, "wiki_views": 359}
@@ -6448,7 +6448,7 @@
 {"date": "2026-06-08", "entity": "church", "wiki_views": 200}
 {"date": "2026-06-08", "entity": "cinemark", "wiki_views": 211}
 {"close": 140.89999389648438, "date": "2026-06-08", "entity": "coach", "volume": 3363000.0, "wiki_views": 283}
-{"date": "2026-06-08", "entity": "cocacola", "wiki_views": 1749}
+{"close": 79.54000091552734, "date": "2026-06-08", "entity": "cocacola", "volume": 12828900.0, "wiki_views": 1749}
 {"date": "2026-06-08", "entity": "coinbase", "wiki_views": 619}
 {"date": "2026-06-08", "entity": "coles", "wiki_views": 156}
 {"close": 86.06999969482422, "date": "2026-06-08", "entity": "colgate", "volume": 5598700.0, "wiki_views": 588}
@@ -6873,7 +6873,7 @@
 {"date": "2026-06-09", "entity": "church", "wiki_views": 173}
 {"date": "2026-06-09", "entity": "cinemark", "wiki_views": 212}
 {"close": 145.6199951171875, "date": "2026-06-09", "entity": "coach", "volume": 2380100.0, "wiki_views": 248}
-{"date": "2026-06-09", "entity": "cocacola", "wiki_views": 1547}
+{"close": 81.33999633789062, "date": "2026-06-09", "entity": "cocacola", "volume": 20591600.0, "wiki_views": 1547}
 {"date": "2026-06-09", "entity": "coinbase", "wiki_views": 607}
 {"close": 22.610000610351562, "date": "2026-06-09", "entity": "coles", "volume": 4117465.0, "wiki_views": 118}
 {"close": 87.80000305175781, "date": "2026-06-09", "entity": "colgate", "volume": 5486700.0, "wiki_views": 469}
@@ -7297,7 +7297,7 @@
 {"date": "2026-06-10", "entity": "church", "wiki_views": 167}
 {"date": "2026-06-10", "entity": "cinemark", "wiki_views": 182}
 {"close": 140.9199981689453, "date": "2026-06-10", "entity": "coach", "volume": 3008400.0, "wiki_views": 273}
-{"date": "2026-06-10", "entity": "cocacola", "wiki_views": 1741}
+{"close": 83.58999633789062, "date": "2026-06-10", "entity": "cocacola", "volume": 20880500.0, "wiki_views": 1741}
 {"date": "2026-06-10", "entity": "coinbase", "wiki_views": 552}
 {"close": 23.729999542236328, "date": "2026-06-10", "entity": "coles", "volume": 5001661.0, "wiki_views": 150}
 {"close": 89.94999694824219, "date": "2026-06-10", "entity": "colgate", "volume": 5666600.0, "wiki_views": 388}
@@ -7722,7 +7722,7 @@
 {"date": "2026-06-11", "entity": "church", "wiki_views": 145}
 {"date": "2026-06-11", "entity": "cinemark", "wiki_views": 171}
 {"close": 145.38999938964844, "date": "2026-06-11", "entity": "coach", "volume": 2173800.0, "wiki_views": 244}
-{"date": "2026-06-11", "entity": "cocacola", "wiki_views": 1729}
+{"close": 82.52999877929688, "date": "2026-06-11", "entity": "cocacola", "volume": 14264500.0, "wiki_views": 1729}
 {"date": "2026-06-11", "entity": "coinbase", "wiki_views": 662}
 {"close": 24.100000381469727, "date": "2026-06-11", "entity": "coles", "volume": 4539684.0, "wiki_views": 138}
 {"close": 89.38999938964844, "date": "2026-06-11", "entity": "colgate", "volume": 4054000.0, "wiki_views": 445}
@@ -8147,7 +8147,7 @@
 {"date": "2026-06-12", "entity": "church", "wiki_views": 151}
 {"date": "2026-06-12", "entity": "cinemark", "wiki_views": 165}
 {"close": 147.4199981689453, "date": "2026-06-12", "entity": "coach", "volume": 2032000.0, "wiki_views": 252}
-{"date": "2026-06-12", "entity": "cocacola", "wiki_views": 1587}
+{"close": 82.62000274658203, "date": "2026-06-12", "entity": "cocacola", "volume": 11757700.0, "wiki_views": 1587}
 {"date": "2026-06-12", "entity": "coinbase", "wiki_views": 563}
 {"close": 24.010000228881836, "date": "2026-06-12", "entity": "coles", "volume": 2681470.0, "wiki_views": 91}
 {"close": 89.44999694824219, "date": "2026-06-12", "entity": "colgate", "volume": 3719000.0, "wiki_views": 419}
@@ -9421,7 +9421,7 @@
 {"date": "2026-06-15", "entity": "church", "wiki_views": 115}
 {"date": "2026-06-15", "entity": "cinemark", "wiki_views": 179}
 {"close": 150.99000549316406, "date": "2026-06-15", "entity": "coach", "volume": 3558600.0, "wiki_views": 258}
-{"date": "2026-06-15", "entity": "cocacola", "wiki_views": 1828}
+{"close": 80.91000366210938, "date": "2026-06-15", "entity": "cocacola", "volume": 20055200.0, "wiki_views": 1828}
 {"date": "2026-06-15", "entity": "coinbase", "wiki_views": 556}
 {"close": 23.510000228881836, "date": "2026-06-15", "entity": "coles", "volume": 4771873.0, "wiki_views": 117}
 {"close": 90.58000183105469, "date": "2026-06-15", "entity": "colgate", "volume": 5627100.0, "wiki_views": 376}
@@ -9846,7 +9846,7 @@
 {"date": "2026-06-16", "entity": "church", "wiki_views": 179}
 {"date": "2026-06-16", "entity": "cinemark", "wiki_views": 178}
 {"close": 149.38999938964844, "date": "2026-06-16", "entity": "coach", "volume": 2343200.0, "wiki_views": 247}
-{"date": "2026-06-16", "entity": "cocacola", "wiki_views": 1701}
+{"close": 80.27999877929688, "date": "2026-06-16", "entity": "cocacola", "volume": 17565100.0, "wiki_views": 1701}
 {"date": "2026-06-16", "entity": "coinbase", "wiki_views": 569}
 {"close": 23.43000030517578, "date": "2026-06-16", "entity": "coles", "volume": 1968750.0, "wiki_views": 83}
 {"close": 90.66000366210938, "date": "2026-06-16", "entity": "colgate", "volume": 6036200.0, "wiki_views": 454}
@@ -10270,7 +10270,7 @@
 {"date": "2026-06-17", "entity": "church", "wiki_views": 192}
 {"date": "2026-06-17", "entity": "cinemark", "wiki_views": 225}
 {"close": 145.8699951171875, "date": "2026-06-17", "entity": "coach", "volume": 2246500.0, "wiki_views": 240}
-{"date": "2026-06-17", "entity": "cocacola", "wiki_views": 1738}
+{"close": 79.93000030517578, "date": "2026-06-17", "entity": "cocacola", "volume": 17055400.0, "wiki_views": 1738}
 {"date": "2026-06-17", "entity": "coinbase", "wiki_views": 563}
 {"close": 23.1200008392334, "date": "2026-06-17", "entity": "coles", "volume": 3707720.0, "wiki_views": 124}
 {"close": 90.58000183105469, "date": "2026-06-17", "entity": "colgate", "volume": 5500600.0, "wiki_views": 383}
@@ -10695,7 +10695,7 @@
 {"date": "2026-06-18", "entity": "church", "wiki_views": 153}
 {"date": "2026-06-18", "entity": "cinemark", "wiki_views": 191}
 {"close": 143.5, "date": "2026-06-18", "entity": "coach", "volume": 5860900.0, "wiki_views": 195}
-{"date": "2026-06-18", "entity": "cocacola", "wiki_views": 1577}
+{"close": 79.38999938964844, "date": "2026-06-18", "entity": "cocacola", "volume": 46857900.0, "wiki_views": 1577}
 {"date": "2026-06-18", "entity": "coinbase", "wiki_views": 501}
 {"close": 23.3700008392334, "date": "2026-06-18", "entity": "coles", "volume": 2720446.0, "wiki_views": 96}
 {"close": 89.4800033569336, "date": "2026-06-18", "entity": "colgate", "volume": 11201300.0, "wiki_views": 404}
@@ -12394,7 +12394,7 @@
 {"date": "2026-06-22", "entity": "church", "wiki_views": 196}
 {"date": "2026-06-22", "entity": "cinemark", "wiki_views": 218}
 {"close": 149.1999969482422, "date": "2026-06-22", "entity": "coach", "volume": 2991900.0, "wiki_views": 241}
-{"date": "2026-06-22", "entity": "cocacola", "wiki_views": 1510}
+{"close": 79.52999877929688, "date": "2026-06-22", "entity": "cocacola", "volume": 21205900.0, "wiki_views": 1510}
 {"date": "2026-06-22", "entity": "coinbase", "wiki_views": 496}
 {"close": 23.690000534057617, "date": "2026-06-22", "entity": "coles", "volume": 1352669.0, "wiki_views": 129}
 {"close": 88.66999816894531, "date": "2026-06-22", "entity": "colgate", "volume": 6009800.0, "wiki_views": 375}
@@ -12818,7 +12818,7 @@
 {"date": "2026-06-23", "entity": "church", "wiki_views": 173}
 {"date": "2026-06-23", "entity": "cinemark", "wiki_views": 243}
 {"close": 150.52999877929688, "date": "2026-06-23", "entity": "coach", "volume": 2755900.0, "wiki_views": 246}
-{"date": "2026-06-23", "entity": "cocacola", "wiki_views": 1539}
+{"close": 80.30999755859375, "date": "2026-06-23", "entity": "cocacola", "volume": 16854000.0, "wiki_views": 1539}
 {"date": "2026-06-23", "entity": "coinbase", "wiki_views": 516}
 {"close": 23.860000610351562, "date": "2026-06-23", "entity": "coles", "volume": 1709771.0, "wiki_views": 139}
 {"close": 91.43000030517578, "date": "2026-06-23", "entity": "colgate", "volume": 6377500.0, "wiki_views": 399}
@@ -13242,7 +13242,7 @@
 {"date": "2026-06-24", "entity": "church", "wiki_views": 177}
 {"date": "2026-06-24", "entity": "cinemark", "wiki_views": 201}
 {"close": 149.75, "date": "2026-06-24", "entity": "coach", "volume": 2017900.0, "wiki_views": 235}
-{"date": "2026-06-24", "entity": "cocacola", "wiki_views": 1641}
+{"close": 80.5999984741211, "date": "2026-06-24", "entity": "cocacola", "volume": 20632600.0, "wiki_views": 1641}
 {"date": "2026-06-24", "entity": "coinbase", "wiki_views": 584}
 {"close": 23.770000457763672, "date": "2026-06-24", "entity": "coles", "volume": 3279359.0, "wiki_views": 146}
 {"close": 91.87999725341797, "date": "2026-06-24", "entity": "colgate", "volume": 4643200.0, "wiki_views": 366}
@@ -13667,7 +13667,7 @@
 {"date": "2026-06-25", "entity": "church", "wiki_views": 174}
 {"date": "2026-06-25", "entity": "cinemark", "wiki_views": 177}
 {"close": 146.0, "date": "2026-06-25", "entity": "coach", "volume": 2894800.0, "wiki_views": 264}
-{"date": "2026-06-25", "entity": "cocacola", "wiki_views": 1588}
+{"close": 80.41999816894531, "date": "2026-06-25", "entity": "cocacola", "volume": 16021400.0, "wiki_views": 1588}
 {"date": "2026-06-25", "entity": "coinbase", "wiki_views": 642}
 {"close": 24.059999465942383, "date": "2026-06-25", "entity": "coles", "volume": 2618403.0, "wiki_views": 121}
 {"close": 91.05999755859375, "date": "2026-06-25", "entity": "colgate", "volume": 4130000.0, "wiki_views": 407}
@@ -14092,7 +14092,7 @@
 {"date": "2026-06-26", "entity": "church", "wiki_views": 168}
 {"date": "2026-06-26", "entity": "cinemark", "wiki_views": 199}
 {"close": 146.0, "date": "2026-06-26", "entity": "coach", "volume": 6371000.0, "wiki_views": 257}
-{"date": "2026-06-26", "entity": "cocacola", "wiki_views": 1638}
+{"close": 82.62999725341797, "date": "2026-06-26", "entity": "cocacola", "volume": 53357500.0, "wiki_views": 1638}
 {"date": "2026-06-26", "entity": "coinbase", "wiki_views": 595}
 {"close": 24.40999984741211, "date": "2026-06-26", "entity": "coles", "volume": 2104351.0, "wiki_views": 161}
 {"close": 92.06999969482422, "date": "2026-06-26", "entity": "colgate", "volume": 8777200.0, "wiki_views": 351}
@@ -15364,7 +15364,7 @@
 {"date": "2026-06-29", "entity": "church", "wiki_views": 227}
 {"date": "2026-06-29", "entity": "cinemark", "wiki_views": 214}
 {"close": 146.55999755859375, "date": "2026-06-29", "entity": "coach", "volume": 2733900.0, "wiki_views": 246}
-{"date": "2026-06-29", "entity": "cocacola", "wiki_views": 1607}
+{"close": 82.6500015258789, "date": "2026-06-29", "entity": "cocacola", "volume": 15015800.0, "wiki_views": 1607}
 {"date": "2026-06-29", "entity": "coinbase", "wiki_views": 496}
 {"close": 24.360000610351562, "date": "2026-06-29", "entity": "coles", "volume": 1967389.0, "wiki_views": 116}
 {"close": 92.4000015258789, "date": "2026-06-29", "entity": "colgate", "volume": 4800100.0, "wiki_views": 403}
@@ -15788,7 +15788,7 @@
 {"date": "2026-06-30", "entity": "church", "wiki_views": 185}
 {"date": "2026-06-30", "entity": "cinemark", "wiki_views": 158}
 {"close": 146.3800048828125, "date": "2026-06-30", "entity": "coach", "volume": 3170600.0, "wiki_views": 226}
-{"date": "2026-06-30", "entity": "cocacola", "wiki_views": 1647}
+{"close": 81.2699966430664, "date": "2026-06-30", "entity": "cocacola", "volume": 16422100.0, "wiki_views": 1647}
 {"date": "2026-06-30", "entity": "coinbase", "wiki_views": 531}
 {"close": 24.3700008392334, "date": "2026-06-30", "entity": "coles", "volume": 2210491.0, "wiki_views": 122}
 {"close": 91.68000030517578, "date": "2026-06-30", "entity": "colgate", "volume": 3748100.0, "wiki_views": 363}
@@ -16213,7 +16213,7 @@
 {"date": "2026-07-01", "entity": "church", "wiki_views": 185}
 {"date": "2026-07-01", "entity": "cinemark", "wiki_views": 183}
 {"close": 143.99000549316406, "date": "2026-07-01", "entity": "coach", "volume": 2410200.0, "wiki_views": 237}
-{"date": "2026-07-01", "entity": "cocacola", "wiki_views": 1564}
+{"close": 81.29000091552734, "date": "2026-07-01", "entity": "cocacola", "volume": 21734800.0, "wiki_views": 1564}
 {"date": "2026-07-01", "entity": "coinbase", "wiki_views": 550}
 {"close": 23.350000381469727, "date": "2026-07-01", "entity": "coles", "volume": 5411158.0, "wiki_views": 177}
 {"close": 92.76000213623047, "date": "2026-07-01", "entity": "colgate", "volume": 4040600.0, "wiki_views": 312}
@@ -16638,7 +16638,7 @@
 {"date": "2026-07-02", "entity": "church", "wiki_views": 192}
 {"date": "2026-07-02", "entity": "cinemark", "wiki_views": 138}
 {"close": 144.2100067138672, "date": "2026-07-02", "entity": "coach", "volume": 2705700.0, "wiki_views": 229}
-{"date": "2026-07-02", "entity": "cocacola", "wiki_views": 1677}
+{"close": 84.13999938964844, "date": "2026-07-02", "entity": "cocacola", "volume": 18308400.0, "wiki_views": 1677}
 {"date": "2026-07-02", "entity": "coinbase", "wiki_views": 516}
 {"close": 23.100000381469727, "date": "2026-07-02", "entity": "coles", "volume": 5787432.0, "wiki_views": 130}
 {"close": 95.12999725341797, "date": "2026-07-02", "entity": "colgate", "volume": 4170900.0, "wiki_views": 347}
@@ -18337,7 +18337,7 @@
 {"date": "2026-07-06", "entity": "church", "wiki_views": 242}
 {"date": "2026-07-06", "entity": "cinemark", "wiki_views": 136}
 {"close": 145.49000549316406, "date": "2026-07-06", "entity": "coach", "volume": 1625800.0, "wiki_views": 240}
-{"date": "2026-07-06", "entity": "cocacola", "wiki_views": 1698}
+{"close": 82.95999908447266, "date": "2026-07-06", "entity": "cocacola", "volume": 18992600.0, "wiki_views": 1698}
 {"date": "2026-07-06", "entity": "coinbase", "wiki_views": 520}
 {"close": 23.239999771118164, "date": "2026-07-06", "entity": "coles", "volume": 1750487.0, "wiki_views": 98}
 {"close": 93.38999938964844, "date": "2026-07-06", "entity": "colgate", "volume": 5177200.0, "wiki_views": 397}
@@ -18762,7 +18762,7 @@
 {"date": "2026-07-07", "entity": "church", "wiki_views": 238}
 {"date": "2026-07-07", "entity": "cinemark", "wiki_views": 170}
 {"close": 146.3000030517578, "date": "2026-07-07", "entity": "coach", "volume": 2427600.0, "wiki_views": 230}
-{"date": "2026-07-07", "entity": "cocacola", "wiki_views": 1766}
+{"close": 84.05000305175781, "date": "2026-07-07", "entity": "cocacola", "volume": 17835200.0, "wiki_views": 1766}
 {"date": "2026-07-07", "entity": "coinbase", "wiki_views": 589}
 {"close": 23.31999969482422, "date": "2026-07-07", "entity": "coles", "volume": 2534604.0, "wiki_views": 113}
 {"close": 95.02999877929688, "date": "2026-07-07", "entity": "colgate", "volume": 4230900.0, "wiki_views": 389}
@@ -19187,7 +19187,7 @@
 {"date": "2026-07-08", "entity": "church", "wiki_views": 245}
 {"date": "2026-07-08", "entity": "cinemark", "wiki_views": 173}
 {"close": 140.13999938964844, "date": "2026-07-08", "entity": "coach", "volume": 2589500.0, "wiki_views": 239}
-{"date": "2026-07-08", "entity": "cocacola", "wiki_views": 1577}
+{"close": 83.4000015258789, "date": "2026-07-08", "entity": "cocacola", "volume": 14160000.0, "wiki_views": 1577}
 {"date": "2026-07-08", "entity": "coinbase", "wiki_views": 599}
 {"close": 23.40999984741211, "date": "2026-07-08", "entity": "coles", "volume": 2826620.0, "wiki_views": 109}
 {"close": 93.04000091552734, "date": "2026-07-08", "entity": "colgate", "volume": 4178400.0, "wiki_views": 383}
@@ -19612,7 +19612,7 @@
 {"date": "2026-07-09", "entity": "church", "wiki_views": 217}
 {"date": "2026-07-09", "entity": "cinemark", "wiki_views": 216}
 {"close": 139.92999267578125, "date": "2026-07-09", "entity": "coach", "volume": 2010700.0, "wiki_views": 225}
-{"date": "2026-07-09", "entity": "cocacola", "wiki_views": 1650}
+{"close": 82.62999725341797, "date": "2026-07-09", "entity": "cocacola", "volume": 15782500.0, "wiki_views": 1650}
 {"date": "2026-07-09", "entity": "coinbase", "wiki_views": 467}
 {"close": 23.670000076293945, "date": "2026-07-09", "entity": "coles", "volume": 1901993.0, "wiki_views": 141}
 {"close": 91.01000213623047, "date": "2026-07-09", "entity": "colgate", "volume": 6109100.0, "wiki_views": 428}
@@ -20037,7 +20037,7 @@
 {"date": "2026-07-10", "entity": "church", "wiki_views": 168}
 {"date": "2026-07-10", "entity": "cinemark", "wiki_views": 179}
 {"close": 140.72999572753906, "date": "2026-07-10", "entity": "coach", "volume": 1413200.0, "wiki_views": 240}
-{"date": "2026-07-10", "entity": "cocacola", "wiki_views": 1500}
+{"close": 83.48999786376953, "date": "2026-07-10", "entity": "cocacola", "volume": 10694600.0, "wiki_views": 1500}
 {"date": "2026-07-10", "entity": "coinbase", "wiki_views": 564}
 {"close": 23.559999465942383, "date": "2026-07-10", "entity": "coles", "volume": 1250906.0, "wiki_views": 130}
 {"close": 92.23999786376953, "date": "2026-07-10", "entity": "colgate", "volume": 4257100.0, "wiki_views": 383}
@@ -21310,7 +21310,7 @@
 {"date": "2026-07-13", "entity": "church", "wiki_views": 164}
 {"date": "2026-07-13", "entity": "cinemark", "wiki_views": 153}
 {"close": 136.1300048828125, "date": "2026-07-13", "entity": "coach", "volume": 3104500.0, "wiki_views": 231}
-{"date": "2026-07-13", "entity": "cocacola", "wiki_views": 1537}
+{"close": 84.25, "date": "2026-07-13", "entity": "cocacola", "volume": 12085800.0, "wiki_views": 1537}
 {"date": "2026-07-13", "entity": "coinbase", "wiki_views": 587}
 {"close": 23.1200008392334, "date": "2026-07-13", "entity": "coles", "volume": 3421714.0, "wiki_views": 141}
 {"close": 93.20999908447266, "date": "2026-07-13", "entity": "colgate", "volume": 3911200.0, "wiki_views": 386}
@@ -21734,7 +21734,7 @@
 {"date": "2026-07-14", "entity": "church", "wiki_views": 130}
 {"date": "2026-07-14", "entity": "cinemark", "wiki_views": 162}
 {"close": 135.36000061035156, "date": "2026-07-14", "entity": "coach", "volume": 2424000.0, "wiki_views": 219}
-{"date": "2026-07-14", "entity": "cocacola", "wiki_views": 1491}
+{"close": 83.08000183105469, "date": "2026-07-14", "entity": "cocacola", "volume": 13775400.0, "wiki_views": 1491}
 {"date": "2026-07-14", "entity": "coinbase", "wiki_views": 657}
 {"close": 22.8799991607666, "date": "2026-07-14", "entity": "coles", "volume": 2403597.0, "wiki_views": 154}
 {"close": 91.02999877929688, "date": "2026-07-14", "entity": "colgate", "volume": 3770600.0, "wiki_views": 380}
@@ -22159,7 +22159,7 @@
 {"date": "2026-07-15", "entity": "church", "wiki_views": 175}
 {"date": "2026-07-15", "entity": "cinemark", "wiki_views": 175}
 {"close": 140.25999450683594, "date": "2026-07-15", "entity": "coach", "volume": 2369500.0, "wiki_views": 224}
-{"date": "2026-07-15", "entity": "cocacola", "wiki_views": 1646}
+{"close": 82.44999694824219, "date": "2026-07-15", "entity": "cocacola", "volume": 18383800.0, "wiki_views": 1646}
 {"date": "2026-07-15", "entity": "coinbase", "wiki_views": 655}
 {"close": 22.690000534057617, "date": "2026-07-15", "entity": "coles", "volume": 3751350.0, "wiki_views": 122}
 {"close": 91.47000122070312, "date": "2026-07-15", "entity": "colgate", "volume": 3474600.0, "wiki_views": 478}
@@ -22584,7 +22584,7 @@
 {"date": "2026-07-16", "entity": "church", "wiki_views": 163}
 {"date": "2026-07-16", "entity": "cinemark", "wiki_views": 224}
 {"close": 144.19000244140625, "date": "2026-07-16", "entity": "coach", "volume": 4123900.0, "wiki_views": 261}
-{"date": "2026-07-16", "entity": "cocacola", "wiki_views": 1608}
+{"close": 84.91999816894531, "date": "2026-07-16", "entity": "cocacola", "volume": 17889900.0, "wiki_views": 1608}
 {"date": "2026-07-16", "entity": "coinbase", "wiki_views": 573}
 {"close": 22.559999465942383, "date": "2026-07-16", "entity": "coles", "volume": 2843081.0, "wiki_views": 96}
 {"close": 94.06999969482422, "date": "2026-07-16", "entity": "colgate", "volume": 3517400.0, "wiki_views": 378}
@@ -23009,7 +23009,7 @@
 {"date": "2026-07-17", "entity": "church", "wiki_views": 162}
 {"date": "2026-07-17", "entity": "cinemark", "wiki_views": 263}
 {"close": 141.4600067138672, "date": "2026-07-17", "entity": "coach", "volume": 2324400.0, "wiki_views": 217}
-{"date": "2026-07-17", "entity": "cocacola", "wiki_views": 1646}
+{"close": 81.55999755859375, "date": "2026-07-17", "entity": "cocacola", "volume": 32903000.0, "wiki_views": 1646}
 {"date": "2026-07-17", "entity": "coinbase", "wiki_views": 593}
 {"close": 23.209999084472656, "date": "2026-07-17", "entity": "coles", "volume": 3918235.0, "wiki_views": 162}
 {"close": 92.9800033569336, "date": "2026-07-17", "entity": "colgate", "volume": 4185700.0, "wiki_views": 361}
@@ -24281,7 +24281,7 @@
 {"date": "2026-07-20", "entity": "church", "wiki_views": 266}
 {"date": "2026-07-20", "entity": "cinemark", "wiki_views": 286}
 {"close": 141.1199951171875, "date": "2026-07-20", "entity": "coach", "volume": 2264900.0, "wiki_views": 194}
-{"date": "2026-07-20", "entity": "cocacola", "wiki_views": 1646}
+{"close": 82.12000274658203, "date": "2026-07-20", "entity": "cocacola", "volume": 14967200.0, "wiki_views": 1646}
 {"date": "2026-07-20", "entity": "coinbase", "wiki_views": 474}
 {"close": 23.3799991607666, "date": "2026-07-20", "entity": "coles", "volume": 1710079.0, "wiki_views": 102}
 {"close": 91.93000030517578, "date": "2026-07-20", "entity": "colgate", "volume": 5180600.0, "wiki_views": 418}
@@ -24706,7 +24706,7 @@
 {"date": "2026-07-21", "entity": "church", "wiki_views": 246}
 {"date": "2026-07-21", "entity": "cinemark", "wiki_views": 306}
 {"close": 142.16000366210938, "date": "2026-07-21", "entity": "coach", "volume": 1656000.0, "wiki_views": 262}
-{"date": "2026-07-21", "entity": "cocacola", "wiki_views": 1686}
+{"close": 81.97000122070312, "date": "2026-07-21", "entity": "cocacola", "volume": 12949400.0, "wiki_views": 1686}
 {"date": "2026-07-21", "entity": "coinbase", "wiki_views": 617}
 {"close": 23.299999237060547, "date": "2026-07-21", "entity": "coles", "volume": 1631785.0, "wiki_views": 122}
 {"close": 90.5, "date": "2026-07-21", "entity": "colgate", "volume": 3772200.0, "wiki_views": 393}
@@ -25131,7 +25131,7 @@
 {"date": "2026-07-22", "entity": "church", "wiki_views": 220}
 {"date": "2026-07-22", "entity": "cinemark", "wiki_views": 261}
 {"close": 143.72999572753906, "date": "2026-07-22", "entity": "coach", "volume": 2034600.0, "wiki_views": 250}
-{"date": "2026-07-22", "entity": "cocacola", "wiki_views": 1575}
+{"close": 82.19999694824219, "date": "2026-07-22", "entity": "cocacola", "volume": 11701300.0, "wiki_views": 1575}
 {"date": "2026-07-22", "entity": "coinbase", "wiki_views": 626}
 {"close": 23.399999618530273, "date": "2026-07-22", "entity": "coles", "volume": 2197364.0, "wiki_views": 105}
 {"close": 91.62999725341797, "date": "2026-07-22", "entity": "colgate", "volume": 4443500.0, "wiki_views": 429}
@@ -25556,7 +25556,7 @@
 {"date": "2026-07-23", "entity": "church", "wiki_views": 224}
 {"date": "2026-07-23", "entity": "cinemark", "wiki_views": 251}
 {"close": 139.1300048828125, "date": "2026-07-23", "entity": "coach", "volume": 1674800.0, "wiki_views": 220}
-{"date": "2026-07-23", "entity": "cocacola", "wiki_views": 1745}
+{"close": 81.16999816894531, "date": "2026-07-23", "entity": "cocacola", "volume": 13755600.0, "wiki_views": 1745}
 {"date": "2026-07-23", "entity": "coinbase", "wiki_views": 644}
 {"close": 23.43000030517578, "date": "2026-07-23", "entity": "coles", "volume": 3190585.0, "wiki_views": 111}
 {"close": 90.08000183105469, "date": "2026-07-23", "entity": "colgate", "volume": 5166400.0, "wiki_views": 387}
@@ -25980,7 +25980,7 @@
 {"date": "2026-07-24", "entity": "church", "wiki_views": 189}
 {"date": "2026-07-24", "entity": "cinemark", "wiki_views": 259}
 {"close": 142.60000610351562, "date": "2026-07-24", "entity": "coach", "volume": 1485900.0, "wiki_views": 236}
-{"date": "2026-07-24", "entity": "cocacola", "wiki_views": 1374}
+{"close": 82.25, "date": "2026-07-24", "entity": "cocacola", "volume": 11980400.0, "wiki_views": 1374}
 {"date": "2026-07-24", "entity": "coinbase", "wiki_views": 1167}
 {"close": 23.43000030517578, "date": "2026-07-24", "entity": "coles", "volume": 2492355.0, "wiki_views": 116}
 {"close": 90.75, "date": "2026-07-24", "entity": "colgate", "volume": 3192300.0, "wiki_views": 382}
@@ -27253,7 +27253,7 @@
 {"date": "2026-07-27", "entity": "church", "wiki_views": 219}
 {"date": "2026-07-27", "entity": "cinemark", "wiki_views": 282}
 {"close": 147.42999267578125, "date": "2026-07-27", "entity": "coach", "volume": 2000200.0, "wiki_views": 239}
-{"date": "2026-07-27", "entity": "cocacola", "wiki_views": 1492}
+{"close": 84.06999969482422, "date": "2026-07-27", "entity": "cocacola", "volume": 19937600.0, "wiki_views": 1492}
 {"date": "2026-07-27", "entity": "coinbase", "wiki_views": 631}
 {"close": 23.530000686645508, "date": "2026-07-27", "entity": "coles", "volume": 1795800.0, "wiki_views": 89}
 {"close": 91.9800033569336, "date": "2026-07-27", "entity": "colgate", "volume": 3772100.0, "wiki_views": 410}
@@ -27677,7 +27677,7 @@
 {"date": "2026-07-28", "entity": "church", "wiki_views": 199}
 {"date": "2026-07-28", "entity": "cinemark", "wiki_views": 255}
 {"close": 150.89999389648438, "date": "2026-07-28", "entity": "coach", "volume": 2177300.0, "wiki_views": 278}
-{"date": "2026-07-28", "entity": "cocacola", "wiki_views": 1732}
+{"close": 88.2699966430664, "date": "2026-07-28", "entity": "cocacola", "volume": 34982900.0, "wiki_views": 1732}
 {"date": "2026-07-28", "entity": "coinbase", "wiki_views": 563}
 {"close": 23.790000915527344, "date": "2026-07-28", "entity": "coles", "volume": 2530408.0, "wiki_views": 111}
 {"close": 92.7300033569336, "date": "2026-07-28", "entity": "colgate", "volume": 5089700.0, "wiki_views": 425}
@@ -28102,7 +28102,7 @@
 {"date": "2026-07-29", "entity": "church", "wiki_views": 199}
 {"date": "2026-07-29", "entity": "cinemark", "wiki_views": 179}
 {"close": 150.11000061035156, "date": "2026-07-29", "entity": "coach", "volume": 2776500.0, "wiki_views": 259}
-{"date": "2026-07-29", "entity": "cocacola", "wiki_views": 1622}
+{"close": 89.08000183105469, "date": "2026-07-29", "entity": "cocacola", "volume": 21711700.0, "wiki_views": 1622}
 {"date": "2026-07-29", "entity": "coinbase", "wiki_views": 498}
 {"close": 24.3799991607666, "date": "2026-07-29", "entity": "coles", "volume": 3126377.0, "wiki_views": 147}
 {"close": 93.48999786376953, "date": "2026-07-29", "entity": "colgate", "volume": 5866300.0, "wiki_views": 471}
@@ -28527,7 +28527,7 @@
 {"date": "2026-07-30", "entity": "church", "wiki_views": 179}
 {"date": "2026-07-30", "entity": "cinemark", "wiki_views": 248}
 {"close": 152.5800018310547, "date": "2026-07-30", "entity": "coach", "volume": 1440800.0, "wiki_views": 272}
-{"date": "2026-07-30", "entity": "cocacola", "wiki_views": 1532}
+{"close": 88.48999786376953, "date": "2026-07-30", "entity": "cocacola", "volume": 17616100.0, "wiki_views": 1532}
 {"date": "2026-07-30", "entity": "coinbase", "wiki_views": 529}
 {"close": 24.260000228881836, "date": "2026-07-30", "entity": "coles", "volume": 1900666.0, "wiki_views": 111}
 {"close": 91.5999984741211, "date": "2026-07-30", "entity": "colgate", "volume": 4678800.0, "wiki_views": 384}
@@ -28951,7 +28951,7 @@
 {"date": "2026-07-31", "entity": "church", "wiki_views": 162}
 {"date": "2026-07-31", "entity": "cinemark", "wiki_views": 299}
 {"close": 152.3699951171875, "date": "2026-07-31", "entity": "coach", "volume": 1750000.0, "wiki_views": 314}
-{"date": "2026-07-31", "entity": "cocacola", "wiki_views": 1433}
+{"close": 87.58999633789062, "date": "2026-07-31", "entity": "cocacola", "volume": 14725900.0, "wiki_views": 1433}
 {"date": "2026-07-31", "entity": "coinbase", "wiki_views": 540}
 {"close": 24.09000015258789, "date": "2026-07-31", "entity": "coles", "volume": 2916397.0, "wiki_views": 96}
 {"close": 91.30000305175781, "date": "2026-07-31", "entity": "colgate", "volume": 6661500.0, "wiki_views": 437}
@@ -30225,7 +30225,7 @@
 {"date": "2026-08-03", "entity": "church", "wiki_views": 195}
 {"date": "2026-08-03", "entity": "cinemark", "wiki_views": 270}
 {"close": 155.6300048828125, "date": "2026-08-03", "entity": "coach", "volume": 1659600.0, "wiki_views": 294}
-{"date": "2026-08-03", "entity": "cocacola", "wiki_views": 1532}
+{"close": 86.86000061035156, "date": "2026-08-03", "entity": "cocacola", "volume": 23197100.0, "wiki_views": 1532}
 {"date": "2026-08-03", "entity": "coinbase", "wiki_views": 488}
 {"close": 24.270000457763672, "date": "2026-08-03", "entity": "coles", "volume": 1507669.0, "wiki_views": 123}
 {"close": 89.87999725341797, "date": "2026-08-03", "entity": "colgate", "volume": 5731800.0, "wiki_views": 464}
@@ -30649,7 +30649,7 @@
 {"date": "2026-08-04", "entity": "church", "wiki_views": 175}
 {"date": "2026-08-04", "entity": "cinemark", "wiki_views": 245}
 {"close": 155.97000122070312, "date": "2026-08-04", "entity": "coach", "volume": 1649900.0, "wiki_views": 300}
-{"date": "2026-08-04", "entity": "cocacola", "wiki_views": 1849}
+{"close": 86.55999755859375, "date": "2026-08-04", "entity": "cocacola", "volume": 17085700.0, "wiki_views": 1849}
 {"date": "2026-08-04", "entity": "coinbase", "wiki_views": 476}
 {"close": 24.329999923706055, "date": "2026-08-04", "entity": "coles", "volume": 2303985.0, "wiki_views": 116}
 {"close": 92.52999877929688, "date": "2026-08-04", "entity": "colgate", "volume": 6831300.0, "wiki_views": 404}
@@ -31074,7 +31074,7 @@
 {"date": "2026-08-05", "entity": "church", "wiki_views": 170}
 {"date": "2026-08-05", "entity": "cinemark", "wiki_views": 237}
 {"close": 159.16000366210938, "date": "2026-08-05", "entity": "coach", "volume": 1801300.0, "wiki_views": 273}
-{"date": "2026-08-05", "entity": "cocacola", "wiki_views": 1794}
+{"close": 86.83000183105469, "date": "2026-08-05", "entity": "cocacola", "volume": 15868600.0, "wiki_views": 1794}
 {"date": "2026-08-05", "entity": "coinbase", "wiki_views": 530}
 {"close": 24.219999313354492, "date": "2026-08-05", "entity": "coles", "volume": 1988689.0, "wiki_views": 123}
 {"close": 93.27999877929688, "date": "2026-08-05", "entity": "colgate", "volume": 6374900.0, "wiki_views": 450}
@@ -31499,7 +31499,7 @@
 {"date": "2026-08-06", "entity": "church", "wiki_views": 147}
 {"date": "2026-08-06", "entity": "cinemark", "wiki_views": 210}
 {"close": 162.0, "date": "2026-08-06", "entity": "coach", "volume": 2003900.0, "wiki_views": 293}
-{"date": "2026-08-06", "entity": "cocacola", "wiki_views": 1738}
+{"close": 86.8499984741211, "date": "2026-08-06", "entity": "cocacola", "volume": 13568500.0, "wiki_views": 1738}
 {"date": "2026-08-06", "entity": "coinbase", "wiki_views": 487}
 {"close": 24.360000610351562, "date": "2026-08-06", "entity": "coles", "volume": 2069542.0, "wiki_views": 101}
 {"close": 93.0, "date": "2026-08-06", "entity": "colgate", "volume": 4686400.0, "wiki_views": 396}
@@ -31924,7 +31924,7 @@
 {"date": "2026-08-07", "entity": "church", "wiki_views": 163}
 {"date": "2026-08-07", "entity": "cinemark", "wiki_views": 211}
 {"close": 162.36000061035156, "date": "2026-08-07", "entity": "coach", "volume": 2225200.0, "wiki_views": 306}
-{"date": "2026-08-07", "entity": "cocacola", "wiki_views": 1924}
+{"close": 87.05000305175781, "date": "2026-08-07", "entity": "cocacola", "volume": 11221700.0, "wiki_views": 1924}
 {"date": "2026-08-07", "entity": "coinbase", "wiki_views": 351}
 {"close": 24.190000534057617, "date": "2026-08-07", "entity": "coles", "volume": 1712601.0, "wiki_views": 159}
 {"close": 93.2699966430664, "date": "2026-08-07", "entity": "colgate", "volume": 3738700.0, "wiki_views": 365}
@@ -33199,7 +33199,7 @@
 {"date": "2026-08-10", "entity": "church", "wiki_views": 172}
 {"date": "2026-08-10", "entity": "cinemark", "wiki_views": 187}
 {"close": 164.77999877929688, "date": "2026-08-10", "entity": "coach", "volume": 2488600.0, "wiki_views": 272}
-{"date": "2026-08-10", "entity": "cocacola", "wiki_views": 1666}
+{"close": 86.87000274658203, "date": "2026-08-10", "entity": "cocacola", "volume": 13710800.0, "wiki_views": 1666}
 {"date": "2026-08-10", "entity": "coinbase", "wiki_views": 400}
 {"close": 23.899999618530273, "date": "2026-08-10", "entity": "coles", "volume": 2174785.0, "wiki_views": 105}
 {"close": 93.1500015258789, "date": "2026-08-10", "entity": "colgate", "volume": 3850400.0, "wiki_views": 422}
@@ -33624,7 +33624,7 @@
 {"date": "2026-08-11", "entity": "church", "wiki_views": 163}
 {"date": "2026-08-11", "entity": "cinemark", "wiki_views": 189}
 {"close": 160.5399932861328, "date": "2026-08-11", "entity": "coach", "volume": 3932100.0, "wiki_views": 242}
-{"date": "2026-08-11", "entity": "cocacola", "wiki_views": 1807}
+{"close": 86.4800033569336, "date": "2026-08-11", "entity": "cocacola", "volume": 16018000.0, "wiki_views": 1807}
 {"date": "2026-08-11", "entity": "coinbase", "wiki_views": 400}
 {"close": 23.639999389648438, "date": "2026-08-11", "entity": "coles", "volume": 1946713.0, "wiki_views": 126}
 {"close": 92.30999755859375, "date": "2026-08-11", "entity": "colgate", "volume": 3067900.0, "wiki_views": 682}
@@ -34049,7 +34049,7 @@
 {"date": "2026-08-12", "entity": "church", "wiki_views": 169}
 {"date": "2026-08-12", "entity": "cinemark", "wiki_views": 194}
 {"close": 153.74000549316406, "date": "2026-08-12", "entity": "coach", "volume": 3801100.0, "wiki_views": 258}
-{"date": "2026-08-12", "entity": "cocacola", "wiki_views": 1612}
+{"close": 86.70999908447266, "date": "2026-08-12", "entity": "cocacola", "volume": 12651900.0, "wiki_views": 1612}
 {"date": "2026-08-12", "entity": "coinbase", "wiki_views": 250}
 {"close": 23.440000534057617, "date": "2026-08-12", "entity": "coles", "volume": 1730009.0, "wiki_views": 507}
 {"close": 92.31999969482422, "date": "2026-08-12", "entity": "colgate", "volume": 3416900.0, "wiki_views": 497}
@@ -34474,7 +34474,7 @@
 {"date": "2026-08-13", "entity": "church", "wiki_views": 159}
 {"date": "2026-08-13", "entity": "cinemark", "wiki_views": 176}
 {"close": 128.38999938964844, "date": "2026-08-13", "entity": "coach", "volume": 8534000.0, "wiki_views": 294}
-{"date": "2026-08-13", "entity": "cocacola", "wiki_views": 1676}
+{"close": 87.41999816894531, "date": "2026-08-13", "entity": "cocacola", "volume": 10140600.0, "wiki_views": 1676}
 {"date": "2026-08-13", "entity": "coinbase", "wiki_views": 336}
 {"close": 23.670000076293945, "date": "2026-08-13", "entity": "coles", "volume": 1534472.0, "wiki_views": 585}
 {"close": 92.93000030517578, "date": "2026-08-13", "entity": "colgate", "volume": 2549100.0, "wiki_views": 406}
@@ -34899,7 +34899,7 @@
 {"date": "2026-08-14", "entity": "church", "wiki_views": 152}
 {"date": "2026-08-14", "entity": "cinemark", "wiki_views": 167}
 {"close": 128.97999572753906, "date": "2026-08-14", "entity": "coach", "volume": 5541000.0, "wiki_views": 268}
-{"date": "2026-08-14", "entity": "cocacola", "wiki_views": 1571}
+{"close": 87.70999908447266, "date": "2026-08-14", "entity": "cocacola", "volume": 9166400.0, "wiki_views": 1571}
 {"date": "2026-08-14", "entity": "coinbase", "wiki_views": 402}
 {"close": 23.540000915527344, "date": "2026-08-14", "entity": "coles", "volume": 1510688.0, "wiki_views": 235}
 {"close": 91.94999694824219, "date": "2026-08-14", "entity": "colgate", "volume": 3179700.0, "wiki_views": 385}
@@ -36173,7 +36173,7 @@
 {"date": "2026-08-17", "entity": "church", "wiki_views": 164}
 {"date": "2026-08-17", "entity": "cinemark", "wiki_views": 167}
 {"close": 129.02000427246094, "date": "2026-08-17", "entity": "coach", "volume": 4615400.0, "wiki_views": 433}
-{"date": "2026-08-17", "entity": "cocacola", "wiki_views": 1587}
+{"close": 86.9800033569336, "date": "2026-08-17", "entity": "cocacola", "volume": 12056400.0, "wiki_views": 1587}
 {"date": "2026-08-17", "entity": "coinbase", "wiki_views": 446}
 {"close": 23.440000534057617, "date": "2026-08-17", "entity": "coles", "volume": 2612868.0, "wiki_views": 137}
 {"close": 90.20999908447266, "date": "2026-08-17", "entity": "colgate", "volume": 3969700.0, "wiki_views": 379}
@@ -36597,7 +36597,7 @@
 {"date": "2026-08-18", "entity": "church", "wiki_views": 145}
 {"date": "2026-08-18", "entity": "cinemark", "wiki_views": 210}
 {"close": 132.25999450683594, "date": "2026-08-18", "entity": "coach", "volume": 4183900.0, "wiki_views": 256}
-{"date": "2026-08-18", "entity": "cocacola", "wiki_views": 1647}
+{"close": 88.81999969482422, "date": "2026-08-18", "entity": "cocacola", "volume": 12524500.0, "wiki_views": 1647}
 {"date": "2026-08-18", "entity": "coinbase", "wiki_views": 387}
 {"close": 23.149999618530273, "date": "2026-08-18", "entity": "coles", "volume": 2219016.0, "wiki_views": 135}
 {"close": 91.45999908447266, "date": "2026-08-18", "entity": "colgate", "volume": 5230100.0, "wiki_views": 448}
@@ -37021,7 +37021,7 @@
 {"date": "2026-08-19", "entity": "church", "wiki_views": 118}
 {"date": "2026-08-19", "entity": "cinemark", "wiki_views": 273}
 {"close": 131.72000122070312, "date": "2026-08-19", "entity": "coach", "volume": 2783200.0, "wiki_views": 283}
-{"date": "2026-08-19", "entity": "cocacola", "wiki_views": 1536}
+{"close": 90.3499984741211, "date": "2026-08-19", "entity": "cocacola", "volume": 15993900.0, "wiki_views": 1536}
 {"date": "2026-08-19", "entity": "coinbase", "wiki_views": 353}
 {"close": 23.280000686645508, "date": "2026-08-19", "entity": "coles", "volume": 1288071.0, "wiki_views": 121}
 {"close": 90.87000274658203, "date": "2026-08-19", "entity": "colgate", "volume": 4099400.0, "wiki_views": 417}
@@ -37446,7 +37446,7 @@
 {"date": "2026-08-20", "entity": "church", "wiki_views": 184}
 {"date": "2026-08-20", "entity": "cinemark", "wiki_views": 189}
 {"close": 129.82000732421875, "date": "2026-08-20", "entity": "coach", "volume": 4068900.0, "wiki_views": 250}
-{"date": "2026-08-20", "entity": "cocacola", "wiki_views": 1566}
+{"close": 90.5, "date": "2026-08-20", "entity": "cocacola", "volume": 14928000.0, "wiki_views": 1566}
 {"date": "2026-08-20", "entity": "coinbase", "wiki_views": 497}
 {"close": 22.989999771118164, "date": "2026-08-20", "entity": "coles", "volume": 2163955.0, "wiki_views": 114}
 {"close": 89.69999694824219, "date": "2026-08-20", "entity": "colgate", "volume": 5082500.0, "wiki_views": 439}
@@ -37871,7 +37871,7 @@
 {"date": "2026-08-21", "entity": "church", "wiki_views": 174}
 {"date": "2026-08-21", "entity": "cinemark", "wiki_views": 152}
 {"close": 130.1699981689453, "date": "2026-08-21", "entity": "coach", "volume": 3381300.0, "wiki_views": 295}
-{"date": "2026-08-21", "entity": "cocacola", "wiki_views": 1585}
+{"close": 91.0999984741211, "date": "2026-08-21", "entity": "cocacola", "volume": 15595800.0, "wiki_views": 1585}
 {"date": "2026-08-21", "entity": "coinbase", "wiki_views": 533}
 {"close": 22.81999969482422, "date": "2026-08-21", "entity": "coles", "volume": 2058176.0, "wiki_views": 105}
 {"close": 91.08000183105469, "date": "2026-08-21", "entity": "colgate", "volume": 3667300.0, "wiki_views": 421}
@@ -39149,7 +39149,7 @@
 {"date": "2026-08-24", "entity": "church", "wiki_views": 186}
 {"app_rank": 0, "date": "2026-08-24", "entity": "cinemark", "wiki_views": 193}
 {"close": 132.16000366210938, "date": "2026-08-24", "entity": "coach", "volume": 3902400.0, "wiki_views": 248}
-{"date": "2026-08-24", "entity": "cocacola", "wiki_views": 1639}
+{"close": 91.98999786376953, "date": "2026-08-24", "entity": "cocacola", "volume": 14787700.0, "wiki_views": 1639}
 {"app_rank": 0, "date": "2026-08-24", "entity": "coinbase", "wiki_views": 541}
 {"app_rank": 25, "close": 22.639999389648438, "date": "2026-08-24", "entity": "coles", "volume": 2399575.0, "wiki_views": 121}
 {"close": 92.55000305175781, "date": "2026-08-24", "entity": "colgate", "volume": 4649500.0, "wiki_views": 446}
@@ -39576,7 +39576,7 @@
 {"date": "2026-08-25", "entity": "church", "wiki_views": 171}
 {"app_rank": 0, "date": "2026-08-25", "entity": "cinemark", "wiki_views": 224}
 {"close": 130.1199951171875, "date": "2026-08-25", "entity": "coach", "volume": 2297700.0, "wiki_views": 225}
-{"date": "2026-08-25", "entity": "cocacola", "wiki_views": 1588}
+{"close": 91.63999938964844, "date": "2026-08-25", "entity": "cocacola", "volume": 11940100.0, "wiki_views": 1588}
 {"app_rank": 0, "date": "2026-08-25", "entity": "coinbase", "wiki_views": 582}
 {"app_rank": 42, "close": 23.75, "date": "2026-08-25", "entity": "coles", "trends_hit": 100, "volume": 4417672.0, "wiki_views": 223}
 {"close": 91.33000183105469, "date": "2026-08-25", "entity": "colgate", "volume": 2683000.0, "wiki_views": 438}
@@ -40003,7 +40003,7 @@
 {"date": "2026-08-26", "entity": "church", "wiki_views": 200}
 {"app_rank": 0, "date": "2026-08-26", "entity": "cinemark", "wiki_views": 198}
 {"close": 130.25, "date": "2026-08-26", "entity": "coach", "volume": 4837500.0, "wiki_views": 234}
-{"date": "2026-08-26", "entity": "cocacola", "wiki_views": 1719}
+{"close": 90.08000183105469, "date": "2026-08-26", "entity": "cocacola", "volume": 17133900.0, "wiki_views": 1719}
 {"app_rank": 0, "date": "2026-08-26", "entity": "coinbase", "wiki_views": 599}
 {"app_rank": 43, "close": 24.030000686645508, "date": "2026-08-26", "entity": "coles", "volume": 4650588.0, "wiki_views": 129}
 {"close": 92.05999755859375, "date": "2026-08-26", "entity": "colgate", "volume": 3663300.0, "wiki_views": 582}
@@ -40331,7 +40331,7 @@
 {"app_rank": 0, "date": "2026-08-26", "entity": "wag", "wiki_views": 23}
 {"app_rank": 41, "close": 104.33999633789062, "date": "2026-08-26", "entity": "walmart", "volume": 28409400.0, "wiki_views": 3415}
 {"app_rank": 0, "date": "2026-08-26", "entity": "wayfair", "wiki_views": 391}
-{"app_rank": 95, "close": 28.75, "date": "2026-08-26", "entity": "wbd", "volume": 12499005.0, "wiki_views": 2537}
+{"app_rank": 95, "close": 28.75, "date": "2026-08-26", "entity": "wbd", "volume": 12518400.0, "wiki_views": 2537}
 {"date": "2026-08-26", "entity": "weber", "wiki_views": 75}
 {"date": "2026-08-26", "entity": "webjet", "wiki_views": 39}
 {"app_rank": 0, "close": 9.039999961853027, "date": "2026-08-26", "entity": "wendys", "volume": 5512140.0, "wiki_views": 930}
@@ -40430,7 +40430,7 @@
 {"date": "2026-08-27", "entity": "church", "wiki_views": 183}
 {"app_rank": 0, "date": "2026-08-27", "entity": "cinemark", "wiki_views": 176}
 {"close": 123.23999786376953, "date": "2026-08-27", "entity": "coach", "volume": 3957200.0, "wiki_views": 619}
-{"date": "2026-08-27", "entity": "cocacola", "wiki_views": 1682}
+{"close": 89.05999755859375, "date": "2026-08-27", "entity": "cocacola", "volume": 13452600.0, "wiki_views": 1682}
 {"app_rank": 0, "date": "2026-08-27", "entity": "coinbase", "wiki_views": 465}
 {"app_rank": 47, "close": 23.739999771118164, "date": "2026-08-27", "entity": "coles", "volume": 2892782.0, "wiki_views": 130}
 {"close": 90.95999908447266, "date": "2026-08-27", "entity": "colgate", "volume": 3318800.0, "wiki_views": 644}
@@ -40633,7 +40633,7 @@
 {"date": "2026-08-27", "entity": "pandora", "wiki_views": 192}
 {"app_rank": 0, "close": 23.229999542236328, "date": "2026-08-27", "entity": "papajohns", "volume": 1105600.0, "wiki_views": 686}
 {"close": 144.5, "date": "2026-08-27", "entity": "paradox", "volume": 139598.0, "wiki_views": 947}
-{"app_rank": 0, "close": 10.800000190734863, "date": "2026-08-27", "entity": "paramount", "volume": 8430008.0, "wiki_views": 2025}
+{"app_rank": 0, "close": 10.800000190734863, "date": "2026-08-27", "entity": "paramount", "volume": 8432400.0, "wiki_views": 2025}
 {"date": "2026-08-27", "entity": "patagonia", "wiki_views": 376}
 {"app_rank": 49, "close": 61.470001220703125, "date": "2026-08-27", "entity": "paypal", "volume": 9165000.0, "wiki_views": 2120}
 {"app_rank": 18, "close": 84.69000244140625, "date": "2026-08-27", "entity": "pdd", "volume": 8336900.0, "wiki_views": 502}
@@ -40758,7 +40758,7 @@
 {"app_rank": 0, "date": "2026-08-27", "entity": "wag", "wiki_views": 12}
 {"app_rank": 38, "close": 102.62999725341797, "date": "2026-08-27", "entity": "walmart", "volume": 29816600.0, "wiki_views": 3344}
 {"app_rank": 0, "date": "2026-08-27", "entity": "wayfair", "wiki_views": 401}
-{"app_rank": 0, "date": "2026-08-27", "entity": "wbd", "wiki_views": 2026}
+{"app_rank": 0, "close": 28.8799991607666, "date": "2026-08-27", "entity": "wbd", "volume": 13702200.0, "wiki_views": 2026}
 {"date": "2026-08-27", "entity": "weber", "wiki_views": 61}
 {"date": "2026-08-27", "entity": "webjet", "wiki_views": 17}
 {"app_rank": 0, "date": "2026-08-27", "entity": "wendys", "wiki_views": 914}
@@ -40787,17 +40787,17 @@
 {"date": "2026-08-28", "entity": "accent", "wiki_views": 40}
 {"date": "2026-08-28", "entity": "acushnet", "wiki_views": 164}
 {"app_rank": 0, "date": "2026-08-28", "entity": "adidas", "wiki_views": 1986}
-{"app_rank": 0, "date": "2026-08-28", "entity": "affirm", "wiki_views": 542}
-{"app_rank": 71, "close": 189.44000244140625, "date": "2026-08-28", "entity": "airbnb", "volume": 0.0, "wiki_views": 1114}
+{"app_rank": 0, "close": 77.76000213623047, "date": "2026-08-28", "entity": "affirm", "volume": 29045600.0, "wiki_views": 542}
+{"app_rank": 71, "close": 189.42999267578125, "date": "2026-08-28", "entity": "airbnb", "volume": 4829400.0, "wiki_views": 1114}
 {"app_rank": 0, "date": "2026-08-28", "entity": "alaska_air", "wiki_views": 138}
 {"date": "2026-08-28", "entity": "albertsons", "wiki_views": 516}
 {"date": "2026-08-28", "entity": "aldi", "wiki_views": 1690}
-{"app_rank": 13, "close": 118.43820190429688, "date": "2026-08-28", "entity": "alibaba", "volume": 0.0, "wiki_views": 1113}
+{"app_rank": 13, "close": 118.9000015258789, "date": "2026-08-28", "entity": "alibaba", "volume": 9671600.0, "wiki_views": 1113}
 {"date": "2026-08-28", "entity": "align", "wiki_views": 83}
 {"date": "2026-08-28", "entity": "allbirds", "wiki_views": 289}
 {"date": "2026-08-28", "entity": "alo", "wiki_views": 688}
 {"date": "2026-08-28", "entity": "alterra", "wiki_views": 62}
-{"app_rank": 28, "close": 265.3500061035156, "date": "2026-08-28", "entity": "amazon", "volume": 0.0, "wiki_views": 6556}
+{"app_rank": 28, "close": 266.42999267578125, "date": "2026-08-28", "entity": "amazon", "volume": 49475500.0, "wiki_views": 6556}
 {"app_rank": 0, "date": "2026-08-28", "entity": "amc", "wiki_views": 498}
 {"close": 468.7200012207031, "date": "2026-08-28", "entity": "amd", "volume": 0.0, "wiki_views": 1085}
 {"app_rank": 0, "date": "2026-08-28", "entity": "american_air", "wiki_views": 2090}
@@ -40815,21 +40815,21 @@
 {"date": "2026-08-28", "entity": "athletic_greens", "wiki_views": 73}
 {"date": "2026-08-28", "entity": "babybunting", "wiki_views": 12}
 {"date": "2026-08-28", "entity": "bandai", "wiki_views": 152}
-{"date": "2026-08-28", "entity": "bark", "wiki_views": 31}
+{"close": 10.920000076293945, "date": "2026-08-28", "entity": "bark", "volume": 35300.0, "wiki_views": 31}
 {"date": "2026-08-28", "entity": "beiersdorf", "wiki_views": 105}
 {"app_rank": 0, "date": "2026-08-28", "entity": "bestbuy", "wiki_views": 906}
 {"date": "2026-08-28", "entity": "beyondmeat", "wiki_views": 217}
 {"date": "2026-08-28", "entity": "birkenstock", "wiki_views": 415}
 {"date": "2026-08-28", "entity": "bjs", "wiki_views": 407}
-{"app_rank": 40, "close": 83.44999694824219, "date": "2026-08-28", "entity": "block", "volume": 0.0, "wiki_views": 652}
+{"app_rank": 40, "close": 83.56999969482422, "date": "2026-08-28", "entity": "block", "volume": 3458100.0, "wiki_views": 652}
 {"date": "2026-08-28", "entity": "bmw", "wiki_views": 2468}
-{"app_rank": 44, "close": 205.23500061035156, "date": "2026-08-28", "entity": "booking", "volume": 0.0, "wiki_views": 295}
+{"app_rank": 44, "close": 205.6300048828125, "date": "2026-08-28", "entity": "booking", "volume": 3591700.0, "wiki_views": 295}
 {"date": "2026-08-28", "entity": "boston_beer", "wiki_views": 138}
 {"date": "2026-08-28", "entity": "breville", "wiki_views": 119}
 {"date": "2026-08-28", "entity": "brinker", "wiki_views": 160}
 {"date": "2026-08-28", "entity": "brooks", "wiki_views": 233}
 {"close": 27.264999389648438, "date": "2026-08-28", "entity": "brownforman", "volume": 0.0, "wiki_views": 209}
-{"close": 29.829999923706055, "date": "2026-08-28", "entity": "buildabear", "volume": 0.0, "wiki_views": 245}
+{"close": 29.850000381469727, "date": "2026-08-28", "entity": "buildabear", "volume": 2183100.0, "wiki_views": 245}
 {"app_rank": 0, "date": "2026-08-28", "entity": "bumble", "wiki_views": 376}
 {"close": 1084.0, "date": "2026-08-28", "entity": "burberry", "volume": 3644412.0, "wiki_views": 347}
 {"date": "2026-08-28", "entity": "burlington", "wiki_views": 187}
@@ -40856,11 +40856,11 @@
 {"date": "2026-08-28", "entity": "chobani", "wiki_views": 488}
 {"date": "2026-08-28", "entity": "church", "wiki_views": 154}
 {"app_rank": 0, "date": "2026-08-28", "entity": "cinemark", "wiki_views": 143}
-{"close": 125.24500274658203, "date": "2026-08-28", "entity": "coach", "volume": 0.0, "wiki_views": 348}
-{"date": "2026-08-28", "entity": "cocacola", "wiki_views": 1490}
+{"close": 125.48999786376953, "date": "2026-08-28", "entity": "coach", "volume": 3533900.0, "wiki_views": 348}
+{"close": 89.66000366210938, "date": "2026-08-28", "entity": "cocacola", "volume": 9887200.0, "wiki_views": 1490}
 {"app_rank": 0, "date": "2026-08-28", "entity": "coinbase", "wiki_views": 489}
 {"app_rank": 67, "close": 23.799999237060547, "date": "2026-08-28", "entity": "coles", "volume": 2796846.0, "wiki_views": 113}
-{"close": 90.8499984741211, "date": "2026-08-28", "entity": "colgate", "volume": 0.0, "wiki_views": 665}
+{"close": 90.75, "date": "2026-08-28", "entity": "colgate", "volume": 3016100.0, "wiki_views": 665}
 {"date": "2026-08-28", "entity": "collectors", "wiki_views": 104}
 {"date": "2026-08-28", "entity": "collinsfoods", "wiki_views": 20}
 {"date": "2026-08-28", "entity": "columbia", "wiki_views": 212}
@@ -40869,7 +40869,7 @@
 {"date": "2026-08-28", "entity": "constellation", "wiki_views": 200}
 {"date": "2026-08-28", "entity": "converse", "wiki_views": 374}
 {"date": "2026-08-28", "entity": "corsair", "wiki_views": 135}
-{"app_rank": 93, "close": 945.283203125, "date": "2026-08-28", "entity": "costco", "volume": 0.0, "wiki_views": 2440}
+{"app_rank": 93, "close": 945.469970703125, "date": "2026-08-28", "entity": "costco", "volume": 1401300.0, "wiki_views": 2440}
 {"date": "2026-08-28", "entity": "coty", "wiki_views": 10}
 {"date": "2026-08-28", "entity": "coupang", "wiki_views": 421}
 {"date": "2026-08-28", "entity": "cracker", "wiki_views": 329}
@@ -40879,23 +40879,23 @@
 {"date": "2026-08-28", "entity": "danone", "wiki_views": 455}
 {"date": "2026-08-28", "entity": "darden", "wiki_views": 478}
 {"date": "2026-08-28", "entity": "delonghi", "wiki_views": 98}
-{"app_rank": 0, "date": "2026-08-28", "entity": "delta"}
+{"app_rank": 0, "date": "2026-08-28", "entity": "delta", "wiki_views": 2266}
 {"date": "2026-08-28", "entity": "dennys", "wiki_views": 394}
 {"app_rank": 0, "date": "2026-08-28", "entity": "dexcom", "wiki_views": 130}
 {"date": "2026-08-28", "entity": "diageo", "wiki_views": 1177}
-{"close": 135.17999267578125, "date": "2026-08-28", "entity": "dicks", "volume": 0.0, "wiki_views": 547}
+{"close": 135.08999633789062, "date": "2026-08-28", "entity": "dicks", "volume": 5353000.0, "wiki_views": 547}
 {"date": "2026-08-28", "entity": "dine", "wiki_views": 98}
-{"app_rank": 21, "close": 108.04000091552734, "date": "2026-08-28", "entity": "disney", "volume": 0.0, "wiki_views": 3558}
+{"app_rank": 21, "close": 108.0999984741211, "date": "2026-08-28", "entity": "disney", "volume": 5465900.0, "wiki_views": 3558}
 {"date": "2026-08-28", "entity": "dji", "wiki_views": 525}
 {"date": "2026-08-28", "entity": "dollargeneral", "wiki_views": 465}
 {"date": "2026-08-28", "entity": "dollartree", "wiki_views": 287}
-{"app_rank": 95, "close": 351.80999755859375, "date": "2026-08-28", "entity": "dominos", "volume": 0.0, "wiki_views": 693}
+{"app_rank": 95, "close": 350.0, "date": "2026-08-28", "entity": "dominos", "volume": 1037400.0, "wiki_views": 693}
 {"date": "2026-08-28", "entity": "dominos_au", "wiki_views": 52}
-{"app_rank": 12, "close": 236.49000549316406, "date": "2026-08-28", "entity": "doordash", "volume": 0.0, "wiki_views": 732}
-{"app_rank": 0, "close": 25.524999618530273, "date": "2026-08-28", "entity": "draftkings", "volume": 0.0, "wiki_views": 489}
+{"app_rank": 12, "close": 236.74000549316406, "date": "2026-08-28", "entity": "doordash", "volume": 2999900.0, "wiki_views": 732}
+{"app_rank": 0, "close": 25.260000228881836, "date": "2026-08-28", "entity": "draftkings", "volume": 19896400.0, "wiki_views": 489}
 {"date": "2026-08-28", "entity": "drmartens", "wiki_views": 497}
 {"date": "2026-08-28", "entity": "drsquatch", "wiki_views": 97}
-{"app_rank": 76, "close": 147.16000366210938, "date": "2026-08-28", "entity": "duolingo", "volume": 0.0, "wiki_views": 939}
+{"app_rank": 76, "close": 146.97999572753906, "date": "2026-08-28", "entity": "duolingo", "volume": 674400.0, "wiki_views": 939}
 {"app_rank": 0, "date": "2026-08-28", "entity": "dutchbros", "wiki_views": 356}
 {"date": "2026-08-28", "entity": "dyson", "wiki_views": 696}
 {"app_rank": 0, "date": "2026-08-28", "entity": "ea", "wiki_views": 1719}
@@ -40908,9 +40908,9 @@
 {"app_rank": 0, "close": 3.109999895095825, "date": "2026-08-28", "entity": "endeavour", "volume": 2070889.0, "wiki_views": 71}
 {"date": "2026-08-28", "entity": "equinox", "wiki_views": 109}
 {"date": "2026-08-28", "entity": "essilorluxottica", "wiki_views": 477}
-{"date": "2026-08-28", "entity": "esteelauder", "wiki_views": 635}
-{"app_rank": 19, "close": 83.91000366210938, "date": "2026-08-28", "entity": "etsy", "volume": 0.0, "wiki_views": 522}
-{"app_rank": 0, "close": 328.864990234375, "date": "2026-08-28", "entity": "expedia", "volume": 0.0, "wiki_views": 613}
+{"close": 103.38999938964844, "date": "2026-08-28", "entity": "esteelauder", "volume": 3121700.0, "wiki_views": 635}
+{"app_rank": 19, "close": 83.58999633789062, "date": "2026-08-28", "entity": "etsy", "volume": 1545200.0, "wiki_views": 522}
+{"app_rank": 0, "close": 329.44000244140625, "date": "2026-08-28", "entity": "expedia", "volume": 969200.0, "wiki_views": 613}
 {"date": "2026-08-28", "entity": "f45", "wiki_views": 90}
 {"date": "2026-08-28", "entity": "ferrari", "wiki_views": 1436}
 {"date": "2026-08-28", "entity": "ferrero", "wiki_views": 654}
@@ -40921,28 +40921,28 @@
 {"app_rank": 0, "close": 101.37000274658203, "date": "2026-08-28", "entity": "flutter", "trends_hit": 100, "volume": 0.0, "wiki_views": 248}
 {"close": 135.17999267578125, "date": "2026-08-28", "entity": "footlocker", "volume": 0.0, "wiki_views": 298}
 {"app_rank": 0, "date": "2026-08-28", "entity": "ford", "wiki_views": 2336}
-{"app_rank": 0, "date": "2026-08-28", "entity": "fox", "wiki_views": 807}
+{"app_rank": 0, "close": 68.41999816894531, "date": "2026-08-28", "entity": "fox", "volume": 3622700.0, "wiki_views": 807}
 {"close": 71.11000061035156, "date": "2026-08-28", "entity": "freshpet", "volume": 0.0, "wiki_views": 20}
 {"app_rank": 0, "date": "2026-08-28", "entity": "function_health", "wiki_views": 60}
 {"date": "2026-08-28", "entity": "funko", "wiki_views": 273}
 {"date": "2026-08-28", "entity": "galderma", "wiki_views": 94}
 {"app_rank": 0, "date": "2026-08-28", "entity": "gamestop", "wiki_views": 525}
-{"date": "2026-08-28", "entity": "gap", "wiki_views": 593}
+{"close": 23.479999542236328, "date": "2026-08-28", "entity": "gap", "volume": 26365300.0, "wiki_views": 593}
 {"date": "2026-08-28", "entity": "garmin", "wiki_views": 655}
 {"date": "2026-08-28", "entity": "generalmills", "wiki_views": 607}
 {"date": "2026-08-28", "entity": "glossier", "wiki_views": 45}
 {"date": "2026-08-28", "entity": "glp1_generic", "wiki_views": 496}
 {"app_rank": 0, "date": "2026-08-28", "entity": "gm", "wiki_views": 2313}
-{"app_rank": 8, "close": 347.6000061035156, "date": "2026-08-28", "entity": "googlepixel", "volume": 0.0, "wiki_views": 2697}
-{"date": "2026-08-28", "entity": "gopro", "wiki_views": 507}
-{"app_rank": 57, "close": 3.634999990463257, "date": "2026-08-28", "entity": "grab", "volume": 0.0, "wiki_views": 323}
+{"app_rank": 8, "close": 346.5899963378906, "date": "2026-08-28", "entity": "googlepixel", "volume": 25317400.0, "wiki_views": 2697}
+{"close": 0.6000000238418579, "date": "2026-08-28", "entity": "gopro", "volume": 8925100.0, "wiki_views": 507}
+{"app_rank": 57, "close": 3.609999895095825, "date": "2026-08-28", "entity": "grab", "volume": 26906600.0, "wiki_views": 323}
 {"app_rank": 0, "date": "2026-08-28", "entity": "grindr", "wiki_views": 380}
 {"app_rank": 39, "close": 28.190000534057617, "date": "2026-08-28", "entity": "gyg", "volume": 731373.0, "wiki_views": 168}
 {"date": "2026-08-28", "entity": "gymshark", "wiki_views": 285}
 {"date": "2026-08-28", "entity": "hamilton_beach", "wiki_views": 61}
 {"date": "2026-08-28", "entity": "harley", "wiki_views": 836}
 {"app_rank": 0, "date": "2026-08-28", "entity": "harveynorman", "wiki_views": 150}
-{"date": "2026-08-28", "entity": "hasbro", "wiki_views": 1523}
+{"close": 94.2300033569336, "date": "2026-08-28", "entity": "hasbro", "volume": 901000.0, "wiki_views": 1523}
 {"date": "2026-08-28", "entity": "heineken", "wiki_views": 298}
 {"date": "2026-08-28", "entity": "herbalife", "wiki_views": 497}
 {"date": "2026-08-28", "entity": "hermes", "wiki_views": 832}
@@ -40990,50 +40990,50 @@
 {"date": "2026-08-28", "entity": "konami", "wiki_views": 1010}
 {"date": "2026-08-28", "entity": "kraftheinz", "wiki_views": 738}
 {"app_rank": 0, "close": 222500.0, "date": "2026-08-28", "entity": "krafton", "volume": 71846.0, "wiki_views": 649}
-{"close": 3.5250000953674316, "date": "2026-08-28", "entity": "krispykreme", "volume": 0.0, "wiki_views": 879}
+{"close": 3.4700000286102295, "date": "2026-08-28", "entity": "krispykreme", "volume": 1580500.0, "wiki_views": 879}
 {"date": "2026-08-28", "entity": "kroger", "wiki_views": 792}
 {"date": "2026-08-28", "entity": "labubu", "wiki_views": 1000}
 {"date": "2026-08-28", "entity": "lambweston", "wiki_views": 56}
 {"date": "2026-08-28", "entity": "lego", "wiki_views": 1676}
 {"date": "2026-08-28", "entity": "levis", "wiki_views": 657}
-{"app_rank": 0, "date": "2026-08-28", "entity": "lifetime", "wiki_views": 272}
+{"app_rank": 0, "close": 43.5099983215332, "date": "2026-08-28", "entity": "lifetime", "volume": 2810300.0, "wiki_views": 272}
 {"app_rank": 0, "date": "2026-08-28", "entity": "lightwonder", "wiki_views": 95}
 {"date": "2026-08-28", "entity": "lilly", "wiki_views": 1211}
 {"date": "2026-08-28", "entity": "lindt", "wiki_views": 372}
 {"date": "2026-08-28", "entity": "lionsgate", "wiki_views": 487}
 {"date": "2026-08-28", "entity": "liquiddeath", "wiki_views": 479}
-{"app_rank": 4, "close": 180.72999572753906, "date": "2026-08-28", "entity": "livenation", "volume": 0.0, "wiki_views": 503}
+{"app_rank": 4, "close": 181.64999389648438, "date": "2026-08-28", "entity": "livenation", "volume": 1279100.0, "wiki_views": 503}
 {"date": "2026-08-28", "entity": "logitech", "wiki_views": 363}
 {"date": "2026-08-28", "entity": "loreal", "wiki_views": 1101}
-{"close": 16.030000686645508, "date": "2026-08-28", "entity": "lovesac", "volume": 0.0, "wiki_views": 79}
+{"close": 15.989999771118164, "date": "2026-08-28", "entity": "lovesac", "volume": 159000.0, "wiki_views": 79}
 {"close": 26.350000381469727, "date": "2026-08-28", "entity": "lovisa", "volume": 456849.0, "wiki_views": 11}
 {"app_rank": 0, "date": "2026-08-28", "entity": "lowes", "wiki_views": 555}
 {"date": "2026-08-28", "entity": "lucid", "wiki_views": 933}
 {"date": "2026-08-28", "entity": "luckin", "wiki_views": 295}
 {"date": "2026-08-28", "entity": "lululemon", "wiki_views": 1048}
 {"app_rank": 0, "date": "2026-08-28", "entity": "lvmh", "wiki_views": 1737}
-{"app_rank": 72, "close": 17.825000762939453, "date": "2026-08-28", "entity": "lyft", "volume": 0.0, "wiki_views": 553}
+{"app_rank": 72, "close": 17.700000762939453, "date": "2026-08-28", "entity": "lyft", "volume": 8949400.0, "wiki_views": 553}
 {"app_rank": 0, "date": "2026-08-28", "entity": "marriott", "wiki_views": 872}
 {"date": "2026-08-28", "entity": "mars", "wiki_views": 189}
 {"app_rank": 0, "date": "2026-08-28", "entity": "match", "wiki_views": 349}
 {"date": "2026-08-28", "entity": "mattel", "wiki_views": 1080}
-{"app_rank": 66, "close": 264.3500061035156, "date": "2026-08-28", "entity": "mcdonalds", "volume": 0.0, "wiki_views": 3074}
+{"app_rank": 66, "close": 265.0, "date": "2026-08-28", "entity": "mcdonalds", "volume": 3887300.0, "wiki_views": 3074}
 {"date": "2026-08-28", "entity": "meituan", "wiki_views": 141}
 {"app_rank": 0, "date": "2026-08-28", "entity": "mercadolibre", "wiki_views": 235}
 {"date": "2026-08-28", "entity": "mercedes", "wiki_views": 836}
-{"app_rank": 6, "close": 577.0900268554688, "date": "2026-08-28", "entity": "meta", "volume": 0.0, "wiki_views": 3954}
+{"app_rank": 6, "close": 578.02001953125, "date": "2026-08-28", "entity": "meta", "volume": 16018300.0, "wiki_views": 3954}
 {"app_rank": 0, "close": 42.55799865722656, "date": "2026-08-28", "entity": "mgm", "trends_hit": 100, "volume": 0.0, "wiki_views": 371}
 {"date": "2026-08-28", "entity": "michaelkors", "wiki_views": 117}
-{"app_rank": 12, "close": 513.5, "date": "2026-08-28", "entity": "microsoft", "trends_hit": 200, "volume": 0.0, "wiki_views": 7330}
+{"app_rank": 12, "close": 513.530029296875, "date": "2026-08-28", "entity": "microsoft", "trends_hit": 200, "volume": 29178300.0, "wiki_views": 7330}
 {"date": "2026-08-28", "entity": "mixue", "wiki_views": 524}
 {"date": "2026-08-28", "entity": "molson", "wiki_views": 470}
 {"date": "2026-08-28", "entity": "moncler", "wiki_views": 233}
 {"date": "2026-08-28", "entity": "mondelez", "wiki_views": 1152}
-{"close": 46.900001525878906, "date": "2026-08-28", "entity": "monster", "volume": 0.0, "wiki_views": 529}
+{"close": 46.86000061035156, "date": "2026-08-28", "entity": "monster", "volume": 5279500.0, "wiki_views": 529}
 {"app_rank": 0, "date": "2026-08-28", "entity": "myer", "wiki_views": 80}
 {"date": "2026-08-28", "entity": "nestle", "wiki_views": 1938}
-{"app_rank": 0, "close": 122.36000061035156, "date": "2026-08-28", "entity": "netease", "volume": 0.0, "wiki_views": 762}
-{"app_rank": 8, "close": 81.7249984741211, "date": "2026-08-28", "entity": "netflix", "volume": 0.0, "wiki_views": 5732}
+{"app_rank": 0, "close": 122.76000213623047, "date": "2026-08-28", "entity": "netease", "volume": 519700.0, "wiki_views": 762}
+{"app_rank": 8, "close": 81.72000122070312, "date": "2026-08-28", "entity": "netflix", "volume": 29048400.0, "wiki_views": 5732}
 {"date": "2026-08-28", "entity": "newbalance", "wiki_views": 615}
 {"app_rank": 0, "date": "2026-08-28", "entity": "nexon", "wiki_views": 501}
 {"date": "2026-08-28", "entity": "nickscali", "wiki_views": 33}
@@ -41044,7 +41044,7 @@
 {"date": "2026-08-28", "entity": "novo", "wiki_views": 473}
 {"app_rank": 0, "date": "2026-08-28", "entity": "nubank", "wiki_views": 260}
 {"date": "2026-08-28", "entity": "nuskin", "wiki_views": 67}
-{"close": 217.39999389648438, "date": "2026-08-28", "entity": "nvidia", "volume": 0.0, "wiki_views": 7365}
+{"close": 217.5500030517578, "date": "2026-08-28", "entity": "nvidia", "volume": 194586600.0, "wiki_views": 7365}
 {"date": "2026-08-28", "entity": "oatly", "wiki_views": 95}
 {"date": "2026-08-28", "entity": "oddity", "wiki_views": 49}
 {"date": "2026-08-28", "entity": "olaplex", "wiki_views": 57}
@@ -41059,17 +41059,17 @@
 {"date": "2026-08-28", "entity": "pandora", "wiki_views": 211}
 {"app_rank": 0, "close": 23.559999465942383, "date": "2026-08-28", "entity": "papajohns", "volume": 0.0, "wiki_views": 468}
 {"close": 144.10000610351562, "date": "2026-08-28", "entity": "paradox", "volume": 107034.0, "wiki_views": 721}
-{"app_rank": 0, "date": "2026-08-28", "entity": "paramount", "trends_hit": 2000, "wiki_views": 1823}
+{"app_rank": 0, "close": 10.880000114440918, "date": "2026-08-28", "entity": "paramount", "trends_hit": 2000, "volume": 10029400.0, "wiki_views": 1823}
 {"date": "2026-08-28", "entity": "patagonia", "wiki_views": 420}
-{"app_rank": 49, "close": 53.70500183105469, "date": "2026-08-28", "entity": "paypal", "volume": 0.0, "wiki_views": 2162}
-{"app_rank": 24, "close": 85.59500122070312, "date": "2026-08-28", "entity": "pdd", "volume": 0.0, "wiki_views": 515}
+{"app_rank": 49, "close": 53.65999984741211, "date": "2026-08-28", "entity": "paypal", "volume": 36302400.0, "wiki_views": 2162}
+{"app_rank": 24, "close": 85.69000244140625, "date": "2026-08-28", "entity": "pdd", "volume": 6270800.0, "wiki_views": 515}
 {"app_rank": 0, "date": "2026-08-28", "entity": "peloton", "wiki_views": 108}
 {"date": "2026-08-28", "entity": "pepsi", "wiki_views": 1662}
 {"date": "2026-08-28", "entity": "pernod", "wiki_views": 342}
 {"app_rank": 0, "date": "2026-08-28", "entity": "petco", "wiki_views": 106}
 {"date": "2026-08-28", "entity": "petsmart", "wiki_views": 153}
 {"close": 143.61500549316406, "date": "2026-08-28", "entity": "pg", "trends_hit": 200, "volume": 0.0, "wiki_views": 1232}
-{"app_rank": 60, "close": 23.200000762939453, "date": "2026-08-28", "entity": "pinterest", "volume": 0.0, "wiki_views": 3218}
+{"app_rank": 60, "close": 23.190000534057617, "date": "2026-08-28", "entity": "pinterest", "volume": 6644200.0, "wiki_views": 3218}
 {"app_rank": 0, "date": "2026-08-28", "entity": "planetfitness", "wiki_views": 177}
 {"date": "2026-08-28", "entity": "playtika", "wiki_views": 78}
 {"date": "2026-08-28", "entity": "pokemon_tcg", "wiki_views": 859}
@@ -41090,7 +41090,7 @@
 {"app_rank": 0, "date": "2026-08-28", "entity": "rbi", "wiki_views": 691}
 {"app_rank": 0, "date": "2026-08-28", "entity": "rea", "wiki_views": 50}
 {"date": "2026-08-28", "entity": "redbull", "wiki_views": 1722}
-{"app_rank": 60, "close": 154.1199951171875, "date": "2026-08-28", "entity": "reddit", "volume": 0.0, "wiki_views": 6292}
+{"app_rank": 60, "close": 153.0, "date": "2026-08-28", "entity": "reddit", "volume": 2749300.0, "wiki_views": 6292}
 {"app_rank": 74, "date": "2026-08-28", "entity": "revolut", "wiki_views": 1528}
 {"date": "2026-08-28", "entity": "rh", "wiki_views": 135}
 {"date": "2026-08-28", "entity": "richemont", "wiki_views": 455}
@@ -41111,17 +41111,17 @@
 {"app_rank": 64, "close": 14.789999961853027, "date": "2026-08-28", "entity": "seek", "volume": 1092510.0, "wiki_views": 22}
 {"date": "2026-08-28", "entity": "sega", "wiki_views": 233}
 {"app_rank": 0, "date": "2026-08-28", "entity": "shakeshack", "wiki_views": 497}
-{"date": "2026-08-28", "entity": "sharkninja", "wiki_views": 1160}
+{"close": 191.22999572753906, "date": "2026-08-28", "entity": "sharkninja", "volume": 1320300.0, "wiki_views": 1160}
 {"app_rank": 37, "date": "2026-08-28", "entity": "shein", "wiki_views": 925}
 {"date": "2026-08-28", "entity": "shiseido", "wiki_views": 147}
 {"date": "2026-08-28", "entity": "signet", "wiki_views": 102}
 {"date": "2026-08-28", "entity": "simplygood", "wiki_views": 13}
-{"app_rank": 0, "close": 16.200000762939453, "date": "2026-08-28", "entity": "sixflags", "volume": 0.0, "wiki_views": 1765}
+{"app_rank": 0, "close": 16.219999313354492, "date": "2026-08-28", "entity": "sixflags", "volume": 1645100.0, "wiki_views": 1765}
 {"date": "2026-08-28", "entity": "skechers", "wiki_views": 491}
 {"date": "2026-08-28", "entity": "skims", "wiki_views": 299}
 {"date": "2026-08-28", "entity": "sleepnumber", "wiki_views": 58}
 {"date": "2026-08-28", "entity": "smucker", "wiki_views": 319}
-{"app_rank": 47, "close": 5.434999942779541, "date": "2026-08-28", "entity": "snap", "volume": 0.0, "wiki_views": 618}
+{"app_rank": 47, "close": 5.429999828338623, "date": "2026-08-28", "entity": "snap", "volume": 27247400.0, "wiki_views": 618}
 {"app_rank": 0, "date": "2026-08-28", "entity": "sofi", "wiki_views": 453}
 {"date": "2026-08-28", "entity": "sonny_angel", "wiki_views": 143}
 {"date": "2026-08-28", "entity": "sonos", "wiki_views": 193}
@@ -41129,25 +41129,25 @@
 {"app_rank": 0, "date": "2026-08-28", "entity": "southwest", "wiki_views": 1317}
 {"date": "2026-08-28", "entity": "spectrum_brands", "wiki_views": 110}
 {"date": "2026-08-28", "entity": "spinmaster", "wiki_views": 297}
-{"app_rank": 30, "close": 546.2050170898438, "date": "2026-08-28", "entity": "spotify", "volume": 0.0, "wiki_views": 2586}
+{"app_rank": 30, "close": 547.510009765625, "date": "2026-08-28", "entity": "spotify", "volume": 1386500.0, "wiki_views": 2586}
 {"date": "2026-08-28", "entity": "sprouts", "wiki_views": 239}
 {"date": "2026-08-28", "entity": "squareenix", "wiki_views": 1060}
 {"date": "2026-08-28", "entity": "squishmallows", "wiki_views": 186}
 {"date": "2026-08-28", "entity": "stanley", "wiki_views": 346}
-{"app_rank": 77, "close": 108.0999984741211, "date": "2026-08-28", "entity": "starbucks", "volume": 0.0, "wiki_views": 1974}
+{"app_rank": 77, "close": 107.8499984741211, "date": "2026-08-28", "entity": "starbucks", "volume": 4832200.0, "wiki_views": 1974}
 {"app_rank": 0, "close": 27.915000915527344, "date": "2026-08-28", "entity": "starz", "volume": 0.0, "wiki_views": 617}
 {"app_rank": 0, "date": "2026-08-28", "entity": "stellantis", "wiki_views": 2912}
 {"date": "2026-08-28", "entity": "swatch", "wiki_views": 427}
 {"app_rank": 0, "date": "2026-08-28", "entity": "sweetgreen", "wiki_views": 131}
-{"app_rank": 0, "close": 233.91000366210938, "date": "2026-08-28", "entity": "taketwo", "volume": 0.0, "wiki_views": 8549}
+{"app_rank": 0, "close": 235.38999938964844, "date": "2026-08-28", "entity": "taketwo", "volume": 3706600.0, "wiki_views": 8549}
 {"app_rank": 0, "date": "2026-08-28", "entity": "talkspace", "wiki_views": 22}
 {"app_rank": 0, "date": "2026-08-28", "entity": "target", "wiki_views": 1427}
 {"app_rank": 0, "date": "2026-08-28", "entity": "teladoc", "wiki_views": 62}
 {"app_rank": 0, "date": "2026-08-28", "entity": "templewebster", "wiki_views": 19}
-{"close": 65.12000274658203, "date": "2026-08-28", "entity": "tempursealy", "volume": 0.0, "wiki_views": 111}
+{"close": 64.37000274658203, "date": "2026-08-28", "entity": "tempursealy", "volume": 8545400.0, "wiki_views": 111}
 {"app_rank": 0, "close": 455.20001220703125, "date": "2026-08-28", "entity": "tencent", "volume": 27742475.0, "wiki_views": 1889}
 {"app_rank": 0, "date": "2026-08-28", "entity": "tesla", "wiki_views": 2415}
-{"close": 199.07000732421875, "date": "2026-08-28", "entity": "texasroadhouse", "volume": 0.0, "wiki_views": 607}
+{"close": 198.99000549316406, "date": "2026-08-28", "entity": "texasroadhouse", "volume": 435200.0, "wiki_views": 607}
 {"date": "2026-08-28", "entity": "timberland", "wiki_views": 191}
 {"date": "2026-08-28", "entity": "tjx", "wiki_views": 360}
 {"app_rank": 0, "date": "2026-08-28", "entity": "topgolf", "wiki_views": 1498}
@@ -41156,12 +41156,12 @@
 {"date": "2026-08-28", "entity": "tractorsupply", "wiki_views": 157}
 {"date": "2026-08-28", "entity": "traderjoes", "wiki_views": 1040}
 {"date": "2026-08-28", "entity": "treasurywine", "wiki_views": 43}
-{"app_rank": 65, "close": 45.20000076293945, "date": "2026-08-28", "entity": "trip_com", "volume": 0.0, "wiki_views": 188}
-{"app_rank": 0, "date": "2026-08-28", "entity": "tripadvisor", "wiki_views": 347}
+{"app_rank": 65, "close": 45.349998474121094, "date": "2026-08-28", "entity": "trip_com", "volume": 1806800.0, "wiki_views": 188}
+{"app_rank": 0, "close": 9.869999885559082, "date": "2026-08-28", "entity": "tripadvisor", "volume": 2056900.0, "wiki_views": 347}
 {"date": "2026-08-28", "entity": "trupanion", "wiki_views": 16}
-{"date": "2026-08-28", "entity": "turtlebeach", "wiki_views": 90}
+{"close": 12.449999809265137, "date": "2026-08-28", "entity": "turtlebeach", "volume": 331000.0, "wiki_views": 90}
 {"date": "2026-08-28", "entity": "tyson", "wiki_views": 571}
-{"app_rank": 26, "close": 78.78500366210938, "date": "2026-08-28", "entity": "uber", "volume": 0.0, "wiki_views": 1628}
+{"app_rank": 26, "close": 78.81999969482422, "date": "2026-08-28", "entity": "uber", "volume": 10702700.0, "wiki_views": 1628}
 {"date": "2026-08-28", "entity": "ubisoft", "wiki_views": 1345}
 {"date": "2026-08-28", "entity": "ugg", "wiki_views": 122}
 {"app_rank": 0, "date": "2026-08-28", "entity": "ulta", "wiki_views": 205}
@@ -41182,9 +41182,9 @@
 {"date": "2026-08-28", "entity": "vuori", "wiki_views": 176}
 {"date": "2026-08-28", "entity": "vw", "wiki_views": 1760}
 {"app_rank": 0, "date": "2026-08-28", "entity": "wag", "wiki_views": 24}
-{"app_rank": 41, "close": 102.98500061035156, "date": "2026-08-28", "entity": "walmart", "volume": 0.0, "wiki_views": 3437}
+{"app_rank": 41, "close": 103.08999633789062, "date": "2026-08-28", "entity": "walmart", "volume": 19392800.0, "wiki_views": 3437}
 {"app_rank": 0, "date": "2026-08-28", "entity": "wayfair", "wiki_views": 372}
-{"app_rank": 0, "date": "2026-08-28", "entity": "wbd", "wiki_views": 2040}
+{"app_rank": 0, "close": 28.770000457763672, "date": "2026-08-28", "entity": "wbd", "volume": 10004800.0, "wiki_views": 2040}
 {"date": "2026-08-28", "entity": "weber", "wiki_views": 83}
 {"date": "2026-08-28", "entity": "webjet", "wiki_views": 15}
 {"app_rank": 0, "date": "2026-08-28", "entity": "wendys", "wiki_views": 903}
@@ -41200,25 +41200,25 @@
 {"app_rank": 0, "date": "2026-08-28", "entity": "ww", "wiki_views": 253}
 {"date": "2026-08-28", "entity": "xero", "wiki_views": 189}
 {"date": "2026-08-28", "entity": "xiaomi", "wiki_views": 1100}
-{"date": "2026-08-28", "entity": "xponential", "wiki_views": 26}
+{"close": 5.429999828338623, "date": "2026-08-28", "entity": "xponential", "volume": 486300.0, "wiki_views": 26}
 {"date": "2026-08-28", "entity": "yeti", "wiki_views": 162}
-{"app_rank": 76, "close": 154.4250030517578, "date": "2026-08-28", "entity": "yum", "volume": 0.0, "wiki_views": 1015}
+{"app_rank": 76, "close": 153.86000061035156, "date": "2026-08-28", "entity": "yum", "volume": 1545400.0, "wiki_views": 1015}
 {"date": "2026-08-28", "entity": "zevia", "wiki_views": 59}
 {"app_rank": 0, "date": "2026-08-28", "entity": "zip", "wiki_views": 41}
 {"date": "2026-08-28", "entity": "zoetis", "wiki_views": 105}
 {"app_rank": 0, "date": "2026-08-29", "entity": "adidas"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "affirm"}
-{"app_rank": 74, "date": "2026-08-29", "entity": "airbnb"}
+{"app_rank": 75, "date": "2026-08-29", "entity": "airbnb"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "alaska_air"}
-{"app_rank": 14, "date": "2026-08-29", "entity": "alibaba"}
-{"app_rank": 19, "date": "2026-08-29", "entity": "amazon"}
+{"app_rank": 15, "date": "2026-08-29", "entity": "alibaba"}
+{"app_rank": 17, "date": "2026-08-29", "entity": "amazon"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "amc"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "american_air"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "apple"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "aristocrat"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "bestbuy"}
-{"app_rank": 33, "date": "2026-08-29", "entity": "block"}
-{"app_rank": 45, "date": "2026-08-29", "entity": "booking"}
+{"app_rank": 32, "date": "2026-08-29", "entity": "block"}
+{"app_rank": 52, "date": "2026-08-29", "entity": "booking"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "bumble"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "caesars"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "carmax"}
@@ -41227,38 +41227,39 @@
 {"app_rank": 0, "date": "2026-08-29", "entity": "carvana"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "chewy"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "chime"}
-{"app_rank": 86, "date": "2026-08-29", "entity": "chipotle"}
+{"app_rank": 0, "date": "2026-08-29", "entity": "chipotle"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "cinemark"}
+{"date": "2026-08-29", "entity": "cocacola", "trends_hit": 500}
 {"app_rank": 0, "date": "2026-08-29", "entity": "coinbase"}
-{"app_rank": 43, "date": "2026-08-29", "entity": "coles"}
+{"app_rank": 58, "date": "2026-08-29", "entity": "coles"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "comcast"}
-{"app_rank": 60, "date": "2026-08-29", "entity": "costco"}
+{"app_rank": 65, "date": "2026-08-29", "entity": "costco"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "crumbl"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "crunch"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "delta"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "dexcom"}
-{"app_rank": 8, "date": "2026-08-29", "entity": "disney"}
-{"app_rank": 96, "date": "2026-08-29", "entity": "dominos"}
-{"app_rank": 10, "date": "2026-08-29", "entity": "doordash"}
+{"app_rank": 13, "date": "2026-08-29", "entity": "disney"}
+{"app_rank": 90, "date": "2026-08-29", "entity": "dominos"}
+{"app_rank": 11, "date": "2026-08-29", "entity": "doordash"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "draftkings"}
-{"app_rank": 71, "date": "2026-08-29", "entity": "duolingo"}
+{"app_rank": 70, "date": "2026-08-29", "entity": "duolingo"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "dutchbros"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "ea"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "easyjet"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "ebay"}
-{"app_rank": 83, "date": "2026-08-29", "entity": "endeavour"}
-{"app_rank": 14, "date": "2026-08-29", "entity": "etsy"}
+{"app_rank": 0, "date": "2026-08-29", "entity": "endeavour"}
+{"app_rank": 21, "date": "2026-08-29", "entity": "etsy"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "expedia"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "flutter"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "ford"}
-{"app_rank": 76, "date": "2026-08-29", "entity": "fox"}
+{"app_rank": 86, "date": "2026-08-29", "entity": "fox"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "function_health"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "gamestop"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "gm"}
-{"app_rank": 9, "date": "2026-08-29", "entity": "googlepixel"}
+{"app_rank": 7, "date": "2026-08-29", "entity": "googlepixel"}
 {"app_rank": 59, "date": "2026-08-29", "entity": "grab"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "grindr"}
-{"app_rank": 37, "date": "2026-08-29", "entity": "gyg"}
+{"app_rank": 48, "date": "2026-08-29", "entity": "gyg"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "harveynorman"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "hilton"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "hims"}
@@ -41272,25 +41273,25 @@
 {"app_rank": 0, "date": "2026-08-29", "entity": "instacart"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "jbhifi"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "jetblue"}
-{"app_rank": 68, "date": "2026-08-29", "entity": "kalshi"}
+{"app_rank": 60, "date": "2026-08-29", "entity": "kalshi"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "klarna"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "krafton"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "lifetime"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "lightwonder"}
-{"app_rank": 4, "date": "2026-08-29", "entity": "livenation"}
+{"app_rank": 6, "date": "2026-08-29", "entity": "livenation"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "lowes"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "lvmh"}
-{"app_rank": 43, "date": "2026-08-29", "entity": "lyft"}
+{"app_rank": 51, "date": "2026-08-29", "entity": "lyft"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "marriott"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "match"}
-{"app_rank": 60, "date": "2026-08-29", "entity": "mcdonalds"}
+{"app_rank": 49, "date": "2026-08-29", "entity": "mcdonalds"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "mercadolibre"}
 {"app_rank": 6, "date": "2026-08-29", "entity": "meta"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "mgm"}
-{"app_rank": 35, "date": "2026-08-29", "entity": "microsoft"}
+{"app_rank": 56, "date": "2026-08-29", "entity": "microsoft"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "myer"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "netease"}
-{"app_rank": 4, "date": "2026-08-29", "entity": "netflix"}
+{"app_rank": 5, "date": "2026-08-29", "entity": "netflix"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "nexon"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "nike"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "nintendo"}
@@ -41299,18 +41300,18 @@
 {"app_rank": 0, "date": "2026-08-29", "entity": "oscar"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "oura"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "papajohns"}
-{"app_rank": 0, "date": "2026-08-29", "entity": "paramount"}
-{"app_rank": 50, "date": "2026-08-29", "entity": "paypal"}
-{"app_rank": 22, "date": "2026-08-29", "entity": "pdd"}
+{"app_rank": 98, "date": "2026-08-29", "entity": "paramount"}
+{"app_rank": 45, "date": "2026-08-29", "entity": "paypal"}
+{"app_rank": 26, "date": "2026-08-29", "entity": "pdd"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "peloton"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "petco"}
-{"app_rank": 63, "date": "2026-08-29", "entity": "pinterest"}
+{"app_rank": 47, "date": "2026-08-29", "entity": "pinterest"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "planetfitness"}
-{"app_rank": 69, "date": "2026-08-29", "entity": "qantas"}
+{"app_rank": 88, "date": "2026-08-29", "entity": "qantas"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "rbi"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "rea"}
-{"app_rank": 73, "date": "2026-08-29", "entity": "reddit"}
-{"app_rank": 92, "date": "2026-08-29", "entity": "revolut"}
+{"app_rank": 61, "date": "2026-08-29", "entity": "reddit"}
+{"app_rank": 93, "date": "2026-08-29", "entity": "revolut"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "rivian"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "robinhood"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "roblox"}
@@ -41320,16 +41321,16 @@
 {"app_rank": 0, "date": "2026-08-29", "entity": "rush_street"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "ryanair"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "sea"}
-{"app_rank": 85, "date": "2026-08-29", "entity": "seek"}
+{"app_rank": 97, "date": "2026-08-29", "entity": "seek"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "shakeshack"}
-{"app_rank": 29, "date": "2026-08-29", "entity": "shein"}
+{"app_rank": 27, "date": "2026-08-29", "entity": "shein"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "sixflags"}
-{"app_rank": 61, "date": "2026-08-29", "entity": "snap"}
+{"app_rank": 43, "date": "2026-08-29", "entity": "snap"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "sofi"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "sony"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "southwest"}
-{"app_rank": 32, "date": "2026-08-29", "entity": "spotify"}
-{"app_rank": 0, "date": "2026-08-29", "entity": "starbucks"}
+{"app_rank": 27, "date": "2026-08-29", "entity": "spotify"}
+{"app_rank": 81, "date": "2026-08-29", "entity": "starbucks"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "starz"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "stellantis"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "sweetgreen"}
@@ -41341,25 +41342,25 @@
 {"app_rank": 0, "date": "2026-08-29", "entity": "tencent"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "tesla"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "topgolf"}
-{"app_rank": 65, "date": "2026-08-29", "entity": "trip_com"}
+{"app_rank": 63, "date": "2026-08-29", "entity": "trip_com"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "tripadvisor"}
 {"app_rank": 12, "date": "2026-08-29", "entity": "uber"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "ulta"}
-{"app_rank": 30, "date": "2026-08-29", "entity": "underdog"}
+{"app_rank": 40, "date": "2026-08-29", "entity": "underdog"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "united"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "vail"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "viking"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "wag"}
 {"app_rank": 34, "date": "2026-08-29", "entity": "walmart"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "wayfair"}
-{"app_rank": 0, "date": "2026-08-29", "entity": "wbd"}
+{"app_rank": 89, "date": "2026-08-29", "entity": "wbd"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "wendys"}
-{"app_rank": 91, "date": "2026-08-29", "entity": "wesfarmers"}
+{"app_rank": 0, "date": "2026-08-29", "entity": "wesfarmers"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "whoop"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "wingstop"}
-{"app_rank": 15, "date": "2026-08-29", "entity": "wise"}
+{"app_rank": 19, "date": "2026-08-29", "entity": "wise"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "wizz"}
-{"app_rank": 33, "date": "2026-08-29", "entity": "woolworths"}
+{"app_rank": 42, "date": "2026-08-29", "entity": "woolworths"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "ww"}
-{"app_rank": 66, "date": "2026-08-29", "entity": "yum"}
+{"app_rank": 81, "date": "2026-08-29", "entity": "yum"}
 {"app_rank": 0, "date": "2026-08-29", "entity": "zip"}
