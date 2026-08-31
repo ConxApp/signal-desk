@@ -1468,3 +1468,33 @@
 {"date": "2026-08-29", "entity": "popmart", "wiki_views": 270}
 {"date": "2026-08-29", "entity": "robinhood", "wiki_views": 349}
 {"date": "2026-08-29", "entity": "tesla", "wiki_views": 2503}
+{"date": "2026-08-30", "entity": "amd", "wiki_views": 114}
+{"date": "2026-08-30", "entity": "atlassian", "wiki_views": 385}
+{"date": "2026-08-30", "entity": "birkenstock", "wiki_views": 471}
+{"date": "2026-08-30", "entity": "bloom_energy", "wiki_views": 217}
+{"date": "2026-08-30", "entity": "celsius", "wiki_views": 468}
+{"date": "2026-08-30", "entity": "crispr", "wiki_views": 60}
+{"date": "2026-08-30", "entity": "crocs", "wiki_views": 785}
+{"date": "2026-08-30", "entity": "deckers", "wiki_views": 310}
+{"date": "2026-08-30", "entity": "dutch_bros", "wiki_views": 4}
+{"date": "2026-08-30", "entity": "elf", "wiki_views": 203}
+{"date": "2026-08-30", "entity": "oddity", "wiki_views": 34}
+{"date": "2026-08-30", "entity": "onon", "wiki_views": 1256}
+{"date": "2026-08-30", "entity": "popmart", "wiki_views": 260}
+{"date": "2026-08-30", "entity": "robinhood", "wiki_views": 492}
+{"date": "2026-08-30", "entity": "tesla", "wiki_views": 2352}
+{"close": 467.5799865722656, "date": "2026-08-31", "entity": "amd", "volume": 0.0}
+{"close": 194.64500427246094, "date": "2026-08-31", "entity": "atlassian", "volume": 0.0}
+{"close": 35.314998626708984, "date": "2026-08-31", "entity": "birkenstock", "volume": 0.0}
+{"close": 204.47999572753906, "date": "2026-08-31", "entity": "bloom_energy", "volume": 0.0}
+{"close": 31.934999465942383, "date": "2026-08-31", "entity": "celsius", "volume": 0.0}
+{"close": 56.44049835205078, "date": "2026-08-31", "entity": "crispr", "volume": 0.0}
+{"close": 118.83999633789062, "date": "2026-08-31", "entity": "crocs", "volume": 0.0}
+{"close": 87.4800033569336, "date": "2026-08-31", "entity": "deckers", "volume": 0.0}
+{"close": 49.540000915527344, "date": "2026-08-31", "entity": "dutch_bros", "volume": 0.0}
+{"close": 109.25, "date": "2026-08-31", "entity": "elf", "volume": 0.0}
+{"close": 14.510000228881836, "date": "2026-08-31", "entity": "oddity", "volume": 0.0}
+{"close": 28.670000076293945, "date": "2026-08-31", "entity": "onon", "volume": 0.0}
+{"close": 156.10000610351562, "date": "2026-08-31", "entity": "popmart", "volume": 7439578.0}
+{"close": 102.86000061035156, "date": "2026-08-31", "entity": "robinhood", "volume": 0.0}
+{"close": 364.114990234375, "date": "2026-08-31", "entity": "tesla", "volume": 0.0}
