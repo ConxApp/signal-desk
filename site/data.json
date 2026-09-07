@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T13:38:23.876759+00:00",
+ "generated": "2026-09-07T22:08:20.291380+00:00",
  "date": "2026-09-07",
  "reddit_enabled": false,
  "sources": {
@@ -24,13 +24,13 @@
    "note": ""
   },
   "prices": {
-   "ok": 79,
+   "ok": 82,
    "fail": 1,
    "note": "DENN: HTTPError"
   },
   "gdelt": {
-   "ok": 5,
-   "fail": 8,
+   "ok": 2,
+   "fail": 10,
    "note": "HTTP 429 then 429"
   },
   "google_news": {
@@ -275,8 +275,8 @@
    "rank_score": 75.7,
    "headlines": [
     {
-     "title": "CRISPR Therapeutics (CRSP) Stock Looks Fully Valued As CTX310 Data Impresses",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUmRsWHEtVDd1VVA1MERobHVpVmJuanZSN3AzTF9XRzM2eXRKTGlUTk42b1hiVHhjdTFXN0JTSzlTaDhHQ1N5X0x0c0N2VEFyT2R0ejh2Zm9RaF9pV1NVZ0w1b3NmYmhhZmRZblpWdndFTFZCVU9qUHRxVFdvcFVoOVRQZGR2Qm05SDZnTnhLbklWTXhBQVZlOTZzTVlHZw?oc=5",
+     "title": "Why Is CRISPR Therapeutics (CRSP) Up 7.1% Since Last Earnings Report?",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd21zUlRDZU5WRWdqVm5SQUxYdXZUOGYyTHVvcFcyUmJKcjFPVUNFXy1RcFhhanBLamV4bTkwSldselhQdGR0amp3X25Yd19FbTlXMlRPanZsQjE0Y2pCS3JCWEt0UVl4TF9kZmM1RlprQmt2dmRrOUxISlNkcFd0UDhmUl9RbEJ2Q04xQUdTdnZ6THkzWlE?oc=5",
      "domain": "Yahoo Finance",
      "date": "2026-09-02"
     },
@@ -312,10 +312,10 @@
     }
    ],
    "explain": {
-    "summary": "CRISPR Therapeutics: attention is rising, led by news coverage (+4.6σ vs its own baseline). In the news: “CRISPR Therapeutics (CRSP) Stock Looks Fully Valued As CTX310 Data Impresses” (Yahoo Finance); “CRSP, VRTX Stocks Surge As FDA Clears Casgevy For Children Ages 2 And Up” (Stocktwits). Stock: -3.3% over 5 days — the stock has not reacted yet.",
+    "summary": "CRISPR Therapeutics: attention is rising, led by news coverage (+4.6σ vs its own baseline). In the news: “Why Is CRISPR Therapeutics (CRSP) Up 7.1% Since Last Earnings Report?” (Yahoo Finance); “CRSP, VRTX Stocks Surge As FDA Clears Casgevy For Children Ages 2 And Up” (Stocktwits). Stock: -3.3% over 5 days — the stock has not reacted yet.",
     "tone": "unknown",
     "drivers": [
-     "news: CRISPR Therapeutics (CRSP) Stock Looks Fully Valued As CTX310 Data Impresses"
+     "news: Why Is CRISPR Therapeutics (CRSP) Up 7.1% Since Last Earnings Report?"
     ],
     "source": "heuristic"
    }
@@ -555,21 +555,15 @@
    "rank_score": 74.6,
    "headlines": [
     {
-     "title": "Backcountry Labor Day Sale: Save up to 60% on Running Shoes, Apparel, and Gear",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdUlKTHFJdmJvVzRhN01Vc09qbUQ1Y0lrX1lxSlgxMmhOSXBCZWJKOTFCdFlrTkNXYjNvQ29ocW1BdV9fRTU1ckFQbEpmRmdPTFRWQjZhZFNEb1ZqajNTNWZlcVhLMU1zX010Q1RBeUI4MExZU0diTFFWWWYtWU16UXlDMHI2OHNJMWc?oc=5",
-     "domain": "iRunFar",
-     "date": "2026-09-02"
-    },
-    {
      "title": "On Holding (ONON) Stock Still Looks Like A Bargain Despite A 41% Slump",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR0dzZDlONjdDaTQ5TnZfQndQNk1CcmxRbm8xLUdrbjhqdF9BbjJTRnhXM3RYWS1NcFhjcUI1MGs0dXllcDdoUWFLejFhaW1pQlV3ZktNa1JNd25tS1VOTHdKM0VnUU9xTEwyR2dkazlZX3Nsb0lFdTEwcGJHZUptU3NIUXJEcGJrZFdOWDZHTndmM0E2VEUwRTBzcw?oc=5",
      "domain": "Yahoo Finance",
      "date": "2026-09-02"
     },
     {
-     "title": "How a freelancer pitched a personal essay about running and romance to Runner’s World",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOUdVV2F4S1o0OFpmYUxUTGRxMV80QldqZG5nWG1oNk1RcWVBVHhtcEljRjJpQ2FrRDVFNjVYYnJkaEh6eGpoemMzbkdRQjhaWkRRd3Q2YnpOVGstRHdZRGtaZUVaSlduZFhrNVJWU1F2RS1MM1poYU44RkZDZ3MwOGNzZjVkdFROWE1KSm5fNlo5Ymg0VkJWa1pVcnF5aHpHTmR0UVE1ZnYwRThBS3J6aWd4cW9FSVRvaGlPYmFzNTF6RW1oWXc?oc=5",
-     "domain": "Association of Health Care Journalists",
+     "title": "Backcountry Labor Day Sale: Save up to 60% on Running Shoes, Apparel, and Gear",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdUlKTHFJdmJvVzRhN01Vc09qbUQ1Y0lrX1lxSlgxMmhOSXBCZWJKOTFCdFlrTkNXYjNvQ29ocW1BdV9fRTU1ckFQbEpmRmdPTFRWQjZhZFNEb1ZqajNTNWZlcVhLMU1zX010Q1RBeUI4MExZU0diTFFWWWYtWU16UXlDMHI2OHNJMWc?oc=5",
+     "domain": "iRunFar",
      "date": "2026-09-02"
     },
     {
@@ -579,23 +573,29 @@
      "date": "2026-09-06"
     },
     {
-     "title": "Watch: Ames girls XC runner Leah Kincaid on the Kirk Schmaltz Invite",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSzllWW1MMVA4WHo5ZkJCWEluZ29CY1ZzVHYyc1BwRGVjRFpHdjNQTE15dGttZmVqRlpVOFM0M0Q5RWlSZlBST3F4NXRpZ2FFZXc1TkprbkRuLWFwdF9MekZWNDliaWx2SjJFa3NJd1d4NDE2QVRmYWhGVkRQb0R5QVlSVEtBZ2FRZnRBcmRoVGpfY2tXOFcyaS1Ld1BrcXBSNnNQNkZacjJqdw?oc=5",
-     "domain": "The Ames Tribune",
-     "date": "2026-09-04"
+     "title": "On Holding (ONON) Stock Looks Like A Bargain While Broader Checks Stay Mixed",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSGxUYVdBemM2RFZvSXFXT2EyNmtqa0VtblJyOWthV0J6Sm54dFJFWmNSR3pibWFQOU1xVUxJLTE4VThIV0hQSkZvNFpKdGZ1WjBMSGxCbHpnSzM3ODU2SGw4TkppUm92TVplV29hQ1FFYWw3SXB6M2Y1d1BiQ2dkMkFoT0VXa2p2akE0TXVhY29qMmQxUjcwaFhGRlBfOGl4ZkFWVkN3c3I5X0plYUtlY3d2UmtYemNYZE1tWU9oLTlzV2lERlVmdGFaa2F3QVl0d3fSAdcBQVVfeXFMTjJTeWxMRzNnLXFlRmNJdDFpTFhvUGdmeS1JS1ZPdTQ4U1g1dTRpd0dWQXlELTNzQ2JleGlOQmhnVjJDcnpzSlZkR2tueTFjRzVIYzlucTlzblduNlZjendRMl9rbmpCY3c1b09RTXphenNmQzlxLUVqeUtFX1dtbEpub3QtSmoxamozY1hJeXVONVBoTU5Ga1I4UHNfZFRhZFZ6Y2ZVaFhaS0dfU3Z1NXlPX1loekRIb0Z2YlgtQS03MEhKb3BoYmpaTGR0dGVHZkpnZ24ySDA?oc=5",
+     "domain": "simplywall.st",
+     "date": "2026-09-01"
     },
     {
      "title": "Ranking Member Robert Garcia Statement on Holding Leon Black in Contempt",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZl84SVQtR2RCZ3U4cnA5VXd4c3dPV2NFRVR0Xzl3MWJUUmRyU1MtMTFVTVlQbl9scjlIVlJqUXU5QzZ2N1hxOGFGS3JXaXRKQmF6TEhMdXNTODVZSVFqYjZiVm1DaUQzTjdlUURONkpLYUpqaUhMbmtQVWxhRDBsNEJrejJKUlhjMVdBSVNYbHl1bW9fMWVKM19jTGtJaFlSMHl3ZXZXUjhCc3BpUGtqMDB3UXBSY2FGeVNoTlc5M1hrTUYzU3FDVw?oc=5",
      "domain": "House Oversight Democrats (.gov)",
      "date": "2026-09-03"
+    },
+    {
+     "title": "Watch: Ames girls XC runner Leah Kincaid on the Kirk Schmaltz Invite",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSzllWW1MMVA4WHo5ZkJCWEluZ29CY1ZzVHYyc1BwRGVjRFpHdjNQTE15dGttZmVqRlpVOFM0M0Q5RWlSZlBST3F4NXRpZ2FFZXc1TkprbkRuLWFwdF9MekZWNDliaWx2SjJFa3NJd1d4NDE2QVRmYWhGVkRQb0R5QVlSVEtBZ2FRZnRBcmRoVGpfY2tXOFcyaS1Ld1BrcXBSNnNQNkZacjJqdw?oc=5",
+     "domain": "The Ames Tribune",
+     "date": "2026-09-04"
     }
    ],
    "explain": {
-    "summary": "On Holding: attention is rising, led by news coverage (+5.4σ vs its own baseline). In the news: “Backcountry Labor Day Sale: Save up to 60% on Running Shoes, Apparel, and Gear” (iRunFar); “On Holding (ONON) Stock Still Looks Like A Bargain Despite A 41% Slump” (Yahoo Finance). Stock: -3.0% over 5 days — the stock has not reacted yet.",
+    "summary": "On Holding: attention is rising, led by news coverage (+5.4σ vs its own baseline). In the news: “On Holding (ONON) Stock Still Looks Like A Bargain Despite A 41% Slump” (Yahoo Finance); “Backcountry Labor Day Sale: Save up to 60% on Running Shoes, Apparel, and Gear” (iRunFar). Stock: -3.0% over 5 days — the stock has not reacted yet.",
     "tone": "unknown",
     "drivers": [
-     "news: Backcountry Labor Day Sale: Save up to 60% on Running Shoes, Apparel, and Gear"
+     "news: On Holding (ONON) Stock Still Looks Like A Bargain Despite A 41% Slump"
     ],
     "source": "heuristic"
    }
@@ -841,16 +841,16 @@
      "date": "2026-09-02"
     },
     {
+     "title": "Why Everyone Is Watching Deckers Outdoor (DECK) Today",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeHpsRlNFNG5nU0h6NEF6WWpNUkczcUo2ZUo4dDI3aEVtQmVKMTQxaDdsVXBGa2gzWXBaUWkwUzN0RHJBTllyV0JVZ2hXNERfTnBaTUh5MzBJSk85TGJzcllfTmtiY1Axd2F2Wjl6RUdibUdMYXpHTklEeXNsTGN4a2pXbDE5RXBBQTAxU0p1SFhGVENqVkJGT1FubGZxd1BUdF9xWDh4RWJibEJ3SElyb3hsbU5hWFBRSU4yc2lWRVlZSWNOX1JnaHhtVlnSAdIBQVVfeXFMTTNqUVJVbjh4clJCQjU4UHR6aC02eWJJT243Y2Eyd19CQVEyOW5yLVlMZVAzbkd2cEZuRWR5anBLX0NXeW1TeTVfZXpZcVZwVHVnY2xpanZSdGVxLTlSYXU5blhEMWpkNmZxMFJQOV9QVUlrWkM5MWIwcVVEQnlCNVJJbi1vYkdpOUpMdXFXalNtMDUybXd1VnNmZVdtS2tWbG5Wa0lFdTJYVmFCMWVDb1RQV09CNTJZSFU1NklQNzM3eWVJUDA0RlZfd2lrV2VwNnBn?oc=5",
+     "domain": "simplywall.st",
+     "date": "2026-09-06"
+    },
+    {
      "title": "Deckers Outdoor Corp (NYSE:DECK): A Quality Stock with High Returns on Capital and Strong Cash Flow",
      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbW1PdWFRVHFIU2tfWV82T0trZVlkQVpkVEhtSkZfelR1SVJWak1JTUVBYXJIb2JfSF9qbzliZTY2ekRUMnA2TFhKdlBiemV2dzVPcXBsS2lfREk3UGVPUTRvdENzbVFvSzEzYlBUZmF2QWtneWpCaXdTRlhDTHlna2RKLV9CbnV4aEEwODBhRzRMVnhHTGJSTVVVZy1BbF9qTEpvYXppV3prOWdKM3ZBb3BLWGxlYXo2UGF6UzlxTmZfVFZQQ1BBYjdVVXJnb3hOeTlsQnk0bks5ck1majJ2Mg?oc=5",
      "domain": "ChartMill",
      "date": "2026-09-03"
-    },
-    {
-     "title": "Deckers Outdoor (DECK) Stock Could Still Trade Below Fair Value As Cash Flow Holds",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPakJ1czkzS3RXejdLWHlHWjNHSlFYcGNuRUVVQzh0NGVNSkVSYWhCX3UtUHBVbmFDdGlZVTVWZ1Bob1Nua3ZuMlU4ZlR4WWZ4X2xfYjY3UmFNSDNUSnpTZXRjRWF5M3dMMWZMTW1sTVhmNmR4MXR2Q3BHbDhxU0hmX1pnSG8xemlmOUFVeEtZN2hOc2xrWl9BRUxZMzlST3cxc2tFRzQtUVREaFJNcUl1cC1PdG0tajFMSXYxWGtYN0lnbC1GQkhlZ1Vza3pCY1dfbm9wNlZXZlfSAd4BQVVfeXFMUHV4dnAxZ25Wck1XdHA3TmVqMFVVaXlPZkpzaTVDelM0NlNDWm9ZVVNHNmVEVFBiaktLVm9qSlBpcUNjT3VWeVlOSnlVNzVlY25Bb2ZZQzJib0w0Q1diOXNsQ2MwYVRHMkZ5WjBnQ1k1QlhRU3hqdmZZUkswWVZCUEtZbHUyWmpJOG82YXFKVnlicmhvNThZbzFCeDNTcDBWemdZTjdPQkdKRGNlZUJYdDVHUGxmalZfUExhRnVMaFd6QVhhX3ZDNzZOOFc2aHc2Umx2VmlmV1RPMjJvRUp3?oc=5",
-     "domain": "simplywall.st",
-     "date": "2026-09-05"
     },
     {
      "title": "I Own 20+ Pair of Sneakers, but I Always Wear These Podiatrist-Approved Hoka Shoes — and They’re on Sale Now",
@@ -865,297 +865,17 @@
      "date": "2026-09-01"
     },
     {
-     "title": "Orange Hoka Running Shoes The Earth From Space Showing Africa And Australia On It's Side, With Dark Background",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43bVRidF9fSUo4WGpKa1ZYV0hZSk1IM0ljZ2xVQ1hFZ0ZURkxKN3BzNFRhMkpPRVEwTmN5RjJRd2JSeDNUYjNxVk5SeFZXRmtpc0xYcFJnYnE0czUzakVUZHFFMUJhRVE?oc=5",
-     "domain": "krepsiniozinios.lt",
-     "date": "2026-09-01"
+     "title": "I Found My Next Hoka Running Shoes—and They’re on Sale for 30% Off",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80SFM1aU93RDlVeWRYeUF5Q2RCR2REQ2xIblNSZ29iNDRkSlJZOWZOVWthZ3lsSjF4NUExbDJkd3RLdHV0SEJpY3FVYmFOUFdiTTRmSktEbzlrN0ZlbUhDTTZmWXhZWHZsZ3l6bXVDV0JzR3d6bGpVUWJsZGlPQQ?oc=5",
+     "domain": "AOL.com",
+     "date": "2026-09-03"
     }
    ],
    "explain": {
-    "summary": "Deckers (Hoka / UGG): attention is rising, led by Wikipedia lookups (+3.4σ vs its own baseline). In the news: “Deckers Outdoor (DECK) Dropped, So What Is Driving Attention Now?” (Yahoo Finance); “Deckers Outdoor Corp (NYSE:DECK): A Quality Stock with High Returns on Capital and Strong…” (ChartMill). Stock: -2.2% over 5 days — the stock has not reacted yet.",
+    "summary": "Deckers (Hoka / UGG): attention is rising, led by Wikipedia lookups (+3.4σ vs its own baseline). In the news: “Deckers Outdoor (DECK) Dropped, So What Is Driving Attention Now?” (Yahoo Finance); “Why Everyone Is Watching Deckers Outdoor (DECK) Today” (simplywall.st). Stock: -2.2% over 5 days — the stock has not reacted yet.",
     "tone": "unknown",
     "drivers": [
      "news: Deckers Outdoor (DECK) Dropped, So What Is Driving Attention Now?"
-    ],
-    "source": "heuristic"
-   }
-  },
-  {
-   "entity": "elf",
-   "date": "2026-09-06",
-   "social_z": 0.0,
-   "finance_z": 0.0,
-   "wiki_z": -1.51,
-   "news_z": 3.66,
-   "breadth": 0.0,
-   "acceleration": 0.0,
-   "lead_ratio": 0.5,
-   "sentiment": 0.0,
-   "intent_rate": 0.0,
-   "scarcity_rate": 0.0,
-   "unpriced": 0.7325,
-   "direction": "mixed",
-   "breadth_gate": 0.15,
-   "price_return_5d": 0.0535,
-   "volume_z": -0.82,
-   "arb_score": 17.2,
-   "flags": [],
-   "why": [],
-   "name": "e.l.f. Beauty",
-   "ticker": "ELF",
-   "kind": "product",
-   "note": "",
-   "mentions": 0,
-   "examples": [],
-   "sparkline": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "wiki_spark": [
-    260,
-    261,
-    309,
-    254,
-    233,
-    233,
-    221,
-    178,
-    192,
-    209,
-    230,
-    191,
-    202,
-    197,
-    163,
-    201,
-    246,
-    216,
-    238,
-    190,
-    171,
-    207,
-    203,
-    240,
-    183,
-    189,
-    186,
-    184,
-    151,
-    147
-   ],
-   "history_days": 106,
-   "social_days": 0,
-   "attention": {
-    "entity": "elf",
-    "date": "2026-09-06",
-    "attention_z": 3.3,
-    "driver": "news",
-    "channels": {
-     "wiki": -1.51,
-     "news": 3.3
-    },
-    "corroborating": [],
-    "stage": "rising",
-    "acceleration": 1.23,
-    "trends_hit": 0,
-    "finance_noticed": false,
-    "price_return_5d": 0.0535,
-    "price_return_20d": 0.1135,
-    "volume_z": -0.82,
-    "unpriced": 0.7325,
-    "has_prices": true,
-    "has_social": false,
-    "direction": "unknown",
-    "attention_score": 61.0,
-    "past_spikes": {
-     "n": 2,
-     "median_10d": 0.1493,
-     "hit_rate": 1.0
-    },
-    "flags": [
-     "ATTENTION_SPIKE",
-     "UNPRICED",
-     "RISING"
-    ],
-    "why": [
-     "news coverage are 3.3σ above this name's own 45-day baseline",
-     "price is flat (+5.4% over 5 days) and volume normal despite the attention",
-     "still accelerating (+1.2σ over the last 3 days vs the 4 before)"
-    ],
-    "z_spark": [
-     1.97,
-     7.14,
-     1.62,
-     -0.67,
-     -0.67,
-     1.13,
-     1.35,
-     1.75,
-     0.67,
-     -0.67,
-     0.67,
-     -0.67,
-     0.0,
-     1.46,
-     5.05,
-     5.72,
-     2.13,
-     0.22,
-     0.56,
-     0.48,
-     1.64,
-     -0.67,
-     0.42,
-     0.93,
-     -0.75,
-     -0.75,
-     -0.75,
-     -0.75,
-     0.0,
-     3.66
-    ],
-    "driver_spark": [
-     0.002,
-     0.003,
-     0.002,
-     0.0,
-     0.0,
-     0.001,
-     0.001,
-     0.002,
-     0.001,
-     0.0,
-     0.001,
-     0.0,
-     0.001,
-     0.002,
-     0.005,
-     0.006,
-     0.002,
-     0.001,
-     0.001,
-     0.001,
-     0.002,
-     0.0,
-     0.001,
-     0.002,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.001,
-     0.006
-    ],
-    "price_spark": [
-     84.01,
-     84.1,
-     80.9,
-     82.26,
-     82.89,
-     82.64,
-     87.84,
-     86.37,
-     92.31,
-     98.49,
-     95.24,
-     94.99,
-     92.62,
-     92.05,
-     91.44,
-     93.66,
-     92.51,
-     99.65,
-     98.46,
-     101.94,
-     105.95,
-     105.77,
-     106.97,
-     106.17,
-     104.1,
-     109.05,
-     105.54,
-     107.36,
-     107.41,
-     109.67
-    ],
-    "channel_dates": {
-     "wiki": "2026-09-06",
-     "news": "2026-09-06"
-    },
-    "app_rank": 0.0
-   },
-   "rank_score": 61.0,
-   "headlines": [
-    {
-     "title": "e.l.f. Beauty Brings Change the Board Game to the University of California, Berkeley, Inspiring the Next Generation of Leaders",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUF9KWjgtZlUxVnRRVUZoa2EyTHNWdGJoRk5CYXBFOGU5VHp1Y1FIZWtuSk9ib2N3S2cyRXNWeTJwWkQwaWpUSW51MHV1RTBhbmVJakFIZVRMOERVZVh1MEZiRW9CN1ItTjc3Z2hQd0RkZkxLb2ZIUlV0Ni1QbDAxdVYyck0xeDV4Uy1vMHlOenpsWTNWZjJLOFBSV0RpMFRNS0xub2MzQQ?oc=5",
-     "domain": "e.l.f. Beauty",
-     "date": "2026-09-02"
-    },
-    {
-     "title": "Our e.l.f. Beauty Stock Pick Had an Ugly Year. Better Days Lie Ahead.",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbmEzMWdGVGdkUDJ2bUwwLVh6LW9wdzZINi05VUhMbGxRSGhhSXVLbXNrTWtySmVBUnNIcUJ2VmlpeWRjSmdxcUMxRzlvMXhmU2JyUUNnVjJIc0UxRWhMSXNCbEZoNVVLZ3d0Ni1PNUY3YWVpUlVOVDlUZW42TldaVkJ6QWtNZDFBbHh4M20xTHhLZ2ZnbjgwQ3FRbl8?oc=5",
-     "domain": "Barron's",
-     "date": "2026-09-05"
-    },
-    {
-     "title": "Why Did e.l.f. Beauty (ELF) Move Today?",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPanlnU0ZTdUZrTjdSZTlxbEs0aXNRX0RHc2FCS1hrZjNodXFaRmFkT2IySW8wdEx5VUhjVlVES1d1WDh6NFZ2ZVJoM2FKUkJKMXJiZWZNaWlYTEUzaHZZRTRMb2NZUW9aa1Bma3VwMFpITWJ6dWdJN2N1cTVyc3g0REF5dlA?oc=5",
-     "domain": "Yahoo Finance",
-     "date": "2026-09-05"
-    },
-    {
-     "title": "e.l.f. Beauty Stock: Buy or Sell?",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1MlF0WHpabDkxS0szTHJ2QWNpT25KU0w2YWpBSTB1cnZrWTJJSVduRU52dkRtXzRMMzZuLVVBb3ZiVWVySzR5bmhHODZJcGtIaUFuTm5wUFZqTnUyUlVxRXpPSVlKZEgwMEhPOXBsX3N6RWRhYkQyWGhBQQ?oc=5",
-     "domain": "The Motley Fool",
-     "date": "2026-09-01"
-    },
-    {
-     "title": "Ulta Beauty Climbs 4%, e.l.f. Beauty Rises 5% as Post-Earnings Selloff Reverses",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRkxRSmFuMzN4dFVURXdnMVR5N2dYb1RYYzZ1THNabUJacFBvMUhaRGctM190cHo1d0YxYVk5UndvaVdpaDJXNjlzY3J0LXpwWlp4V1d3ZGJYV3Fwd3lXVnZfRklRZG1CR3FFcElBNExPSTkxQjl5UFVMbXlDb0tiSk9XT1Fwb0RPU25CUWhOQ0lpQlhFMVh0VkVQUmlCUm5mSEs1dXhXNi1OLTdudThiSGNKS3lSVVBlcFpF?oc=5",
-     "domain": "24/7 Wall St.",
-     "date": "2026-08-31"
-    },
-    {
-     "title": "How E.l.f. Beauty is building AI into its community management",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOG9CbTd0V3FmWjNfaHFneGZIQWdmaE1ucHZOSElodlNLT1lBWWNoeTFJMl95eWZ6MktLdjcwTW8xTUljcGRwekppWG1UbHZKbVdGdTNoNVpTVEVySTAyMmlHTWxmNHNKNUwyaDhMbTNUWVgyZVlVZXRXdnRpV2tDQ0ZB?oc=5",
-     "domain": "Fast Company",
-     "date": "2026-09-02"
-    }
-   ],
-   "explain": {
-    "summary": "e.l.f. Beauty: attention is rising, led by news coverage (+3.3σ vs its own baseline). In the news: “e.l.f. Beauty Brings Change the Board Game to the University of California, Berkeley, Ins…” (e.l.f. Beauty); “Our e.l.f. Beauty Stock Pick Had an Ugly Year. Better Days Lie Ahead.” (Barron's). Stock: +5.3% over 5 days — the stock has not reacted yet.",
-    "tone": "unknown",
-    "drivers": [
-     "news: e.l.f. Beauty Brings Change the Board Game to the University of California, Ber…"
     ],
     "source": "heuristic"
    }
@@ -1393,16 +1113,16 @@
      "date": "2026-09-07"
     },
     {
-     "title": "A 16‑inch productivity crusher with AMD Ryzen AI 5 is now $699 (50% off) at Best Buy’s Labor Day event",
-     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQV1FLZEIyWUQ5UEI0RTJCdjd6TE5vYi1tbkdDSUNNd29ucThORVlJRmQ4Q0dtanYzenFVOUx5Qnk2ZFJxUmstd21feG1vVVdLY0xvQmltaWhZT2JBcTlxM0tuS0otUFhEU3dJV3VYN3RZRUdtSm5DUTNCU19aaDNNWkJNS0g0Mi1vRlFaQ1pxYnBJbE1MUURnYXhrYWlpYkN6d254THgtbEhDaklDc18zTzlZbWQ1UDVGS2lKLTBLS05NdFdzZVVwS09kdWMxZWdXWVA2VHZOc01oY0VPY3dqZ2VHOEZHRmJ5QWRKSQ?oc=5",
-     "domain": "Windows Central",
-     "date": "2026-09-05"
-    },
-    {
      "title": "AMD Ryzen 7 7700X3D review: a decent CPU in desperate need of a price cut",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42dmJSd3NSNEM4d19yclFDWEZQSC1lSXI1QnZpVlFhQ3pLMFdOWDJ3c2VTeFZpbWVJWm9uZTFDT1RnVnAxUWdnODlUb0Utdm9FV19GSTl1SGVvT0NxZ2lGRQ?oc=5",
      "domain": "Club386",
      "date": "2026-09-02"
+    },
+    {
+     "title": "A 16‑inch productivity crusher with AMD Ryzen AI 5 is now $699 (50% off) at Best Buy’s Labor Day event",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQV1FLZEIyWUQ5UEI0RTJCdjd6TE5vYi1tbkdDSUNNd29ucThORVlJRmQ4Q0dtanYzenFVOUx5Qnk2ZFJxUmstd21feG1vVVdLY0xvQmltaWhZT2JBcTlxM0tuS0otUFhEU3dJV3VYN3RZRUdtSm5DUTNCU19aaDNNWkJNS0g0Mi1vRlFaQ1pxYnBJbE1MUURnYXhrYWlpYkN6d254THgtbEhDaklDc18zTzlZbWQ1UDVGS2lKLTBLS05NdFdzZVVwS09kdWMxZWdXWVA2VHZOc01oY0VPY3dqZ2VHOEZHRmJ5QWRKSQ?oc=5",
+     "domain": "Windows Central",
+     "date": "2026-09-05"
     },
     {
      "title": "Advanced Micro Devices (AMD) Dropped, So What Is Driving Attention Now?",
@@ -1424,7 +1144,7 @@
     }
    ],
    "explain": {
-    "summary": "AMD: attention is around normal, led by news coverage (+1.1σ vs its own baseline). In the news: “AMD Ryzen 7 7700X3D vs Ryzen 7 7800X3D CPU Review” (The FPS Review); “A 16‑inch productivity crusher with AMD Ryzen AI 5 is now $699 (50% off) at Best Buy’s La…” (Windows Central). Stock: +2.6% over 5 days.",
+    "summary": "AMD: attention is around normal, led by news coverage (+1.1σ vs its own baseline). In the news: “AMD Ryzen 7 7700X3D vs Ryzen 7 7800X3D CPU Review” (The FPS Review); “AMD Ryzen 7 7700X3D review: a decent CPU in desperate need of a price cut” (Club386). Stock: +2.6% over 5 days.",
     "tone": "unknown",
     "drivers": [
      "news: AMD Ryzen 7 7700X3D vs Ryzen 7 7800X3D CPU Review"
@@ -1693,9 +1413,9 @@
      "date": "2026-09-05"
     },
     {
-     "title": "Bloom Energy and 7 More Stocks That Could Join the S&P 500 This Month",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2RaZHc0N0sxRHVYRWRnVGUweURJc2lCN0NENUlHclFHUnB5alY1ZGhrb251V1N3Z2FZMEUtQWVmLWs5d2s0ZHQtYjdXZTVUcE90VnhzWG9ibk9tUUdKV2NfY1dMVFVGamF0VXR0eHRqOEh2Y096RzlmZ3FnWEt4dlV5VQ?oc=5",
-     "domain": "Barron's",
+     "title": "Bloom Energy, Illumina, Everpure to Join S&P 500 This Month",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGpBbFlseUFvUlhiNXFkWVhmcUw4bDJXUHItWXJQV20wYmtpWXJIQ3FjVGdZOVREU0VYZlJNZmlQeERiYU9tMWNSejRtTjRCaGpUd21TNDA5aUo1cDVzQWVadmo0MVRZZlRUdWc1bEI4Wi1SUlpBalV6cVdzN01DQkZKNV9DbFBkV3FWTUNjbGt2SENOQ01jNlVTTHZ5MjBvenY4eXB3NDVyRzlhdV84?oc=5",
+     "domain": "Bloomberg.com",
      "date": "2026-09-04"
     }
    ],
@@ -1704,6 +1424,278 @@
     "tone": "unknown",
     "drivers": [
      "news: Why Power Now Leads the Manufacturing Growth Plan"
+    ],
+    "source": "heuristic"
+   }
+  },
+  {
+   "entity": "elf",
+   "date": "2026-09-07",
+   "social_z": 0.0,
+   "finance_z": 0.0,
+   "wiki_z": -1.51,
+   "news_z": 0.0,
+   "breadth": 0.0,
+   "acceleration": 0.0,
+   "lead_ratio": 0.5,
+   "sentiment": 0.0,
+   "intent_rate": 0.0,
+   "scarcity_rate": 0.0,
+   "unpriced": 0.7325,
+   "direction": "mixed",
+   "breadth_gate": 0.15,
+   "price_return_5d": 0.0535,
+   "volume_z": -0.82,
+   "arb_score": 11.1,
+   "flags": [],
+   "why": [],
+   "name": "e.l.f. Beauty",
+   "ticker": "ELF",
+   "kind": "product",
+   "note": "",
+   "mentions": 0,
+   "examples": [],
+   "sparkline": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "wiki_spark": [
+    261,
+    309,
+    254,
+    233,
+    233,
+    221,
+    178,
+    192,
+    209,
+    230,
+    191,
+    202,
+    197,
+    163,
+    201,
+    246,
+    216,
+    238,
+    190,
+    171,
+    207,
+    203,
+    240,
+    183,
+    189,
+    186,
+    184,
+    151,
+    147,
+    0
+   ],
+   "history_days": 107,
+   "social_days": 0,
+   "attention": {
+    "entity": "elf",
+    "date": "2026-09-07",
+    "attention_z": 0.0,
+    "driver": "news",
+    "channels": {
+     "wiki": -1.51,
+     "news": 0.0
+    },
+    "corroborating": [],
+    "stage": "quiet",
+    "acceleration": 0.9,
+    "trends_hit": 0,
+    "finance_noticed": false,
+    "price_return_5d": 0.0535,
+    "price_return_20d": 0.1135,
+    "volume_z": -0.82,
+    "unpriced": 0.7325,
+    "has_prices": true,
+    "has_social": false,
+    "direction": "unknown",
+    "attention_score": 16.0,
+    "past_spikes": {
+     "n": 2,
+     "median_10d": 0.1493,
+     "hit_rate": 1.0
+    },
+    "flags": [],
+    "why": [],
+    "z_spark": [
+     7.14,
+     1.62,
+     -0.67,
+     -0.67,
+     1.13,
+     1.35,
+     1.75,
+     0.67,
+     -0.67,
+     0.67,
+     -0.67,
+     0.0,
+     1.46,
+     5.05,
+     5.72,
+     2.13,
+     0.22,
+     0.56,
+     0.48,
+     1.64,
+     -0.67,
+     0.42,
+     0.93,
+     -0.75,
+     -0.75,
+     -0.75,
+     -0.75,
+     0.0,
+     0.75,
+     0.0
+    ],
+    "driver_spark": [
+     0.003,
+     0.002,
+     0.0,
+     0.0,
+     0.001,
+     0.001,
+     0.002,
+     0.001,
+     0.0,
+     0.001,
+     0.0,
+     0.001,
+     0.002,
+     0.005,
+     0.006,
+     0.002,
+     0.001,
+     0.001,
+     0.001,
+     0.002,
+     0.0,
+     0.001,
+     0.002,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.001,
+     0.002,
+     0.001
+    ],
+    "price_spark": [
+     84.01,
+     84.1,
+     80.9,
+     82.26,
+     82.89,
+     82.64,
+     87.84,
+     86.37,
+     92.31,
+     98.49,
+     95.24,
+     94.99,
+     92.62,
+     92.05,
+     91.44,
+     93.66,
+     92.51,
+     99.65,
+     98.46,
+     101.94,
+     105.95,
+     105.77,
+     106.97,
+     106.17,
+     104.1,
+     109.05,
+     105.54,
+     107.36,
+     107.41,
+     109.67
+    ],
+    "channel_dates": {
+     "wiki": "2026-09-06",
+     "news": "2026-09-07"
+    },
+    "app_rank": 0.0
+   },
+   "rank_score": 16.0,
+   "headlines": [
+    {
+     "title": "e.l.f. Beauty Brings Change the Board Game to the University of California, Berkeley, Inspiring the Next Generation of Leaders",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUF9KWjgtZlUxVnRRVUZoa2EyTHNWdGJoRk5CYXBFOGU5VHp1Y1FIZWtuSk9ib2N3S2cyRXNWeTJwWkQwaWpUSW51MHV1RTBhbmVJakFIZVRMOERVZVh1MEZiRW9CN1ItTjc3Z2hQd0RkZkxLb2ZIUlV0Ni1QbDAxdVYyck0xeDV4Uy1vMHlOenpsWTNWZjJLOFBSV0RpMFRNS0xub2MzQQ?oc=5",
+     "domain": "e.l.f. Beauty",
+     "date": "2026-09-02"
+    },
+    {
+     "title": "Our e.l.f. Beauty Stock Pick Had an Ugly Year. Better Days Lie Ahead.",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbmEzMWdGVGdkUDJ2bUwwLVh6LW9wdzZINi05VUhMbGxRSGhhSXVLbXNrTWtySmVBUnNIcUJ2VmlpeWRjSmdxcUMxRzlvMXhmU2JyUUNnVjJIc0UxRWhMSXNCbEZoNVVLZ3d0Ni1PNUY3YWVpUlVOVDlUZW42TldaVkJ6QWtNZDFBbHh4M20xTHhLZ2ZnbjgwQ3FRbl8?oc=5",
+     "domain": "Barron's",
+     "date": "2026-09-05"
+    },
+    {
+     "title": "Why Did e.l.f. Beauty (ELF) Move Today?",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPanlnU0ZTdUZrTjdSZTlxbEs0aXNRX0RHc2FCS1hrZjNodXFaRmFkT2IySW8wdEx5VUhjVlVES1d1WDh6NFZ2ZVJoM2FKUkJKMXJiZWZNaWlYTEUzaHZZRTRMb2NZUW9aa1Bma3VwMFpITWJ6dWdJN2N1cTVyc3g0REF5dlA?oc=5",
+     "domain": "Yahoo Finance",
+     "date": "2026-09-05"
+    },
+    {
+     "title": "e.l.f. Beauty Stock: Buy or Sell?",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1MlF0WHpabDkxS0szTHJ2QWNpT25KU0w2YWpBSTB1cnZrWTJJSVduRU52dkRtXzRMMzZuLVVBb3ZiVWVySzR5bmhHODZJcGtIaUFuTm5wUFZqTnUyUlVxRXpPSVlKZEgwMEhPOXBsX3N6RWRhYkQyWGhBQQ?oc=5",
+     "domain": "The Motley Fool",
+     "date": "2026-09-01"
+    },
+    {
+     "title": "How E.l.f. Beauty is building AI into its community management",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOG9CbTd0V3FmWjNfaHFneGZIQWdmaE1ucHZOSElodlNLT1lBWWNoeTFJMl95eWZ6MktLdjcwTW8xTUljcGRwekppWG1UbHZKbVdGdTNoNVpTVEVySTAyMmlHTWxmNHNKNUwyaDhMbTNUWVgyZVlVZXRXdnRpV2tDQ0ZB?oc=5",
+     "domain": "Fast Company",
+     "date": "2026-09-02"
+    },
+    {
+     "title": "ELF Stock Wipes Off Early Gains As Analysts Reset Price Targets After Q4 Results – Elf Brand Softness Remains A Concern",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMnk2RUhoMDFIRlpZUHFDekxrLTlGd0lLME9XMlo0eE1HRzJacG9OX2tma3oxMWtBSU5IdURyTktJbnVLbmNKWDZ2WXJYWnJ0TkphYXRhNHdNdzFVWUNWLXlxMVZtWUdUTlFDcEpUdzZfbG9neUdIZXRsZmV4YjhjRnlzV3NERmFTYTVlbjFTSldULVR2eWhlUXBLTFRUVDBBaDZSdFAzOHRENkcxc1dpX0NxQzBYb3k3TzBHVG81d0hXUDhKTVYtZnJ2WFhCZnB0YnRob25MdUFFczQ4Mkl1d3YtTllTOGh0bEpZcE41VHU2NEVnLUgzMnN0aUd0cmlvY003Smg2MWNJYjl5bmc?oc=5",
+     "domain": "Stocktwits",
+     "date": "2026-09-06"
+    }
+   ],
+   "explain": {
+    "summary": "e.l.f. Beauty: attention is around normal, led by news coverage (+0.0σ vs its own baseline). In the news: “e.l.f. Beauty Brings Change the Board Game to the University of California, Berkeley, Ins…” (e.l.f. Beauty); “Our e.l.f. Beauty Stock Pick Had an Ugly Year. Better Days Lie Ahead.” (Barron's). Stock: +5.3% over 5 days.",
+    "tone": "unknown",
+    "drivers": [
+     "news: e.l.f. Beauty Brings Change the Board Game to the University of California, Ber…"
     ],
     "source": "heuristic"
    }
@@ -1965,10 +1957,10 @@
      "date": "2026-09-03"
     },
     {
-     "title": "Robinhood Breaks Out. Analysts Bullish On Outlook, Prediction Markets.",
-     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMUJPZFBWYXI0U3lBMlY4b2tRUm95bjhzdTRxSlBzTzRweHVvRzVGd3RmS1R6b1lBMENwbFgyOUlVRHdLTFpCUDVmS1RQVmFfbDd0aGE2VUd5SlpCazlfbkNZMDFUd3p3Smt6bDlIaFJqbUFpTmtheFJCbnlSQ0hBbEptVmFrTWR5U2dOTTBnVVZnWW8xTlk0Znc1WDNTY25WTVVoRkNiOGR1NGRPMVVDcXVmbEJXYWVCcUZqN1RMNm14UU9xZ2FORDJZaGhJRERnWXQ0RXVuNmhfWjhGTy0yQjM4bGNIc3BaWE5VQTZQWE5nWGlVaVE?oc=5",
-     "domain": "Investor's Business Daily",
-     "date": "2026-09-03"
+     "title": "Robinhood Wins a New Role in the Oura IPO: Underwriter",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ1NkcUxrengxdF9DdlRIOHlsNzk4eTQ1N09KaW5wdnJrUVZaaHBCYm1xOG1uSDJaaENxLTJEckwwanNtaHcxNUZiSUpRVld6U2ZJaEdfOTJqM0ZNcHo1Y3NPQ1hpOTBQNHpKcE9sZ0ZrTEdTMTRFckoxNGloWkN6UUhOeGJDMXN0ZmpmQkNaRGYySVY0?oc=5",
+     "domain": "WSJ",
+     "date": "2026-09-07"
     }
    ],
    "explain": {
@@ -2230,12 +2222,6 @@
      "date": "2026-09-02"
     },
     {
-     "title": "POP MART to Celebrate Grand Opening at Westfield Montgomery",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQkdVeWZodXZyS3o1Vm4yWUNjU3lEMFFXWUhzT1huU0RBMVY1OGRqejViY044RjVWRnZJWVpiMHBzVnE1bGk3dmR1eWg1c2ZFM0tTNnpBa3lPSC1kcWZlay1qeFdkbG0zZmdHU05ZSUlSUnU1Ym1lOE1wdEY3NWEtMVh2S3N6TGtwcjNHdzhObnluUUhSc0Vn?oc=5",
-     "domain": "The MoCo Show -",
-     "date": "2026-09-01"
-    },
-    {
      "title": "PopMart replaces Sprinkles vending machine outside Bookstore",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOWVTN0tlMDJrTm00MEJVam1GeXNkcGpzX0VPV3UxbWF0dWl3MVh4bEdMOUt0X2hSV2luXzZiYjE5ekxnbHpmLTItVnNWTW1JWlRuMURuMXJhQm1wTEFtbndPLXBGUEJuSDZBZHd6a1MwYnZ6T2R2b3YxenA3cXJnSDZzR1RIZ0hqa3FiejBJd3o2eUtlYmVWM3VLM3NwN0dJVkE?oc=5",
      "domain": "Daily Trojan",
@@ -2245,6 +2231,12 @@
      "title": "Pop Mart To Host Grand Opening In MoCo This Weekend",
      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPai1KZHBJazBpU3E2MnRoZmVYZWphSi1XdDdVcElnOFFxdnpwekE1dzR5QnBTeTlreGdXQkFMS0duRHFUMXF1cmhjX3lUd1dOX2dHVjNGbGlOVC1pdU5sV056QnB4MVZXQmcyN2dKYkpfNkF2Wk9XS1ZfS1RYdjd6dzBoOGNqVHVENDhsV0l1N1TSAbABQVVfeXFMTzBSbF9wYzdwRXQ5OGZkbXVwTDA5Z3BIN0NlZWRCN2U4TUNfc1dJaVBwUlBKcjlGMDhocnd2WjVEa0xwVHlFU19vN0xIVE5kTmNiX1RJcEdjUEhEaVVWWE1kcTU5RXVKb1ZxUURSR3R4WVlGU05GeHllTHYxSm1pXzVqQUMzSXc4MlFTTTQtTDhiXzZUOGRWalhGelN3M0tMcVFVM0lFUkNtUkRGNHUzVDM?oc=5",
      "domain": "Patch",
+     "date": "2026-09-01"
+    },
+    {
+     "title": "POP MART to Celebrate Grand Opening at Westfield Montgomery",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQkdVeWZodXZyS3o1Vm4yWUNjU3lEMFFXWUhzT1huU0RBMVY1OGRqejViY044RjVWRnZJWVpiMHBzVnE1bGk3dmR1eWg1c2ZFM0tTNnpBa3lPSC1kcWZlay1qeFdkbG0zZmdHU05ZSUlSUnU1Ym1lOE1wdEY3NWEtMVh2S3N6TGtwcjNHdzhObnluUUhSc0Vn?oc=5",
+     "domain": "The MoCo Show -",
      "date": "2026-09-01"
     }
    ],
@@ -3663,11 +3655,11 @@
   },
   {
    "entity": "celsius",
-   "date": "2026-09-06",
+   "date": "2026-09-07",
    "social_z": 0.0,
    "finance_z": 0.0,
    "wiki_z": -1.69,
-   "news_z": -0.84,
+   "news_z": -0.67,
    "breadth": 0.0,
    "acceleration": 0.0,
    "lead_ratio": 0.5,
@@ -3721,7 +3713,6 @@
     0
    ],
    "wiki_spark": [
-    516,
     410,
     425,
     427,
@@ -3750,22 +3741,23 @@
     332,
     317,
     387,
-    296
+    296,
+    0
    ],
-   "history_days": 106,
+   "history_days": 107,
    "social_days": 0,
    "attention": {
     "entity": "celsius",
-    "date": "2026-09-06",
+    "date": "2026-09-07",
     "attention_z": 0.0,
     "driver": "news",
     "channels": {
      "wiki": -1.69,
-     "news": -0.76
+     "news": -0.61
     },
     "corroborating": [],
     "stage": "fading",
-    "acceleration": -0.88,
+    "acceleration": -0.72,
     "trends_hit": 0,
     "finance_noticed": false,
     "price_return_5d": -0.0703,
@@ -3786,7 +3778,6 @@
      "after its last 3 attention spikes the stock was up 10 days later 33% of the time (median -3.5%)"
     ],
     "z_spark": [
-     0.19,
      2.12,
      6.81,
      0.77,
@@ -3815,10 +3806,10 @@
      0.48,
      -1.35,
      -1.24,
-     -0.84
+     -0.84,
+     -0.67
     ],
     "driver_spark": [
-     0.001,
      0.003,
      0.008,
      0.001,
@@ -3845,6 +3836,7 @@
      0.002,
      0.001,
      0.002,
+     0.0,
      0.0,
      0.0,
      0.0
@@ -3883,14 +3875,14 @@
     ],
     "channel_dates": {
      "wiki": "2026-09-06",
-     "news": "2026-09-06"
+     "news": "2026-09-07"
     },
     "app_rank": 0.0
    },
    "rank_score": 7.8,
    "headlines": [],
    "explain": {
-    "summary": "Celsius Holdings: attention is fading from a recent peak, led by news coverage (-0.8σ vs its own baseline). Stock: -7.0% over 5 days.",
+    "summary": "Celsius Holdings: attention is fading from a recent peak, led by news coverage (-0.6σ vs its own baseline). Stock: -7.0% over 5 days.",
     "tone": "unknown",
     "drivers": [],
     "source": "heuristic"
@@ -3937,7 +3929,7 @@
    "why": [
     "App Store rank are 6.0σ above this name's own 45-day baseline",
     "confirmed by Wikipedia lookups",
-    "app is climbing the App Store chart (rank 93)",
+    "app is climbing the App Store chart (rank 87)",
     "price is flat (-4.2% over 5 days) and volume normal despite the attention",
     "still accelerating (+1.6σ over the last 3 days vs the 4 before)"
    ],
@@ -3977,7 +3969,7 @@
     0.0,
     0.0,
     0.0,
-    0.771
+    0.837
    ],
    "price_spark": [
     94.53,
@@ -4015,7 +4007,7 @@
     "wiki": "2026-09-06",
     "app": "2026-09-07"
    },
-   "app_rank": 93.0,
+   "app_rank": 87.0,
    "key": "wayfair",
    "name": "Wayfair",
    "ticker": "W",
@@ -4026,7 +4018,7 @@
    "mentions": 0,
    "examples": [],
    "apps": [
-    "Wayfair – Shop All Things Home #93 US"
+    "Wayfair – Shop All Things Home #87 US"
    ],
    "history_days": 107,
    "attention": {
@@ -4068,7 +4060,7 @@
     "why": [
      "App Store rank are 6.0σ above this name's own 45-day baseline",
      "confirmed by Wikipedia lookups",
-     "app is climbing the App Store chart (rank 93)",
+     "app is climbing the App Store chart (rank 87)",
      "price is flat (-4.2% over 5 days) and volume normal despite the attention",
      "still accelerating (+1.6σ over the last 3 days vs the 4 before)"
     ],
@@ -4108,7 +4100,7 @@
      0.0,
      0.0,
      0.0,
-     0.771
+     0.837
     ],
     "price_spark": [
      94.53,
@@ -4146,7 +4138,7 @@
      "wiki": "2026-09-06",
      "app": "2026-09-07"
     },
-    "app_rank": 93.0
+    "app_rank": 87.0
    },
    "headlines": [
     {
@@ -4182,7 +4174,7 @@
     {
      "title": "Best 2026 Labor Day deals and sales on furniture from Wayfair, Amazon and more",
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsTHRmUUI4dUVHMDNSYW5SejN5QkFoLW5MN1NFUjF3OUEzZmg5bGxTWUoyMFhGbUNaR29ZaUhnNl9PMzV4WVJkTFNEbHl4QWQzMjNjNU0xTk5kN0FTbjVqOUNjOURnOXhOY190NDRZRXphdVJxS2Nr0gF8QVVfeXFMTlpaZzBwVHR6UlMxaEVmMUpLSmUtRm5oc1MxbzRaUm9wQWtZdWJ3aE1fQzRqU0VrR1VqWGN5M3RhU3NUUXVVUS1GVFczSkg2YTN6cEg4a2ZsQVdoTTQtSlh4WXBXZzZmekZSTWtBUU9mZ2p6ZENpcXpidm5CQQ?oc=5",
-     "domain": "abc7.com",
+     "domain": "ABC7 Los Angeles",
      "date": "2026-09-03"
     }
    ],
@@ -4527,295 +4519,6 @@
    }
   },
   {
-   "entity": "paramount",
-   "date": "2026-09-07",
-   "attention_z": 5.63,
-   "driver": "app",
-   "channels": {
-    "wiki": -0.7,
-    "app": 5.63
-   },
-   "corroborating": [],
-   "stage": "rising",
-   "acceleration": 1.88,
-   "trends_hit": 0,
-   "finance_noticed": false,
-   "price_return_5d": -0.0018,
-   "price_return_20d": 0.1817,
-   "volume_z": -0.17,
-   "unpriced": 0.9908,
-   "has_prices": true,
-   "has_social": false,
-   "direction": "unknown",
-   "attention_score": 78.9,
-   "past_spikes": {
-    "n": 0,
-    "median_10d": 0.0,
-    "hit_rate": 0.0
-   },
-   "flags": [
-    "ATTENTION_SPIKE",
-    "APP_CLIMBING",
-    "UNPRICED",
-    "RISING"
-   ],
-   "why": [
-    "App Store rank are 5.6σ above this name's own 45-day baseline",
-    "app is climbing the App Store chart (rank 96)",
-    "price is flat (-0.2% over 5 days) and volume normal despite the attention",
-    "still accelerating (+1.9σ over the last 3 days vs the 4 before)"
-   ],
-   "z_spark": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    5.63
-   ],
-   "driver_spark": [
-    0.0,
-    0.698,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.718,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.739
-   ],
-   "price_spark": [
-    8.03,
-    8.07,
-    7.95,
-    7.81,
-    7.96,
-    8.22,
-    8.38,
-    8.76,
-    9.06,
-    9.19,
-    9.27,
-    9.38,
-    9.5,
-    9.97,
-    10.14,
-    10.28,
-    10.43,
-    10.6,
-    10.29,
-    10.35,
-    10.35,
-    10.67,
-    10.74,
-    10.8,
-    10.88,
-    10.91,
-    10.55,
-    10.97,
-    11.04,
-    10.86
-   ],
-   "channel_dates": {
-    "wiki": "2026-09-06",
-    "app": "2026-09-07"
-   },
-   "app_rank": 96.0,
-   "key": "paramount",
-   "name": "Paramount+ / Skydance",
-   "ticker": "PSKY",
-   "company": "Paramount Skydance",
-   "sector": "media",
-   "private": false,
-   "on_watchlist": false,
-   "mentions": 0,
-   "examples": [],
-   "apps": [
-    "Paramount+ #96 US"
-   ],
-   "history_days": 107,
-   "attention": {
-    "entity": "paramount",
-    "date": "2026-09-07",
-    "attention_z": 5.63,
-    "driver": "app",
-    "channels": {
-     "wiki": -0.7,
-     "app": 5.63
-    },
-    "corroborating": [],
-    "stage": "rising",
-    "acceleration": 1.88,
-    "trends_hit": 0,
-    "finance_noticed": false,
-    "price_return_5d": -0.0018,
-    "price_return_20d": 0.1817,
-    "volume_z": -0.17,
-    "unpriced": 0.9908,
-    "has_prices": true,
-    "has_social": false,
-    "direction": "unknown",
-    "attention_score": 78.9,
-    "past_spikes": {
-     "n": 0,
-     "median_10d": 0.0,
-     "hit_rate": 0.0
-    },
-    "flags": [
-     "ATTENTION_SPIKE",
-     "APP_CLIMBING",
-     "UNPRICED",
-     "RISING"
-    ],
-    "why": [
-     "App Store rank are 5.6σ above this name's own 45-day baseline",
-     "app is climbing the App Store chart (rank 96)",
-     "price is flat (-0.2% over 5 days) and volume normal despite the attention",
-     "still accelerating (+1.9σ over the last 3 days vs the 4 before)"
-    ],
-    "z_spark": [
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     5.63
-    ],
-    "driver_spark": [
-     0.0,
-     0.698,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.718,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.739
-    ],
-    "price_spark": [
-     8.03,
-     8.07,
-     7.95,
-     7.81,
-     7.96,
-     8.22,
-     8.38,
-     8.76,
-     9.06,
-     9.19,
-     9.27,
-     9.38,
-     9.5,
-     9.97,
-     10.14,
-     10.28,
-     10.43,
-     10.6,
-     10.29,
-     10.35,
-     10.35,
-     10.67,
-     10.74,
-     10.8,
-     10.88,
-     10.91,
-     10.55,
-     10.97,
-     11.04,
-     10.86
-    ],
-    "channel_dates": {
-     "wiki": "2026-09-06",
-     "app": "2026-09-07"
-    },
-    "app_rank": 96.0
-   },
-   "headlines": [
-    {
-     "title": "Get 2 months of ad-free streaming on Paramount+ for less than $2",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0Rkam5zRU05M3NObmpQdlZCVWxOZ2RueHZBTVJtdzk0a0FNa1hSUFRya3RwZENkSnVFcHlsUHVzMDF3eUVDRnVZX3pTdWFVS05XcVE3QjZ0M0xZeHJrOGk3Qjd3WDRrT29tWTM2NzZPbHpmNWFRNmRsRlhNLUlLNTNuUHJEUQ?oc=5",
-     "domain": "Mashable",
-     "date": "2026-09-07"
-    },
-    {
-     "title": "4 excellent Paramount+ shows to watch and finish in one sitting",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaGRSSnEwc3lYQUo3cm1ySGllTzA2eWo1RlpaZmdBUHk2bE1LS0g0aGJOb0JGRWFqb3NjWHFfaEJHWjFROUlKS3BiVHpOSkNsRnMyM0ZtYWNLam9aODhpTUxhNVI5anp4Zk40bHhvc3RmQkpBSzNKSFd6T19BTzJ0ZUN5Yw?oc=5",
-     "domain": "How-To Geek",
-     "date": "2026-09-06"
-    },
-    {
-     "title": "Everything New on Paramount+ in September",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSncxOUp1WTFjQnVzTHZnbl9obVVHMll0M2FEM2laN3pJby1SS190RmFYLXM5QU1teXNDbVpOZkxENjk4WDFVaFFlb3hoT3oyWE9wZmwxU3haT0EwSWc0anJvb0FUQ2lCLVFGVE1jdXlMV1RadllBVmExNFpXN0ZEN3BYTHhIak8tOXEwQmVyWi0wZW1XTDRZbWZnWQ?oc=5",
-     "domain": "TheWrap",
-     "date": "2026-09-02"
-    },
-    {
-     "title": "TULSA KING SEASON FOUR PREMIERES OCTOBER 16 ON PARAMOUNT+",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZDVUMXZpZWtPM01wbjZjTjk4eVNETEFGX0pGUEN5SXdWWTZIQ0xnZVI2THFSSllId21uSlZiTFNPc1JiMUR0VUpBM244SGU4MXpGSHo1dURDQ3ZpMGJVNkJsNHI4enFNNG1LaDZsS0IxdEp6OVlfamIwUkluTEFXX3FBdEU5eUk4LUtvZWo2dGk0SWJMZjlDaTJPZ0dRUmJLbFlTSEZIU0xnY3djdjFsZ0lxRHdILVZycDhGXy01Tnh1Q3VPY0NMMk82Tk1SMHloSWxzQmRYeVpTTnUyaVJHTE9n?oc=5",
-     "domain": "Paramount Press Express",
-     "date": "2026-09-01"
-    },
-    {
-     "title": "'MobLand' Renewed For Season 3 By Paramount+ With Tom Hardy Returning",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY212OHZKWEtmT1VzZU5vRlFSbm5SNWxucVBPSjZQd3JIQTZrZjVjNENlQmZmRjhxWllyUWNURmw5YUkxa1A2M3NCQTBPZFJJYnhxTG0yTnNiMm53X3hldnVnQjlQSHpLNFlIY2QtZ2UtNlBVWEFKX2lwSmhBbll0N2ZsUnJxdGdPVm91WkhKTi1LdGJI?oc=5",
-     "domain": "Deadline",
-     "date": "2026-09-03"
-    },
-    {
-     "title": "Paramount+ Coupon Codes and Deals for September 2026",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3M1NpZi1iUW5HYkhuZ2NZdzZScHFVZlVvX0paZ0JqTng5UUJFaUU4elhBWEpjTmVsRmJYLUF3QldLd29kbk50SkFIRGx1aF8xLTFWSERESTRqVHVhakd2YmdneDhiQQ?oc=5",
-     "domain": "WIRED",
-     "date": "2026-09-01"
-    }
-   ],
-   "explain": {
-    "summary": "Paramount+ / Skydance: attention is rising, led by App Store rank (+5.6σ vs its own baseline). In the news: “Get 2 months of ad-free streaming on Paramount+ for less than $2” (Mashable); “4 excellent Paramount+ shows to watch and finish in one sitting” (How-To Geek). Stock: -0.2% over 5 days — the stock has not reacted yet.",
-    "tone": "unknown",
-    "drivers": [
-     "news: Get 2 months of ad-free streaming on Paramount+ for less than $2"
-    ],
-    "source": "heuristic"
-   }
-  },
-  {
    "entity": "moncler",
    "date": "2026-09-07",
    "attention_z": 4.48,
@@ -5103,13 +4806,13 @@
     {
      "title": "Moncler Celebrates NYC With Retrospective Exhibition",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSHpOcS1ScFVqTXZnZzdvUm40dDBGTHV0eWtaY1RjajdVSnNCZnNSVW9Zdm5qMHk1dWhwclBCcjVaUUVUc1FwRXhNdFBTQXRJWnFUTjdsS3M5eFNnelpNekdPMjFHLWxSbFVEUGpYWmxYY1dZQnBYZndIWjlTR1MxUE5XOFU3dF9mOHQ4UGpXb21TakVfTVM0RHdESGVKazA0OUJJUGNNYk1oN1F1bU1YTjZydE05UQ?oc=5",
-     "domain": "WWD",
+     "domain": "wwd.com",
      "date": "2026-09-03"
     },
     {
      "title": "Sarah Jessica Parker’s Moncler Gown Returns in a New Retrospective",
      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjdNbFlINmRlWjU5LW56MThidEdOSHRYR21HOTRrNXMtNVlkYWQ5WlFFSXRfVXNuR0tWVEJYRFpBRl9sZHpqVEdRY0t1MWh5MnlUcHZqTXlWVDE0Qm9UQnhtN29BOG1paGZFeW55UlMxdHJyQmNha3JJYUFXbXQ1bERxYWdTREJUS01RdkE5MzJyZ28?oc=5",
-     "domain": "ELLE",
+     "domain": "elle.com",
      "date": "2026-09-03"
     },
     {
@@ -5138,7 +4841,7 @@
     }
    ],
    "explain": {
-    "summary": "Moncler: attention is rising, led by Wikipedia lookups (+4.5σ vs its own baseline). In the news: “Moncler Celebrates NYC With Retrospective Exhibition” (WWD); “Sarah Jessica Parker’s Moncler Gown Returns in a New Retrospective” (ELLE). Stock: -1.2% over 5 days — the stock has not reacted yet.",
+    "summary": "Moncler: attention is rising, led by Wikipedia lookups (+4.5σ vs its own baseline). In the news: “Moncler Celebrates NYC With Retrospective Exhibition” (wwd.com); “Sarah Jessica Parker’s Moncler Gown Returns in a New Retrospective” (elle.com). Stock: -1.2% over 5 days — the stock has not reacted yet.",
     "tone": "unknown",
     "drivers": [
      "news: Moncler Celebrates NYC With Retrospective Exhibition"
@@ -5432,22 +5135,22 @@
    },
    "headlines": [
     {
+     "title": "Onimusha: Way of the Sword Sells Over 1 Million Units on Launch Day!",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nWlM3a1BkaWw0ZEd3ZGRnMkhNbGFWTXJvVkNKREVwT2NvX0h1RjdSRk14S1pFNjlRODZxS19jTjhza2RqWm4tRHRid1RGa2lHRndNbzBCM0lxTzFrbVllR3dkWXF0cUFNQ1E?oc=5",
+     "domain": "CAPCOM",
+     "date": "2026-09-07"
+    },
+    {
      "title": "How Capcom Cracked the Code of Game Development",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUFA2dVBYYkJnU3lUYUk0U0F2WmRPUkVrSWg0Zzd2QTBSZVBhd0VuUW5xU2JrTXdjbVA5R3hzaGoyTnFkSXc3Y0FCdFZYVmU0Ql9ZUFhsZzAxd01DaG05Uk5OTVZ0SWhiZVJaZDJTUkNpXzlRQjdRbmQ0dGdRNmtqTXMxNlNkc1FJNjh4a1JyVlRsZmlCdGc1ZlhDc216cGgyV01YNUpQLUg2eGR2NVZaV3ZRLUg3UFVwYjZLT1hQM1NlT1dZQVNF?oc=5",
      "domain": "The Ringer",
      "date": "2026-09-03"
     },
     {
-     "title": "Onimusha: Way of the Sword Sells Over 1 Million Units on Launch Day!",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nWlM3a1BkaWw0ZEd3ZGRnMkhNbGFWTXJvVkNKREVwT2NvX0h1RjdSRk14S1pFNjlRODZxS19jTjhza2RqWm4tRHRid1RGa2lHRndNbzBCM0lxTzFrbVllR3dkWXF0cUFNQ1E?oc=5",
-     "domain": "capcom.co.jp",
+     "title": "Review Game Review: Capcom’s THE WAY OF THE SWORD is Beautiful and Brutal",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV2I4akNMeDRpejZBS2dSWlZBN01xNng0VVVMMTJOQ1FMU0x4dFEwUUFZXzhGZGZyWnNOQlRMZVFXVlpacjFuRk1jRjZnWF9oRDRvT3pLWHZNMEVxTHZUeW92MlN1bTdHUXR4WnBMU1dRTmFEc3ctcm1mNmx1ejZYMFFKakJJNzY1ZDFQNERJTnFFQlBlREhkUDEwM2IxbGlX?oc=5",
+     "domain": "comicsbeat.com",
      "date": "2026-09-07"
-    },
-    {
-     "title": "Onimusha: Way of the Sword is an incredible 12-hour action game stretched into a 25-hour slog",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OdFZKV0cyOWYxSm9yMmtiaUVKZEw2VFFvaUNKd05lanI2ZnlmSC1acXZZQnlDVUxjakE2UHlsRHVlNDJtOEdzZVlTYmZlenFsakswYUFlYmdMUThVdXppd1o1cTd3Rm80?oc=5",
-     "domain": "Polygon.com",
-     "date": "2026-08-31"
     },
     {
      "title": "Capcom announces TGS 2026 lineup, Capcom Spotlight",
@@ -5456,23 +5159,23 @@
      "date": "2026-09-01"
     },
     {
-     "title": "Resident Evil 2's director believes Capcom has become 'completely numb to how scary' recent games have been and wants a 'non-horror mode'",
-     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMXk0eUkzRllYNEVBNE1rMXhKSzRsaEJyVXpoMG1DVFhCaFF2NWZHbHdqcUw5cXdRVXZZa19QVzM2Z3lsVzFQa2lDS2N4T081QnNwN3VMTVZvT3BJaFBUVWlQdEVvOTZwd01oLUV1YWh4YVI0eFUtcnRYWl92R01hZUY3aXhtLWUxeE5DaFhfajl4RWZfYmNuNTNQX3o1dFVlbExRbi1xbTJqeGFSd3dtSjhITXp4ckQxWV9TTXo4MG9VRkVIOFV2NUtvbk9BT1ptbDlsT0M5SFY0dDZGdGUxclJUMXVLRE0wMGp2RUZXQ21oeEhPXzlBV3dKZ053VjVub0RvVVhBc08?oc=5",
-     "domain": "PC Gamer",
-     "date": "2026-09-02"
-    },
-    {
      "title": "Onimusha Shows Why Capcom Is on a Winning Streak",
      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdGJPclBSWHhYb0I4bnRuN3IwTlNTeGlmbll1eS11VW81TkhTTTNGQ1FfaV9GNHZpWWRpVjNTUElCOGtjOEN5NVo2SDBUTjlZS3hHTXNobmhESU55R0YyOWtYT1FGSWJ3bHUyNm1xV1dhd1VkUlY4ODU3RTJSbFQwazFQRQ?oc=5",
      "domain": "IGN",
-     "date": "2026-09-04"
+     "date": "2026-09-07"
+    },
+    {
+     "title": "Resident Evil 2's director believes Capcom has become 'completely numb to how scary' recent games have been and wants a 'non-horror mode'",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMXk0eUkzRllYNEVBNE1rMXhKSzRsaEJyVXpoMG1DVFhCaFF2NWZHbHdqcUw5cXdRVXZZa19QVzM2Z3lsVzFQa2lDS2N4T081QnNwN3VMTVZvT3BJaFBUVWlQdEVvOTZwd01oLUV1YWh4YVI0eFUtcnRYWl92R01hZUY3aXhtLWUxeE5DaFhfajl4RWZfYmNuNTNQX3o1dFVlbExRbi1xbTJqeGFSd3dtSjhITXp4ckQxWV9TTXo4MG9VRkVIOFV2NUtvbk9BT1ptbDlsT0M5SFY0dDZGdGUxclJUMXVLRE0wMGp2RUZXQ21oeEhPXzlBV3dKZ053VjVub0RvVVhBc08?oc=5",
+     "domain": "pcgamer.com",
+     "date": "2026-09-02"
     }
    ],
    "explain": {
-    "summary": "Capcom / Monster Hunter / Resident Evil: attention is rising, led by Wikipedia lookups (+7.0σ vs its own baseline). In the news: “How Capcom Cracked the Code of Game Development” (The Ringer); “Onimusha: Way of the Sword Sells Over 1 Million Units on Launch Day!” (capcom.co.jp). Stock: +0.9% over 5 days — the stock has not reacted yet.",
+    "summary": "Capcom / Monster Hunter / Resident Evil: attention is rising, led by Wikipedia lookups (+7.0σ vs its own baseline). In the news: “Onimusha: Way of the Sword Sells Over 1 Million Units on Launch Day!” (CAPCOM); “How Capcom Cracked the Code of Game Development” (The Ringer). Stock: +0.9% over 5 days — the stock has not reacted yet.",
     "tone": "unknown",
     "drivers": [
-     "news: How Capcom Cracked the Code of Game Development"
+     "news: Onimusha: Way of the Sword Sells Over 1 Million Units on Launch Day!"
     ],
     "source": "heuristic"
    }
@@ -5763,21 +5466,9 @@
    },
    "headlines": [
     {
-     "title": "BJ’s Wholesale Club prepares to open new Rotterdam location",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzFjMVEtX096T082Yk9qZ3VNc2pVLUs0eEVFdG93M2lwOWtpU1YwRy1SbDJfcUxZalAtMVNrb3FIVnJ6NlFzZlk1azc3anF0UFdjVDhkT0lFdUlKXzB0eG9HYWMxQnhCRUswTFE1UkJ5d1JQYVdaTGIwa1dyMlA1UWd3WDBmT0o3Z0RNcDVNT0FWYW9JREtLZUd5T1I4WFhZZW45MNIBqgFBVV95cUxPR25laGs5MXJreFJnWGZxaXIzR2YyUzdpbExVbWhqQ0tQaUhZYXZVU2hGc19ZYXZnM3N1WlN5TE5MM1VaZE5uYkREZVpEbU5wdGlQdnVxNVNnVWZzWXNtOFhHMXpLUmdGVnZ5UWp5Z2hOZjhTdEZEeUZGUWppWlBOQmg5THM1MndiSElzNjlYbm84b2ZNb1hoVVoxNTh6N0J6TGVSUFFZSmZXdw?oc=5",
-     "domain": "NEWS10 ABC",
-     "date": "2026-09-02"
-    },
-    {
-     "title": "BJ’s is opening a new Alabama store. Here’s where and when",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU1VVZWJnZnF5N01vWGZVcVd3UHFJU094ZlBIZUV6dS1xRm9fZkpoTUhjemx5c1BRZmVxRkpoRjd2NzFBcDdTZUlIWFRqeVJTVHE3UFRxa2xtN3E1bmEyVS1ZV1NtWnVrVEgtbUVVRG9FUElrZXVOSnBtN1hZMllLYlBGNzRtd3dtUUNMcV9QbFR4M2F1eFJvUm5uOFlUclFOSlNaU3JWcUloZTM0ODdFYUVMM1RmN0FEck5IT2pxb25MSDQ?oc=5",
-     "domain": "montgomeryadvertiser.com",
-     "date": "2026-08-31"
-    },
-    {
      "title": "Shoppers at BJ’s Wholesale Club finally realize what initials in store name stand for",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS3pHcHpRcEV6TWRVTGpEc2JLSXZBRlJ0a2V6eC1CYnJ1bDNHRzZsTFUxdmRxMzhfRGdzaUlaY0FEczJjbHFVNTFrcXdUS3FmOWZ0UUdILVlMb2tEbEJjY29uUENOeTlic2gzcGZtTnNjMXkwY3Vvd3VkaXYwWFNYVTREVWRRNmtNRUpNX3A5VXlGeTZXSk1iU2ZxSHUxV3NBWTItckljTjQzM1g3MGF3dlVqOUg5YTFsa0hOZUczODhVNjA?oc=5",
-     "domain": "nypost.com",
+     "domain": "New York Post",
      "date": "2026-09-05"
     },
     {
@@ -5787,23 +5478,35 @@
      "date": "2026-09-03"
     },
     {
-     "title": "BJ’s Wholesale Club’s Q2 driven by strong sales gains",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vQWNVQTE5OTVaOUVZZUcyeDdjYmppR2RvMmZuVHdOUV93anQtbGxMbFU5MTlrbGVnbWFEclE1Q0VKZUJuTUFmdVU5SmRBNmduV3NlcGQxdUxNc1ZuRS1LMkJyTkRwUXVYOGxrNGtSQncxMEJYWUZ2NW55eE9HZnM?oc=5",
-     "domain": "Drug Store News",
-     "date": "2026-08-31"
-    },
-    {
      "title": "You can now get a BJ’s membership for $15 a year",
      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbDdJaU5zbHNFVzgyQTN0V1pRNXFCYzRhUWtac3ljRDJfdFA0UEFURFB4aVpIdHVBNUFXUjBMeGk2SjVwY0JId1VvZDdsSUNKWk9mVDZaYTRiVmtoNTBOVFc5VVE2NzRmQ2ZHLUdRWllCWHRKblNWSUIzcGtFS2hncm9EZDAxSnRRRUhScFNMT2U0dFNoQkt1elRET2JTVDNKNjI2MnNPMFFPa2Ns?oc=5",
      "domain": "MarketWatch",
      "date": "2026-09-04"
+    },
+    {
+     "title": "5 Reasons You Should Think Twice Before Renewing Your BJ’s Membership",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUXk3MkJGZ0hRWWNUZ21EUFpsbEdoamViaHRuZWY0M1JyMnppWW04My1DM29Ca3dDbVdqaXc3RmJlYU5VLWo0S3RIRFAzaU9IcUJkUkZad1h4TXk0UDVvcWZxQ2FNY2NVb3E3dUNCLXZwT2YtMUk1Tzk1QUhwbTB5bnBQQ0FTZVluZFF0U0VOWQ?oc=5",
+     "domain": "Money Talks News",
+     "date": "2026-09-01"
+    },
+    {
+     "title": "BJ's Wholesale Club to open in Rotterdam with early gas sale",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRFYyMzdFMTdRaGpJVEh5Vk8wOU92ZEFuQm4xZ3BUTWdWZldqQkdRcUFZbWNxclJRNjI2YWRLQl9iSHVTbjdyd3g4NUVRSHZjODhiYjdINzh6QkxZbkxhSDhyZTB4UnpOUlpJdjhoTkxhaFJ3WExiV2xlNjZBS0VhdHNTNktyMWwyZFd6ZlpZbEU4aEpnNk82WUpxd0JWcU9MN1BBYmFrZFZBcEplTzIyNkE3aE9ocnFUZmxsTw?oc=5",
+     "domain": "The Daily Gazette",
+     "date": "2026-09-02"
+    },
+    {
+     "title": "58,833 Shares in BJ's Wholesale Club Holdings, Inc. $BJ Acquired by Jupiter Topco LLC",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZDFNb1dFcnVCelRSMUNpdVZTN3pWLUNMRVJVREIyYk9zTzBjT3ZsMzhDbmJuQktPVXU1QzJZRkdhYmFDWUdhY1puWXhEbG9CUDV6Um5uY3dFT0lucEZZaXNobllXVVRiRFhsMVkwNnJ2ck1hVFpvSW5Rb0IxS1BqaWxpbFNZTFIwUVBDcUdFQ2FaaXdOY1FpaWR4eXVCeXdBcVVsdFlwMENxdjRONTJMR3Fob3hxR2V0SVNlZzlLd2U4RnBrRGIwczBjNVFPczIxZUU3dlVNS08?oc=5",
+     "domain": "MarketBeat",
+     "date": "2026-09-01"
     }
    ],
    "explain": {
-    "summary": "BJ's Wholesale: attention is rising, led by Wikipedia lookups (+5.8σ vs its own baseline). In the news: “BJ’s Wholesale Club prepares to open new Rotterdam location” (NEWS10 ABC); “BJ’s is opening a new Alabama store. Here’s where and when” (montgomeryadvertiser.com). Stock: +2.9% over 5 days — the stock has not reacted yet.",
+    "summary": "BJ's Wholesale: attention is rising, led by Wikipedia lookups (+5.8σ vs its own baseline). In the news: “Shoppers at BJ’s Wholesale Club finally realize what initials in store name stand for” (New York Post); “BJ's Wholesale Club (BJ) Q1 2027 Earnings Call Transcript” (Fortune). Stock: +2.9% over 5 days — the stock has not reacted yet.",
     "tone": "unknown",
     "drivers": [
-     "news: BJ’s Wholesale Club prepares to open new Rotterdam location"
+     "news: Shoppers at BJ’s Wholesale Club finally realize what initials in store name sta…"
     ],
     "source": "heuristic"
    }
@@ -5821,7 +5524,7 @@
    "stage": "rising",
    "acceleration": 2.08,
    "trends_hit": 0,
-   "finance_noticed": false,
+   "finance_noticed": true,
    "price_return_5d": -0.0303,
    "price_return_20d": -0.0791,
    "volume_z": -0.18,
@@ -5837,11 +5540,13 @@
    },
    "flags": [
     "ATTENTION_SPIKE",
+    "FINANCE_NOTICED",
     "UNPRICED",
     "RISING"
    ],
    "why": [
     "Wikipedia lookups are 7.6σ above this name's own 45-day baseline",
+    "the ticker is trending on Yahoo Finance — the investing crowd is already looking",
     "price is flat (-3.0% over 5 days) and volume normal despite the attention",
     "still accelerating (+2.1σ over the last 3 days vs the 4 before)"
    ],
@@ -5970,7 +5675,7 @@
     "stage": "rising",
     "acceleration": 2.08,
     "trends_hit": 0,
-    "finance_noticed": false,
+    "finance_noticed": true,
     "price_return_5d": -0.0303,
     "price_return_20d": -0.0791,
     "volume_z": -0.18,
@@ -5986,11 +5691,13 @@
     },
     "flags": [
      "ATTENTION_SPIKE",
+     "FINANCE_NOTICED",
      "UNPRICED",
      "RISING"
     ],
     "why": [
      "Wikipedia lookups are 7.6σ above this name's own 45-day baseline",
+     "the ticker is trending on Yahoo Finance — the investing crowd is already looking",
      "price is flat (-3.0% over 5 days) and volume normal despite the attention",
      "still accelerating (+2.1σ over the last 3 days vs the 4 before)"
     ],
@@ -6098,16 +5805,22 @@
    },
    "headlines": [
     {
+     "title": "Nike Stock Fell 78% And S&P 100 Exit May Mark Capitulation",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWkpxWEUzX2pTUzZCQXBKcHlFQ3Y0Vk41enZyY01mdnFVU3JCWVUwanlmWVdUTU84dUk2S09ocXZjcTRDUThtRmpvb3JVampjMjRmRGJSd1pZOVcyd1JUOHFiYkVCVkpobk1xZU5rXzN4U3BGREZ3Qk1aTW5QdnpELW45c0pLYzJ0U19LNW5Hcm9CZXhvYkw3ODNqTVdNazFqNFoxX0JHSlBqUQ?oc=5",
+     "domain": "Forbes",
+     "date": "2026-09-06"
+    },
+    {
      "title": "Analyst Says Nike’s No Longer the Industry Bellwether as Athletic Performance Continues to Be a Bright Spot for Many",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdFVsMkdLdmVZbUJORE5kaF9XOHpPY3lXSVpTaGhSOTl0bVgxZDFRMGcxbHBFbkhBSGVseHNhbHMwU2RYbjdhRGU1azJNenp5UklndWRsYzJTTGktTmZBaGdmU0lCcnc1SW9oLXVyQ3FHdGNod3A3N3ZGb1lhM0FsUjdlVlplRm5oTHJUTjYwQl9wdERQakt4eWk3eUlzY0k2czVPZllQNm1oa0FueloyOGZGVFBhNWFWbWtBcw?oc=5",
-     "domain": "WWD",
+     "domain": "wwd.com",
      "date": "2026-09-02"
     },
     {
-     "title": "What's Wrong With Nike Stock?",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMzRIVE1YR1BUVWNfeDFUOThxRXMyZWVNRThGd295QzFsVkM0Ykg4S3QxcFR3SU9BMlNGRXloM3ZlWEctNF9hbGs4ZXR1U3RkazR0cEU5c1drcHAyNHpQbDBUYUNVQWM3QlpzeGhuMFVIZzlNOUxDREtnOGRCbmNNdWYtVFlwNUJCZHk5MkVIM1A?oc=5",
-     "domain": "Yahoo Finance",
-     "date": "2026-09-03"
+     "title": "Nike Air Max Metro 'Bright Crimson' Release Date, Price",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcEJjNkxiakIweHZEVWdKLUpwLXFrc184bFZYNGRDUU5ma1BQanVmRWJHaUt6MUF4QWN4dHItdDZ4TTNWS2dBZDhzSTFhN1dWWVF3ZjU5ZEkzNDNxWkY0cEl2Y1RvWENDaTF0cE1CZDF6QWVtYTRGdmNYbHlfR05PbFBGR1pBSVpoc2ZicndnUExZQQ?oc=5",
+     "domain": "Yahoo",
+     "date": "2026-09-05"
     },
     {
      "title": "Nike signs groundbreaking front-of-shirt sponsorship deal with London City Lionesses - The Athletic",
@@ -6116,29 +5829,23 @@
      "date": "2026-09-03"
     },
     {
-     "title": "Nike Stock Fell 78% And S&P 100 Exit May Mark Capitulation",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWkpxWEUzX2pTUzZCQXBKcHlFQ3Y0Vk41enZyY01mdnFVU3JCWVUwanlmWVdUTU84dUk2S09ocXZjcTRDUThtRmpvb3JVampjMjRmRGJSd1pZOVcyd1JUOHFiYkVCVkpobk1xZU5rXzN4U3BGREZ3Qk1aTW5QdnpELW45c0pLYzJ0U19LNW5Hcm9CZXhvYkw3ODNqTVdNazFqNFoxX0JHSlBqUQ?oc=5",
-     "domain": "Forbes",
-     "date": "2026-09-06"
+     "title": "Has Nike's Stock Bottomed Out?",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fc3dYWGlPaWxZeHJSNGo3aE1sbTVhNmk0N2J1MVU4eWFqeS1ISEJiQTd2OFlQREdQZUZadWNUTnE0VWQ4elhqWE5GRW84aVctR09FdUtaa1Y5SE9zeldHczBjTWk3NVI0Mk9xRzk4WW9iTHdLWGMwdmFyQkE?oc=5",
+     "domain": "The Motley Fool",
+     "date": "2026-09-07"
     },
     {
      "title": "Dick Sporting Good’s End-of-Summer Sale: Save up to 50% off sneakers from Brooks, New Balance and more",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnpiWmpla2dvaFprN3VqS19SdFpEMXZiUWxWYmM0QUNpc3NUVmpRUUtnakluUEF4ekNGdUxNNUlqejJ0eXQ3SlgxQmlCX2s2dFFxbE5VdnlFUVA0ZlU1bEE4MEVpUG5IZ0ZwczNlbGxVNUZtY1NBa2RtX0drWU92WFE0Wkk2WlhOSTl0M3cxTFJNWGRxQTd5ckIwM3ctUGk5LWRV?oc=5",
      "domain": "NBC News",
      "date": "2026-09-04"
-    },
-    {
-     "title": "Carlos Alcaraz Debuted New Travis Scott Nikes at the US Open",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSjV2WXNONlc2WjBHQk42Tmptdm1hZmw2LVRvcXJKYUlubllVMkctMEVxNTh6ZXhTYWpMNkNkaFlVRWdkaFNhS0NiaHNvTjl2RVMzck55MlhNd3Z1clVCaThueDVXYndCajJycGpjNVdwS1V2QkRFWUZndUR6YVdPbkVQXzVtdXkzZlktRjlR?oc=5",
-     "domain": "GQ",
-     "date": "2026-08-31"
     }
    ],
    "explain": {
-    "summary": "Nike: attention is rising, led by Wikipedia lookups (+7.6σ vs its own baseline). In the news: “Analyst Says Nike’s No Longer the Industry Bellwether as Athletic Performance Continues t…” (WWD); “What's Wrong With Nike Stock?” (Yahoo Finance). Stock: -3.0% over 5 days — the stock has not reacted yet.",
+    "summary": "Nike: attention is rising, led by Wikipedia lookups (+7.6σ vs its own baseline). In the news: “Nike Stock Fell 78% And S&P 100 Exit May Mark Capitulation” (Forbes); “Analyst Says Nike’s No Longer the Industry Bellwether as Athletic Performance Continues t…” (wwd.com). Stock: -3.0% over 5 days — the stock has not reacted yet.",
     "tone": "unknown",
     "drivers": [
-     "news: Analyst Says Nike’s No Longer the Industry Bellwether as Athletic Performance C…"
+     "news: Nike Stock Fell 78% And S&P 100 Exit May Mark Capitulation"
     ],
     "source": "heuristic"
    }
@@ -6463,7 +6170,7 @@
     {
      "title": "Inside the Aisle: How Hershey's People and Technology Bring Hersheyween to Life",
      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaUVmQV84LWNOOW1IZVdMMXNIdjRFYV9GZmpJVVhaanhmMkhzY0kwTXJxQ0pYcndkem5PbHlxZmZuVElpX2cweUlld3JIZHVmM3pBYjdQMWdsRXRrWkg1dHh0SXV1WHpRV1VBMjRQLVJ0blFjSlZSelBYaHVtQTFWQ0F0U2k4cVQ1R1JJT3kzOFZ0QVNzblVET084bVV3bFhFN0ZLVEZYYjBEd0FZeEdJZXdzcTF6SzFLWUdoNS10Z0NVV01QM0YxTWNrcXdmZG9LVjlTdG51c1Mydw?oc=5",
-     "domain": "thehersheycompany.com",
+     "domain": "The Hershey Company",
      "date": "2026-09-02"
     }
    ],
@@ -6479,15 +6186,15 @@
   {
    "entity": "ebay",
    "date": "2026-09-07",
-   "attention_z": 5.51,
+   "attention_z": 5.36,
    "driver": "app",
    "channels": {
     "wiki": -1.8,
-    "app": 5.51
+    "app": 5.36
    },
    "corroborating": [],
    "stage": "rising",
-   "acceleration": 1.84,
+   "acceleration": 1.79,
    "trends_hit": 0,
    "finance_noticed": false,
    "price_return_5d": -0.0209,
@@ -6497,7 +6204,7 @@
    "has_prices": true,
    "has_social": false,
    "direction": "unknown",
-   "attention_score": 76.7,
+   "attention_score": 76.3,
    "past_spikes": {
     "n": 0,
     "median_10d": 0.0,
@@ -6510,8 +6217,8 @@
     "RISING"
    ],
    "why": [
-    "App Store rank are 5.5σ above this name's own 45-day baseline",
-    "app is climbing the App Store chart (rank 95)",
+    "App Store rank are 5.4σ above this name's own 45-day baseline",
+    "app is climbing the App Store chart (rank 97)",
     "price is flat (-2.1% over 5 days) and volume normal despite the attention",
     "still accelerating (+1.8σ over the last 3 days vs the 4 before)"
    ],
@@ -6532,7 +6239,7 @@
     0.0,
     0.0,
     0.0,
-    5.51
+    5.36
    ],
    "driver_spark": [
     0.0,
@@ -6551,7 +6258,7 @@
     0.0,
     0.0,
     0.0,
-    0.749
+    0.729
    ],
    "price_spark": [
     113.21,
@@ -6589,7 +6296,7 @@
     "wiki": "2026-09-06",
     "app": "2026-09-07"
    },
-   "app_rank": 95.0,
+   "app_rank": 97.0,
    "key": "ebay",
    "name": "eBay",
    "ticker": "EBAY",
@@ -6600,21 +6307,21 @@
    "mentions": 0,
    "examples": [],
    "apps": [
-    "eBay online shopping & selling #95 US"
+    "eBay online shopping & selling #97 US"
    ],
    "history_days": 107,
    "attention": {
     "entity": "ebay",
     "date": "2026-09-07",
-    "attention_z": 5.51,
+    "attention_z": 5.36,
     "driver": "app",
     "channels": {
      "wiki": -1.8,
-     "app": 5.51
+     "app": 5.36
     },
     "corroborating": [],
     "stage": "rising",
-    "acceleration": 1.84,
+    "acceleration": 1.79,
     "trends_hit": 0,
     "finance_noticed": false,
     "price_return_5d": -0.0209,
@@ -6624,7 +6331,7 @@
     "has_prices": true,
     "has_social": false,
     "direction": "unknown",
-    "attention_score": 76.7,
+    "attention_score": 76.3,
     "past_spikes": {
      "n": 0,
      "median_10d": 0.0,
@@ -6637,8 +6344,8 @@
      "RISING"
     ],
     "why": [
-     "App Store rank are 5.5σ above this name's own 45-day baseline",
-     "app is climbing the App Store chart (rank 95)",
+     "App Store rank are 5.4σ above this name's own 45-day baseline",
+     "app is climbing the App Store chart (rank 97)",
      "price is flat (-2.1% over 5 days) and volume normal despite the attention",
      "still accelerating (+1.8σ over the last 3 days vs the 4 before)"
     ],
@@ -6659,7 +6366,7 @@
      0.0,
      0.0,
      0.0,
-     5.51
+     5.36
     ],
     "driver_spark": [
      0.0,
@@ -6678,7 +6385,7 @@
      0.0,
      0.0,
      0.0,
-     0.749
+     0.729
     ],
     "price_spark": [
      113.21,
@@ -6716,7 +6423,7 @@
      "wiki": "2026-09-06",
      "app": "2026-09-07"
     },
-    "app_rank": 95.0
+    "app_rank": 97.0
    },
    "headlines": [
     {
@@ -6726,16 +6433,16 @@
      "date": "2026-09-04"
     },
     {
-     "title": "GameStop stock jumps with eBay investment expected to boost Q2 profit",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUHZ5OHF5WEFBWkxMMm5VTDlxeTQ0U0hOZ01IQUtISnVROF8xTzViVEJBVTRzVlpBNENHN1k5TmpzVHI2Ml95aS1uMmpaQ2diWXhyOUtSbG1qMlRMN1F5Y0RvX1dZOUVwUkQ4bkVBTVp6LW5PUVA3b1pJcXVJSHEzT255QUxWUm5RclhDSmxMSlYwY0JWYXlsbmdJMy1sbklYVGFjQ3NTX1NJalhESWpVZHRGdlZTczJ0WWZxaDVXUVdsMmFo?oc=5",
-     "domain": "Yahoo Finance",
-     "date": "2026-08-31"
-    },
-    {
      "title": "eBay helped man sell his truck, but only gave him half his money. Here's how he got his $11,000.",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbUNKcTl1bGtucWttZVA1N2wzS0tvLWlrSnJOZk5Xd09OcWpJMVVGbXMtdkdFdDVsenVzZm9yWGx0QnlxS0pTNjUtZXhRY0Z6dkZTS1R4QndaRUhndld2cWt3eXdLaG41SEpTalpQVUZleWRLVkt4dDRNRGlzMFBVUVNmSTljSlczWno4d1BhZGxMRHU1OGxWNmN3?oc=5",
      "domain": "CBS News",
      "date": "2026-08-31"
+    },
+    {
+     "title": "A Massachusetts man says eBay withheld over $11,000 from his $23,750 truck sale — then told him to hand over the keys",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOczNWRjlTOXdzUG83RmtPUHVONXNJWEpQd29FTi1LV3NfR3pqQmFiem1PTFdXQXE4Q2hvSlVnMmRKQnd5aGkxUnNobTJHbTctdUJPanNNc0F1N21VXzR3N213c2R4V2szeU5lbHpNTzVKWkY2ekJKeURpZHdKYWN3YjFmRGhMd1p4djRXa2hRTkVjdW9EZTBsVkhRcUFrZWVQbVZV?oc=5",
+     "domain": "Yahoo Finance",
+     "date": "2026-09-03"
     },
     {
      "title": "eBay Announces American Fashion Retrospective and Auction",
@@ -6750,14 +6457,14 @@
      "date": "2026-09-01"
     },
     {
-     "title": "13-year-old sells 1-of-1 gold Jimothy rookie card for more than $21K on eBay",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU3dBcHhiQzdMd05jU1h3TVdDZW9aZ0hRbkxMcDJLQWxUOEM4SGhyM1gzR0VIT2NOZ3JIQVB5VEk0ZjVQWjlMejA2WG1WVTVKOTZGeEgwUjVVRjktQVBIX0o5R3hQMjcwNmcydEJWLU9uc085a3NPVVR5SkJPV29XTEUzbVk5MkNVckpNSmFjUEhSb3Vza3ZtZlNTbG1XcEtDR09jWkd5TWc1MXMzZkdFb3M4WWF2SHo1MDZGV1A0TkYzRXBEMjN1OdIB3AFBVV95cUxObmRRbDdkMkQ1WU9lSzZ2ajgzb1BOVmlhOFFDTVBteXhqcEowUHZYQ2lPYzRqeHI0ZnF5VXdIS21xVkZNTEdFY3RRN2ZMV2xxTjRZRGpkLU5yb29DbjhlbGVyNVFZNE52dVFKYVUwRUItYjhTZUJZWVZFRTMwdXdPN0lvYzVmMmR4WUdSVzlsYlpEYkIwWVFJSnpBNXhZVEppSHE1QWZSNVkwRlI5eUZIRFVGSlc5a3NiMjd5eDJxbFBncFpBTFJTNDZDeDd6N1RpTE5lZXRoTVpqOFp6?oc=5",
-     "domain": "KIRO 7 News Seattle",
-     "date": "2026-08-31"
+     "title": "Meet the Michigan football team on Sunday: Free eBay Live event in Ann Arbor",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMUM4dWxsR0ZPQTRiN2dobjRhSnBGWTByTng0WGhPOHg1NkpRVlFWMFVtVVliMl9BenRQeUt6My12TWViaXc0UFI4aUtLQjhFZl82ZjR3U3Bra1daQ01PVlpxc0lPcHptV0s4cDJOdFJ3X2JUa1VWUTdMaXItNG9SMGVrUVpFQ1NGZnFJU2RleGxLWWh6RGE4aWVISGFuU1BfMlplTWt1RzJzaXZTWjFIQ3BNTEgyNmdpR0xtRFBjNnJxaFNXMWJ3TFNwYmFYQQ?oc=5",
+     "domain": "247Sports",
+     "date": "2026-09-05"
     }
    ],
    "explain": {
-    "summary": "eBay: attention is rising, led by App Store rank (+5.5σ vs its own baseline). In the news: “EBAY Stock Quote Price and Forecast” (CNN); “GameStop stock jumps with eBay investment expected to boost Q2 profit” (Yahoo Finance). Stock: -2.1% over 5 days — the stock has not reacted yet.",
+    "summary": "eBay: attention is rising, led by App Store rank (+5.4σ vs its own baseline). In the news: “EBAY Stock Quote Price and Forecast” (CNN); “eBay helped man sell his truck, but only gave him half his money. Here's how he got his $…” (CBS News). Stock: -2.1% over 5 days — the stock has not reacted yet.",
     "tone": "unknown",
     "drivers": [
      "news: EBAY Stock Quote Price and Forecast"
@@ -7390,20 +7097,8 @@
     {
      "title": "Ferrari's vintage disaster-class paves way for Antonelli to win Italian GP",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX3FmTmluVk8zMzFKSEllN3ZUd0F5eU8yZnA2cGJOZDluSHdmaW5mdHdSVmxoTmExd0tQNG9LSHdhRzN0bkxJYjJjVjN3bmFSQlk3VmkyTG5nZGtHSWwwU3Y3dW9rYklzX0NyZWx3dXd4YWtRZDZtTWpVZGlUaW1wWWM2UExZVFNBVi1zTlV2TTJveGtnQ29xRnQ2VUFvUmNSd2JtdlFnVUhYNlZnakdFdk14WU5qeXdIdEZ3YkppNnFrck9nb0ViZEc1WTFlNDlmYUE?oc=5",
-     "domain": "ESPN",
+     "domain": "espn.com",
      "date": "2026-09-06"
-    },
-    {
-     "title": "Rebecca \"Beki\" Francis Ferrari Obituary (2026) - Salem, MA - Murphy Funeral Home - Salem",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaXVRSzFtMjNTRlA4NnplWDNQeXJkcUM5ZmZhUWRnLVRvX1d5QndveHo2cHJXWlRtbXVFQnJxVHFJYmMxM2NJR0xXQ3BFdm9GZ1pLRDFDdThxY1RrT18taWdfdHMtZHBmcXNmUEk5S1VqRDJiNUFQemlXYVBGWTZHM3ZfUVg?oc=5",
-     "domain": "Legacy obituary",
-     "date": "2026-08-31"
-    },
-    {
-     "title": "Leclerc targets ‘very special’ Monza weekend with new engine",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOblVhMUVYX1pNNTZ0TGIwN3UzTzRqRjhGMWhCTGZqOFotNDlXWGtWWHFtRlZRMTFrTlRLejBDdlJVc0tkWmFtZTFGREo4OGNDT0pmVzZNd0JuMDdHLUtublNpNGQtZkhhN21nQkMyZ2F1Y290bkt0VjE0bVlRdHpCWXlJSXR3OS1mM3ByUDd0RFhTUDYxbmJHaUhvT3hzQXE3YzB6VGVxX05PTnJZNzFMdW1xbDBPZ2dBNTlMNExBVkJzN1JRY0xWbnNvOEwyaE9zbE5lZVh3UmZvbGFsa1ozR0lR?oc=5",
-     "domain": "Formula 1",
-     "date": "2026-09-03"
     },
     {
      "title": "Michael Jordan's Ferrari 550 Maranello Is for Sale on Pharrell’s Auction Site. Will It Set a Record?",
@@ -7412,14 +7107,26 @@
      "date": "2026-09-03"
     },
     {
+     "title": "Leclerc targets ‘very special’ Monza weekend with new engine",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOblVhMUVYX1pNNTZ0TGIwN3UzTzRqRjhGMWhCTGZqOFotNDlXWGtWWHFtRlZRMTFrTlRLejBDdlJVc0tkWmFtZTFGREo4OGNDT0pmVzZNd0JuMDdHLUtublNpNGQtZkhhN21nQkMyZ2F1Y290bkt0VjE0bVlRdHpCWXlJSXR3OS1mM3ByUDd0RFhTUDYxbmJHaUhvT3hzQXE3YzB6VGVxX05PTnJZNzFMdW1xbDBPZ2dBNTlMNExBVkJzN1JRY0xWbnNvOEwyaE9zbE5lZVh3UmZvbGFsa1ozR0lR?oc=5",
+     "domain": "Formula 1",
+     "date": "2026-09-03"
+    },
+    {
      "title": "Ferrari celebrate Schumacher anniversary with special livery for Monza",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcFRzSmk0TFFJNG43dzFQdWZwaGhqUnBLOHRyNDc4eUdsRzVoMDAxb1ZJM2Y3RF9uT3habDRIdmVwaXNMVENya1VodHFWN2RwRWdTSDdUUndraC12aF9VdkxfVXhDNllyV1M5TDdXaEFkYWlIS0s0SFhaYXJBSTdNdWdIS3NxSmR0S1AxMlZzWXZ2akV3TnFGcndiaFZySnFTYl81cVZVZjV0bFZfUzBjVzJYaFJXaWZKc1E?oc=5",
      "domain": "Reuters",
      "date": "2026-09-01"
+    },
+    {
+     "title": "What makes Hamilton's 'barn find' Ferrari F40 so important",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaXJGdEpsS2prTFYtSUZhUTVOVTd2dWRWNG5NaDJ4Mmc2aTJ1endpMl91OHVuVlNOQ2pSN0Y1SVh6V19DTEo3N3pkSl85QjZGMHM3aVRhcVRtMk9QV1NYX3RBc0E0TWtTeXAxaVlxc19sd3VsWURfbktaV1VSRnVEWlg4S2JfS3M1bXBQQ3NKeXFFdFc5RTJlckhtZVpRVUxfcWc?oc=5",
+     "domain": "motorsport.com",
+     "date": "2026-09-05"
     }
    ],
    "explain": {
-    "summary": "Ferrari: attention is rising, led by Wikipedia lookups (+3.7σ vs its own baseline). In the news: “Charles and Lewis on the second row” (Ferrari); “Ferrari's vintage disaster-class paves way for Antonelli to win Italian GP” (ESPN). Stock: -2.5% over 5 days — the stock has not reacted yet.",
+    "summary": "Ferrari: attention is rising, led by Wikipedia lookups (+3.7σ vs its own baseline). In the news: “Charles and Lewis on the second row” (Ferrari); “Ferrari's vintage disaster-class paves way for Antonelli to win Italian GP” (espn.com). Stock: -2.5% over 5 days — the stock has not reacted yet.",
     "tone": "unknown",
     "drivers": [
      "news: Charles and Lewis on the second row"
@@ -7713,7 +7420,7 @@
     {
      "title": "Weeks before Labor Day, this Prime Day gadget is cheaper again",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYTdjMG9ndkoyX1hCeERDNVFCbFhrdGQxZFFLZkxpTlAyYWdhU2dCNVBOajBuX1NBdzZucDdWM3VuUTh3YWM2aF9aYUFGMW9PNDJyb3VvdzBONDBJODQ2WkVlYjZ4NDVfRGM5R3NhdTI0bUd5UXkxQ1czOVBCRFVibQ?oc=5",
-     "domain": "WLWT",
+     "domain": "wlwt.com",
      "date": "2026-09-01"
     },
     {
@@ -7748,295 +7455,10 @@
     }
    ],
    "explain": {
-    "summary": "Anker / Soundcore / Eufy: attention is rising, led by Wikipedia lookups (+4.6σ vs its own baseline). In the news: “Weeks before Labor Day, this Prime Day gadget is cheaper again” (WLWT); “Anker MagGo 2 Pro Review: Qi2.2 25W Magnetic Power Bank” (Anker). Stock: +5.1% over 5 days.",
+    "summary": "Anker / Soundcore / Eufy: attention is rising, led by Wikipedia lookups (+4.6σ vs its own baseline). In the news: “Weeks before Labor Day, this Prime Day gadget is cheaper again” (wlwt.com); “Anker MagGo 2 Pro Review: Qi2.2 25W Magnetic Power Bank” (Anker). Stock: +5.1% over 5 days.",
     "tone": "unknown",
     "drivers": [
      "news: Weeks before Labor Day, this Prime Day gadget is cheaper again"
-    ],
-    "source": "heuristic"
-   }
-  },
-  {
-   "entity": "tesla",
-   "date": "2026-09-07",
-   "attention_z": 3.85,
-   "driver": "app",
-   "channels": {
-    "wiki": -0.74,
-    "app": 3.85
-   },
-   "corroborating": [],
-   "stage": "rising",
-   "acceleration": 3.07,
-   "trends_hit": 0,
-   "finance_noticed": false,
-   "price_return_5d": 0.0153,
-   "price_return_20d": 0.0776,
-   "volume_z": 1.82,
-   "unpriced": 0.6812,
-   "has_prices": true,
-   "has_social": false,
-   "direction": "unknown",
-   "attention_score": 71.9,
-   "past_spikes": {
-    "n": 0,
-    "median_10d": 0.0,
-    "hit_rate": 0.0
-   },
-   "flags": [
-    "ATTENTION_SPIKE",
-    "APP_CLIMBING",
-    "RISING"
-   ],
-   "why": [
-    "App Store rank are 3.9σ above this name's own 45-day baseline",
-    "app is climbing the App Store chart (rank 13)",
-    "still accelerating (+3.1σ over the last 3 days vs the 4 before)"
-   ],
-   "z_spark": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    12.0,
-    4.49,
-    3.85
-   ],
-   "driver_spark": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    2.212,
-    3.106,
-    2.359,
-    2.738
-   ],
-   "price_spark": [
-    309.22,
-    307.44,
-    298.32,
-    308.85,
-    311.21,
-    322.08,
-    327.35,
-    321.55,
-    319.53,
-    328.58,
-    330.88,
-    332.81,
-    327.51,
-    339.96,
-    342.27,
-    339.3,
-    336.87,
-    351.12,
-    345.13,
-    362.86,
-    348.95,
-    350.25,
-    345.82,
-    354.81,
-    348.75,
-    367.95,
-    356.09,
-    357.01,
-    376.37,
-    354.08
-   ],
-   "channel_dates": {
-    "wiki": "2026-09-06",
-    "app": "2026-09-07"
-   },
-   "app_rank": 13.0,
-   "key": "tesla",
-   "name": "Tesla",
-   "ticker": "TSLA",
-   "company": "Tesla",
-   "sector": "autos",
-   "private": false,
-   "on_watchlist": true,
-   "mentions": 0,
-   "examples": [],
-   "apps": [
-    "Tesla Robotaxi #13 US"
-   ],
-   "history_days": 107,
-   "attention": {
-    "entity": "tesla",
-    "date": "2026-09-07",
-    "attention_z": 3.85,
-    "driver": "app",
-    "channels": {
-     "wiki": -0.74,
-     "app": 3.85
-    },
-    "corroborating": [],
-    "stage": "rising",
-    "acceleration": 3.07,
-    "trends_hit": 0,
-    "finance_noticed": false,
-    "price_return_5d": 0.0153,
-    "price_return_20d": 0.0776,
-    "volume_z": 1.82,
-    "unpriced": 0.6812,
-    "has_prices": true,
-    "has_social": false,
-    "direction": "unknown",
-    "attention_score": 71.9,
-    "past_spikes": {
-     "n": 0,
-     "median_10d": 0.0,
-     "hit_rate": 0.0
-    },
-    "flags": [
-     "ATTENTION_SPIKE",
-     "APP_CLIMBING",
-     "RISING"
-    ],
-    "why": [
-     "App Store rank are 3.9σ above this name's own 45-day baseline",
-     "app is climbing the App Store chart (rank 13)",
-     "still accelerating (+3.1σ over the last 3 days vs the 4 before)"
-    ],
-    "z_spark": [
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     12.0,
-     4.49,
-     3.85
-    ],
-    "driver_spark": [
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     2.212,
-     3.106,
-     2.359,
-     2.738
-    ],
-    "price_spark": [
-     309.22,
-     307.44,
-     298.32,
-     308.85,
-     311.21,
-     322.08,
-     327.35,
-     321.55,
-     319.53,
-     328.58,
-     330.88,
-     332.81,
-     327.51,
-     339.96,
-     342.27,
-     339.3,
-     336.87,
-     351.12,
-     345.13,
-     362.86,
-     348.95,
-     350.25,
-     345.82,
-     354.81,
-     348.75,
-     367.95,
-     356.09,
-     357.01,
-     376.37,
-     354.08
-    ],
-    "channel_dates": {
-     "wiki": "2026-09-06",
-     "app": "2026-09-07"
-    },
-    "app_rank": 13.0
-   },
-   "headlines": [
-    {
-     "title": "Tesla crashes into Chester, New York, home, injuring man sitting on couch",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWVhwSVZseGR0dlVqZF9zdExTX3U5WGo5SVVVazhRelZoWGZtTHVFc2tJeEJNOF8teEszWHB2clVPNnF2cmJMT2N0N29ZSml4S0g3N0M0ZzZmSkdvZzA0T3NaQm1sdTJiaEk4em1MQUZfNVV3QUg3UkhIeHBCZ2RyRDlaQmlZUmcwdHFhMm4wVdIBlAFBVV95cUxQQ2ZLel9ERU9QQzlsVG5UN2RHM3A4ZlloUFptRjlFVV9rRGtpNUV3eDhwa3VkY213b1V5MVZuM2lqLWlqb0loTkNyOVAzWUxDd19fUno1bUJSZHR4RFQyS2pIQi0tWmJnMlpHV0xIMnBwSXFPYVZXU3FkTExYS3hZTFVBbjlsNjZnSWlBZTU5LTBxRWtD?oc=5",
-     "domain": "ABC7 Eyewitness News",
-     "date": "2026-09-03"
-    },
-    {
-     "title": "NHTSA Opens Probe Into Tesla’s Cybercab Rollout",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOG5IZXZNUUtrajVZU3lNZGxfNHpsS01vNUtubXAwZEV2SHdBMlJsNkVwMVpuRmZEVDREU19EanVpM0toY3l4OG5OLVRkVXU2dTB1bGg3amJyei1FakM3NU95WmlyLVNGeWdiRlRCak5kMzQ3SGZTWEJzY3Ixc2dHS1NfeGhtaFRJal9GTk9mOXJfc0Ux?oc=5",
-     "domain": "WSJ",
-     "date": "2026-09-04"
-    },
-    {
-     "title": "Tesla’s Cybercab Is Being Investigated by Federal Regulators",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXFZbVU5OFBQWWFsX0pRdWVzdnFNa0ZyU1lUNFVzcTd5ZjZlOGw3SjQxcndOVGdaLXBLWmcwWUZqZU5UX2VrY3l2YkhkTzZtOHNzRHpWZU1OZWFBc1JxRVpEQmFHMTIxd1B3NGhMckhSeHRzWjVPenZNOW8zelVrN0VNbVlTY2JBQlVn?oc=5",
-     "domain": "The New York Times",
-     "date": "2026-09-04"
-    },
-    {
-     "title": "Tesla's European sales mixed in August, strong in France and Denmark",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRWJqSE14NVRUcjR3bjBNZ1ZweTFwT01ZV2g1NW1xajAyZGlTeU5INEszVC00M1NOUjg2ZHdRQWxxWnQxVUU0WHlVQ0RjckxsbkdORWxHM3ZLMV9FcVM4Q1MtSDIyWmdBWFJLekotTmZLa212bm1wdWFrbWhLZlJmcXBabjJGenZuNGp6ZkF3N0hwUDcwTkNrcXhwb0FJeXRsWnJoV2ZEdkVsLWdoVDdCVjd6VmxqQVRNZzQ4ZUhkaWxWcE80VWtGOWdSTEJEa1hqbE1GOUVBNmNYUkJLMnVB?oc=5",
-     "domain": "Reuters",
-     "date": "2026-09-01"
-    },
-    {
-     "title": "Trump administration opens probe into Tesla’s self-driving Cybercab",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzh4UW1nWmE5SEZUT3NpOVJISWpBb3JVUGVJal9qbWFjamRncGViZ1VycjdCYWNhRERSWGlDNndOZVQzelFESlNKaFJHX1E4LTlEYmdjMjNBQlpxYVN3Y2xyalB0aWRPd0t6NDdMaFJlMGNRZWZqZ1owampQS3VOUQ?oc=5",
-     "domain": "Politico",
-     "date": "2026-09-04"
-    },
-    {
-     "title": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR0t5RzhPYWdIZ3hPSzBuN2dVTGdnRFhrUzRBd2RLM1NHUXNvUFlTWjYzdXE2UzlGc3lETkM5Tm9FMDFhOGJNSnVudnZqYXNmdG9NaWl3T1NwcjhkVWcxZ3pROGxmbXZSMFBGODVURzJNV0h6Nm1hRFdhNENmUTlZelFQZnRSTm9iZDhGc190WlBYdmRvTTVVUGNKOEhLVVXSAaQBQVVfeXFMT1FHblZwckdBTVFmY1BSSklTdW9ZdGw4RmNheHRRTFphZkVZZWRjdGd2LVpXU1NzZ0N6Yi1HVFdYWW1rWk11Z0htRDBIcGdqbk5fVXVncC0wTGZqcXdsUW04cVNvUnBwRmhhODFTTEtkUjlScW5Vc0p3SmpHNnBZQ2RuUVBNek1hc3lKVVFTMFkyOUdEdHZBOWJrVVFTS0JETlR5Ni0?oc=5",
-     "domain": "CNBC",
-     "date": "2026-09-04"
-    }
-   ],
-   "explain": {
-    "summary": "Tesla: attention is rising, led by App Store rank (+3.9σ vs its own baseline). In the news: “Tesla crashes into Chester, New York, home, injuring man sitting on couch” (ABC7 Eyewitness News); “NHTSA Opens Probe Into Tesla’s Cybercab Rollout” (WSJ). Stock: +1.5% over 5 days.",
-    "tone": "unknown",
-    "drivers": [
-     "news: Tesla crashes into Chester, New York, home, injuring man sitting on couch"
     ],
     "source": "heuristic"
    }
@@ -8339,6 +7761,12 @@
      "date": "2026-09-01"
     },
     {
+     "title": "Deckers Outdoor (DECK) director adds to 43,638-share stake",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZzZIdjF0SmxDZG1vU1FqUzhaYzJpRkdybXZDR3RBc214MUhPWnZ6UjRkcjdrWGNVVTBfRWVKNjVaTm1HejFXclRlT3JsaV9LRENiMzdsSnY5TzdRWWV3V2hzRFN4bl9kRnZkX2JtM1F6aXplRmRKUkplbm9pWElZcDY3Z3o0czVkYl9BUEZSeHhRUkJrYVprZDVIU21pN2NVQkQ1MlVFU0MzMnJBamFJYVV6Vks?oc=5",
+     "domain": "Stock Titan",
+     "date": "2026-09-02"
+    },
+    {
      "title": "Board grant lifts Deckers (NYSE: DECK) director to 14,640 shares",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdlhZZGNqQUJqUDJlekFubEczVEs2bWdxTjVPNDNqeFZTeldHUk5VSmY5M084NmhLQ2ZaOF9YY0x2bmlUX24xYmdyaE9wTFNtM3FvX2NQSk9KX1cyRHNEeHhvcVg1c1lBeUoweTBWSHctNVNaeExoSDBHMjdneDN1Sjg5YnlFUThIUmJsMFZhdzhQbUpRVHA0S2tmd0RLdHBveTE2bWl2TUhxZnBHMGVaVDkzTEo?oc=5",
      "domain": "Stock Titan",
@@ -8353,12 +7781,6 @@
     {
      "title": "Director at Deckers (NYSE: DECK) receives 535-share grant",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOEw5eVQ5YXlPbWN0NUZpQW9WSHJQWFVGMHgyVFdTNTlRWVkzQlp2X1VkNzc1VFpOWTBiRXEwMjdHSThfWjZ4eDRYSTNYaXNrRks5MjZ5NmFaRkF2WlNncDhidE5CU2lHV3Q4b3AtZU5zU2YycWpXd0tPUFpnQVZwUTB4TEpQU05GOEZwNXp6M0NXYmxORWRaNjBhUmtFR1dJQm4zMmxfanRncFdicUlnM19TNE0?oc=5",
-     "domain": "Stock Titan",
-     "date": "2026-09-02"
-    },
-    {
-     "title": "Deckers (NYSE: DECK) board member takes part of pay in stock",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTWFOWnVGWkNjaWF0ZlFvZUxUM2hGeFpvQjEzRG5YS1N2MWh6ZWlPaWYzYnFFR0dValRWY29jODdNRWdmNV9JeTJJVGk0Um5WUm5Cb29JVUozazQyQmxES2hMQ09Wa09sTTJBRUdmaks1YklmOGh5NTBKc1ZSWEQzOU5uemlOSkdpaGU1QkRWbzNUMTRnMFVEWmU2OUF4VVRtc0FydnY0WENPUGx1RTZYb0JCa1g?oc=5",
      "domain": "Stock Titan",
      "date": "2026-09-02"
     }
@@ -8674,6 +8096,12 @@
      "date": "2026-09-02"
     },
     {
+     "title": "Exclusive: Nexon Pursues ‘StarCraft’ Sequel Development Rights From Blizzard",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRmVNcXlYT0pQWlRuUEhDNU5YSVBBMGdCZkFDa1h0Ri1XbWlpdGlyd0RKNDI4eURoczkxYUR2U1J4dkVocmdFZ0pPNVpVVEU1a21BY2hqLUN6Y3M3YVBpa2ctVzYxaEFKcjVvYm9FWFA5NkNfRlVqOGVxRWp5MjZuS1Y1dC1TUzJs?oc=5",
+     "domain": "조선일보",
+     "date": "2026-09-02"
+    },
+    {
      "title": "Starcraft 3 Might Actually Happen in Surprise New Partnership",
      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xVW14ZWxJZTFOTkVwZFEwRWxjY25zclNCeEhwaThjSWFfVmVGNGJXcEJDSld6Qk15U0NaTjd5UW1ib2tjUmdyamtxMExMaFFFZnpka1ZDNnJWSGpVMzQ2TW1nYzMyZmlNVFZPcS01cTlJNEk?oc=5",
      "domain": "Polygon.com",
@@ -8683,12 +8111,6 @@
      "title": "Blizzard deal could give Nexon StarCraft sequel rights, reports say",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWnBiN1k5R0pJU3prdlpFakk5QmN6a2VrWkxJeWdPalVrbWc0SDVqWk1JNVdTTDdESl9QdmZRaGpXeGlCUmd2SDZJNDhSVUU0azZUUlBfQ1VLWWE3c0FVYWhOejE4YWVPSHhXRGlJSHE0aU41MG5SU1RNUHh1N3poUUN6dkN6MXpXU25aQ3V2N2JPQkJGV3VjQldWX0puNFVOenFZa0NUX2NsNVhHcW1XQ3ZMWU1NZw?oc=5",
      "domain": "TweakTown",
-     "date": "2026-09-02"
-    },
-    {
-     "title": "Next-Gen Tata Nexon – 5 Major Updates Coming With Project Garud",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFJ6eldTOHlFaEliQmJHZm5MNkp4Q0tibWp6aU44QjNFbC0zYkRQZy1IYXhfN0xabjhjS1JMamVhQXJyYzF0R3Jub0lnMmZ4R0IwRWc5NXJFUFZpYW5NRUVJRFY4R3hVSTlaM3JPSEc5VjRqc1I0UXFNZ3RYc09GN2xLX0Q?oc=5",
-     "domain": "CarLelo",
      "date": "2026-09-02"
     },
     {
@@ -8704,256 +8126,6 @@
     "drivers": [
      "news: StarCraft 3 Could Be Developed by Nexon, New Report Claims"
     ],
-    "source": "heuristic"
-   }
-  },
-  {
-   "entity": "comcast",
-   "date": "2026-09-07",
-   "attention_z": 10.5,
-   "driver": "app",
-   "channels": {
-    "wiki": -1.36,
-    "app": 10.5
-   },
-   "corroborating": [],
-   "stage": "rising",
-   "acceleration": 0.8,
-   "trends_hit": 0,
-   "finance_noticed": false,
-   "price_return_5d": -0.0211,
-   "price_return_20d": 0.0446,
-   "volume_z": -1.13,
-   "unpriced": 0.8947,
-   "has_prices": true,
-   "has_social": false,
-   "direction": "unknown",
-   "attention_score": 68.9,
-   "past_spikes": {
-    "n": 0,
-    "median_10d": 0.0,
-    "hit_rate": 0.0
-   },
-   "flags": [
-    "ATTENTION_SPIKE",
-    "APP_CLIMBING",
-    "UNPRICED",
-    "RISING"
-   ],
-   "why": [
-    "App Store rank are 10.5σ above this name's own 45-day baseline",
-    "app is climbing the App Store chart (rank 87)",
-    "price is flat (-2.1% over 5 days) and volume normal despite the attention",
-    "still accelerating (+0.8σ over the last 3 days vs the 4 before)"
-   ],
-   "z_spark": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    10.5
-   ],
-   "driver_spark": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.861,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.837
-   ],
-   "price_spark": [
-    22.8,
-    24.19,
-    24.61,
-    23.67,
-    23.96,
-    24.56,
-    24.93,
-    24.75,
-    25.17,
-    25.36,
-    25.2,
-    25.65,
-    25.47,
-    26.18,
-    26.18,
-    25.57,
-    26.2,
-    26.59,
-    26.42,
-    26.85,
-    27.02,
-    27.1,
-    27.2,
-    26.41,
-    27.06,
-    26.62,
-    26.3,
-    26.81,
-    26.65,
-    26.49
-   ],
-   "channel_dates": {
-    "wiki": "2026-09-06",
-    "app": "2026-09-07"
-   },
-   "app_rank": 87.0,
-   "key": "comcast",
-   "name": "Peacock / NBC / Universal",
-   "ticker": "CMCSA",
-   "company": "Comcast",
-   "sector": "media",
-   "private": false,
-   "on_watchlist": false,
-   "mentions": 0,
-   "examples": [],
-   "apps": [
-    "Peacock TV: Stream TV & Movies #87 US"
-   ],
-   "history_days": 107,
-   "attention": {
-    "entity": "comcast",
-    "date": "2026-09-07",
-    "attention_z": 10.5,
-    "driver": "app",
-    "channels": {
-     "wiki": -1.36,
-     "app": 10.5
-    },
-    "corroborating": [],
-    "stage": "rising",
-    "acceleration": 0.8,
-    "trends_hit": 0,
-    "finance_noticed": false,
-    "price_return_5d": -0.0211,
-    "price_return_20d": 0.0446,
-    "volume_z": -1.13,
-    "unpriced": 0.8947,
-    "has_prices": true,
-    "has_social": false,
-    "direction": "unknown",
-    "attention_score": 68.9,
-    "past_spikes": {
-     "n": 0,
-     "median_10d": 0.0,
-     "hit_rate": 0.0
-    },
-    "flags": [
-     "ATTENTION_SPIKE",
-     "APP_CLIMBING",
-     "UNPRICED",
-     "RISING"
-    ],
-    "why": [
-     "App Store rank are 10.5σ above this name's own 45-day baseline",
-     "app is climbing the App Store chart (rank 87)",
-     "price is flat (-2.1% over 5 days) and volume normal despite the attention",
-     "still accelerating (+0.8σ over the last 3 days vs the 4 before)"
-    ],
-    "z_spark": [
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     10.5
-    ],
-    "driver_spark": [
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.861,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.837
-    ],
-    "price_spark": [
-     22.8,
-     24.19,
-     24.61,
-     23.67,
-     23.96,
-     24.56,
-     24.93,
-     24.75,
-     25.17,
-     25.36,
-     25.2,
-     25.65,
-     25.47,
-     26.18,
-     26.18,
-     25.57,
-     26.2,
-     26.59,
-     26.42,
-     26.85,
-     27.02,
-     27.1,
-     27.2,
-     26.41,
-     27.06,
-     26.62,
-     26.3,
-     26.81,
-     26.65,
-     26.49
-    ],
-    "channel_dates": {
-     "wiki": "2026-09-06",
-     "app": "2026-09-07"
-    },
-    "app_rank": 87.0
-   },
-   "headlines": [],
-   "explain": {
-    "summary": "Peacock / NBC / Universal: attention is rising, led by App Store rank (+10.5σ vs its own baseline). Stock: -2.1% over 5 days — the stock has not reacted yet.",
-    "tone": "unknown",
-    "drivers": [],
     "source": "heuristic"
    }
   },
@@ -8991,7 +8163,7 @@
    ],
    "why": [
     "App Store rank are 6.0σ above this name's own 45-day baseline",
-    "app is climbing the App Store chart (rank 99)",
+    "app is climbing the App Store chart (rank 98)",
     "still accelerating (+1.6σ over the last 3 days vs the 4 before)"
    ],
    "z_spark": [
@@ -9030,7 +8202,7 @@
     0.0,
     0.0,
     0.0,
-    0.708
+    0.718
    ],
    "price_spark": [
     162.99,
@@ -9068,7 +8240,7 @@
     "wiki": "2026-09-06",
     "app": "2026-09-07"
    },
-   "app_rank": 99.0,
+   "app_rank": 98.0,
    "key": "rea",
    "name": "realestate.com.au (REA Group)",
    "ticker": "REA.AX",
@@ -9079,7 +8251,7 @@
    "mentions": 0,
    "examples": [],
    "apps": [
-    "realestate.com.au - Property #99 AU"
+    "realestate.com.au - Property #98 AU"
    ],
    "history_days": 107,
    "attention": {
@@ -9116,7 +8288,7 @@
     ],
     "why": [
      "App Store rank are 6.0σ above this name's own 45-day baseline",
-     "app is climbing the App Store chart (rank 99)",
+     "app is climbing the App Store chart (rank 98)",
      "still accelerating (+1.6σ over the last 3 days vs the 4 before)"
     ],
     "z_spark": [
@@ -9155,7 +8327,7 @@
      0.0,
      0.0,
      0.0,
-     0.708
+     0.718
     ],
     "price_spark": [
      162.99,
@@ -9193,13 +8365,337 @@
      "wiki": "2026-09-06",
      "app": "2026-09-07"
     },
-    "app_rank": 99.0
+    "app_rank": 98.0
    },
-   "headlines": [],
+   "headlines": [
+    {
+     "title": "Back in business: Knight Frank, McGrath join forces",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2lHdnlTVXlpa0RIS1dteXU3ZUNFZHZEMmpxdVhyR3Y5bjlncUFVdEw5Qm54bW5TejJ2R2lxVUs3Rlp5VmgyaVJtRjNsUVU0WTFnUlJOcnc0VHhwS0tCX0xtSTRWTDgwYmNSWkYwdFkxeWlHSnlBODVWV01HVk5qcU13MVdlWnI0bWU0SW1R?oc=5",
+     "domain": "realestate.com.au",
+     "date": "2026-09-07"
+    },
+    {
+     "title": "Housing affordability craters to record low despite fall in prices",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSkVJYzIxU1BJSjQ0Sm1FY3F3QWl5ZEExZEprSmRrZG9kVkctM1JsQnB2SWVlMkpDd0FMR2hodEppOFNoUlg0SjlWZ1pIZHhvMGZpQlI5cTlTR3lQMmFQdEtWUGZJN1BwbXctMUN4SFp1X2dySEZhWFhSYWllRkZlUmdRaTRHQVlwVnFsd09NcHhncGZsTU45VlJmQzZwZmRVd3AzdXlkNHVHYXF6ZUZqVkVkNUZnbzVkYkJqZlMwRTlaOXNMOEE?oc=5",
+     "domain": "SMH.com.au",
+     "date": "2026-09-04"
+    },
+    {
+     "title": "$211k ‘correction’: Big bank’s shock home price prediction",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNnhkbGwwcm4xaUZCMk5JRGF5NnhZT0hIX0s0ZFY3bE84T3NEUjlvVTJoaFNNbF93d3lWemJ0b01tWHJPbUh0bkV6S0RWZFZQcXhGSDYyYU01UDNYMW1lN3JkWE5qc2RvNkFXNURxa2lnakZON2k5SjBwang3OUk2THZ0N2Q5M1E4czZVZ3dlUC1IRFk?oc=5",
+     "domain": "realestate.com.au",
+     "date": "2026-09-01"
+    },
+    {
+     "title": "Ricky Gervais lists $5.8m riverside home",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TVVlOaVFRcTFJaGZqQjhCZGZvQ0hUem84NFJrMWp4MjRlLWdyT0ZRM0xuc1BUa3lHSFZwbjJOOGdUWF9YUWpCaHFNRy1IWHAyMXRtdHZNM1J0SGZUUWdWQkVYdHZrVHRJWFNQclBXYnUwQjkzbHo0VkVaWGp6Yk0?oc=5",
+     "domain": "realestate.com.au",
+     "date": "2026-09-06"
+    },
+    {
+     "title": "‘Reborn’ Mosman home ‘inundated’ with inquiry",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN1NabG1fVWdBbHJHY2xQVHdYeW5OQ2UyU1Z6VXVJQ1FjUmJhSmNYSHgtUlA0SWFDQ29tdjlaMEFSbG41MGxqZDcyaG04eF82djdqdGxRTGdXRkpFSG04bTNhWWI2ckFLRXEwRElwZTJoS1pIZnRoVWNCS2JucFpjWVBudw?oc=5",
+     "domain": "realestate.com.au",
+     "date": "2026-09-07"
+    },
+    {
+     "title": "Victoria 27,000 tradies short, at risk of 4000 new homes wipe out",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPejRvWDN5N2lFb2VjTDNoNVBTZEVSVUJxTFQzV1pBRnJWdjFjWXpaX05XQVNwZ1FiQy0yMHNKVmt0QUo1cUtSbU1xbDl3LTlEaUZJSC1ITS1xV0RIazRaSHV5d2lYYjk4UmtnUkphUnhuNHZyc3lOVDlUdm8wUmtDRHh2ZGRHUnl0enB5ZE9XekF6M2RQU0RhZmRuS1h6bWVQ?oc=5",
+     "domain": "realestate.com.au",
+     "date": "2026-09-07"
+    }
+   ],
    "explain": {
-    "summary": "realestate.com.au (REA Group): attention is rising, led by App Store rank (+6.0σ vs its own baseline). Stock: -7.9% over 5 days.",
+    "summary": "realestate.com.au (REA Group): attention is rising, led by App Store rank (+6.0σ vs its own baseline). In the news: “Back in business: Knight Frank, McGrath join forces” (realestate.com.au); “Housing affordability craters to record low despite fall in prices” (SMH.com.au). Stock: -7.9% over 5 days.",
     "tone": "unknown",
-    "drivers": [],
+    "drivers": [
+     "news: Back in business: Knight Frank, McGrath join forces"
+    ],
+    "source": "heuristic"
+   }
+  },
+  {
+   "entity": "tesla",
+   "date": "2026-09-07",
+   "attention_z": 3.47,
+   "driver": "app",
+   "channels": {
+    "wiki": -0.74,
+    "app": 3.47
+   },
+   "corroborating": [],
+   "stage": "rising",
+   "acceleration": 2.94,
+   "trends_hit": 0,
+   "finance_noticed": false,
+   "price_return_5d": 0.0153,
+   "price_return_20d": 0.0776,
+   "volume_z": 1.82,
+   "unpriced": 0.6812,
+   "has_prices": true,
+   "has_social": false,
+   "direction": "unknown",
+   "attention_score": 67.7,
+   "past_spikes": {
+    "n": 0,
+    "median_10d": 0.0,
+    "hit_rate": 0.0
+   },
+   "flags": [
+    "ATTENTION_SPIKE",
+    "APP_CLIMBING",
+    "RISING"
+   ],
+   "why": [
+    "App Store rank are 3.5σ above this name's own 45-day baseline",
+    "app is climbing the App Store chart (rank 17)",
+    "still accelerating (+2.9σ over the last 3 days vs the 4 before)"
+   ],
+   "z_spark": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    12.0,
+    4.49,
+    3.47
+   ],
+   "driver_spark": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    2.212,
+    3.106,
+    2.359,
+    2.47
+   ],
+   "price_spark": [
+    309.22,
+    307.44,
+    298.32,
+    308.85,
+    311.21,
+    322.08,
+    327.35,
+    321.55,
+    319.53,
+    328.58,
+    330.88,
+    332.81,
+    327.51,
+    339.96,
+    342.27,
+    339.3,
+    336.87,
+    351.12,
+    345.13,
+    362.86,
+    348.95,
+    350.25,
+    345.82,
+    354.81,
+    348.75,
+    367.95,
+    356.09,
+    357.01,
+    376.37,
+    354.08
+   ],
+   "channel_dates": {
+    "wiki": "2026-09-06",
+    "app": "2026-09-07"
+   },
+   "app_rank": 17.0,
+   "key": "tesla",
+   "name": "Tesla",
+   "ticker": "TSLA",
+   "company": "Tesla",
+   "sector": "autos",
+   "private": false,
+   "on_watchlist": true,
+   "mentions": 0,
+   "examples": [],
+   "apps": [
+    "Tesla Robotaxi #17 US"
+   ],
+   "history_days": 107,
+   "attention": {
+    "entity": "tesla",
+    "date": "2026-09-07",
+    "attention_z": 3.47,
+    "driver": "app",
+    "channels": {
+     "wiki": -0.74,
+     "app": 3.47
+    },
+    "corroborating": [],
+    "stage": "rising",
+    "acceleration": 2.94,
+    "trends_hit": 0,
+    "finance_noticed": false,
+    "price_return_5d": 0.0153,
+    "price_return_20d": 0.0776,
+    "volume_z": 1.82,
+    "unpriced": 0.6812,
+    "has_prices": true,
+    "has_social": false,
+    "direction": "unknown",
+    "attention_score": 67.7,
+    "past_spikes": {
+     "n": 0,
+     "median_10d": 0.0,
+     "hit_rate": 0.0
+    },
+    "flags": [
+     "ATTENTION_SPIKE",
+     "APP_CLIMBING",
+     "RISING"
+    ],
+    "why": [
+     "App Store rank are 3.5σ above this name's own 45-day baseline",
+     "app is climbing the App Store chart (rank 17)",
+     "still accelerating (+2.9σ over the last 3 days vs the 4 before)"
+    ],
+    "z_spark": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     12.0,
+     4.49,
+     3.47
+    ],
+    "driver_spark": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     2.212,
+     3.106,
+     2.359,
+     2.47
+    ],
+    "price_spark": [
+     309.22,
+     307.44,
+     298.32,
+     308.85,
+     311.21,
+     322.08,
+     327.35,
+     321.55,
+     319.53,
+     328.58,
+     330.88,
+     332.81,
+     327.51,
+     339.96,
+     342.27,
+     339.3,
+     336.87,
+     351.12,
+     345.13,
+     362.86,
+     348.95,
+     350.25,
+     345.82,
+     354.81,
+     348.75,
+     367.95,
+     356.09,
+     357.01,
+     376.37,
+     354.08
+    ],
+    "channel_dates": {
+     "wiki": "2026-09-06",
+     "app": "2026-09-07"
+    },
+    "app_rank": 17.0
+   },
+   "headlines": [
+    {
+     "title": "Tesla crashes into Chester, New York, home, injuring man sitting on couch",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWVhwSVZseGR0dlVqZF9zdExTX3U5WGo5SVVVazhRelZoWGZtTHVFc2tJeEJNOF8teEszWHB2clVPNnF2cmJMT2N0N29ZSml4S0g3N0M0ZzZmSkdvZzA0T3NaQm1sdTJiaEk4em1MQUZfNVV3QUg3UkhIeHBCZ2RyRDlaQmlZUmcwdHFhMm4wVdIBlAFBVV95cUxQQ2ZLel9ERU9QQzlsVG5UN2RHM3A4ZlloUFptRjlFVV9rRGtpNUV3eDhwa3VkY213b1V5MVZuM2lqLWlqb0loTkNyOVAzWUxDd19fUno1bUJSZHR4RFQyS2pIQi0tWmJnMlpHV0xIMnBwSXFPYVZXU3FkTExYS3hZTFVBbjlsNjZnSWlBZTU5LTBxRWtD?oc=5",
+     "domain": "ABC7 New York",
+     "date": "2026-09-03"
+    },
+    {
+     "title": "NHTSA Opens Probe Into Tesla’s Cybercab Rollout",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOG5IZXZNUUtrajVZU3lNZGxfNHpsS01vNUtubXAwZEV2SHdBMlJsNkVwMVpuRmZEVDREU19EanVpM0toY3l4OG5OLVRkVXU2dTB1bGg3amJyei1FakM3NU95WmlyLVNGeWdiRlRCak5kMzQ3SGZTWEJzY3Ixc2dHS1NfeGhtaFRJal9GTk9mOXJfc0Ux?oc=5",
+     "domain": "WSJ",
+     "date": "2026-09-04"
+    },
+    {
+     "title": "Tesla’s Cybercab Is Being Investigated by Federal Regulators",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXFZbVU5OFBQWWFsX0pRdWVzdnFNa0ZyU1lUNFVzcTd5ZjZlOGw3SjQxcndOVGdaLXBLWmcwWUZqZU5UX2VrY3l2YkhkTzZtOHNzRHpWZU1OZWFBc1JxRVpEQmFHMTIxd1B3NGhMckhSeHRzWjVPenZNOW8zelVrN0VNbVlTY2JBQlVn?oc=5",
+     "domain": "The New York Times",
+     "date": "2026-09-04"
+    },
+    {
+     "title": "Trump administration opens probe into Tesla’s self-driving Cybercab",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzh4UW1nWmE5SEZUT3NpOVJISWpBb3JVUGVJal9qbWFjamRncGViZ1VycjdCYWNhRERSWGlDNndOZVQzelFESlNKaFJHX1E4LTlEYmdjMjNBQlpxYVN3Y2xyalB0aWRPd0t6NDdMaFJlMGNRZWZqZ1owampQS3VOUQ?oc=5",
+     "domain": "Politico",
+     "date": "2026-09-04"
+    },
+    {
+     "title": "Tesla's European sales mixed in August, strong in France and Denmark",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRWJqSE14NVRUcjR3bjBNZ1ZweTFwT01ZV2g1NW1xajAyZGlTeU5INEszVC00M1NOUjg2ZHdRQWxxWnQxVUU0WHlVQ0RjckxsbkdORWxHM3ZLMV9FcVM4Q1MtSDIyWmdBWFJLekotTmZLa212bm1wdWFrbWhLZlJmcXBabjJGenZuNGp6ZkF3N0hwUDcwTkNrcXhwb0FJeXRsWnJoV2ZEdkVsLWdoVDdCVjd6VmxqQVRNZzQ4ZUhkaWxWcE80VWtGOWdSTEJEa1hqbE1GOUVBNmNYUkJLMnVB?oc=5",
+     "domain": "Reuters",
+     "date": "2026-09-01"
+    },
+    {
+     "title": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR0t5RzhPYWdIZ3hPSzBuN2dVTGdnRFhrUzRBd2RLM1NHUXNvUFlTWjYzdXE2UzlGc3lETkM5Tm9FMDFhOGJNSnVudnZqYXNmdG9NaWl3T1NwcjhkVWcxZ3pROGxmbXZSMFBGODVURzJNV0h6Nm1hRFdhNENmUTlZelFQZnRSTm9iZDhGc190WlBYdmRvTTVVUGNKOEhLVVXSAaQBQVVfeXFMT1FHblZwckdBTVFmY1BSSklTdW9ZdGw4RmNheHRRTFphZkVZZWRjdGd2LVpXU1NzZ0N6Yi1HVFdYWW1rWk11Z0htRDBIcGdqbk5fVXVncC0wTGZqcXdsUW04cVNvUnBwRmhhODFTTEtkUjlScW5Vc0p3SmpHNnBZQ2RuUVBNek1hc3lKVVFTMFkyOUdEdHZBOWJrVVFTS0JETlR5Ni0?oc=5",
+     "domain": "CNBC",
+     "date": "2026-09-04"
+    }
+   ],
+   "explain": {
+    "summary": "Tesla: attention is rising, led by App Store rank (+3.5σ vs its own baseline). In the news: “Tesla crashes into Chester, New York, home, injuring man sitting on couch” (ABC7 New York); “NHTSA Opens Probe Into Tesla’s Cybercab Rollout” (WSJ). Stock: +1.5% over 5 days.",
+    "tone": "unknown",
+    "drivers": [
+     "news: Tesla crashes into Chester, New York, home, injuring man sitting on couch"
+    ],
     "source": "heuristic"
    }
   },
@@ -10240,504 +9736,6 @@
    }
   },
   {
-   "entity": "airbnb",
-   "date": "2026-09-07",
-   "attention_z": 3.24,
-   "driver": "app",
-   "channels": {
-    "wiki": -1.2,
-    "app": 3.24
-   },
-   "corroborating": [],
-   "stage": "rising",
-   "acceleration": 1.53,
-   "trends_hit": 0,
-   "finance_noticed": false,
-   "price_return_5d": -0.0395,
-   "price_return_20d": 0.0217,
-   "volume_z": -0.34,
-   "unpriced": 0.8023,
-   "has_prices": true,
-   "has_social": false,
-   "direction": "unknown",
-   "attention_score": 64.0,
-   "past_spikes": {
-    "n": 0,
-    "median_10d": 0.0,
-    "hit_rate": 0.0
-   },
-   "flags": [
-    "ATTENTION_SPIKE",
-    "APP_CLIMBING",
-    "UNPRICED",
-    "RISING"
-   ],
-   "why": [
-    "App Store rank are 3.2σ above this name's own 45-day baseline",
-    "app is climbing the App Store chart (rank 33)",
-    "price is flat (-4.0% over 5 days) and volume normal despite the attention",
-    "still accelerating (+1.5σ over the last 3 days vs the 4 before)"
-   ],
-   "z_spark": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    -0.07,
-    1.92,
-    3.24
-   ],
-   "driver_spark": [
-    1.099,
-    1.314,
-    1.519,
-    1.371,
-    1.226,
-    1.129,
-    1.041,
-    0.986,
-    1.391,
-    1.432,
-    1.391,
-    1.432,
-    1.411,
-    1.243,
-    1.333,
-    1.614,
-    1.807
-   ],
-   "price_spark": [
-    146.86,
-    153.11,
-    153.01,
-    152.08,
-    151.52,
-    150.64,
-    149.92,
-    152.49,
-    151.64,
-    178.07,
-    184.7,
-    184.98,
-    180.095,
-    185.13,
-    184.06,
-    179.29,
-    183.25,
-    186.39,
-    185.0,
-    187.3,
-    190.21,
-    190.5,
-    188.07,
-    184.4,
-    189.43,
-    183.22,
-    182.545,
-    183.26,
-    185.25,
-    181.94
-   ],
-   "channel_dates": {
-    "wiki": "2026-09-06",
-    "app": "2026-09-07"
-   },
-   "app_rank": 33.0,
-   "key": "airbnb",
-   "name": "Airbnb",
-   "ticker": "ABNB",
-   "company": "Airbnb",
-   "sector": "travel",
-   "private": false,
-   "on_watchlist": false,
-   "mentions": 0,
-   "examples": [],
-   "apps": [
-    "Airbnb #73 US",
-    "Airbnb #33 AU"
-   ],
-   "history_days": 107,
-   "attention": {
-    "entity": "airbnb",
-    "date": "2026-09-07",
-    "attention_z": 3.24,
-    "driver": "app",
-    "channels": {
-     "wiki": -1.2,
-     "app": 3.24
-    },
-    "corroborating": [],
-    "stage": "rising",
-    "acceleration": 1.53,
-    "trends_hit": 0,
-    "finance_noticed": false,
-    "price_return_5d": -0.0395,
-    "price_return_20d": 0.0217,
-    "volume_z": -0.34,
-    "unpriced": 0.8023,
-    "has_prices": true,
-    "has_social": false,
-    "direction": "unknown",
-    "attention_score": 64.0,
-    "past_spikes": {
-     "n": 0,
-     "median_10d": 0.0,
-     "hit_rate": 0.0
-    },
-    "flags": [
-     "ATTENTION_SPIKE",
-     "APP_CLIMBING",
-     "UNPRICED",
-     "RISING"
-    ],
-    "why": [
-     "App Store rank are 3.2σ above this name's own 45-day baseline",
-     "app is climbing the App Store chart (rank 33)",
-     "price is flat (-4.0% over 5 days) and volume normal despite the attention",
-     "still accelerating (+1.5σ over the last 3 days vs the 4 before)"
-    ],
-    "z_spark": [
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     -0.07,
-     1.92,
-     3.24
-    ],
-    "driver_spark": [
-     1.099,
-     1.314,
-     1.519,
-     1.371,
-     1.226,
-     1.129,
-     1.041,
-     0.986,
-     1.391,
-     1.432,
-     1.391,
-     1.432,
-     1.411,
-     1.243,
-     1.333,
-     1.614,
-     1.807
-    ],
-    "price_spark": [
-     146.86,
-     153.11,
-     153.01,
-     152.08,
-     151.52,
-     150.64,
-     149.92,
-     152.49,
-     151.64,
-     178.07,
-     184.7,
-     184.98,
-     180.095,
-     185.13,
-     184.06,
-     179.29,
-     183.25,
-     186.39,
-     185.0,
-     187.3,
-     190.21,
-     190.5,
-     188.07,
-     184.4,
-     189.43,
-     183.22,
-     182.545,
-     183.26,
-     185.25,
-     181.94
-    ],
-    "channel_dates": {
-     "wiki": "2026-09-06",
-     "app": "2026-09-07"
-    },
-    "app_rank": 33.0
-   },
-   "headlines": [],
-   "explain": {
-    "summary": "Airbnb: attention is rising, led by App Store rank (+3.2σ vs its own baseline). Stock: -4.0% over 5 days — the stock has not reacted yet.",
-    "tone": "unknown",
-    "drivers": [],
-    "source": "heuristic"
-   }
-  },
-  {
-   "entity": "woolworths",
-   "date": "2026-09-07",
-   "attention_z": 2.89,
-   "driver": "app",
-   "channels": {
-    "wiki": -0.77,
-    "app": 2.89
-   },
-   "corroborating": [],
-   "stage": "rising",
-   "acceleration": 1.63,
-   "trends_hit": 0,
-   "finance_noticed": false,
-   "price_return_5d": -0.0122,
-   "price_return_20d": -0.0207,
-   "volume_z": 0.43,
-   "unpriced": 0.8813,
-   "has_prices": true,
-   "has_social": false,
-   "direction": "unknown",
-   "attention_score": 62.4,
-   "past_spikes": {
-    "n": 0,
-    "median_10d": 0.0,
-    "hit_rate": 0.0
-   },
-   "flags": [
-    "APP_CLIMBING",
-    "UNPRICED",
-    "RISING"
-   ],
-   "why": [
-    "app is climbing the App Store chart (rank 18)",
-    "price is flat (-1.2% over 5 days) and volume normal despite the attention",
-    "still accelerating (+1.6σ over the last 3 days vs the 4 before)"
-   ],
-   "z_spark": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    2.28,
-    4.45,
-    2.89
-   ],
-   "driver_spark": [
-    1.432,
-    1.807,
-    1.902,
-    1.838,
-    1.971,
-    1.936,
-    1.475,
-    1.566,
-    1.838,
-    1.748,
-    1.902,
-    1.971,
-    2.045,
-    2.47,
-    2.212,
-    2.531,
-    2.413
-   ],
-   "price_spark": [
-    39.79,
-    40.55,
-    40.47,
-    39.77,
-    40.14,
-    40.22,
-    40.22,
-    40.21,
-    40.28,
-    40.66,
-    39.83,
-    39.46,
-    39.72,
-    40.0,
-    40.21,
-    39.48,
-    39.72,
-    38.99,
-    38.86,
-    38.54,
-    38.85,
-    40.18,
-    39.55,
-    39.65,
-    40.31,
-    39.33,
-    39.62,
-    40.0,
-    40.32,
-    39.82
-   ],
-   "channel_dates": {
-    "wiki": "2026-09-06",
-    "app": "2026-09-07"
-   },
-   "app_rank": 18.0,
-   "key": "woolworths",
-   "name": "Woolworths (AU)",
-   "ticker": "WOW.AX",
-   "company": "Woolworths Group",
-   "sector": "aus",
-   "private": false,
-   "on_watchlist": false,
-   "mentions": 0,
-   "examples": [],
-   "apps": [
-    "Everyday Rewards #18 AU",
-    "Woolworths #31 AU"
-   ],
-   "history_days": 107,
-   "attention": {
-    "entity": "woolworths",
-    "date": "2026-09-07",
-    "attention_z": 2.89,
-    "driver": "app",
-    "channels": {
-     "wiki": -0.77,
-     "app": 2.89
-    },
-    "corroborating": [],
-    "stage": "rising",
-    "acceleration": 1.63,
-    "trends_hit": 0,
-    "finance_noticed": false,
-    "price_return_5d": -0.0122,
-    "price_return_20d": -0.0207,
-    "volume_z": 0.43,
-    "unpriced": 0.8813,
-    "has_prices": true,
-    "has_social": false,
-    "direction": "unknown",
-    "attention_score": 62.4,
-    "past_spikes": {
-     "n": 0,
-     "median_10d": 0.0,
-     "hit_rate": 0.0
-    },
-    "flags": [
-     "APP_CLIMBING",
-     "UNPRICED",
-     "RISING"
-    ],
-    "why": [
-     "app is climbing the App Store chart (rank 18)",
-     "price is flat (-1.2% over 5 days) and volume normal despite the attention",
-     "still accelerating (+1.6σ over the last 3 days vs the 4 before)"
-    ],
-    "z_spark": [
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     2.28,
-     4.45,
-     2.89
-    ],
-    "driver_spark": [
-     1.432,
-     1.807,
-     1.902,
-     1.838,
-     1.971,
-     1.936,
-     1.475,
-     1.566,
-     1.838,
-     1.748,
-     1.902,
-     1.971,
-     2.045,
-     2.47,
-     2.212,
-     2.531,
-     2.413
-    ],
-    "price_spark": [
-     39.79,
-     40.55,
-     40.47,
-     39.77,
-     40.14,
-     40.22,
-     40.22,
-     40.21,
-     40.28,
-     40.66,
-     39.83,
-     39.46,
-     39.72,
-     40.0,
-     40.21,
-     39.48,
-     39.72,
-     38.99,
-     38.86,
-     38.54,
-     38.85,
-     40.18,
-     39.55,
-     39.65,
-     40.31,
-     39.33,
-     39.62,
-     40.0,
-     40.32,
-     39.82
-    ],
-    "channel_dates": {
-     "wiki": "2026-09-06",
-     "app": "2026-09-07"
-    },
-    "app_rank": 18.0
-   },
-   "headlines": [],
-   "explain": {
-    "summary": "Woolworths (AU): attention is rising, led by App Store rank (+2.9σ vs its own baseline). Stock: -1.2% over 5 days — the stock has not reacted yet.",
-    "tone": "unknown",
-    "drivers": [],
-    "source": "heuristic"
-   }
-  },
-  {
    "entity": "ross",
    "date": "2026-09-06",
    "attention_z": 2.78,
@@ -11028,27 +10026,27 @@
    }
   },
   {
-   "entity": "pinterest",
+   "entity": "airbnb",
    "date": "2026-09-07",
-   "attention_z": 3.33,
+   "attention_z": 3.03,
    "driver": "app",
    "channels": {
-    "wiki": -2.6,
-    "app": 3.33
+    "wiki": -1.2,
+    "app": 3.03
    },
    "corroborating": [],
    "stage": "rising",
-   "acceleration": 3.28,
+   "acceleration": 1.46,
    "trends_hit": 0,
    "finance_noticed": false,
-   "price_return_5d": -0.1203,
-   "price_return_20d": -0.1385,
-   "volume_z": -0.41,
-   "unpriced": 0.4,
+   "price_return_5d": -0.0395,
+   "price_return_20d": 0.0217,
+   "volume_z": -0.34,
+   "unpriced": 0.8023,
    "has_prices": true,
    "has_social": false,
    "direction": "unknown",
-   "attention_score": 60.5,
+   "attention_score": 61.1,
    "past_spikes": {
     "n": 0,
     "median_10d": 0.0,
@@ -11057,12 +10055,14 @@
    "flags": [
     "ATTENTION_SPIKE",
     "APP_CLIMBING",
+    "UNPRICED",
     "RISING"
    ],
    "why": [
-    "App Store rank are 3.3σ above this name's own 45-day baseline",
-    "app is climbing the App Store chart (rank 42)",
-    "still accelerating (+3.3σ over the last 3 days vs the 4 before)"
+    "App Store rank are 3.0σ above this name's own 45-day baseline",
+    "app is climbing the App Store chart (rank 34)",
+    "price is flat (-4.0% over 5 days) and volume normal despite the attention",
+    "still accelerating (+1.5σ over the last 3 days vs the 4 before)"
    ],
    "z_spark": [
     0.0,
@@ -11079,102 +10079,102 @@
     0.0,
     0.0,
     0.0,
-    1.48,
-    4.24,
-    3.33
+    -0.07,
+    1.92,
+    3.03
    ],
    "driver_spark": [
-    1.209,
-    1.542,
-    1.243,
-    1.16,
-    1.069,
-    1.209,
-    1.209,
-    1.453,
-    1.391,
+    1.099,
+    1.314,
+    1.519,
     1.371,
-    1.176,
-    1.144,
+    1.226,
     1.129,
-    1.16,
+    1.041,
+    0.986,
+    1.391,
+    1.432,
+    1.391,
+    1.432,
+    1.411,
+    1.243,
     1.333,
     1.614,
-    1.566
+    1.777
    ],
    "price_spark": [
-    23.5,
-    24.36,
-    24.44,
-    24.43,
-    24.01,
-    24.16,
-    25.58,
-    23.36,
-    23.33,
-    23.68,
-    24.37,
-    23.75,
-    22.9,
-    23.32,
-    24.06,
-    23.07,
-    23.06,
-    23.39,
-    23.23,
-    23.4,
-    23.47,
-    23.66,
-    23.31,
-    22.88,
-    23.19,
-    21.71,
-    21.25,
-    21.22,
-    20.85,
-    20.4
+    146.86,
+    153.11,
+    153.01,
+    152.08,
+    151.52,
+    150.64,
+    149.92,
+    152.49,
+    151.64,
+    178.07,
+    184.7,
+    184.98,
+    180.095,
+    185.13,
+    184.06,
+    179.29,
+    183.25,
+    186.39,
+    185.0,
+    187.3,
+    190.21,
+    190.5,
+    188.07,
+    184.4,
+    189.43,
+    183.22,
+    182.545,
+    183.26,
+    185.25,
+    181.94
    ],
    "channel_dates": {
     "wiki": "2026-09-06",
     "app": "2026-09-07"
    },
-   "app_rank": 42.0,
-   "key": "pinterest",
-   "name": "Pinterest",
-   "ticker": "PINS",
-   "company": "Pinterest",
-   "sector": "apps",
+   "app_rank": 34.0,
+   "key": "airbnb",
+   "name": "Airbnb",
+   "ticker": "ABNB",
+   "company": "Airbnb",
+   "sector": "travel",
    "private": false,
    "on_watchlist": false,
    "mentions": 0,
    "examples": [],
    "apps": [
-    "Pinterest #42 US",
-    "Pinterest #97 AU"
+    "Airbnb #71 US",
+    "Airbnb #34 AU"
    ],
    "history_days": 107,
    "attention": {
-    "entity": "pinterest",
+    "entity": "airbnb",
     "date": "2026-09-07",
-    "attention_z": 3.33,
+    "attention_z": 3.03,
     "driver": "app",
     "channels": {
-     "wiki": -2.6,
-     "app": 3.33
+     "wiki": -1.2,
+     "app": 3.03
     },
     "corroborating": [],
     "stage": "rising",
-    "acceleration": 3.28,
+    "acceleration": 1.46,
     "trends_hit": 0,
     "finance_noticed": false,
-    "price_return_5d": -0.1203,
-    "price_return_20d": -0.1385,
-    "volume_z": -0.41,
-    "unpriced": 0.4,
+    "price_return_5d": -0.0395,
+    "price_return_20d": 0.0217,
+    "volume_z": -0.34,
+    "unpriced": 0.8023,
     "has_prices": true,
     "has_social": false,
     "direction": "unknown",
-    "attention_score": 60.5,
+    "attention_score": 61.1,
     "past_spikes": {
      "n": 0,
      "median_10d": 0.0,
@@ -11183,12 +10183,14 @@
     "flags": [
      "ATTENTION_SPIKE",
      "APP_CLIMBING",
+     "UNPRICED",
      "RISING"
     ],
     "why": [
-     "App Store rank are 3.3σ above this name's own 45-day baseline",
-     "app is climbing the App Store chart (rank 42)",
-     "still accelerating (+3.3σ over the last 3 days vs the 4 before)"
+     "App Store rank are 3.0σ above this name's own 45-day baseline",
+     "app is climbing the App Store chart (rank 34)",
+     "price is flat (-4.0% over 5 days) and volume normal despite the attention",
+     "still accelerating (+1.5σ over the last 3 days vs the 4 before)"
     ],
     "z_spark": [
      0.0,
@@ -11205,70 +10207,70 @@
      0.0,
      0.0,
      0.0,
-     1.48,
-     4.24,
-     3.33
+     -0.07,
+     1.92,
+     3.03
     ],
     "driver_spark": [
-     1.209,
-     1.542,
-     1.243,
-     1.16,
-     1.069,
-     1.209,
-     1.209,
-     1.453,
-     1.391,
+     1.099,
+     1.314,
+     1.519,
      1.371,
-     1.176,
-     1.144,
+     1.226,
      1.129,
-     1.16,
+     1.041,
+     0.986,
+     1.391,
+     1.432,
+     1.391,
+     1.432,
+     1.411,
+     1.243,
      1.333,
      1.614,
-     1.566
+     1.777
     ],
     "price_spark": [
-     23.5,
-     24.36,
-     24.44,
-     24.43,
-     24.01,
-     24.16,
-     25.58,
-     23.36,
-     23.33,
-     23.68,
-     24.37,
-     23.75,
-     22.9,
-     23.32,
-     24.06,
-     23.07,
-     23.06,
-     23.39,
-     23.23,
-     23.4,
-     23.47,
-     23.66,
-     23.31,
-     22.88,
-     23.19,
-     21.71,
-     21.25,
-     21.22,
-     20.85,
-     20.4
+     146.86,
+     153.11,
+     153.01,
+     152.08,
+     151.52,
+     150.64,
+     149.92,
+     152.49,
+     151.64,
+     178.07,
+     184.7,
+     184.98,
+     180.095,
+     185.13,
+     184.06,
+     179.29,
+     183.25,
+     186.39,
+     185.0,
+     187.3,
+     190.21,
+     190.5,
+     188.07,
+     184.4,
+     189.43,
+     183.22,
+     182.545,
+     183.26,
+     185.25,
+     181.94
     ],
     "channel_dates": {
      "wiki": "2026-09-06",
      "app": "2026-09-07"
     },
-    "app_rank": 42.0
+    "app_rank": 34.0
    },
    "headlines": [],
    "explain": {
-    "summary": "Pinterest: attention is rising, led by App Store rank (+3.3σ vs its own baseline). Stock: -12.0% over 5 days.",
+    "summary": "Airbnb: attention is rising, led by App Store rank (+3.0σ vs its own baseline). Stock: -4.0% over 5 days — the stock has not reacted yet.",
     "tone": "unknown",
     "drivers": [],
     "source": "heuristic"
@@ -11563,191 +10565,6 @@
    }
   },
   {
-   "entity": "kalshi",
-   "date": "2026-09-07",
-   "attention_z": 3.02,
-   "driver": "app",
-   "channels": {
-    "wiki": 0.67,
-    "app": 3.02
-   },
-   "corroborating": [],
-   "stage": "rising",
-   "acceleration": 2.63,
-   "trends_hit": 0,
-   "finance_noticed": false,
-   "price_return_5d": 0.0,
-   "price_return_20d": 0.0,
-   "volume_z": 0.0,
-   "unpriced": 0.5,
-   "has_prices": false,
-   "has_social": false,
-   "direction": "unknown",
-   "attention_score": 59.0,
-   "past_spikes": {
-    "n": 0,
-    "median_10d": 0.0,
-    "hit_rate": 0.0
-   },
-   "flags": [
-    "ATTENTION_SPIKE",
-    "APP_CLIMBING",
-    "RISING"
-   ],
-   "why": [
-    "App Store rank are 3.0σ above this name's own 45-day baseline",
-    "app is climbing the App Store chart (rank 30)",
-    "still accelerating (+2.6σ over the last 3 days vs the 4 before)"
-   ],
-   "z_spark": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    5.32,
-    2.95,
-    3.02
-   ],
-   "driver_spark": [
-    0.872,
-    1.041,
-    0.959,
-    0.815,
-    0.815,
-    0.815,
-    0.986,
-    1.209,
-    1.296,
-    1.041,
-    0.909,
-    0.999,
-    1.26,
-    1.59,
-    2.168,
-    1.807,
-    1.902
-   ],
-   "price_spark": [],
-   "channel_dates": {
-    "wiki": "2026-09-06",
-    "app": "2026-09-07"
-   },
-   "app_rank": 30.0,
-   "key": "kalshi",
-   "name": "Kalshi / Polymarket (prediction markets)",
-   "ticker": "",
-   "company": "Kalshi (private)",
-   "sector": "fintech",
-   "private": true,
-   "on_watchlist": false,
-   "mentions": 0,
-   "examples": [],
-   "apps": [
-    "Kalshi: Trade Events & Sports #30 US",
-    "Polymarket: Trade Live Sports #38 US"
-   ],
-   "history_days": 107,
-   "attention": {
-    "entity": "kalshi",
-    "date": "2026-09-07",
-    "attention_z": 3.02,
-    "driver": "app",
-    "channels": {
-     "wiki": 0.67,
-     "app": 3.02
-    },
-    "corroborating": [],
-    "stage": "rising",
-    "acceleration": 2.63,
-    "trends_hit": 0,
-    "finance_noticed": false,
-    "price_return_5d": 0.0,
-    "price_return_20d": 0.0,
-    "volume_z": 0.0,
-    "unpriced": 0.5,
-    "has_prices": false,
-    "has_social": false,
-    "direction": "unknown",
-    "attention_score": 59.0,
-    "past_spikes": {
-     "n": 0,
-     "median_10d": 0.0,
-     "hit_rate": 0.0
-    },
-    "flags": [
-     "ATTENTION_SPIKE",
-     "APP_CLIMBING",
-     "RISING"
-    ],
-    "why": [
-     "App Store rank are 3.0σ above this name's own 45-day baseline",
-     "app is climbing the App Store chart (rank 30)",
-     "still accelerating (+2.6σ over the last 3 days vs the 4 before)"
-    ],
-    "z_spark": [
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     5.32,
-     2.95,
-     3.02
-    ],
-    "driver_spark": [
-     0.872,
-     1.041,
-     0.959,
-     0.815,
-     0.815,
-     0.815,
-     0.986,
-     1.209,
-     1.296,
-     1.041,
-     0.909,
-     0.999,
-     1.26,
-     1.59,
-     2.168,
-     1.807,
-     1.902
-    ],
-    "price_spark": [],
-    "channel_dates": {
-     "wiki": "2026-09-06",
-     "app": "2026-09-07"
-    },
-    "app_rank": 30.0
-   },
-   "headlines": [],
-   "explain": {
-    "summary": "Kalshi / Polymarket (prediction markets): attention is rising, led by App Store rank (+3.0σ vs its own baseline).",
-    "tone": "unknown",
-    "drivers": [],
-    "source": "heuristic"
-   }
-  },
-  {
    "entity": "canes",
    "date": "2026-09-06",
    "attention_z": 3.42,
@@ -11974,27 +10791,311 @@
    }
   },
   {
-   "entity": "dominos",
-   "date": "2026-09-07",
-   "attention_z": 2.42,
-   "driver": "app",
+   "entity": "mercedes",
+   "date": "2026-09-06",
+   "attention_z": 2.32,
+   "driver": "wiki",
    "channels": {
-    "wiki": -0.61,
-    "app": 2.42
+    "wiki": 2.32
    },
    "corroborating": [],
    "stage": "rising",
-   "acceleration": 1.72,
+   "acceleration": 1.96,
    "trends_hit": 0,
    "finance_noticed": false,
-   "price_return_5d": -0.0255,
-   "price_return_20d": -0.0281,
-   "volume_z": -0.98,
-   "unpriced": 0.8726,
+   "price_return_5d": 0.0158,
+   "price_return_20d": 0.0127,
+   "volume_z": 0.84,
+   "unpriced": 0.8087,
    "has_prices": true,
    "has_social": false,
    "direction": "unknown",
-   "attention_score": 57.6,
+   "attention_score": 57.0,
+   "past_spikes": {
+    "n": 2,
+    "median_10d": 0.0293,
+    "hit_rate": 1.0
+   },
+   "flags": [
+    "RISING"
+   ],
+   "why": [
+    "still accelerating (+2.0σ over the last 3 days vs the 4 before)"
+   ],
+   "z_spark": [
+    -1.52,
+    -0.97,
+    0.2,
+    0.08,
+    -0.69,
+    0.73,
+    -0.73,
+    -0.92,
+    -1.39,
+    -0.86,
+    -1.02,
+    -0.65,
+    -0.47,
+    1.02,
+    0.04,
+    0.85,
+    0.22,
+    -1.05,
+    -1.45,
+    -0.57,
+    -0.83,
+    0.13,
+    -0.91,
+    -0.74,
+    -1.13,
+    -0.58,
+    -1.14,
+    0.56,
+    0.71,
+    2.32
+   ],
+   "driver_spark": [
+    6.717,
+    6.764,
+    6.858,
+    6.846,
+    6.786,
+    6.895,
+    6.782,
+    6.766,
+    6.729,
+    6.765,
+    6.735,
+    6.77,
+    6.787,
+    6.897,
+    6.821,
+    6.884,
+    6.835,
+    6.736,
+    6.704,
+    6.773,
+    6.73,
+    6.811,
+    6.748,
+    6.759,
+    6.712,
+    6.742,
+    6.698,
+    6.83,
+    6.842,
+    6.966
+   ],
+   "price_spark": [
+    45.315,
+    46.62,
+    46.855,
+    47.1,
+    46.73,
+    47.95,
+    48.21,
+    47.26,
+    46.765,
+    47.085,
+    47.085,
+    46.78,
+    46.185,
+    45.44,
+    46.025,
+    45.52,
+    45.065,
+    45.025,
+    44.795,
+    45.215,
+    45.05,
+    44.92,
+    44.64,
+    45.595,
+    46.945,
+    47.22,
+    46.97,
+    46.38,
+    47.135,
+    47.685
+   ],
+   "channel_dates": {
+    "wiki": "2026-09-06"
+   },
+   "app_rank": 0.0,
+   "key": "mercedes",
+   "name": "Mercedes-Benz",
+   "ticker": "MBG.DE",
+   "company": "Mercedes-Benz Group",
+   "sector": "autos",
+   "private": false,
+   "on_watchlist": false,
+   "mentions": 0,
+   "examples": [],
+   "apps": [],
+   "history_days": 106,
+   "attention": {
+    "entity": "mercedes",
+    "date": "2026-09-06",
+    "attention_z": 2.32,
+    "driver": "wiki",
+    "channels": {
+     "wiki": 2.32
+    },
+    "corroborating": [],
+    "stage": "rising",
+    "acceleration": 1.96,
+    "trends_hit": 0,
+    "finance_noticed": false,
+    "price_return_5d": 0.0158,
+    "price_return_20d": 0.0127,
+    "volume_z": 0.84,
+    "unpriced": 0.8087,
+    "has_prices": true,
+    "has_social": false,
+    "direction": "unknown",
+    "attention_score": 57.0,
+    "past_spikes": {
+     "n": 2,
+     "median_10d": 0.0293,
+     "hit_rate": 1.0
+    },
+    "flags": [
+     "RISING"
+    ],
+    "why": [
+     "still accelerating (+2.0σ over the last 3 days vs the 4 before)"
+    ],
+    "z_spark": [
+     -1.52,
+     -0.97,
+     0.2,
+     0.08,
+     -0.69,
+     0.73,
+     -0.73,
+     -0.92,
+     -1.39,
+     -0.86,
+     -1.02,
+     -0.65,
+     -0.47,
+     1.02,
+     0.04,
+     0.85,
+     0.22,
+     -1.05,
+     -1.45,
+     -0.57,
+     -0.83,
+     0.13,
+     -0.91,
+     -0.74,
+     -1.13,
+     -0.58,
+     -1.14,
+     0.56,
+     0.71,
+     2.32
+    ],
+    "driver_spark": [
+     6.717,
+     6.764,
+     6.858,
+     6.846,
+     6.786,
+     6.895,
+     6.782,
+     6.766,
+     6.729,
+     6.765,
+     6.735,
+     6.77,
+     6.787,
+     6.897,
+     6.821,
+     6.884,
+     6.835,
+     6.736,
+     6.704,
+     6.773,
+     6.73,
+     6.811,
+     6.748,
+     6.759,
+     6.712,
+     6.742,
+     6.698,
+     6.83,
+     6.842,
+     6.966
+    ],
+    "price_spark": [
+     45.315,
+     46.62,
+     46.855,
+     47.1,
+     46.73,
+     47.95,
+     48.21,
+     47.26,
+     46.765,
+     47.085,
+     47.085,
+     46.78,
+     46.185,
+     45.44,
+     46.025,
+     45.52,
+     45.065,
+     45.025,
+     44.795,
+     45.215,
+     45.05,
+     44.92,
+     44.64,
+     45.595,
+     46.945,
+     47.22,
+     46.97,
+     46.38,
+     47.135,
+     47.685
+    ],
+    "channel_dates": {
+     "wiki": "2026-09-06"
+    },
+    "app_rank": 0.0
+   },
+   "headlines": [],
+   "explain": {
+    "summary": "Mercedes-Benz: attention is rising, led by Wikipedia lookups (+2.3σ vs its own baseline). Stock: +1.6% over 5 days.",
+    "tone": "unknown",
+    "drivers": [],
+    "source": "heuristic"
+   }
+  },
+  {
+   "entity": "pinterest",
+   "date": "2026-09-07",
+   "attention_z": 2.89,
+   "driver": "app",
+   "channels": {
+    "wiki": -2.6,
+    "app": 2.89
+   },
+   "corroborating": [],
+   "stage": "rising",
+   "acceleration": 3.14,
+   "trends_hit": 0,
+   "finance_noticed": false,
+   "price_return_5d": -0.1203,
+   "price_return_20d": -0.1385,
+   "volume_z": -0.41,
+   "unpriced": 0.4,
+   "has_prices": true,
+   "has_social": false,
+   "direction": "unknown",
+   "attention_score": 55.5,
    "past_spikes": {
     "n": 0,
     "median_10d": 0.0,
@@ -12005,8 +11106,8 @@
     "RISING"
    ],
    "why": [
-    "app is climbing the App Store chart (rank 97)",
-    "still accelerating (+1.7σ over the last 3 days vs the 4 before)"
+    "app is climbing the App Store chart (rank 44)",
+    "still accelerating (+3.1σ over the last 3 days vs the 4 before)"
    ],
    "z_spark": [
     0.0,
@@ -12023,101 +11124,102 @@
     0.0,
     0.0,
     0.0,
-    3.22,
-    0.0,
-    2.42
+    1.48,
+    4.24,
+    2.89
    ],
    "driver_spark": [
-    0.872,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.749,
-    0.803,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.826,
-    0.0,
-    0.729
+    1.209,
+    1.542,
+    1.243,
+    1.16,
+    1.069,
+    1.209,
+    1.209,
+    1.453,
+    1.391,
+    1.371,
+    1.176,
+    1.144,
+    1.129,
+    1.16,
+    1.333,
+    1.614,
+    1.519
    ],
    "price_spark": [
-    343.53,
-    350.47,
-    360.0,
-    352.25,
-    347.44,
-    364.41,
-    367.63,
-    366.61,
-    358.43,
-    350.95,
-    347.85,
-    357.34,
-    353.72,
-    350.88,
-    346.27,
-    335.42,
-    336.25,
-    336.52,
-    334.37,
-    341.85,
-    349.01,
-    349.91,
-    344.56,
-    332.06,
-    350.0,
-    342.06,
-    340.37,
-    346.68,
-    347.03,
-    341.08
+    23.5,
+    24.36,
+    24.44,
+    24.43,
+    24.01,
+    24.16,
+    25.58,
+    23.36,
+    23.33,
+    23.68,
+    24.37,
+    23.75,
+    22.9,
+    23.32,
+    24.06,
+    23.07,
+    23.06,
+    23.39,
+    23.23,
+    23.4,
+    23.47,
+    23.66,
+    23.31,
+    22.88,
+    23.19,
+    21.71,
+    21.25,
+    21.22,
+    20.85,
+    20.4
    ],
    "channel_dates": {
     "wiki": "2026-09-06",
     "app": "2026-09-07"
    },
-   "app_rank": 97.0,
-   "key": "dominos",
-   "name": "Domino's",
-   "ticker": "DPZ",
-   "company": "Domino's Pizza",
-   "sector": "restaurants",
+   "app_rank": 44.0,
+   "key": "pinterest",
+   "name": "Pinterest",
+   "ticker": "PINS",
+   "company": "Pinterest",
+   "sector": "apps",
    "private": false,
    "on_watchlist": false,
    "mentions": 0,
    "examples": [],
    "apps": [
-    "Domino's Pizza USA #97 US"
+    "Pinterest #44 US",
+    "Pinterest #91 AU"
    ],
    "history_days": 107,
    "attention": {
-    "entity": "dominos",
+    "entity": "pinterest",
     "date": "2026-09-07",
-    "attention_z": 2.42,
+    "attention_z": 2.89,
     "driver": "app",
     "channels": {
-     "wiki": -0.61,
-     "app": 2.42
+     "wiki": -2.6,
+     "app": 2.89
     },
     "corroborating": [],
     "stage": "rising",
-    "acceleration": 1.72,
+    "acceleration": 3.14,
     "trends_hit": 0,
     "finance_noticed": false,
-    "price_return_5d": -0.0255,
-    "price_return_20d": -0.0281,
-    "volume_z": -0.98,
-    "unpriced": 0.8726,
+    "price_return_5d": -0.1203,
+    "price_return_20d": -0.1385,
+    "volume_z": -0.41,
+    "unpriced": 0.4,
     "has_prices": true,
     "has_social": false,
     "direction": "unknown",
-    "attention_score": 57.6,
+    "attention_score": 55.5,
     "past_spikes": {
      "n": 0,
      "median_10d": 0.0,
@@ -12128,8 +11230,8 @@
      "RISING"
     ],
     "why": [
-     "app is climbing the App Store chart (rank 97)",
-     "still accelerating (+1.7σ over the last 3 days vs the 4 before)"
+     "app is climbing the App Store chart (rank 44)",
+     "still accelerating (+3.1σ over the last 3 days vs the 4 before)"
     ],
     "z_spark": [
      0.0,
@@ -12146,70 +11248,70 @@
      0.0,
      0.0,
      0.0,
-     3.22,
-     0.0,
-     2.42
+     1.48,
+     4.24,
+     2.89
     ],
     "driver_spark": [
-     0.872,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.749,
-     0.803,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.826,
-     0.0,
-     0.729
+     1.209,
+     1.542,
+     1.243,
+     1.16,
+     1.069,
+     1.209,
+     1.209,
+     1.453,
+     1.391,
+     1.371,
+     1.176,
+     1.144,
+     1.129,
+     1.16,
+     1.333,
+     1.614,
+     1.519
     ],
     "price_spark": [
-     343.53,
-     350.47,
-     360.0,
-     352.25,
-     347.44,
-     364.41,
-     367.63,
-     366.61,
-     358.43,
-     350.95,
-     347.85,
-     357.34,
-     353.72,
-     350.88,
-     346.27,
-     335.42,
-     336.25,
-     336.52,
-     334.37,
-     341.85,
-     349.01,
-     349.91,
-     344.56,
-     332.06,
-     350.0,
-     342.06,
-     340.37,
-     346.68,
-     347.03,
-     341.08
+     23.5,
+     24.36,
+     24.44,
+     24.43,
+     24.01,
+     24.16,
+     25.58,
+     23.36,
+     23.33,
+     23.68,
+     24.37,
+     23.75,
+     22.9,
+     23.32,
+     24.06,
+     23.07,
+     23.06,
+     23.39,
+     23.23,
+     23.4,
+     23.47,
+     23.66,
+     23.31,
+     22.88,
+     23.19,
+     21.71,
+     21.25,
+     21.22,
+     20.85,
+     20.4
     ],
     "channel_dates": {
      "wiki": "2026-09-06",
      "app": "2026-09-07"
     },
-    "app_rank": 97.0
+    "app_rank": 44.0
    },
    "headlines": [],
    "explain": {
-    "summary": "Domino's: attention is rising, led by App Store rank (+2.4σ vs its own baseline). Stock: -2.5% over 5 days.",
+    "summary": "Pinterest: attention is rising, led by App Store rank (+2.9σ vs its own baseline). Stock: -12.0% over 5 days.",
     "tone": "unknown",
     "drivers": [],
     "source": "heuristic"
@@ -12502,6 +11604,187 @@
    }
   },
   {
+   "entity": "kalshi",
+   "date": "2026-09-07",
+   "attention_z": 2.49,
+   "driver": "app",
+   "channels": {
+    "wiki": 0.67,
+    "app": 2.49
+   },
+   "corroborating": [],
+   "stage": "rising",
+   "acceleration": 2.46,
+   "trends_hit": 0,
+   "finance_noticed": false,
+   "price_return_5d": 0.0,
+   "price_return_20d": 0.0,
+   "volume_z": 0.0,
+   "unpriced": 0.5,
+   "has_prices": false,
+   "has_social": false,
+   "direction": "unknown",
+   "attention_score": 53.0,
+   "past_spikes": {
+    "n": 0,
+    "median_10d": 0.0,
+    "hit_rate": 0.0
+   },
+   "flags": [
+    "APP_CLIMBING",
+    "RISING"
+   ],
+   "why": [
+    "app is climbing the App Store chart (rank 35)",
+    "still accelerating (+2.5σ over the last 3 days vs the 4 before)"
+   ],
+   "z_spark": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    5.32,
+    2.95,
+    2.49
+   ],
+   "driver_spark": [
+    0.872,
+    1.041,
+    0.959,
+    0.815,
+    0.815,
+    0.815,
+    0.986,
+    1.209,
+    1.296,
+    1.041,
+    0.909,
+    0.999,
+    1.26,
+    1.59,
+    2.168,
+    1.807,
+    1.748
+   ],
+   "price_spark": [],
+   "channel_dates": {
+    "wiki": "2026-09-06",
+    "app": "2026-09-07"
+   },
+   "app_rank": 35.0,
+   "key": "kalshi",
+   "name": "Kalshi / Polymarket (prediction markets)",
+   "ticker": "",
+   "company": "Kalshi (private)",
+   "sector": "fintech",
+   "private": true,
+   "on_watchlist": false,
+   "mentions": 0,
+   "examples": [],
+   "apps": [
+    "Polymarket: Trade Live Sports #35 US",
+    "Kalshi: Trade Events & Sports #39 US"
+   ],
+   "history_days": 107,
+   "attention": {
+    "entity": "kalshi",
+    "date": "2026-09-07",
+    "attention_z": 2.49,
+    "driver": "app",
+    "channels": {
+     "wiki": 0.67,
+     "app": 2.49
+    },
+    "corroborating": [],
+    "stage": "rising",
+    "acceleration": 2.46,
+    "trends_hit": 0,
+    "finance_noticed": false,
+    "price_return_5d": 0.0,
+    "price_return_20d": 0.0,
+    "volume_z": 0.0,
+    "unpriced": 0.5,
+    "has_prices": false,
+    "has_social": false,
+    "direction": "unknown",
+    "attention_score": 53.0,
+    "past_spikes": {
+     "n": 0,
+     "median_10d": 0.0,
+     "hit_rate": 0.0
+    },
+    "flags": [
+     "APP_CLIMBING",
+     "RISING"
+    ],
+    "why": [
+     "app is climbing the App Store chart (rank 35)",
+     "still accelerating (+2.5σ over the last 3 days vs the 4 before)"
+    ],
+    "z_spark": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     5.32,
+     2.95,
+     2.49
+    ],
+    "driver_spark": [
+     0.872,
+     1.041,
+     0.959,
+     0.815,
+     0.815,
+     0.815,
+     0.986,
+     1.209,
+     1.296,
+     1.041,
+     0.909,
+     0.999,
+     1.26,
+     1.59,
+     2.168,
+     1.807,
+     1.748
+    ],
+    "price_spark": [],
+    "channel_dates": {
+     "wiki": "2026-09-06",
+     "app": "2026-09-07"
+    },
+    "app_rank": 35.0
+   },
+   "headlines": [],
+   "explain": {
+    "summary": "Kalshi / Polymarket (prediction markets): attention is rising, led by App Store rank (+2.5σ vs its own baseline).",
+    "tone": "unknown",
+    "drivers": [],
+    "source": "heuristic"
+   }
+  },
+  {
    "entity": "hoka",
    "date": "2026-09-06",
    "attention_z": 2.53,
@@ -12784,228 +12067,6 @@
    "headlines": [],
    "explain": {
     "summary": "Hoka: attention is rising, led by Wikipedia lookups (+2.5σ vs its own baseline). Stock: -2.2% over 5 days — the stock has not reacted yet.",
-    "tone": "unknown",
-    "drivers": [],
-    "source": "heuristic"
-   }
-  },
-  {
-   "entity": "mercedes",
-   "date": "2026-09-06",
-   "attention_z": 2.32,
-   "driver": "wiki",
-   "channels": {
-    "wiki": 2.32
-   },
-   "corroborating": [],
-   "stage": "rising",
-   "acceleration": 1.96,
-   "trends_hit": 0,
-   "finance_noticed": false,
-   "price_return_5d": 0.0,
-   "price_return_20d": 0.0,
-   "volume_z": 0.0,
-   "unpriced": 0.5,
-   "has_prices": false,
-   "has_social": false,
-   "direction": "unknown",
-   "attention_score": 50.8,
-   "past_spikes": {
-    "n": 0,
-    "median_10d": 0.0,
-    "hit_rate": 0.0
-   },
-   "flags": [
-    "RISING"
-   ],
-   "why": [
-    "still accelerating (+2.0σ over the last 3 days vs the 4 before)"
-   ],
-   "z_spark": [
-    -1.52,
-    -0.97,
-    0.2,
-    0.08,
-    -0.69,
-    0.73,
-    -0.73,
-    -0.92,
-    -1.39,
-    -0.86,
-    -1.02,
-    -0.65,
-    -0.47,
-    1.02,
-    0.04,
-    0.85,
-    0.22,
-    -1.05,
-    -1.45,
-    -0.57,
-    -0.83,
-    0.13,
-    -0.91,
-    -0.74,
-    -1.13,
-    -0.58,
-    -1.14,
-    0.56,
-    0.71,
-    2.32
-   ],
-   "driver_spark": [
-    6.717,
-    6.764,
-    6.858,
-    6.846,
-    6.786,
-    6.895,
-    6.782,
-    6.766,
-    6.729,
-    6.765,
-    6.735,
-    6.77,
-    6.787,
-    6.897,
-    6.821,
-    6.884,
-    6.835,
-    6.736,
-    6.704,
-    6.773,
-    6.73,
-    6.811,
-    6.748,
-    6.759,
-    6.712,
-    6.742,
-    6.698,
-    6.83,
-    6.842,
-    6.966
-   ],
-   "price_spark": [],
-   "channel_dates": {
-    "wiki": "2026-09-06"
-   },
-   "app_rank": 0.0,
-   "key": "mercedes",
-   "name": "Mercedes-Benz",
-   "ticker": "MBG.DE",
-   "company": "Mercedes-Benz Group",
-   "sector": "autos",
-   "private": false,
-   "on_watchlist": false,
-   "mentions": 0,
-   "examples": [],
-   "apps": [],
-   "history_days": 106,
-   "attention": {
-    "entity": "mercedes",
-    "date": "2026-09-06",
-    "attention_z": 2.32,
-    "driver": "wiki",
-    "channels": {
-     "wiki": 2.32
-    },
-    "corroborating": [],
-    "stage": "rising",
-    "acceleration": 1.96,
-    "trends_hit": 0,
-    "finance_noticed": false,
-    "price_return_5d": 0.0,
-    "price_return_20d": 0.0,
-    "volume_z": 0.0,
-    "unpriced": 0.5,
-    "has_prices": false,
-    "has_social": false,
-    "direction": "unknown",
-    "attention_score": 50.8,
-    "past_spikes": {
-     "n": 0,
-     "median_10d": 0.0,
-     "hit_rate": 0.0
-    },
-    "flags": [
-     "RISING"
-    ],
-    "why": [
-     "still accelerating (+2.0σ over the last 3 days vs the 4 before)"
-    ],
-    "z_spark": [
-     -1.52,
-     -0.97,
-     0.2,
-     0.08,
-     -0.69,
-     0.73,
-     -0.73,
-     -0.92,
-     -1.39,
-     -0.86,
-     -1.02,
-     -0.65,
-     -0.47,
-     1.02,
-     0.04,
-     0.85,
-     0.22,
-     -1.05,
-     -1.45,
-     -0.57,
-     -0.83,
-     0.13,
-     -0.91,
-     -0.74,
-     -1.13,
-     -0.58,
-     -1.14,
-     0.56,
-     0.71,
-     2.32
-    ],
-    "driver_spark": [
-     6.717,
-     6.764,
-     6.858,
-     6.846,
-     6.786,
-     6.895,
-     6.782,
-     6.766,
-     6.729,
-     6.765,
-     6.735,
-     6.77,
-     6.787,
-     6.897,
-     6.821,
-     6.884,
-     6.835,
-     6.736,
-     6.704,
-     6.773,
-     6.73,
-     6.811,
-     6.748,
-     6.759,
-     6.712,
-     6.742,
-     6.698,
-     6.83,
-     6.842,
-     6.966
-    ],
-    "price_spark": [],
-    "channel_dates": {
-     "wiki": "2026-09-06"
-    },
-    "app_rank": 0.0
-   },
-   "headlines": [],
-   "explain": {
-    "summary": "Mercedes-Benz: attention is rising, led by Wikipedia lookups (+2.3σ vs its own baseline).",
     "tone": "unknown",
     "drivers": [],
     "source": "heuristic"
@@ -14402,8 +13463,761 @@
    }
   },
   {
-   "entity": "bandai",
+   "entity": "bark",
    "date": "2026-09-06",
+   "attention_z": 2.19,
+   "driver": "wiki",
+   "channels": {
+    "wiki": 2.19
+   },
+   "corroborating": [],
+   "stage": "peaking",
+   "acceleration": 0.42,
+   "trends_hit": 0,
+   "finance_noticed": false,
+   "price_return_5d": -0.0165,
+   "price_return_20d": -0.0428,
+   "volume_z": -0.03,
+   "unpriced": 0.9176,
+   "has_prices": true,
+   "has_social": false,
+   "direction": "unknown",
+   "attention_score": 41.6,
+   "past_spikes": {
+    "n": 1,
+    "median_10d": -0.0241,
+    "hit_rate": 0.0
+   },
+   "flags": [],
+   "why": [],
+   "z_spark": [
+    -0.49,
+    -1.75,
+    -0.67,
+    -1.51,
+    -0.87,
+    0.43,
+    0.0,
+    -0.87,
+    -1.04,
+    -0.59,
+    0.52,
+    -0.81,
+    2.1,
+    -1.82,
+    1.15,
+    -0.67,
+    0.18,
+    0.97,
+    0.18,
+    0.35,
+    1.63,
+    0.52,
+    0.0,
+    0.0,
+    -0.44,
+    0.76,
+    -1.19,
+    -1.3,
+    -0.19,
+    2.19
+   ],
+   "driver_spark": [
+    2.996,
+    2.639,
+    2.944,
+    2.708,
+    2.89,
+    3.258,
+    3.135,
+    2.89,
+    2.833,
+    2.944,
+    3.219,
+    2.89,
+    3.611,
+    2.639,
+    3.434,
+    2.89,
+    3.091,
+    3.296,
+    3.091,
+    3.135,
+    3.466,
+    3.178,
+    3.045,
+    3.045,
+    2.944,
+    3.219,
+    2.773,
+    2.708,
+    2.996,
+    3.611
+   ],
+   "price_spark": [
+    8.69,
+    8.92,
+    8.86,
+    8.83,
+    9.06,
+    9.83,
+    9.92,
+    9.29,
+    9.16,
+    11.22,
+    10.71,
+    10.72,
+    10.66,
+    10.44,
+    10.12,
+    10.3,
+    10.1,
+    10.41,
+    9.94,
+    10.13,
+    10.19,
+    10.34,
+    10.54,
+    10.85,
+    10.92,
+    10.63,
+    10.8,
+    10.67,
+    10.32,
+    10.74
+   ],
+   "channel_dates": {
+    "wiki": "2026-09-06"
+   },
+   "app_rank": 0.0,
+   "key": "bark",
+   "name": "BARK / BarkBox",
+   "ticker": "BARK",
+   "company": "BARK Inc.",
+   "sector": "pets",
+   "private": false,
+   "on_watchlist": false,
+   "mentions": 0,
+   "examples": [],
+   "apps": [],
+   "history_days": 106,
+   "attention": {
+    "entity": "bark",
+    "date": "2026-09-06",
+    "attention_z": 2.19,
+    "driver": "wiki",
+    "channels": {
+     "wiki": 2.19
+    },
+    "corroborating": [],
+    "stage": "peaking",
+    "acceleration": 0.42,
+    "trends_hit": 0,
+    "finance_noticed": false,
+    "price_return_5d": -0.0165,
+    "price_return_20d": -0.0428,
+    "volume_z": -0.03,
+    "unpriced": 0.9176,
+    "has_prices": true,
+    "has_social": false,
+    "direction": "unknown",
+    "attention_score": 41.6,
+    "past_spikes": {
+     "n": 1,
+     "median_10d": -0.0241,
+     "hit_rate": 0.0
+    },
+    "flags": [],
+    "why": [],
+    "z_spark": [
+     -0.49,
+     -1.75,
+     -0.67,
+     -1.51,
+     -0.87,
+     0.43,
+     0.0,
+     -0.87,
+     -1.04,
+     -0.59,
+     0.52,
+     -0.81,
+     2.1,
+     -1.82,
+     1.15,
+     -0.67,
+     0.18,
+     0.97,
+     0.18,
+     0.35,
+     1.63,
+     0.52,
+     0.0,
+     0.0,
+     -0.44,
+     0.76,
+     -1.19,
+     -1.3,
+     -0.19,
+     2.19
+    ],
+    "driver_spark": [
+     2.996,
+     2.639,
+     2.944,
+     2.708,
+     2.89,
+     3.258,
+     3.135,
+     2.89,
+     2.833,
+     2.944,
+     3.219,
+     2.89,
+     3.611,
+     2.639,
+     3.434,
+     2.89,
+     3.091,
+     3.296,
+     3.091,
+     3.135,
+     3.466,
+     3.178,
+     3.045,
+     3.045,
+     2.944,
+     3.219,
+     2.773,
+     2.708,
+     2.996,
+     3.611
+    ],
+    "price_spark": [
+     8.69,
+     8.92,
+     8.86,
+     8.83,
+     9.06,
+     9.83,
+     9.92,
+     9.29,
+     9.16,
+     11.22,
+     10.71,
+     10.72,
+     10.66,
+     10.44,
+     10.12,
+     10.3,
+     10.1,
+     10.41,
+     9.94,
+     10.13,
+     10.19,
+     10.34,
+     10.54,
+     10.85,
+     10.92,
+     10.63,
+     10.8,
+     10.67,
+     10.32,
+     10.74
+    ],
+    "channel_dates": {
+     "wiki": "2026-09-06"
+    },
+    "app_rank": 0.0
+   },
+   "headlines": [],
+   "explain": {
+    "summary": "BARK / BarkBox: attention is at a peak, led by Wikipedia lookups (+2.2σ vs its own baseline). Stock: -1.7% over 5 days.",
+    "tone": "unknown",
+    "drivers": [],
+    "source": "heuristic"
+   }
+  },
+  {
+   "entity": "trip_com",
+   "date": "2026-09-07",
+   "attention_z": 2.09,
+   "driver": "app",
+   "channels": {
+    "wiki": -1.27,
+    "app": 2.09
+   },
+   "corroborating": [],
+   "stage": "rising",
+   "acceleration": 0.86,
+   "trends_hit": 0,
+   "finance_noticed": false,
+   "price_return_5d": -0.0953,
+   "price_return_20d": -0.1107,
+   "volume_z": 0.59,
+   "unpriced": 0.4448,
+   "has_prices": true,
+   "has_social": false,
+   "direction": "unknown",
+   "attention_score": 38.9,
+   "past_spikes": {
+    "n": 0,
+    "median_10d": 0.0,
+    "hit_rate": 0.0
+   },
+   "flags": [
+    "APP_CLIMBING",
+    "RISING"
+   ],
+   "why": [
+    "app is climbing the App Store chart (rank 17)",
+    "still accelerating (+0.9σ over the last 3 days vs the 4 before)"
+   ],
+   "z_spark": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.74,
+    2.22,
+    2.09
+   ],
+   "driver_spark": [
+    1.069,
+    1.352,
+    1.542,
+    1.936,
+    1.692,
+    1.614,
+    1.129,
+    1.16,
+    1.453,
+    1.391,
+    1.352,
+    1.59,
+    2.359,
+    1.971,
+    1.936,
+    2.168,
+    2.47
+   ],
+   "price_spark": [
+    44.77,
+    45.31,
+    46.0,
+    46.48,
+    47.01,
+    47.3,
+    46.84,
+    45.96,
+    46.24,
+    46.14,
+    47.12,
+    46.2,
+    45.58,
+    45.02,
+    44.98,
+    44.85,
+    44.55,
+    46.51,
+    46.43,
+    46.11,
+    46.02,
+    45.98,
+    45.14,
+    44.61,
+    45.35,
+    44.65,
+    43.84,
+    43.63,
+    41.4,
+    41.03
+   ],
+   "channel_dates": {
+    "wiki": "2026-09-06",
+    "app": "2026-09-07"
+   },
+   "app_rank": 17.0,
+   "key": "trip_com",
+   "name": "Trip.com / Ctrip / Skyscanner",
+   "ticker": "TCOM",
+   "company": "Trip.com Group",
+   "sector": "travel",
+   "private": false,
+   "on_watchlist": false,
+   "mentions": 0,
+   "examples": [],
+   "apps": [
+    "Trip.com: Book Flights, Hotels #17 AU"
+   ],
+   "history_days": 107,
+   "attention": {
+    "entity": "trip_com",
+    "date": "2026-09-07",
+    "attention_z": 2.09,
+    "driver": "app",
+    "channels": {
+     "wiki": -1.27,
+     "app": 2.09
+    },
+    "corroborating": [],
+    "stage": "rising",
+    "acceleration": 0.86,
+    "trends_hit": 0,
+    "finance_noticed": false,
+    "price_return_5d": -0.0953,
+    "price_return_20d": -0.1107,
+    "volume_z": 0.59,
+    "unpriced": 0.4448,
+    "has_prices": true,
+    "has_social": false,
+    "direction": "unknown",
+    "attention_score": 38.9,
+    "past_spikes": {
+     "n": 0,
+     "median_10d": 0.0,
+     "hit_rate": 0.0
+    },
+    "flags": [
+     "APP_CLIMBING",
+     "RISING"
+    ],
+    "why": [
+     "app is climbing the App Store chart (rank 17)",
+     "still accelerating (+0.9σ over the last 3 days vs the 4 before)"
+    ],
+    "z_spark": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     1.74,
+     2.22,
+     2.09
+    ],
+    "driver_spark": [
+     1.069,
+     1.352,
+     1.542,
+     1.936,
+     1.692,
+     1.614,
+     1.129,
+     1.16,
+     1.453,
+     1.391,
+     1.352,
+     1.59,
+     2.359,
+     1.971,
+     1.936,
+     2.168,
+     2.47
+    ],
+    "price_spark": [
+     44.77,
+     45.31,
+     46.0,
+     46.48,
+     47.01,
+     47.3,
+     46.84,
+     45.96,
+     46.24,
+     46.14,
+     47.12,
+     46.2,
+     45.58,
+     45.02,
+     44.98,
+     44.85,
+     44.55,
+     46.51,
+     46.43,
+     46.11,
+     46.02,
+     45.98,
+     45.14,
+     44.61,
+     45.35,
+     44.65,
+     43.84,
+     43.63,
+     41.4,
+     41.03
+    ],
+    "channel_dates": {
+     "wiki": "2026-09-06",
+     "app": "2026-09-07"
+    },
+    "app_rank": 17.0
+   },
+   "headlines": [],
+   "explain": {
+    "summary": "Trip.com / Ctrip / Skyscanner: attention is rising, led by App Store rank (+2.1σ vs its own baseline). Stock: -9.5% over 5 days.",
+    "tone": "unknown",
+    "drivers": [],
+    "source": "heuristic"
+   }
+  },
+  {
+   "entity": "pdd",
+   "date": "2026-09-07",
+   "attention_z": 1.9,
+   "driver": "app",
+   "channels": {
+    "wiki": 0.58,
+    "app": 1.9
+   },
+   "corroborating": [],
+   "stage": "quiet",
+   "acceleration": 1.36,
+   "trends_hit": 0,
+   "finance_noticed": false,
+   "price_return_5d": -0.0406,
+   "price_return_20d": -0.1041,
+   "volume_z": -1.05,
+   "unpriced": 0.7969,
+   "has_prices": true,
+   "has_social": false,
+   "direction": "unknown",
+   "attention_score": 35.6,
+   "past_spikes": {
+    "n": 0,
+    "median_10d": 0.0,
+    "hit_rate": 0.0
+   },
+   "flags": [],
+   "why": [
+    "app is on the App Store top-100 chart (rank 13) — nothing unusual vs its own baseline"
+   ],
+   "z_spark": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    -0.39,
+    0.67,
+    1.9
+   ],
+   "driver_spark": [
+    3.001,
+    3.224,
+    3.224,
+    2.595,
+    2.413,
+    2.413,
+    2.125,
+    2.045,
+    2.47,
+    2.168,
+    2.212,
+    2.007,
+    2.212,
+    2.168,
+    2.212,
+    2.413,
+    2.738
+   ],
+   "price_spark": [
+    84.85,
+    85.71,
+    88.32,
+    87.44,
+    88.56,
+    90.15,
+    91.03,
+    90.94,
+    90.85,
+    91.76,
+    93.0,
+    90.5,
+    89.04,
+    84.17,
+    84.79,
+    86.94,
+    87.27,
+    90.2,
+    89.52,
+    88.38,
+    87.07,
+    87.75,
+    86.74,
+    84.69,
+    85.69,
+    84.0,
+    83.17,
+    82.25,
+    81.63,
+    82.21
+   ],
+   "channel_dates": {
+    "wiki": "2026-09-06",
+    "app": "2026-09-07"
+   },
+   "app_rank": 13.0,
+   "key": "pdd",
+   "name": "Temu / Pinduoduo",
+   "ticker": "PDD",
+   "company": "PDD Holdings",
+   "sector": "retail",
+   "private": false,
+   "on_watchlist": false,
+   "mentions": 0,
+   "examples": [],
+   "apps": [
+    "Temu: Shop Like a Billionaire #13 US",
+    "Temu: Shop Like a Billionaire #59 AU"
+   ],
+   "history_days": 107,
+   "attention": {
+    "entity": "pdd",
+    "date": "2026-09-07",
+    "attention_z": 1.9,
+    "driver": "app",
+    "channels": {
+     "wiki": 0.58,
+     "app": 1.9
+    },
+    "corroborating": [],
+    "stage": "quiet",
+    "acceleration": 1.36,
+    "trends_hit": 0,
+    "finance_noticed": false,
+    "price_return_5d": -0.0406,
+    "price_return_20d": -0.1041,
+    "volume_z": -1.05,
+    "unpriced": 0.7969,
+    "has_prices": true,
+    "has_social": false,
+    "direction": "unknown",
+    "attention_score": 35.6,
+    "past_spikes": {
+     "n": 0,
+     "median_10d": 0.0,
+     "hit_rate": 0.0
+    },
+    "flags": [],
+    "why": [
+     "app is on the App Store top-100 chart (rank 13) — nothing unusual vs its own baseline"
+    ],
+    "z_spark": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     -0.39,
+     0.67,
+     1.9
+    ],
+    "driver_spark": [
+     3.001,
+     3.224,
+     3.224,
+     2.595,
+     2.413,
+     2.413,
+     2.125,
+     2.045,
+     2.47,
+     2.168,
+     2.212,
+     2.007,
+     2.212,
+     2.168,
+     2.212,
+     2.413,
+     2.738
+    ],
+    "price_spark": [
+     84.85,
+     85.71,
+     88.32,
+     87.44,
+     88.56,
+     90.15,
+     91.03,
+     90.94,
+     90.85,
+     91.76,
+     93.0,
+     90.5,
+     89.04,
+     84.17,
+     84.79,
+     86.94,
+     87.27,
+     90.2,
+     89.52,
+     88.38,
+     87.07,
+     87.75,
+     86.74,
+     84.69,
+     85.69,
+     84.0,
+     83.17,
+     82.25,
+     81.63,
+     82.21
+    ],
+    "channel_dates": {
+     "wiki": "2026-09-06",
+     "app": "2026-09-07"
+    },
+    "app_rank": 13.0
+   },
+   "headlines": [],
+   "explain": {
+    "summary": "Temu / Pinduoduo: attention is around normal, led by App Store rank (+1.9σ vs its own baseline). Stock: -4.1% over 5 days.",
+    "tone": "unknown",
+    "drivers": [],
+    "source": "heuristic"
+   }
+  },
+  {
+   "entity": "bandai",
+   "date": "2026-09-07",
    "attention_z": 2.18,
    "driver": "wiki",
    "channels": {
@@ -14414,14 +14228,14 @@
    "acceleration": -0.2,
    "trends_hit": 0,
    "finance_noticed": false,
-   "price_return_5d": 0.0366,
-   "price_return_20d": 0.2751,
-   "volume_z": 0.82,
-   "unpriced": 0.7084,
+   "price_return_5d": -0.0657,
+   "price_return_20d": -0.01,
+   "volume_z": -0.11,
+   "unpriced": 0.6713,
    "has_prices": true,
    "has_social": false,
    "direction": "unknown",
-   "attention_score": 34.8,
+   "attention_score": 34.2,
    "past_spikes": {
     "n": 1,
     "median_10d": 0.2286,
@@ -14494,10 +14308,6 @@
     5.323
    ],
    "price_spark": [
-    4187.0,
-    4095.0,
-    4093.0,
-    4111.0,
     4419.0,
     4522.0,
     4747.0,
@@ -14523,7 +14333,11 @@
     5612.0,
     5687.0,
     5720.0,
-    5780.0
+    5780.0,
+    5641.0,
+    5605.0,
+    5565.0,
+    5344.0
    ],
    "channel_dates": {
     "wiki": "2026-09-06"
@@ -14539,10 +14353,10 @@
    "mentions": 0,
    "examples": [],
    "apps": [],
-   "history_days": 106,
+   "history_days": 107,
    "attention": {
     "entity": "bandai",
-    "date": "2026-09-06",
+    "date": "2026-09-07",
     "attention_z": 2.18,
     "driver": "wiki",
     "channels": {
@@ -14553,14 +14367,14 @@
     "acceleration": -0.2,
     "trends_hit": 0,
     "finance_noticed": false,
-    "price_return_5d": 0.0366,
-    "price_return_20d": 0.2751,
-    "volume_z": 0.82,
-    "unpriced": 0.7084,
+    "price_return_5d": -0.0657,
+    "price_return_20d": -0.01,
+    "volume_z": -0.11,
+    "unpriced": 0.6713,
     "has_prices": true,
     "has_social": false,
     "direction": "unknown",
-    "attention_score": 34.8,
+    "attention_score": 34.2,
     "past_spikes": {
      "n": 1,
      "median_10d": 0.2286,
@@ -14633,10 +14447,6 @@
      5.323
     ],
     "price_spark": [
-     4187.0,
-     4095.0,
-     4093.0,
-     4111.0,
      4419.0,
      4522.0,
      4747.0,
@@ -14662,7 +14472,11 @@
      5612.0,
      5687.0,
      5720.0,
-     5780.0
+     5780.0,
+     5641.0,
+     5605.0,
+     5565.0,
+     5344.0
     ],
     "channel_dates": {
      "wiki": "2026-09-06"
@@ -14671,525 +14485,7 @@
    },
    "headlines": [],
    "explain": {
-    "summary": "Bandai / Gundam / Tamagotchi: attention is at a peak, led by Wikipedia lookups (+2.2σ vs its own baseline). Stock: +3.7% over 5 days.",
-    "tone": "unknown",
-    "drivers": [],
-    "source": "heuristic"
-   }
-  },
-  {
-   "entity": "netflix",
-   "date": "2026-09-07",
-   "attention_z": 1.41,
-   "driver": "app",
-   "channels": {
-    "wiki": 0.11,
-    "app": 1.41
-   },
-   "corroborating": [],
-   "stage": "quiet",
-   "acceleration": 2.02,
-   "trends_hit": 0,
-   "finance_noticed": true,
-   "price_return_5d": -0.0425,
-   "price_return_20d": 0.0554,
-   "volume_z": 0.31,
-   "unpriced": 0.7465,
-   "has_prices": true,
-   "has_social": false,
-   "direction": "unknown",
-   "attention_score": 34.3,
-   "past_spikes": {
-    "n": 0,
-    "median_10d": 0.0,
-    "hit_rate": 0.0
-   },
-   "flags": [
-    "FINANCE_NOTICED"
-   ],
-   "why": [
-    "app is on the App Store top-100 chart (rank 2) — nothing unusual vs its own baseline",
-    "the ticker is trending on Yahoo Finance — the investing crowd is already looking"
-   ],
-   "z_spark": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    1.13,
-    1.24,
-    1.41
-   ],
-   "driver_spark": [
-    3.512,
-    3.694,
-    3.106,
-    2.168,
-    2.084,
-    1.72,
-    3.224,
-    3.694,
-    3.917,
-    2.595,
-    1.838,
-    1.411,
-    1.296,
-    2.045,
-    3.694,
-    4.205,
-    4.61
-   ],
-   "price_spark": [
-    70.4,
-    72.39,
-    73.63,
-    73.17,
-    71.71,
-    73.33,
-    73.57,
-    74.2,
-    73.69,
-    74.14,
-    76.29,
-    74.79,
-    74.21,
-    78.24,
-    78.16,
-    76.02,
-    77.77,
-    80.22,
-    80.14,
-    79.59,
-    80.01,
-    82.23,
-    81.46,
-    79.84,
-    81.72,
-    81.05,
-    80.81,
-    82.73,
-    82.67,
-    78.25
-   ],
-   "channel_dates": {
-    "wiki": "2026-09-06",
-    "app": "2026-09-07"
-   },
-   "app_rank": 2.0,
-   "key": "netflix",
-   "name": "Netflix",
-   "ticker": "NFLX",
-   "company": "Netflix",
-   "sector": "media",
-   "private": false,
-   "on_watchlist": false,
-   "mentions": 0,
-   "examples": [],
-   "apps": [
-    "Netflix Game Controller #2 US",
-    "Netflix #59 US",
-    "Netflix Game Controller #25 AU"
-   ],
-   "history_days": 107,
-   "attention": {
-    "entity": "netflix",
-    "date": "2026-09-07",
-    "attention_z": 1.41,
-    "driver": "app",
-    "channels": {
-     "wiki": 0.11,
-     "app": 1.41
-    },
-    "corroborating": [],
-    "stage": "quiet",
-    "acceleration": 2.02,
-    "trends_hit": 0,
-    "finance_noticed": true,
-    "price_return_5d": -0.0425,
-    "price_return_20d": 0.0554,
-    "volume_z": 0.31,
-    "unpriced": 0.7465,
-    "has_prices": true,
-    "has_social": false,
-    "direction": "unknown",
-    "attention_score": 34.3,
-    "past_spikes": {
-     "n": 0,
-     "median_10d": 0.0,
-     "hit_rate": 0.0
-    },
-    "flags": [
-     "FINANCE_NOTICED"
-    ],
-    "why": [
-     "app is on the App Store top-100 chart (rank 2) — nothing unusual vs its own baseline",
-     "the ticker is trending on Yahoo Finance — the investing crowd is already looking"
-    ],
-    "z_spark": [
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     1.13,
-     1.24,
-     1.41
-    ],
-    "driver_spark": [
-     3.512,
-     3.694,
-     3.106,
-     2.168,
-     2.084,
-     1.72,
-     3.224,
-     3.694,
-     3.917,
-     2.595,
-     1.838,
-     1.411,
-     1.296,
-     2.045,
-     3.694,
-     4.205,
-     4.61
-    ],
-    "price_spark": [
-     70.4,
-     72.39,
-     73.63,
-     73.17,
-     71.71,
-     73.33,
-     73.57,
-     74.2,
-     73.69,
-     74.14,
-     76.29,
-     74.79,
-     74.21,
-     78.24,
-     78.16,
-     76.02,
-     77.77,
-     80.22,
-     80.14,
-     79.59,
-     80.01,
-     82.23,
-     81.46,
-     79.84,
-     81.72,
-     81.05,
-     80.81,
-     82.73,
-     82.67,
-     78.25
-    ],
-    "channel_dates": {
-     "wiki": "2026-09-06",
-     "app": "2026-09-07"
-    },
-    "app_rank": 2.0
-   },
-   "headlines": [],
-   "explain": {
-    "summary": "Netflix: attention is around normal, led by App Store rank (+1.4σ vs its own baseline). Stock: -4.2% over 5 days.",
-    "tone": "unknown",
-    "drivers": [],
-    "source": "heuristic"
-   }
-  },
-  {
-   "entity": "bark",
-   "date": "2026-09-06",
-   "attention_z": 2.19,
-   "driver": "wiki",
-   "channels": {
-    "wiki": 2.19
-   },
-   "corroborating": [],
-   "stage": "peaking",
-   "acceleration": 0.42,
-   "trends_hit": 0,
-   "finance_noticed": false,
-   "price_return_5d": 0.078,
-   "price_return_20d": 0.2053,
-   "volume_z": -0.42,
-   "unpriced": 0.5,
-   "has_prices": false,
-   "has_social": false,
-   "direction": "unknown",
-   "attention_score": 34.0,
-   "past_spikes": {
-    "n": 0,
-    "median_10d": 0.0,
-    "hit_rate": 0.0
-   },
-   "flags": [],
-   "why": [],
-   "z_spark": [
-    -0.49,
-    -1.75,
-    -0.67,
-    -1.51,
-    -0.87,
-    0.43,
-    0.0,
-    -0.87,
-    -1.04,
-    -0.59,
-    0.52,
-    -0.81,
-    2.1,
-    -1.82,
-    1.15,
-    -0.67,
-    0.18,
-    0.97,
-    0.18,
-    0.35,
-    1.63,
-    0.52,
-    0.0,
-    0.0,
-    -0.44,
-    0.76,
-    -1.19,
-    -1.3,
-    -0.19,
-    2.19
-   ],
-   "driver_spark": [
-    2.996,
-    2.639,
-    2.944,
-    2.708,
-    2.89,
-    3.258,
-    3.135,
-    2.89,
-    2.833,
-    2.944,
-    3.219,
-    2.89,
-    3.611,
-    2.639,
-    3.434,
-    2.89,
-    3.091,
-    3.296,
-    3.091,
-    3.135,
-    3.466,
-    3.178,
-    3.045,
-    3.045,
-    2.944,
-    3.219,
-    2.773,
-    2.708,
-    2.996,
-    3.611
-   ],
-   "price_spark": [
-    9.33,
-    9.09,
-    8.91,
-    8.79,
-    8.51,
-    8.69,
-    8.92,
-    8.86,
-    8.83,
-    9.06,
-    9.83,
-    9.92,
-    9.29,
-    9.16,
-    11.22,
-    10.71,
-    10.72,
-    10.66,
-    10.44,
-    10.12,
-    10.3,
-    10.1,
-    10.41,
-    9.94,
-    10.13,
-    10.19,
-    10.34,
-    10.54,
-    10.85,
-    10.92
-   ],
-   "channel_dates": {
-    "wiki": "2026-09-06"
-   },
-   "app_rank": 0.0,
-   "key": "bark",
-   "name": "BARK / BarkBox",
-   "ticker": "BARK",
-   "company": "BARK Inc.",
-   "sector": "pets",
-   "private": false,
-   "on_watchlist": false,
-   "mentions": 0,
-   "examples": [],
-   "apps": [],
-   "history_days": 106,
-   "attention": {
-    "entity": "bark",
-    "date": "2026-09-06",
-    "attention_z": 2.19,
-    "driver": "wiki",
-    "channels": {
-     "wiki": 2.19
-    },
-    "corroborating": [],
-    "stage": "peaking",
-    "acceleration": 0.42,
-    "trends_hit": 0,
-    "finance_noticed": false,
-    "price_return_5d": 0.078,
-    "price_return_20d": 0.2053,
-    "volume_z": -0.42,
-    "unpriced": 0.5,
-    "has_prices": false,
-    "has_social": false,
-    "direction": "unknown",
-    "attention_score": 34.0,
-    "past_spikes": {
-     "n": 0,
-     "median_10d": 0.0,
-     "hit_rate": 0.0
-    },
-    "flags": [],
-    "why": [],
-    "z_spark": [
-     -0.49,
-     -1.75,
-     -0.67,
-     -1.51,
-     -0.87,
-     0.43,
-     0.0,
-     -0.87,
-     -1.04,
-     -0.59,
-     0.52,
-     -0.81,
-     2.1,
-     -1.82,
-     1.15,
-     -0.67,
-     0.18,
-     0.97,
-     0.18,
-     0.35,
-     1.63,
-     0.52,
-     0.0,
-     0.0,
-     -0.44,
-     0.76,
-     -1.19,
-     -1.3,
-     -0.19,
-     2.19
-    ],
-    "driver_spark": [
-     2.996,
-     2.639,
-     2.944,
-     2.708,
-     2.89,
-     3.258,
-     3.135,
-     2.89,
-     2.833,
-     2.944,
-     3.219,
-     2.89,
-     3.611,
-     2.639,
-     3.434,
-     2.89,
-     3.091,
-     3.296,
-     3.091,
-     3.135,
-     3.466,
-     3.178,
-     3.045,
-     3.045,
-     2.944,
-     3.219,
-     2.773,
-     2.708,
-     2.996,
-     3.611
-    ],
-    "price_spark": [
-     9.33,
-     9.09,
-     8.91,
-     8.79,
-     8.51,
-     8.69,
-     8.92,
-     8.86,
-     8.83,
-     9.06,
-     9.83,
-     9.92,
-     9.29,
-     9.16,
-     11.22,
-     10.71,
-     10.72,
-     10.66,
-     10.44,
-     10.12,
-     10.3,
-     10.1,
-     10.41,
-     9.94,
-     10.13,
-     10.19,
-     10.34,
-     10.54,
-     10.85,
-     10.92
-    ],
-    "channel_dates": {
-     "wiki": "2026-09-06"
-    },
-    "app_rank": 0.0
-   },
-   "headlines": [],
-   "explain": {
-    "summary": "BARK / BarkBox: attention is at a peak, led by Wikipedia lookups (+2.2σ vs its own baseline).",
+    "summary": "Bandai / Gundam / Tamagotchi: attention is at a peak, led by Wikipedia lookups (+2.2σ vs its own baseline). Stock: -6.6% over 5 days.",
     "tone": "unknown",
     "drivers": [],
     "source": "heuristic"
@@ -15924,7 +15220,7 @@
    "stage": "quiet",
    "acceleration": 1.38,
    "trends_hit": 0,
-   "finance_noticed": true,
+   "finance_noticed": false,
    "price_return_5d": -0.0349,
    "price_return_20d": -0.1031,
    "volume_z": 0.19,
@@ -15938,12 +15234,8 @@
     "median_10d": -0.0157,
     "hit_rate": 0.0
    },
-   "flags": [
-    "FINANCE_NOTICED"
-   ],
-   "why": [
-    "the ticker is trending on Yahoo Finance — the investing crowd is already looking"
-   ],
+   "flags": [],
+   "why": [],
    "z_spark": [
     -0.51,
     0.67,
@@ -16069,7 +15361,7 @@
     "stage": "quiet",
     "acceleration": 1.38,
     "trends_hit": 0,
-    "finance_noticed": true,
+    "finance_noticed": false,
     "price_return_5d": -0.0349,
     "price_return_20d": -0.1031,
     "volume_z": 0.19,
@@ -16083,12 +15375,8 @@
      "median_10d": -0.0157,
      "hit_rate": 0.0
     },
-    "flags": [
-     "FINANCE_NOTICED"
-    ],
-    "why": [
-     "the ticker is trending on Yahoo Finance — the investing crowd is already looking"
-    ],
+    "flags": [],
+    "why": [],
     "z_spark": [
      -0.51,
      0.67,
@@ -17064,6 +16352,249 @@
    }
   },
   {
+   "entity": "wbd",
+   "date": "2026-09-07",
+   "attention_z": 0.04,
+   "driver": "app",
+   "channels": {
+    "wiki": -1.54,
+    "app": 0.04
+   },
+   "corroborating": [],
+   "stage": "quiet",
+   "acceleration": 2.38,
+   "trends_hit": 100,
+   "finance_noticed": false,
+   "price_return_5d": -0.0181,
+   "price_return_20d": 0.0549,
+   "volume_z": -1.49,
+   "unpriced": 0.9096,
+   "has_prices": true,
+   "has_social": false,
+   "direction": "unknown",
+   "attention_score": 30.2,
+   "past_spikes": {
+    "n": 0,
+    "median_10d": 0.0,
+    "hit_rate": 0.0
+   },
+   "flags": [
+    "TRENDING_SEARCH"
+   ],
+   "why": [
+    "appeared in Google's daily trending searches",
+    "app is on the App Store top-100 chart (rank 89) — nothing unusual vs its own baseline"
+   ],
+   "z_spark": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.27,
+    0.34,
+    0.04
+   ],
+   "driver_spark": [
+    1.084,
+    1.099,
+    1.013,
+    0.884,
+    0.749,
+    0.0,
+    0.0,
+    0.815,
+    0.999,
+    0.782,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.897,
+    0.934,
+    0.815
+   ],
+   "price_spark": [
+    25.28,
+    25.61,
+    25.64,
+    25.47,
+    26.3,
+    26.09,
+    25.79,
+    25.97,
+    26.4,
+    26.78,
+    26.87,
+    27.07,
+    27.65,
+    27.75,
+    27.99,
+    27.93,
+    28.48,
+    28.53,
+    28.23,
+    28.55,
+    28.7,
+    28.9,
+    28.75,
+    28.88,
+    28.77,
+    28.53,
+    28.32,
+    28.39,
+    28.37,
+    28.25
+   ],
+   "channel_dates": {
+    "wiki": "2026-09-06",
+    "app": "2026-09-07"
+   },
+   "app_rank": 89.0,
+   "key": "wbd",
+   "name": "Warner Bros / HBO Max / DC",
+   "ticker": "WBD",
+   "company": "Warner Bros. Discovery",
+   "sector": "media",
+   "private": false,
+   "on_watchlist": false,
+   "mentions": 0,
+   "examples": [],
+   "apps": [
+    "HBO Max: Stream Movies & TV #94 US",
+    "HBO Max: Watch Movies & TV #89 AU"
+   ],
+   "history_days": 107,
+   "attention": {
+    "entity": "wbd",
+    "date": "2026-09-07",
+    "attention_z": 0.04,
+    "driver": "app",
+    "channels": {
+     "wiki": -1.54,
+     "app": 0.04
+    },
+    "corroborating": [],
+    "stage": "quiet",
+    "acceleration": 2.38,
+    "trends_hit": 100,
+    "finance_noticed": false,
+    "price_return_5d": -0.0181,
+    "price_return_20d": 0.0549,
+    "volume_z": -1.49,
+    "unpriced": 0.9096,
+    "has_prices": true,
+    "has_social": false,
+    "direction": "unknown",
+    "attention_score": 30.2,
+    "past_spikes": {
+     "n": 0,
+     "median_10d": 0.0,
+     "hit_rate": 0.0
+    },
+    "flags": [
+     "TRENDING_SEARCH"
+    ],
+    "why": [
+     "appeared in Google's daily trending searches",
+     "app is on the App Store top-100 chart (rank 89) — nothing unusual vs its own baseline"
+    ],
+    "z_spark": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.27,
+     0.34,
+     0.04
+    ],
+    "driver_spark": [
+     1.084,
+     1.099,
+     1.013,
+     0.884,
+     0.749,
+     0.0,
+     0.0,
+     0.815,
+     0.999,
+     0.782,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.897,
+     0.934,
+     0.815
+    ],
+    "price_spark": [
+     25.28,
+     25.61,
+     25.64,
+     25.47,
+     26.3,
+     26.09,
+     25.79,
+     25.97,
+     26.4,
+     26.78,
+     26.87,
+     27.07,
+     27.65,
+     27.75,
+     27.99,
+     27.93,
+     28.48,
+     28.53,
+     28.23,
+     28.55,
+     28.7,
+     28.9,
+     28.75,
+     28.88,
+     28.77,
+     28.53,
+     28.32,
+     28.39,
+     28.37,
+     28.25
+    ],
+    "channel_dates": {
+     "wiki": "2026-09-06",
+     "app": "2026-09-07"
+    },
+    "app_rank": 89.0
+   },
+   "headlines": [],
+   "explain": {
+    "summary": "Warner Bros / HBO Max / DC: attention is around normal, led by App Store rank (+0.0σ vs its own baseline). Stock: -1.8% over 5 days.",
+    "tone": "unknown",
+    "drivers": [
+     "Google trending search"
+    ],
+    "source": "heuristic"
+   }
+  },
+  {
    "entity": "funko",
    "date": "2026-09-06",
    "attention_z": 1.78,
@@ -17278,6 +16809,247 @@
    }
   },
   {
+   "entity": "woolworths",
+   "date": "2026-09-07",
+   "attention_z": 1.75,
+   "driver": "app",
+   "channels": {
+    "wiki": -0.77,
+    "app": 1.75
+   },
+   "corroborating": [],
+   "stage": "fading",
+   "acceleration": 1.25,
+   "trends_hit": 0,
+   "finance_noticed": false,
+   "price_return_5d": -0.0122,
+   "price_return_20d": -0.0207,
+   "volume_z": 0.43,
+   "unpriced": 0.8813,
+   "has_prices": true,
+   "has_social": false,
+   "direction": "unknown",
+   "attention_score": 28.0,
+   "past_spikes": {
+    "n": 0,
+    "median_10d": 0.0,
+    "hit_rate": 0.0
+   },
+   "flags": [
+    "FADING"
+   ],
+   "why": [
+    "app is on the App Store top-100 chart (rank 22) — nothing unusual vs its own baseline",
+    "attention is coming off a recent peak"
+   ],
+   "z_spark": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    2.28,
+    4.45,
+    1.75
+   ],
+   "driver_spark": [
+    1.432,
+    1.807,
+    1.902,
+    1.838,
+    1.971,
+    1.936,
+    1.475,
+    1.566,
+    1.838,
+    1.748,
+    1.902,
+    1.971,
+    2.045,
+    2.47,
+    2.212,
+    2.531,
+    2.212
+   ],
+   "price_spark": [
+    39.79,
+    40.55,
+    40.47,
+    39.77,
+    40.14,
+    40.22,
+    40.22,
+    40.21,
+    40.28,
+    40.66,
+    39.83,
+    39.46,
+    39.72,
+    40.0,
+    40.21,
+    39.48,
+    39.72,
+    38.99,
+    38.86,
+    38.54,
+    38.85,
+    40.18,
+    39.55,
+    39.65,
+    40.31,
+    39.33,
+    39.62,
+    40.0,
+    40.32,
+    39.82
+   ],
+   "channel_dates": {
+    "wiki": "2026-09-06",
+    "app": "2026-09-07"
+   },
+   "app_rank": 22.0,
+   "key": "woolworths",
+   "name": "Woolworths (AU)",
+   "ticker": "WOW.AX",
+   "company": "Woolworths Group",
+   "sector": "aus",
+   "private": false,
+   "on_watchlist": false,
+   "mentions": 0,
+   "examples": [],
+   "apps": [
+    "Everyday Rewards #22 AU",
+    "Woolworths #35 AU"
+   ],
+   "history_days": 107,
+   "attention": {
+    "entity": "woolworths",
+    "date": "2026-09-07",
+    "attention_z": 1.75,
+    "driver": "app",
+    "channels": {
+     "wiki": -0.77,
+     "app": 1.75
+    },
+    "corroborating": [],
+    "stage": "fading",
+    "acceleration": 1.25,
+    "trends_hit": 0,
+    "finance_noticed": false,
+    "price_return_5d": -0.0122,
+    "price_return_20d": -0.0207,
+    "volume_z": 0.43,
+    "unpriced": 0.8813,
+    "has_prices": true,
+    "has_social": false,
+    "direction": "unknown",
+    "attention_score": 28.0,
+    "past_spikes": {
+     "n": 0,
+     "median_10d": 0.0,
+     "hit_rate": 0.0
+    },
+    "flags": [
+     "FADING"
+    ],
+    "why": [
+     "app is on the App Store top-100 chart (rank 22) — nothing unusual vs its own baseline",
+     "attention is coming off a recent peak"
+    ],
+    "z_spark": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     2.28,
+     4.45,
+     1.75
+    ],
+    "driver_spark": [
+     1.432,
+     1.807,
+     1.902,
+     1.838,
+     1.971,
+     1.936,
+     1.475,
+     1.566,
+     1.838,
+     1.748,
+     1.902,
+     1.971,
+     2.045,
+     2.47,
+     2.212,
+     2.531,
+     2.212
+    ],
+    "price_spark": [
+     39.79,
+     40.55,
+     40.47,
+     39.77,
+     40.14,
+     40.22,
+     40.22,
+     40.21,
+     40.28,
+     40.66,
+     39.83,
+     39.46,
+     39.72,
+     40.0,
+     40.21,
+     39.48,
+     39.72,
+     38.99,
+     38.86,
+     38.54,
+     38.85,
+     40.18,
+     39.55,
+     39.65,
+     40.31,
+     39.33,
+     39.62,
+     40.0,
+     40.32,
+     39.82
+    ],
+    "channel_dates": {
+     "wiki": "2026-09-06",
+     "app": "2026-09-07"
+    },
+    "app_rank": 22.0
+   },
+   "headlines": [],
+   "explain": {
+    "summary": "Woolworths (AU): attention is fading from a recent peak, led by App Store rank (+1.8σ vs its own baseline). Stock: -1.2% over 5 days.",
+    "tone": "unknown",
+    "drivers": [],
+    "source": "heuristic"
+   }
+  },
+  {
    "entity": "converse",
    "date": "2026-09-06",
    "attention_z": 1.59,
@@ -17289,7 +17061,7 @@
    "stage": "quiet",
    "acceleration": 1.23,
    "trends_hit": 0,
-   "finance_noticed": false,
+   "finance_noticed": true,
    "price_return_5d": 0.0,
    "price_return_20d": 0.0,
    "volume_z": 0.0,
@@ -17303,8 +17075,12 @@
     "median_10d": 0.0,
     "hit_rate": 0.0
    },
-   "flags": [],
-   "why": [],
+   "flags": [
+    "FINANCE_NOTICED"
+   ],
+   "why": [
+    "the ticker is trending on Yahoo Finance — the investing crowd is already looking"
+   ],
    "z_spark": [
     -0.8,
     0.65,
@@ -17397,7 +17173,7 @@
     "stage": "quiet",
     "acceleration": 1.23,
     "trends_hit": 0,
-    "finance_noticed": false,
+    "finance_noticed": true,
     "price_return_5d": 0.0,
     "price_return_20d": 0.0,
     "volume_z": 0.0,
@@ -17411,8 +17187,12 @@
      "median_10d": 0.0,
      "hit_rate": 0.0
     },
-    "flags": [],
-    "why": [],
+    "flags": [
+     "FINANCE_NOTICED"
+    ],
+    "why": [
+     "the ticker is trending on Yahoo Finance — the investing crowd is already looking"
+    ],
     "z_spark": [
      -0.8,
      0.65,
@@ -17488,6 +17268,252 @@
     "summary": "Converse: attention is around normal, led by Wikipedia lookups (+1.6σ vs its own baseline).",
     "tone": "unknown",
     "drivers": [],
+    "source": "heuristic"
+   }
+  },
+  {
+   "entity": "mcdonalds",
+   "date": "2026-09-07",
+   "attention_z": 0.54,
+   "driver": "app",
+   "channels": {
+    "wiki": -0.27,
+    "news": 0.0,
+    "app": 0.54
+   },
+   "corroborating": [],
+   "stage": "quiet",
+   "acceleration": 1.04,
+   "trends_hit": 200,
+   "finance_noticed": false,
+   "price_return_5d": -0.0351,
+   "price_return_20d": -0.0685,
+   "volume_z": -0.16,
+   "unpriced": 0.8243,
+   "has_prices": true,
+   "has_social": false,
+   "direction": "unknown",
+   "attention_score": 27.8,
+   "past_spikes": {
+    "n": 0,
+    "median_10d": 0.0,
+    "hit_rate": 0.0
+   },
+   "flags": [
+    "TRENDING_SEARCH"
+   ],
+   "why": [
+    "appeared in Google's daily trending searches",
+    "app is on the App Store top-100 chart (rank 56) — nothing unusual vs its own baseline"
+   ],
+   "z_spark": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.23,
+    0.81,
+    0.54
+   ],
+   "driver_spark": [
+    1.411,
+    1.314,
+    1.144,
+    0.947,
+    0.947,
+    0.959,
+    1.114,
+    1.411,
+    1.453,
+    1.176,
+    0.986,
+    1.055,
+    1.069,
+    1.129,
+    1.391,
+    1.333,
+    1.278
+   ],
+   "price_spark": [
+    270.67,
+    273.02,
+    271.52,
+    268.44,
+    270.64,
+    265.23,
+    268.34,
+    274.0,
+    276.26,
+    274.48,
+    273.72,
+    274.15,
+    275.7,
+    272.25,
+    272.83,
+    265.53,
+    266.99,
+    267.45,
+    269.13,
+    270.95,
+    272.54,
+    268.1,
+    266.93,
+    260.06,
+    265.0,
+    263.54,
+    261.11,
+    260.95,
+    259.63,
+    255.69
+   ],
+   "channel_dates": {
+    "wiki": "2026-09-06",
+    "news": "2026-08-22",
+    "app": "2026-09-07"
+   },
+   "app_rank": 56.0,
+   "key": "mcdonalds",
+   "name": "McDonald's",
+   "ticker": "MCD",
+   "company": "McDonald's",
+   "sector": "restaurants",
+   "private": false,
+   "on_watchlist": false,
+   "mentions": 0,
+   "examples": [],
+   "apps": [
+    "McDonald's #56 US"
+   ],
+   "history_days": 107,
+   "attention": {
+    "entity": "mcdonalds",
+    "date": "2026-09-07",
+    "attention_z": 0.54,
+    "driver": "app",
+    "channels": {
+     "wiki": -0.27,
+     "news": 0.0,
+     "app": 0.54
+    },
+    "corroborating": [],
+    "stage": "quiet",
+    "acceleration": 1.04,
+    "trends_hit": 200,
+    "finance_noticed": false,
+    "price_return_5d": -0.0351,
+    "price_return_20d": -0.0685,
+    "volume_z": -0.16,
+    "unpriced": 0.8243,
+    "has_prices": true,
+    "has_social": false,
+    "direction": "unknown",
+    "attention_score": 27.8,
+    "past_spikes": {
+     "n": 0,
+     "median_10d": 0.0,
+     "hit_rate": 0.0
+    },
+    "flags": [
+     "TRENDING_SEARCH"
+    ],
+    "why": [
+     "appeared in Google's daily trending searches",
+     "app is on the App Store top-100 chart (rank 56) — nothing unusual vs its own baseline"
+    ],
+    "z_spark": [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     1.23,
+     0.81,
+     0.54
+    ],
+    "driver_spark": [
+     1.411,
+     1.314,
+     1.144,
+     0.947,
+     0.947,
+     0.959,
+     1.114,
+     1.411,
+     1.453,
+     1.176,
+     0.986,
+     1.055,
+     1.069,
+     1.129,
+     1.391,
+     1.333,
+     1.278
+    ],
+    "price_spark": [
+     270.67,
+     273.02,
+     271.52,
+     268.44,
+     270.64,
+     265.23,
+     268.34,
+     274.0,
+     276.26,
+     274.48,
+     273.72,
+     274.15,
+     275.7,
+     272.25,
+     272.83,
+     265.53,
+     266.99,
+     267.45,
+     269.13,
+     270.95,
+     272.54,
+     268.1,
+     266.93,
+     260.06,
+     265.0,
+     263.54,
+     261.11,
+     260.95,
+     259.63,
+     255.69
+    ],
+    "channel_dates": {
+     "wiki": "2026-09-06",
+     "news": "2026-08-22",
+     "app": "2026-09-07"
+    },
+    "app_rank": 56.0
+   },
+   "headlines": [],
+   "explain": {
+    "summary": "McDonald's: attention is around normal, led by App Store rank (+0.5σ vs its own baseline). Stock: -3.5% over 5 days.",
+    "tone": "unknown",
+    "drivers": [
+     "Google trending search"
+    ],
     "source": "heuristic"
    }
   },
@@ -17772,246 +17798,6 @@
    "headlines": [],
    "explain": {
     "summary": "Aritzia: attention is fading from a recent peak, led by Wikipedia lookups (+2.4σ vs its own baseline). Stock: -1.5% over 5 days.",
-    "tone": "unknown",
-    "drivers": [],
-    "source": "heuristic"
-   }
-  },
-  {
-   "entity": "snap",
-   "date": "2026-09-07",
-   "attention_z": 0.96,
-   "driver": "app",
-   "channels": {
-    "wiki": -1.74,
-    "app": 0.96
-   },
-   "corroborating": [],
-   "stage": "fading",
-   "acceleration": 1.89,
-   "trends_hit": 0,
-   "finance_noticed": false,
-   "price_return_5d": 0.0074,
-   "price_return_20d": 0.0263,
-   "volume_z": -2.11,
-   "unpriced": 0.9632,
-   "has_prices": true,
-   "has_social": false,
-   "direction": "unknown",
-   "attention_score": 26.5,
-   "past_spikes": {
-    "n": 0,
-    "median_10d": 0.0,
-    "hit_rate": 0.0
-   },
-   "flags": [
-    "FADING"
-   ],
-   "why": [
-    "app is on the App Store top-100 chart (rank 54) — nothing unusual vs its own baseline",
-    "attention is coming off a recent peak"
-   ],
-   "z_spark": [
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    0.0,
-    1.41,
-    3.36,
-    0.96
-   ],
-   "driver_spark": [
-    1.027,
-    1.692,
-    1.099,
-    0.986,
-    0.897,
-    1.027,
-    1.453,
-    1.542,
-    1.26,
-    1.411,
-    0.934,
-    0.921,
-    0.959,
-    1.055,
-    1.278,
-    1.72,
-    1.314
-   ],
-   "price_spark": [
-    4.52,
-    4.77,
-    4.73,
-    4.69,
-    4.69,
-    5.04,
-    5.79,
-    5.33,
-    5.22,
-    5.33,
-    5.35,
-    5.51,
-    5.2,
-    5.3,
-    5.41,
-    5.18,
-    5.11,
-    5.24,
-    5.21,
-    5.24,
-    5.53,
-    5.92,
-    5.42,
-    5.33,
-    5.43,
-    5.55,
-    5.35,
-    5.59,
-    5.7,
-    5.47
-   ],
-   "channel_dates": {
-    "wiki": "2026-09-06",
-    "app": "2026-09-07"
-   },
-   "app_rank": 54.0,
-   "key": "snap",
-   "name": "Snapchat",
-   "ticker": "SNAP",
-   "company": "Snap Inc.",
-   "sector": "apps",
-   "private": false,
-   "on_watchlist": false,
-   "mentions": 0,
-   "examples": [],
-   "apps": [
-    "Snapchat #54 US"
-   ],
-   "history_days": 107,
-   "attention": {
-    "entity": "snap",
-    "date": "2026-09-07",
-    "attention_z": 0.96,
-    "driver": "app",
-    "channels": {
-     "wiki": -1.74,
-     "app": 0.96
-    },
-    "corroborating": [],
-    "stage": "fading",
-    "acceleration": 1.89,
-    "trends_hit": 0,
-    "finance_noticed": false,
-    "price_return_5d": 0.0074,
-    "price_return_20d": 0.0263,
-    "volume_z": -2.11,
-    "unpriced": 0.9632,
-    "has_prices": true,
-    "has_social": false,
-    "direction": "unknown",
-    "attention_score": 26.5,
-    "past_spikes": {
-     "n": 0,
-     "median_10d": 0.0,
-     "hit_rate": 0.0
-    },
-    "flags": [
-     "FADING"
-    ],
-    "why": [
-     "app is on the App Store top-100 chart (rank 54) — nothing unusual vs its own baseline",
-     "attention is coming off a recent peak"
-    ],
-    "z_spark": [
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     0.0,
-     1.41,
-     3.36,
-     0.96
-    ],
-    "driver_spark": [
-     1.027,
-     1.692,
-     1.099,
-     0.986,
-     0.897,
-     1.027,
-     1.453,
-     1.542,
-     1.26,
-     1.411,
-     0.934,
-     0.921,
-     0.959,
-     1.055,
-     1.278,
-     1.72,
-     1.314
-    ],
-    "price_spark": [
-     4.52,
-     4.77,
-     4.73,
-     4.69,
-     4.69,
-     5.04,
-     5.79,
-     5.33,
-     5.22,
-     5.33,
-     5.35,
-     5.51,
-     5.2,
-     5.3,
-     5.41,
-     5.18,
-     5.11,
-     5.24,
-     5.21,
-     5.24,
-     5.53,
-     5.92,
-     5.42,
-     5.33,
-     5.43,
-     5.55,
-     5.35,
-     5.59,
-     5.7,
-     5.47
-    ],
-    "channel_dates": {
-     "wiki": "2026-09-06",
-     "app": "2026-09-07"
-    },
-    "app_rank": 54.0
-   },
-   "headlines": [],
-   "explain": {
-    "summary": "Snapchat: attention is fading from a recent peak, led by App Store rank (+1.0σ vs its own baseline). Stock: +0.7% over 5 days.",
     "tone": "unknown",
     "drivers": [],
     "source": "heuristic"
@@ -19668,39 +19454,38 @@
    }
   },
   {
-   "entity": "mcdonalds",
+   "entity": "snap",
    "date": "2026-09-07",
-   "attention_z": 0.21,
+   "attention_z": 0.74,
    "driver": "app",
    "channels": {
-    "wiki": -0.27,
-    "news": 0.0,
-    "app": 0.21
+    "wiki": -1.74,
+    "app": 0.74
    },
    "corroborating": [],
-   "stage": "quiet",
-   "acceleration": 0.93,
-   "trends_hit": 200,
+   "stage": "fading",
+   "acceleration": 1.82,
+   "trends_hit": 0,
    "finance_noticed": false,
-   "price_return_5d": -0.0351,
-   "price_return_20d": -0.0685,
-   "volume_z": -0.16,
-   "unpriced": 0.8243,
+   "price_return_5d": 0.0074,
+   "price_return_20d": 0.0263,
+   "volume_z": -2.11,
+   "unpriced": 0.9632,
    "has_prices": true,
    "has_social": false,
    "direction": "unknown",
-   "attention_score": 24.4,
+   "attention_score": 24.7,
    "past_spikes": {
     "n": 0,
     "median_10d": 0.0,
     "hit_rate": 0.0
    },
    "flags": [
-    "TRENDING_SEARCH"
+    "FADING"
    ],
    "why": [
-    "appeared in Google's daily trending searches",
-    "app is on the App Store top-100 chart (rank 61) — nothing unusual vs its own baseline"
+    "app is on the App Store top-100 chart (rank 57) — nothing unusual vs its own baseline",
+    "attention is coming off a recent peak"
    ],
    "z_spark": [
     0.0,
@@ -19717,114 +19502,112 @@
     0.0,
     0.0,
     0.0,
-    1.23,
-    0.81,
-    0.21
+    1.41,
+    3.36,
+    0.74
    ],
    "driver_spark": [
-    1.411,
-    1.314,
-    1.144,
-    0.947,
-    0.947,
-    0.959,
-    1.114,
-    1.411,
-    1.453,
-    1.176,
+    1.027,
+    1.692,
+    1.099,
     0.986,
+    0.897,
+    1.027,
+    1.453,
+    1.542,
+    1.26,
+    1.411,
+    0.934,
+    0.921,
+    0.959,
     1.055,
-    1.069,
-    1.129,
-    1.391,
-    1.333,
-    1.192
+    1.278,
+    1.72,
+    1.26
    ],
    "price_spark": [
-    270.67,
-    273.02,
-    271.52,
-    268.44,
-    270.64,
-    265.23,
-    268.34,
-    274.0,
-    276.26,
-    274.48,
-    273.72,
-    274.15,
-    275.7,
-    272.25,
-    272.83,
-    265.53,
-    266.99,
-    267.45,
-    269.13,
-    270.95,
-    272.54,
-    268.1,
-    266.93,
-    260.06,
-    265.0,
-    263.54,
-    261.11,
-    260.95,
-    259.63,
-    255.69
+    4.52,
+    4.77,
+    4.73,
+    4.69,
+    4.69,
+    5.04,
+    5.79,
+    5.33,
+    5.22,
+    5.33,
+    5.35,
+    5.51,
+    5.2,
+    5.3,
+    5.41,
+    5.18,
+    5.11,
+    5.24,
+    5.21,
+    5.24,
+    5.53,
+    5.92,
+    5.42,
+    5.33,
+    5.43,
+    5.55,
+    5.35,
+    5.59,
+    5.7,
+    5.47
    ],
    "channel_dates": {
     "wiki": "2026-09-06",
-    "news": "2026-08-22",
     "app": "2026-09-07"
    },
-   "app_rank": 61.0,
-   "key": "mcdonalds",
-   "name": "McDonald's",
-   "ticker": "MCD",
-   "company": "McDonald's",
-   "sector": "restaurants",
+   "app_rank": 57.0,
+   "key": "snap",
+   "name": "Snapchat",
+   "ticker": "SNAP",
+   "company": "Snap Inc.",
+   "sector": "apps",
    "private": false,
    "on_watchlist": false,
    "mentions": 0,
    "examples": [],
    "apps": [
-    "McDonald's #61 US"
+    "Snapchat #57 US"
    ],
    "history_days": 107,
    "attention": {
-    "entity": "mcdonalds",
+    "entity": "snap",
     "date": "2026-09-07",
-    "attention_z": 0.21,
+    "attention_z": 0.74,
     "driver": "app",
     "channels": {
-     "wiki": -0.27,
-     "news": 0.0,
-     "app": 0.21
+     "wiki": -1.74,
+     "app": 0.74
     },
     "corroborating": [],
-    "stage": "quiet",
-    "acceleration": 0.93,
-    "trends_hit": 200,
+    "stage": "fading",
+    "acceleration": 1.82,
+    "trends_hit": 0,
     "finance_noticed": false,
-    "price_return_5d": -0.0351,
-    "price_return_20d": -0.0685,
-    "volume_z": -0.16,
-    "unpriced": 0.8243,
+    "price_return_5d": 0.0074,
+    "price_return_20d": 0.0263,
+    "volume_z": -2.11,
+    "unpriced": 0.9632,
     "has_prices": true,
     "has_social": false,
     "direction": "unknown",
-    "attention_score": 24.4,
+    "attention_score": 24.7,
     "past_spikes": {
      "n": 0,
      "median_10d": 0.0,
      "hit_rate": 0.0
     },
     "flags": [
-     "TRENDING_SEARCH"
+     "FADING"
     ],
     "why": [
-     "appeared in Google's daily trending searches",
-     "app is on the App Store top-100 chart (rank 61) — nothing unusual vs its own baseline"
+     "app is on the App Store top-100 chart (rank 57) — nothing unusual vs its own baseline",
+     "attention is coming off a recent peak"
     ],
     "z_spark": [
      0.0,
@@ -19841,75 +19624,72 @@
      0.0,
      0.0,
      0.0,
-     1.23,
-     0.81,
-     0.21
+     1.41,
+     3.36,
+     0.74
     ],
     "driver_spark": [
-     1.411,
-     1.314,
-     1.144,
-     0.947,
-     0.947,
-     0.959,
-     1.114,
-     1.411,
-     1.453,
-     1.176,
+     1.027,
+     1.692,
+     1.099,
      0.986,
+     0.897,
+     1.027,
+     1.453,
+     1.542,
+     1.26,
+     1.411,
+     0.934,
+     0.921,
+     0.959,
      1.055,
-     1.069,
-     1.129,
-     1.391,
-     1.333,
-     1.192
+     1.278,
+     1.72,
+     1.26
     ],
     "price_spark": [
-     270.67,
-     273.02,
-     271.52,
-     268.44,
-     270.64,
-     265.23,
-     268.34,
-     274.0,
-     276.26,
-     274.48,
-     273.72,
-     274.15,
-     275.7,
-     272.25,
-     272.83,
-     265.53,
-     266.99,
-     267.45,
-     269.13,
-     270.95,
-     272.54,
-     268.1,
-     266.93,
-     260.06,
-     265.0,
-     263.54,
-     261.11,
-     260.95,
-     259.63,
-     255.69
+     4.52,
+     4.77,
+     4.73,
+     4.69,
+     4.69,
+     5.04,
+     5.79,
+     5.33,
+     5.22,
+     5.33,
+     5.35,
+     5.51,
+     5.2,
+     5.3,
+     5.41,
+     5.18,
+     5.11,
+     5.24,
+     5.21,
+     5.24,
+     5.53,
+     5.92,
+     5.42,
+     5.33,
+     5.43,
+     5.55,
+     5.35,
+     5.59,
+     5.7,
+     5.47
     ],
     "channel_dates": {
      "wiki": "2026-09-06",
-     "news": "2026-08-22",
      "app": "2026-09-07"
     },
-    "app_rank": 61.0
+    "app_rank": 57.0
    },
    "headlines": [],
    "explain": {
-    "summary": "McDonald's: attention is around normal, led by App Store rank (+0.2σ vs its own baseline). Stock: -3.5% over 5 days.",
+    "summary": "Snapchat: attention is fading from a recent peak, led by App Store rank (+0.7σ vs its own baseline). Stock: +0.7% over 5 days.",
     "tone": "unknown",
-    "drivers": [
-     "Google trending search"
-    ],
+    "drivers": [],
     "source": "heuristic"
    }
   },
@@ -20196,133 +19976,417 @@
     "drivers": [],
     "source": "heuristic"
    }
+  },
+  {
+   "entity": "roborock",
+   "date": "2026-09-06",
+   "attention_z": 1.46,
+   "driver": "wiki",
+   "channels": {
+    "wiki": 1.46
+   },
+   "corroborating": [],
+   "stage": "fading",
+   "acceleration": 0.71,
+   "trends_hit": 0,
+   "finance_noticed": false,
+   "price_return_5d": 0.0264,
+   "price_return_20d": 0.238,
+   "volume_z": -0.97,
+   "unpriced": 0.8678,
+   "has_prices": true,
+   "has_social": false,
+   "direction": "unknown",
+   "attention_score": 23.5,
+   "past_spikes": {
+    "n": 0,
+    "median_10d": 0.0,
+    "hit_rate": 0.0
+   },
+   "flags": [
+    "FADING"
+   ],
+   "why": [
+    "attention is coming off a recent peak"
+   ],
+   "z_spark": [
+    -0.44,
+    -0.07,
+    0.18,
+    -0.33,
+    -1.37,
+    -1.27,
+    -0.88,
+    -1.14,
+    0.46,
+    -0.81,
+    -0.27,
+    -1.7,
+    0.4,
+    -0.57,
+    0.72,
+    0.1,
+    0.0,
+    -0.47,
+    0.67,
+    -0.5,
+    -0.39,
+    0.62,
+    0.94,
+    0.32,
+    -1.74,
+    4.06,
+    2.1,
+    2.3,
+    1.79,
+    1.46
+   ],
+   "driver_spark": [
+    4.949,
+    5.011,
+    5.056,
+    4.97,
+    4.812,
+    4.812,
+    4.875,
+    4.804,
+    5.075,
+    4.86,
+    4.949,
+    4.71,
+    5.03,
+    4.883,
+    5.043,
+    4.984,
+    4.984,
+    4.913,
+    5.056,
+    4.905,
+    4.898,
+    5.024,
+    5.063,
+    5.011,
+    4.796,
+    5.421,
+    5.209,
+    5.231,
+    5.176,
+    5.165
+   ],
+   "price_spark": [
+    102.36,
+    105.07,
+    111.15,
+    113.8,
+    111.31,
+    110.82,
+    109.14,
+    108.23,
+    105.62,
+    106.62,
+    110.63,
+    111.47,
+    109.09,
+    105.75,
+    106.63,
+    113.24,
+    120.8,
+    118.0,
+    119.6,
+    116.46,
+    112.5,
+    135.0,
+    131.57,
+    130.6,
+    128.6,
+    127.48,
+    133.58,
+    129.05,
+    132.41,
+    132.0
+   ],
+   "channel_dates": {
+    "wiki": "2026-09-06"
+   },
+   "app_rank": 0.0,
+   "key": "roborock",
+   "name": "Roborock",
+   "ticker": "688169.SS",
+   "company": "Roborock",
+   "sector": "home",
+   "private": false,
+   "on_watchlist": false,
+   "mentions": 0,
+   "examples": [],
+   "apps": [],
+   "history_days": 106,
+   "attention": {
+    "entity": "roborock",
+    "date": "2026-09-06",
+    "attention_z": 1.46,
+    "driver": "wiki",
+    "channels": {
+     "wiki": 1.46
+    },
+    "corroborating": [],
+    "stage": "fading",
+    "acceleration": 0.71,
+    "trends_hit": 0,
+    "finance_noticed": false,
+    "price_return_5d": 0.0264,
+    "price_return_20d": 0.238,
+    "volume_z": -0.97,
+    "unpriced": 0.8678,
+    "has_prices": true,
+    "has_social": false,
+    "direction": "unknown",
+    "attention_score": 23.5,
+    "past_spikes": {
+     "n": 0,
+     "median_10d": 0.0,
+     "hit_rate": 0.0
+    },
+    "flags": [
+     "FADING"
+    ],
+    "why": [
+     "attention is coming off a recent peak"
+    ],
+    "z_spark": [
+     -0.44,
+     -0.07,
+     0.18,
+     -0.33,
+     -1.37,
+     -1.27,
+     -0.88,
+     -1.14,
+     0.46,
+     -0.81,
+     -0.27,
+     -1.7,
+     0.4,
+     -0.57,
+     0.72,
+     0.1,
+     0.0,
+     -0.47,
+     0.67,
+     -0.5,
+     -0.39,
+     0.62,
+     0.94,
+     0.32,
+     -1.74,
+     4.06,
+     2.1,
+     2.3,
+     1.79,
+     1.46
+    ],
+    "driver_spark": [
+     4.949,
+     5.011,
+     5.056,
+     4.97,
+     4.812,
+     4.812,
+     4.875,
+     4.804,
+     5.075,
+     4.86,
+     4.949,
+     4.71,
+     5.03,
+     4.883,
+     5.043,
+     4.984,
+     4.984,
+     4.913,
+     5.056,
+     4.905,
+     4.898,
+     5.024,
+     5.063,
+     5.011,
+     4.796,
+     5.421,
+     5.209,
+     5.231,
+     5.176,
+     5.165
+    ],
+    "price_spark": [
+     102.36,
+     105.07,
+     111.15,
+     113.8,
+     111.31,
+     110.82,
+     109.14,
+     108.23,
+     105.62,
+     106.62,
+     110.63,
+     111.47,
+     109.09,
+     105.75,
+     106.63,
+     113.24,
+     120.8,
+     118.0,
+     119.6,
+     116.46,
+     112.5,
+     135.0,
+     131.57,
+     130.6,
+     128.6,
+     127.48,
+     133.58,
+     129.05,
+     132.41,
+     132.0
+    ],
+    "channel_dates": {
+     "wiki": "2026-09-06"
+    },
+    "app_rank": 0.0
+   },
+   "headlines": [],
+   "explain": {
+    "summary": "Roborock: attention is fading from a recent peak, led by Wikipedia lookups (+1.5σ vs its own baseline). Stock: +2.6% over 5 days.",
+    "tone": "unknown",
+    "drivers": [],
+    "source": "heuristic"
+   }
   }
  ],
  "trends_raw": {
   "US": [
    {
-    "title": "2026 fantasy football wide receivers",
-    "traffic": "200+"
+    "title": "karen khachanov",
+    "traffic": "5000+"
    },
    {
-    "title": "electoral fraud",
-    "traffic": "200+"
-   },
-   {
-    "title": "falcons depth chart",
-    "traffic": "200+"
-   },
-   {
-    "title": "us open today",
-    "traffic": "50000+"
-   },
-   {
-    "title": "holiday today",
-    "traffic": "200+"
-   },
-   {
-    "title": "babysitting",
-    "traffic": "200+"
-   },
-   {
-    "title": "today",
-    "traffic": "200+"
-   },
-   {
-    "title": "maha",
+    "title": "ballon d'or",
     "traffic": "500+"
    },
    {
-    "title": "alice weidel",
-    "traffic": "200+"
+    "title": "donald trump north america flag map",
+    "traffic": "10000+"
    },
    {
-    "title": "sandra bullock kids",
-    "traffic": "200+"
+    "title": "hershey park closing",
+    "traffic": "1000+"
+   },
+   {
+    "title": "social security administration",
+    "traffic": "2000+"
+   },
+   {
+    "title": "pink",
+    "traffic": "2000+"
+   },
+   {
+    "title": "the handmaid's tale",
+    "traffic": "500+"
+   },
+   {
+    "title": "darius slayton",
+    "traffic": "5000+"
+   },
+   {
+    "title": "arthur gea",
+    "traffic": "2000+"
+   },
+   {
+    "title": "mlb standings",
+    "traffic": "20000+"
    }
   ],
   "AU": [
    {
-    "title": "pippa middleton",
+    "title": "slow horses",
     "traffic": "100+"
    },
    {
-    "title": "crime",
+    "title": "botic van de zandschulp",
     "traffic": "200+"
    },
    {
-    "title": "tradingview",
+    "title": "game of thrones",
     "traffic": "100+"
    },
    {
-    "title": "jack lowden",
+    "title": "udinese vs lazio",
+    "traffic": "100+"
+   },
+   {
+    "title": "arthur gea",
     "traffic": "200+"
    },
    {
-    "title": "rowan marshall",
+    "title": "grand theft auto vi",
     "traffic": "200+"
    },
    {
-    "title": "anz suncorp bank",
+    "title": "rybakina",
+    "traffic": "100+"
+   },
+   {
+    "title": "peter brock",
+    "traffic": "100+"
+   },
+   {
+    "title": "pamela anderson",
     "traffic": "500+"
    },
    {
-    "title": "magarey medal 2026",
-    "traffic": "500+"
-   },
-   {
-    "title": "christian brothers",
+    "title": "bond market",
     "traffic": "200+"
-   },
-   {
-    "title": "real estate bubble",
-    "traffic": "5000+"
-   },
-   {
-    "title": "aidan schubert",
-    "traffic": "500+"
    }
   ]
  },
  "finance_trending": [
   "000660.KS",
   "005930.KS",
-  "9988.HK",
   "ACN",
-  "ASML.AS",
+  "ADA-USD",
+  "BBD-B.TO",
   "BTC-CAD",
   "BTC-EUR",
   "BTC-USD",
   "BZ=F",
+  "CAD=X",
+  "CADUSD=X",
   "CL=F",
   "DOGE-USD",
-  "DVLT",
   "DX-Y.NYB",
+  "ES=F",
   "ETH-USD",
   "EURUSD=X",
-  "EWY",
+  "FCX",
+  "GC=F",
+  "HG=F",
   "HYPE32196-USD",
+  "JEPI",
   "JPY=X",
   "LINK-USD",
   "LTC-USD",
-  "MC.PA",
-  "NFLX",
+  "MXN=X",
+  "NKE",
   "NOKIA.HE",
   "NOVO-B.CO",
-  "RHM.DE",
-  "SIVE.ST",
+  "NQ=F",
+  "SI=F",
   "SOL-USD",
-  "SUI20947-USD",
-  "VICI",
+  "VST",
   "XLM-USD",
+  "XOM",
   "XRP-USD",
   "ZEC-USD",
-  "^DJI",
   "^FTSE",
-  "^GDAXI",
-  "^GSPC",
-  "^HSI",
-  "^IXIC",
   "^KS11",
   "^N225"
  ],
@@ -20335,7 +20399,7 @@
   "watchlist": 15,
   "brands": 440,
   "brands_scored": 427,
-  "elapsed_s": 626,
+  "elapsed_s": 587,
   "ai": false
  }
 }
