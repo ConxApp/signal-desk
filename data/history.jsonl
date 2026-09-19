@@ -1753,18 +1753,18 @@
 {"close": 153.1999969482422, "date": "2026-09-17", "entity": "popmart", "volume": 5052189.0, "wiki_views": 281}
 {"close": 109.80999755859375, "date": "2026-09-17", "entity": "robinhood", "volume": 21913200.0, "wiki_views": 636}
 {"close": 366.20001220703125, "date": "2026-09-17", "entity": "tesla", "volume": 38924100.0, "wiki_views": 2807}
-{"close": 559.8200073242188, "date": "2026-09-18", "entity": "amd", "volume": 31679273.0}
-{"close": 192.02000427246094, "date": "2026-09-18", "entity": "atlassian", "volume": 8901340.0}
-{"close": 30.559999465942383, "date": "2026-09-18", "entity": "birkenstock", "volume": 2618248.0}
-{"close": 265.6300048828125, "date": "2026-09-18", "entity": "bloom_energy", "volume": 73325656.0}
-{"close": 28.020000457763672, "date": "2026-09-18", "entity": "celsius", "volume": 12585211.0}
-{"close": 56.560001373291016, "date": "2026-09-18", "entity": "crispr", "volume": 3381169.0}
-{"close": 122.23999786376953, "date": "2026-09-18", "entity": "crocs", "volume": 2332708.0}
-{"close": 78.43000030517578, "date": "2026-09-18", "entity": "deckers", "volume": 6729347.0}
-{"close": 40.029998779296875, "date": "2026-09-18", "entity": "dutch_bros", "volume": 6625686.0}
-{"close": 96.44000244140625, "date": "2026-09-18", "entity": "elf", "volume": 1819533.0}
-{"close": 18.110000610351562, "date": "2026-09-18", "entity": "oddity", "volume": 3790350.0}
-{"close": 27.260000228881836, "date": "2026-09-18", "entity": "onon", "volume": 21038541.0}
-{"close": 155.10000610351562, "date": "2026-09-18", "entity": "popmart", "volume": 5970736.0}
-{"close": 119.81999969482422, "date": "2026-09-18", "entity": "robinhood", "volume": 39158459.0}
-{"close": 364.2699890136719, "date": "2026-09-18", "entity": "tesla", "volume": 51771532.0}
+{"close": 559.8200073242188, "date": "2026-09-18", "entity": "amd", "volume": 31785700.0, "wiki_views": 145}
+{"close": 192.02000427246094, "date": "2026-09-18", "entity": "atlassian", "volume": 8901700.0, "wiki_views": 688}
+{"close": 30.559999465942383, "date": "2026-09-18", "entity": "birkenstock", "volume": 2619800.0, "wiki_views": 329}
+{"close": 265.6300048828125, "date": "2026-09-18", "entity": "bloom_energy", "volume": 73384100.0, "wiki_views": 322}
+{"close": 28.020000457763672, "date": "2026-09-18", "entity": "celsius", "volume": 12589700.0, "wiki_views": 404}
+{"close": 56.560001373291016, "date": "2026-09-18", "entity": "crispr", "volume": 3382000.0, "wiki_views": 37}
+{"close": 122.23999786376953, "date": "2026-09-18", "entity": "crocs", "volume": 2332700.0, "wiki_views": 564}
+{"close": 78.43000030517578, "date": "2026-09-18", "entity": "deckers", "volume": 6809400.0, "wiki_views": 360}
+{"close": 40.029998779296875, "date": "2026-09-18", "entity": "dutch_bros", "volume": 6629300.0, "wiki_views": 9}
+{"close": 96.44000244140625, "date": "2026-09-18", "entity": "elf", "volume": 1820100.0, "wiki_views": 162}
+{"close": 18.110000610351562, "date": "2026-09-18", "entity": "oddity", "volume": 3790700.0, "wiki_views": 31}
+{"close": 27.260000228881836, "date": "2026-09-18", "entity": "onon", "volume": 21185500.0, "wiki_views": 14912}
+{"close": 155.10000610351562, "date": "2026-09-18", "entity": "popmart", "volume": 5970736.0, "wiki_views": 297}
+{"close": 119.81999969482422, "date": "2026-09-18", "entity": "robinhood", "volume": 39224600.0, "wiki_views": 544}
+{"close": 364.2699890136719, "date": "2026-09-18", "entity": "tesla", "volume": 51819200.0, "wiki_views": 2586}
