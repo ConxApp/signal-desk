@@ -12895,7 +12895,7 @@
 {"close": 34.43000030517578, "date": "2026-06-23", "entity": "generalmills", "volume": 12590000.0, "wiki_views": 562}
 {"date": "2026-06-23", "entity": "glossier", "wiki_views": 78}
 {"date": "2026-06-23", "entity": "glp1_generic", "wiki_views": 664}
-{"date": "2026-06-23", "entity": "gm", "wiki_views": 2675}
+{"close": 78.94999694824219, "date": "2026-06-23", "entity": "gm", "volume": 7860800.0, "wiki_views": 2675}
 {"close": 346.1300048828125, "date": "2026-06-23", "entity": "googlepixel", "volume": 34007700.0, "wiki_views": 3773}
 {"close": 0.7200000286102295, "date": "2026-06-23", "entity": "gopro", "volume": 3817700.0, "wiki_views": 350}
 {"close": 3.4600000381469727, "date": "2026-06-23", "entity": "grab", "volume": 56539700.0, "wiki_views": 434}
@@ -12978,7 +12978,7 @@
 {"close": 386.8299865722656, "date": "2026-06-23", "entity": "marriott", "volume": 2019500.0, "wiki_views": 1057}
 {"date": "2026-06-23", "entity": "mars", "wiki_views": 222}
 {"close": 35.310001373291016, "date": "2026-06-23", "entity": "match", "volume": 3404300.0, "wiki_views": 428}
-{"date": "2026-06-23", "entity": "mattel", "wiki_views": 1094}
+{"close": 13.770000457763672, "date": "2026-06-23", "entity": "mattel", "volume": 4119700.0, "wiki_views": 1094}
 {"close": 271.6600036621094, "date": "2026-06-23", "entity": "mcdonalds", "volume": 3783500.0, "wiki_views": 3315}
 {"close": 69.5999984741211, "date": "2026-06-23", "entity": "meituan", "volume": 33267703.0, "wiki_views": 278}
 {"date": "2026-06-23", "entity": "mercadolibre", "wiki_views": 541}
@@ -13320,7 +13320,7 @@
 {"close": 34.79999923706055, "date": "2026-06-24", "entity": "generalmills", "volume": 12012600.0, "wiki_views": 551}
 {"date": "2026-06-24", "entity": "glossier", "wiki_views": 86}
 {"date": "2026-06-24", "entity": "glp1_generic", "wiki_views": 648}
-{"date": "2026-06-24", "entity": "gm", "wiki_views": 2489}
+{"close": 78.94999694824219, "date": "2026-06-24", "entity": "gm", "volume": 9359000.0, "wiki_views": 2489}
 {"close": 345.2900085449219, "date": "2026-06-24", "entity": "googlepixel", "news_articles": 0.0152, "volume": 44997300.0, "wiki_views": 3734}
 {"close": 0.7099999785423279, "date": "2026-06-24", "entity": "gopro", "volume": 6163700.0, "wiki_views": 361}
 {"close": 3.490000009536743, "date": "2026-06-24", "entity": "grab", "volume": 54780400.0, "wiki_views": 398}
@@ -13403,7 +13403,7 @@
 {"close": 383.55999755859375, "date": "2026-06-24", "entity": "marriott", "volume": 1414700.0, "wiki_views": 1532}
 {"date": "2026-06-24", "entity": "mars", "wiki_views": 231}
 {"close": 35.34000015258789, "date": "2026-06-24", "entity": "match", "volume": 4371700.0, "wiki_views": 503}
-{"date": "2026-06-24", "entity": "mattel", "wiki_views": 1084}
+{"close": 13.880000114440918, "date": "2026-06-24", "entity": "mattel", "volume": 3738900.0, "wiki_views": 1084}
 {"close": 273.8800048828125, "date": "2026-06-24", "entity": "mcdonalds", "news_articles": 0.0205, "volume": 4698700.0, "wiki_views": 3613}
 {"close": 67.75, "date": "2026-06-24", "entity": "meituan", "volume": 53080662.0, "wiki_views": 163}
 {"date": "2026-06-24", "entity": "mercadolibre", "wiki_views": 478}
@@ -13745,7 +13745,7 @@
 {"close": 35.400001525878906, "date": "2026-06-25", "entity": "generalmills", "volume": 8587200.0, "wiki_views": 533}
 {"date": "2026-06-25", "entity": "glossier", "wiki_views": 52}
 {"date": "2026-06-25", "entity": "glp1_generic", "wiki_views": 613}
-{"date": "2026-06-25", "entity": "gm", "wiki_views": 2450}
+{"close": 78.52999877929688, "date": "2026-06-25", "entity": "gm", "volume": 8450200.0, "wiki_views": 2450}
 {"close": 343.7099914550781, "date": "2026-06-25", "entity": "googlepixel", "news_articles": 0.0158, "volume": 44491400.0, "wiki_views": 3470}
 {"close": 0.7699999809265137, "date": "2026-06-25", "entity": "gopro", "volume": 4904600.0, "wiki_views": 371}
 {"close": 3.4600000381469727, "date": "2026-06-25", "entity": "grab", "volume": 44841500.0, "wiki_views": 510}
@@ -13828,7 +13828,7 @@
 {"close": 378.9100036621094, "date": "2026-06-25", "entity": "marriott", "volume": 1498700.0, "wiki_views": 889}
 {"date": "2026-06-25", "entity": "mars", "wiki_views": 190}
 {"close": 34.939998626708984, "date": "2026-06-25", "entity": "match", "volume": 5643500.0, "wiki_views": 555}
-{"date": "2026-06-25", "entity": "mattel", "wiki_views": 1147}
+{"close": 13.8100004196167, "date": "2026-06-25", "entity": "mattel", "volume": 2908700.0, "wiki_views": 1147}
 {"close": 264.5400085449219, "date": "2026-06-25", "entity": "mcdonalds", "news_articles": 0.0164, "volume": 6192700.0, "wiki_views": 3551}
 {"close": 66.0999984741211, "date": "2026-06-25", "entity": "meituan", "volume": 63246385.0, "wiki_views": 192}
 {"date": "2026-06-25", "entity": "mercadolibre", "wiki_views": 653}
@@ -14170,7 +14170,7 @@
 {"close": 36.0099983215332, "date": "2026-06-26", "entity": "generalmills", "volume": 13184300.0, "wiki_views": 662}
 {"date": "2026-06-26", "entity": "glossier", "wiki_views": 41}
 {"date": "2026-06-26", "entity": "glp1_generic", "wiki_views": 587}
-{"date": "2026-06-26", "entity": "gm", "wiki_views": 2494}
+{"close": 78.0999984741211, "date": "2026-06-26", "entity": "gm", "volume": 12592000.0, "wiki_views": 2494}
 {"close": 337.3900146484375, "date": "2026-06-26", "entity": "googlepixel", "news_articles": 0.0125, "volume": 114706300.0, "wiki_views": 3020}
 {"close": 0.7490000128746033, "date": "2026-06-26", "entity": "gopro", "volume": 22272300.0, "wiki_views": 385}
 {"close": 3.549999952316284, "date": "2026-06-26", "entity": "grab", "volume": 47805800.0, "wiki_views": 539}
@@ -14253,7 +14253,7 @@
 {"close": 377.30999755859375, "date": "2026-06-26", "entity": "marriott", "volume": 2426300.0, "wiki_views": 1032}
 {"date": "2026-06-26", "entity": "mars", "wiki_views": 180}
 {"close": 37.16999816894531, "date": "2026-06-26", "entity": "match", "volume": 7415500.0, "wiki_views": 426}
-{"date": "2026-06-26", "entity": "mattel", "wiki_views": 1116}
+{"close": 13.979999542236328, "date": "2026-06-26", "entity": "mattel", "volume": 6075900.0, "wiki_views": 1116}
 {"close": 269.760009765625, "date": "2026-06-26", "entity": "mcdonalds", "news_articles": 0.0111, "volume": 7422800.0, "wiki_views": 3221}
 {"close": 64.25, "date": "2026-06-26", "entity": "meituan", "volume": 84453570.0, "wiki_views": 147}
 {"date": "2026-06-26", "entity": "mercadolibre", "wiki_views": 486}
@@ -15443,7 +15443,7 @@
 {"close": 36.380001068115234, "date": "2026-06-29", "entity": "generalmills", "volume": 12214100.0, "wiki_views": 594}
 {"date": "2026-06-29", "entity": "glossier", "wiki_views": 52}
 {"date": "2026-06-29", "entity": "glp1_generic", "wiki_views": 624}
-{"date": "2026-06-29", "entity": "gm", "wiki_views": 2617}
+{"close": 77.33999633789062, "date": "2026-06-29", "entity": "gm", "volume": 7111000.0, "wiki_views": 2617}
 {"close": 353.6499938964844, "date": "2026-06-29", "entity": "googlepixel", "news_articles": 0.0092, "volume": 34213900.0, "wiki_views": 3098}
 {"close": 0.7649999856948853, "date": "2026-06-29", "entity": "gopro", "volume": 5987200.0, "wiki_views": 338}
 {"close": 3.740000009536743, "date": "2026-06-29", "entity": "grab", "volume": 58702900.0, "wiki_views": 514}
@@ -15526,7 +15526,7 @@
 {"close": 374.8800048828125, "date": "2026-06-29", "entity": "marriott", "volume": 1487300.0, "wiki_views": 1079}
 {"date": "2026-06-29", "entity": "mars", "wiki_views": 195}
 {"close": 38.72999954223633, "date": "2026-06-29", "entity": "match", "volume": 5025900.0, "wiki_views": 446}
-{"date": "2026-06-29", "entity": "mattel", "wiki_views": 1200}
+{"close": 13.6899995803833, "date": "2026-06-29", "entity": "mattel", "volume": 4977100.0, "wiki_views": 1200}
 {"close": 267.17999267578125, "date": "2026-06-29", "entity": "mcdonalds", "news_articles": 0.0092, "volume": 4522000.0, "wiki_views": 3225}
 {"close": 67.6500015258789, "date": "2026-06-29", "entity": "meituan", "volume": 79469292.0, "wiki_views": 199}
 {"date": "2026-06-29", "entity": "mercadolibre", "wiki_views": 551}
@@ -15868,7 +15868,7 @@
 {"close": 34.79999923706055, "date": "2026-06-30", "entity": "generalmills", "volume": 13537300.0, "wiki_views": 540}
 {"date": "2026-06-30", "entity": "glossier", "wiki_views": 46}
 {"date": "2026-06-30", "entity": "glp1_generic", "wiki_views": 616}
-{"date": "2026-06-30", "entity": "gm", "wiki_views": 2390}
+{"close": 77.08000183105469, "date": "2026-06-30", "entity": "gm", "volume": 7845300.0, "wiki_views": 2390}
 {"close": 357.3699951171875, "date": "2026-06-30", "entity": "googlepixel", "news_articles": 0.0069, "volume": 35237200.0, "wiki_views": 2982}
 {"close": 0.777999997138977, "date": "2026-06-30", "entity": "gopro", "volume": 5176200.0, "wiki_views": 357}
 {"close": 3.7699999809265137, "date": "2026-06-30", "entity": "grab", "volume": 64638300.0, "wiki_views": 543}
@@ -15951,7 +15951,7 @@
 {"close": 370.5899963378906, "date": "2026-06-30", "entity": "marriott", "volume": 1910800.0, "wiki_views": 1046}
 {"date": "2026-06-30", "entity": "mars", "wiki_views": 230}
 {"close": 38.04999923706055, "date": "2026-06-30", "entity": "match", "volume": 4554600.0, "wiki_views": 467}
-{"date": "2026-06-30", "entity": "mattel", "wiki_views": 1096}
+{"close": 13.880000114440918, "date": "2026-06-30", "entity": "mattel", "volume": 4722000.0, "wiki_views": 1096}
 {"close": 270.30999755859375, "date": "2026-06-30", "entity": "mcdonalds", "news_articles": 0.0112, "volume": 4752600.0, "wiki_views": 3157}
 {"close": 68.5, "date": "2026-06-30", "entity": "meituan", "volume": 65133829.0, "wiki_views": 632}
 {"date": "2026-06-30", "entity": "mercadolibre", "wiki_views": 490}
@@ -16293,7 +16293,7 @@
 {"close": 37.77000045776367, "date": "2026-07-01", "entity": "generalmills", "volume": 27489200.0, "wiki_views": 634}
 {"date": "2026-07-01", "entity": "glossier", "wiki_views": 56}
 {"date": "2026-07-01", "entity": "glp1_generic", "wiki_views": 709}
-{"date": "2026-07-01", "entity": "gm", "wiki_views": 2338}
+{"close": 75.5199966430664, "date": "2026-07-01", "entity": "gm", "volume": 7662000.0, "wiki_views": 2338}
 {"close": 361.2099914550781, "date": "2026-07-01", "entity": "googlepixel", "volume": 26736400.0, "wiki_views": 3164}
 {"close": 0.7300000190734863, "date": "2026-07-01", "entity": "gopro", "volume": 5067800.0, "wiki_views": 304}
 {"close": 3.890000104904175, "date": "2026-07-01", "entity": "grab", "volume": 45331700.0, "wiki_views": 531}
@@ -16376,7 +16376,7 @@
 {"close": 368.32000732421875, "date": "2026-07-01", "entity": "marriott", "volume": 1669300.0, "wiki_views": 1125}
 {"date": "2026-07-01", "entity": "mars", "wiki_views": 214}
 {"close": 38.25, "date": "2026-07-01", "entity": "match", "volume": 3290600.0, "wiki_views": 476}
-{"date": "2026-07-01", "entity": "mattel", "wiki_views": 1106}
+{"close": 13.739999771118164, "date": "2026-07-01", "entity": "mattel", "volume": 4028500.0, "wiki_views": 1106}
 {"close": 269.42999267578125, "date": "2026-07-01", "entity": "mcdonalds", "volume": 3902100.0, "wiki_views": 3094}
 {"date": "2026-07-01", "entity": "meituan", "wiki_views": 353}
 {"date": "2026-07-01", "entity": "mercadolibre", "wiki_views": 482}
@@ -16718,7 +16718,7 @@
 {"close": 37.56999969482422, "date": "2026-07-02", "entity": "generalmills", "volume": 12760200.0, "wiki_views": 603}
 {"date": "2026-07-02", "entity": "glossier", "wiki_views": 49}
 {"date": "2026-07-02", "entity": "glp1_generic", "wiki_views": 626}
-{"date": "2026-07-02", "entity": "gm", "wiki_views": 2341}
+{"close": 76.0, "date": "2026-07-02", "entity": "gm", "volume": 6018600.0, "wiki_views": 2341}
 {"close": 359.9100036621094, "date": "2026-07-02", "entity": "googlepixel", "volume": 25974800.0, "wiki_views": 3133}
 {"close": 0.7200000286102295, "date": "2026-07-02", "entity": "gopro", "volume": 4958300.0, "wiki_views": 403}
 {"close": 3.9000000953674316, "date": "2026-07-02", "entity": "grab", "volume": 31337900.0, "wiki_views": 662}
@@ -16801,7 +16801,7 @@
 {"close": 372.95001220703125, "date": "2026-07-02", "entity": "marriott", "volume": 1552700.0, "wiki_views": 1142}
 {"date": "2026-07-02", "entity": "mars", "wiki_views": 182}
 {"close": 37.900001525878906, "date": "2026-07-02", "entity": "match", "volume": 3091800.0, "wiki_views": 531}
-{"date": "2026-07-02", "entity": "mattel", "wiki_views": 1183}
+{"close": 13.34000015258789, "date": "2026-07-02", "entity": "mattel", "volume": 4936600.0, "wiki_views": 1183}
 {"close": 280.6300048828125, "date": "2026-07-02", "entity": "mcdonalds", "volume": 6871800.0, "wiki_views": 3145}
 {"close": 70.8499984741211, "date": "2026-07-02", "entity": "meituan", "volume": 68122830.0, "wiki_views": 233}
 {"date": "2026-07-02", "entity": "mercadolibre", "wiki_views": 549}
@@ -18417,7 +18417,7 @@
 {"close": 36.119998931884766, "date": "2026-07-06", "entity": "generalmills", "volume": 12273400.0, "wiki_views": 541}
 {"date": "2026-07-06", "entity": "glossier", "wiki_views": 52}
 {"date": "2026-07-06", "entity": "glp1_generic", "wiki_views": 557}
-{"date": "2026-07-06", "entity": "gm", "wiki_views": 2401}
+{"close": 77.8499984741211, "date": "2026-07-06", "entity": "gm", "volume": 9015700.0, "wiki_views": 2401}
 {"close": 366.4599914550781, "date": "2026-07-06", "entity": "googlepixel", "news_articles": 0.015, "volume": 26915800.0, "wiki_views": 2947}
 {"close": 0.7390000224113464, "date": "2026-07-06", "entity": "gopro", "volume": 3461200.0, "wiki_views": 439}
 {"close": 3.8499999046325684, "date": "2026-07-06", "entity": "grab", "volume": 82998500.0, "wiki_views": 506}
@@ -18500,7 +18500,7 @@
 {"close": 379.75, "date": "2026-07-06", "entity": "marriott", "volume": 1737700.0, "wiki_views": 1318}
 {"date": "2026-07-06", "entity": "mars", "wiki_views": 222}
 {"close": 37.66999816894531, "date": "2026-07-06", "entity": "match", "volume": 2822500.0, "wiki_views": 482}
-{"date": "2026-07-06", "entity": "mattel", "wiki_views": 1039}
+{"close": 13.050000190734863, "date": "2026-07-06", "entity": "mattel", "volume": 5129900.0, "wiki_views": 1039}
 {"close": 279.5, "date": "2026-07-06", "entity": "mcdonalds", "news_articles": 0.0124, "volume": 6744000.0, "wiki_views": 3336}
 {"close": 74.94999694824219, "date": "2026-07-06", "entity": "meituan", "volume": 50530384.0, "wiki_views": 183}
 {"date": "2026-07-06", "entity": "mercadolibre", "wiki_views": 564}
@@ -18842,7 +18842,7 @@
 {"close": 37.099998474121094, "date": "2026-07-07", "entity": "generalmills", "volume": 8795000.0, "wiki_views": 569}
 {"date": "2026-07-07", "entity": "glossier", "wiki_views": 53}
 {"date": "2026-07-07", "entity": "glp1_generic", "wiki_views": 607}
-{"date": "2026-07-07", "entity": "gm", "wiki_views": 2285}
+{"close": 76.02999877929688, "date": "2026-07-07", "entity": "gm", "volume": 7825500.0, "wiki_views": 2285}
 {"close": 367.0299987792969, "date": "2026-07-07", "entity": "googlepixel", "news_articles": 0.0088, "volume": 24045600.0, "wiki_views": 3226}
 {"close": 0.7009999752044678, "date": "2026-07-07", "entity": "gopro", "volume": 4693800.0, "wiki_views": 373}
 {"close": 3.930000066757202, "date": "2026-07-07", "entity": "grab", "volume": 45899400.0, "wiki_views": 477}
@@ -18925,7 +18925,7 @@
 {"close": 380.75, "date": "2026-07-07", "entity": "marriott", "volume": 1494800.0, "wiki_views": 1123}
 {"date": "2026-07-07", "entity": "mars", "wiki_views": 247}
 {"close": 39.18000030517578, "date": "2026-07-07", "entity": "match", "volume": 4798800.0, "wiki_views": 465}
-{"date": "2026-07-07", "entity": "mattel", "wiki_views": 959}
+{"close": 13.420000076293945, "date": "2026-07-07", "entity": "mattel", "volume": 6584600.0, "wiki_views": 959}
 {"close": 282.2099914550781, "date": "2026-07-07", "entity": "mcdonalds", "news_articles": 0.0109, "volume": 3688500.0, "wiki_views": 3279}
 {"close": 78.3499984741211, "date": "2026-07-07", "entity": "meituan", "volume": 117135979.0, "wiki_views": 240}
 {"date": "2026-07-07", "entity": "mercadolibre", "wiki_views": 700}
@@ -19267,7 +19267,7 @@
 {"close": 36.33000183105469, "date": "2026-07-08", "entity": "generalmills", "volume": 8874000.0, "wiki_views": 613}
 {"date": "2026-07-08", "entity": "glossier", "wiki_views": 75}
 {"date": "2026-07-08", "entity": "glp1_generic", "wiki_views": 650}
-{"date": "2026-07-08", "entity": "gm", "wiki_views": 2600}
+{"close": 76.23999786376953, "date": "2026-07-08", "entity": "gm", "volume": 5273500.0, "wiki_views": 2600}
 {"close": 361.9200134277344, "date": "2026-07-08", "entity": "googlepixel", "news_articles": 0.012, "volume": 22094800.0, "wiki_views": 3247}
 {"close": 0.7310000061988831, "date": "2026-07-08", "entity": "gopro", "volume": 6089100.0, "wiki_views": 365}
 {"close": 3.809999942779541, "date": "2026-07-08", "entity": "grab", "volume": 42320400.0, "wiki_views": 420}
@@ -19350,7 +19350,7 @@
 {"close": 371.1600036621094, "date": "2026-07-08", "entity": "marriott", "volume": 1391600.0, "wiki_views": 1100}
 {"date": "2026-07-08", "entity": "mars", "wiki_views": 227}
 {"close": 38.36000061035156, "date": "2026-07-08", "entity": "match", "volume": 2986100.0, "wiki_views": 505}
-{"date": "2026-07-08", "entity": "mattel", "wiki_views": 987}
+{"close": 13.170000076293945, "date": "2026-07-08", "entity": "mattel", "volume": 5223000.0, "wiki_views": 987}
 {"close": 278.25, "date": "2026-07-08", "entity": "mcdonalds", "news_articles": 0.0177, "volume": 4735900.0, "wiki_views": 3437}
 {"close": 80.9000015258789, "date": "2026-07-08", "entity": "meituan", "volume": 72737280.0, "wiki_views": 201}
 {"date": "2026-07-08", "entity": "mercadolibre", "wiki_views": 364}
@@ -19692,7 +19692,7 @@
 {"close": 35.849998474121094, "date": "2026-07-09", "entity": "generalmills", "volume": 11024400.0, "wiki_views": 569}
 {"date": "2026-07-09", "entity": "glossier", "wiki_views": 53}
 {"date": "2026-07-09", "entity": "glp1_generic", "wiki_views": 600}
-{"date": "2026-07-09", "entity": "gm", "wiki_views": 2784}
+{"close": 76.6500015258789, "date": "2026-07-09", "entity": "gm", "volume": 4201900.0, "wiki_views": 2784}
 {"close": 358.8900146484375, "date": "2026-07-09", "entity": "googlepixel", "news_articles": 0.0066, "volume": 24729100.0, "wiki_views": 3096}
 {"close": 0.7599999904632568, "date": "2026-07-09", "entity": "gopro", "volume": 6869000.0, "wiki_views": 482}
 {"close": 3.880000114440918, "date": "2026-07-09", "entity": "grab", "volume": 28842300.0, "wiki_views": 449}
@@ -19775,7 +19775,7 @@
 {"close": 372.4700012207031, "date": "2026-07-09", "entity": "marriott", "volume": 1208000.0, "wiki_views": 1060}
 {"date": "2026-07-09", "entity": "mars", "wiki_views": 192}
 {"close": 39.31999969482422, "date": "2026-07-09", "entity": "match", "volume": 3263800.0, "wiki_views": 496}
-{"date": "2026-07-09", "entity": "mattel", "wiki_views": 992}
+{"close": 13.180000305175781, "date": "2026-07-09", "entity": "mattel", "volume": 5983100.0, "wiki_views": 992}
 {"close": 276.489990234375, "date": "2026-07-09", "entity": "mcdonalds", "news_articles": 0.0127, "volume": 3605400.0, "wiki_views": 3595}
 {"close": 78.5, "date": "2026-07-09", "entity": "meituan", "volume": 55805531.0, "wiki_views": 199}
 {"date": "2026-07-09", "entity": "mercadolibre", "wiki_views": 466}
@@ -20117,7 +20117,7 @@
 {"close": 36.220001220703125, "date": "2026-07-10", "entity": "generalmills", "volume": 8322000.0, "wiki_views": 589}
 {"date": "2026-07-10", "entity": "glossier", "wiki_views": 67}
 {"date": "2026-07-10", "entity": "glp1_generic", "wiki_views": 540}
-{"date": "2026-07-10", "entity": "gm", "wiki_views": 2380}
+{"close": 77.8499984741211, "date": "2026-07-10", "entity": "gm", "volume": 4783500.0, "wiki_views": 2380}
 {"close": 357.17999267578125, "date": "2026-07-10", "entity": "googlepixel", "news_articles": 0.0091, "volume": 18146100.0, "wiki_views": 2835}
 {"close": 0.7630000114440918, "date": "2026-07-10", "entity": "gopro", "volume": 4579800.0, "wiki_views": 503}
 {"close": 3.930000066757202, "date": "2026-07-10", "entity": "grab", "volume": 24937100.0, "wiki_views": 433}
@@ -20200,7 +20200,7 @@
 {"close": 376.1099853515625, "date": "2026-07-10", "entity": "marriott", "volume": 1028400.0, "wiki_views": 1047}
 {"date": "2026-07-10", "entity": "mars", "wiki_views": 177}
 {"close": 38.849998474121094, "date": "2026-07-10", "entity": "match", "volume": 2189800.0, "wiki_views": 418}
-{"date": "2026-07-10", "entity": "mattel", "wiki_views": 990}
+{"close": 13.329999923706055, "date": "2026-07-10", "entity": "mattel", "volume": 2990900.0, "wiki_views": 990}
 {"close": 274.6000061035156, "date": "2026-07-10", "entity": "mcdonalds", "news_articles": 0.013, "volume": 2980800.0, "wiki_views": 3316}
 {"close": 78.69999694824219, "date": "2026-07-10", "entity": "meituan", "volume": 38059821.0, "wiki_views": 207}
 {"date": "2026-07-10", "entity": "mercadolibre", "wiki_views": 385}
@@ -21391,7 +21391,7 @@
 {"close": 36.599998474121094, "date": "2026-07-13", "entity": "generalmills", "volume": 10374700.0, "wiki_views": 616}
 {"date": "2026-07-13", "entity": "glossier", "wiki_views": 51}
 {"date": "2026-07-13", "entity": "glp1_generic", "wiki_views": 652}
-{"date": "2026-07-13", "entity": "gm", "wiki_views": 2688}
+{"close": 76.72000122070312, "date": "2026-07-13", "entity": "gm", "volume": 3253700.0, "wiki_views": 2688}
 {"close": 352.510009765625, "date": "2026-07-13", "entity": "googlepixel", "news_articles": 0.0171, "volume": 15901700.0, "wiki_views": 2776}
 {"close": 0.7110000252723694, "date": "2026-07-13", "entity": "gopro", "volume": 5137600.0, "wiki_views": 421}
 {"close": 3.940000057220459, "date": "2026-07-13", "entity": "grab", "volume": 38535100.0, "wiki_views": 432}
@@ -21474,7 +21474,7 @@
 {"close": 362.8699951171875, "date": "2026-07-13", "entity": "marriott", "volume": 1592500.0, "wiki_views": 1356}
 {"date": "2026-07-13", "entity": "mars", "wiki_views": 221}
 {"close": 38.540000915527344, "date": "2026-07-13", "entity": "match", "volume": 1842900.0, "wiki_views": 502}
-{"date": "2026-07-13", "entity": "mattel", "wiki_views": 1058}
+{"close": 13.84000015258789, "date": "2026-07-13", "entity": "mattel", "volume": 8544900.0, "wiki_views": 1058}
 {"close": 272.6099853515625, "date": "2026-07-13", "entity": "mcdonalds", "news_articles": 0.0092, "volume": 4169600.0, "wiki_views": 3350}
 {"close": 77.94999694824219, "date": "2026-07-13", "entity": "meituan", "volume": 40167927.0, "wiki_views": 177}
 {"date": "2026-07-13", "entity": "mercadolibre", "wiki_views": 344}
@@ -21816,7 +21816,7 @@
 {"close": 36.459999084472656, "date": "2026-07-14", "entity": "generalmills", "volume": 11517400.0, "wiki_views": 593}
 {"date": "2026-07-14", "entity": "glossier", "wiki_views": 51}
 {"date": "2026-07-14", "entity": "glp1_generic", "wiki_views": 689}
-{"date": "2026-07-14", "entity": "gm", "wiki_views": 2482}
+{"close": 76.87000274658203, "date": "2026-07-14", "entity": "gm", "volume": 4962900.0, "wiki_views": 2482}
 {"close": 359.510009765625, "date": "2026-07-14", "entity": "googlepixel", "news_articles": 0.0153, "volume": 18259400.0, "wiki_views": 2732}
 {"close": 0.6980000138282776, "date": "2026-07-14", "entity": "gopro", "volume": 4885500.0, "wiki_views": 398}
 {"close": 3.799999952316284, "date": "2026-07-14", "entity": "grab", "volume": 33916000.0, "wiki_views": 367}
@@ -21899,7 +21899,7 @@
 {"close": 363.19000244140625, "date": "2026-07-14", "entity": "marriott", "volume": 1736800.0, "wiki_views": 1081}
 {"date": "2026-07-14", "entity": "mars", "wiki_views": 197}
 {"close": 38.34000015258789, "date": "2026-07-14", "entity": "match", "volume": 2953000.0, "wiki_views": 446}
-{"date": "2026-07-14", "entity": "mattel", "wiki_views": 951}
+{"close": 13.670000076293945, "date": "2026-07-14", "entity": "mattel", "volume": 5957100.0, "wiki_views": 951}
 {"close": 268.94000244140625, "date": "2026-07-14", "entity": "mcdonalds", "news_articles": 0.013, "volume": 3834500.0, "wiki_views": 3235}
 {"close": 79.19999694824219, "date": "2026-07-14", "entity": "meituan", "volume": 49973353.0, "wiki_views": 179}
 {"date": "2026-07-14", "entity": "mercadolibre", "wiki_views": 506}
@@ -22241,7 +22241,7 @@
 {"close": 37.220001220703125, "date": "2026-07-15", "entity": "generalmills", "volume": 11298400.0, "wiki_views": 599}
 {"date": "2026-07-15", "entity": "glossier", "wiki_views": 48}
 {"date": "2026-07-15", "entity": "glp1_generic", "wiki_views": 654}
-{"date": "2026-07-15", "entity": "gm", "wiki_views": 2390}
+{"close": 77.63999938964844, "date": "2026-07-15", "entity": "gm", "volume": 6293200.0, "wiki_views": 2390}
 {"close": 370.9200134277344, "date": "2026-07-15", "entity": "googlepixel", "news_articles": 0.0123, "volume": 28284600.0, "wiki_views": 2925}
 {"close": 0.7049999833106995, "date": "2026-07-15", "entity": "gopro", "volume": 3640700.0, "wiki_views": 395}
 {"close": 3.819999933242798, "date": "2026-07-15", "entity": "grab", "volume": 24976500.0, "wiki_views": 404}
@@ -22324,7 +22324,7 @@
 {"close": 369.04998779296875, "date": "2026-07-15", "entity": "marriott", "volume": 1110900.0, "wiki_views": 1126}
 {"date": "2026-07-15", "entity": "mars", "wiki_views": 181}
 {"close": 40.11000061035156, "date": "2026-07-15", "entity": "match", "volume": 4408200.0, "wiki_views": 553}
-{"date": "2026-07-15", "entity": "mattel", "wiki_views": 932}
+{"close": 13.859999656677246, "date": "2026-07-15", "entity": "mattel", "volume": 4239300.0, "wiki_views": 932}
 {"close": 264.95001220703125, "date": "2026-07-15", "entity": "mcdonalds", "news_articles": 0.0117, "volume": 6050900.0, "wiki_views": 3575}
 {"close": 83.4000015258789, "date": "2026-07-15", "entity": "meituan", "volume": 88085818.0, "wiki_views": 148}
 {"date": "2026-07-15", "entity": "mercadolibre", "wiki_views": 953}
@@ -22666,7 +22666,7 @@
 {"close": 38.70000076293945, "date": "2026-07-16", "entity": "generalmills", "volume": 15438100.0, "wiki_views": 591}
 {"date": "2026-07-16", "entity": "glossier", "wiki_views": 59}
 {"date": "2026-07-16", "entity": "glp1_generic", "wiki_views": 576}
-{"date": "2026-07-16", "entity": "gm", "wiki_views": 4194}
+{"close": 77.72000122070312, "date": "2026-07-16", "entity": "gm", "volume": 5396800.0, "wiki_views": 4194}
 {"close": 354.4599914550781, "date": "2026-07-16", "entity": "googlepixel", "news_articles": 0.0147, "volume": 41158500.0, "wiki_views": 2927}
 {"close": 0.6769999861717224, "date": "2026-07-16", "entity": "gopro", "volume": 4279000.0, "wiki_views": 358}
 {"close": 3.7300000190734863, "date": "2026-07-16", "entity": "grab", "volume": 37126700.0, "wiki_views": 459}
@@ -22749,7 +22749,7 @@
 {"close": 371.1400146484375, "date": "2026-07-16", "entity": "marriott", "volume": 1257800.0, "wiki_views": 1091}
 {"date": "2026-07-16", "entity": "mars", "wiki_views": 213}
 {"close": 40.290000915527344, "date": "2026-07-16", "entity": "match", "volume": 3902500.0, "wiki_views": 496}
-{"date": "2026-07-16", "entity": "mattel", "wiki_views": 900}
+{"close": 14.649999618530273, "date": "2026-07-16", "entity": "mattel", "volume": 9592000.0, "wiki_views": 900}
 {"close": 273.4599914550781, "date": "2026-07-16", "entity": "mcdonalds", "news_articles": 0.0179, "volume": 4812000.0, "wiki_views": 3528}
 {"close": 87.19999694824219, "date": "2026-07-16", "entity": "meituan", "volume": 100388858.0, "wiki_views": 226}
 {"date": "2026-07-16", "entity": "mercadolibre", "wiki_views": 477}
@@ -23091,7 +23091,7 @@
 {"close": 37.970001220703125, "date": "2026-07-17", "entity": "generalmills", "volume": 8630100.0, "wiki_views": 567}
 {"date": "2026-07-17", "entity": "glossier", "wiki_views": 58}
 {"date": "2026-07-17", "entity": "glp1_generic", "wiki_views": 524}
-{"date": "2026-07-17", "entity": "gm", "wiki_views": 2265}
+{"close": 76.06999969482422, "date": "2026-07-17", "entity": "gm", "volume": 5828100.0, "wiki_views": 2265}
 {"close": 346.7699890136719, "date": "2026-07-17", "entity": "googlepixel", "news_articles": 0.0099, "volume": 29959300.0, "wiki_views": 2790}
 {"close": 0.6600000262260437, "date": "2026-07-17", "entity": "gopro", "volume": 4303200.0, "wiki_views": 419}
 {"close": 3.569999933242798, "date": "2026-07-17", "entity": "grab", "volume": 41888900.0, "wiki_views": 452}
@@ -23174,7 +23174,7 @@
 {"close": 366.239990234375, "date": "2026-07-17", "entity": "marriott", "volume": 1845500.0, "wiki_views": 1054}
 {"date": "2026-07-17", "entity": "mars", "wiki_views": 192}
 {"close": 39.150001525878906, "date": "2026-07-17", "entity": "match", "volume": 2225800.0, "wiki_views": 398}
-{"date": "2026-07-17", "entity": "mattel", "wiki_views": 990}
+{"close": 14.300000190734863, "date": "2026-07-17", "entity": "mattel", "volume": 4579500.0, "wiki_views": 990}
 {"close": 267.7099914550781, "date": "2026-07-17", "entity": "mcdonalds", "news_articles": 0.0239, "volume": 3782000.0, "wiki_views": 3212}
 {"close": 83.6500015258789, "date": "2026-07-17", "entity": "meituan", "volume": 79212029.0, "wiki_views": 264}
 {"date": "2026-07-17", "entity": "mercadolibre", "wiki_views": 336}
@@ -24364,7 +24364,7 @@
 {"close": 37.58000183105469, "date": "2026-07-20", "entity": "generalmills", "volume": 6497400.0, "wiki_views": 704}
 {"date": "2026-07-20", "entity": "glossier", "wiki_views": 36}
 {"date": "2026-07-20", "entity": "glp1_generic", "wiki_views": 579}
-{"date": "2026-07-20", "entity": "gm", "wiki_views": 2404}
+{"close": 75.80000305175781, "date": "2026-07-20", "entity": "gm", "volume": 8809200.0, "wiki_views": 2404}
 {"close": 351.989990234375, "date": "2026-07-20", "entity": "googlepixel", "news_articles": 0.0108, "volume": 24736600.0, "wiki_views": 2652}
 {"close": 0.6830000281333923, "date": "2026-07-20", "entity": "gopro", "volume": 4436500.0, "wiki_views": 372}
 {"close": 3.619999885559082, "date": "2026-07-20", "entity": "grab", "volume": 36983900.0, "wiki_views": 386}
@@ -24447,7 +24447,7 @@
 {"close": 366.92999267578125, "date": "2026-07-20", "entity": "marriott", "volume": 1064700.0, "wiki_views": 1128}
 {"date": "2026-07-20", "entity": "mars", "wiki_views": 213}
 {"close": 39.040000915527344, "date": "2026-07-20", "entity": "match", "volume": 1507700.0, "wiki_views": 505}
-{"date": "2026-07-20", "entity": "mattel", "wiki_views": 898}
+{"close": 14.140000343322754, "date": "2026-07-20", "entity": "mattel", "volume": 7240000.0, "wiki_views": 898}
 {"close": 267.6400146484375, "date": "2026-07-20", "entity": "mcdonalds", "news_articles": 0.0123, "volume": 3693400.0, "wiki_views": 3175}
 {"close": 86.30000305175781, "date": "2026-07-20", "entity": "meituan", "volume": 63809984.0, "wiki_views": 177}
 {"date": "2026-07-20", "entity": "mercadolibre", "wiki_views": 624}
@@ -24789,7 +24789,7 @@
 {"close": 37.150001525878906, "date": "2026-07-21", "entity": "generalmills", "volume": 5879400.0, "wiki_views": 552}
 {"date": "2026-07-21", "entity": "glossier", "wiki_views": 36}
 {"date": "2026-07-21", "entity": "glp1_generic", "wiki_views": 615}
-{"date": "2026-07-21", "entity": "gm", "wiki_views": 2689}
+{"close": 79.5199966430664, "date": "2026-07-21", "entity": "gm", "volume": 11919800.0, "wiki_views": 2689}
 {"close": 347.1499938964844, "date": "2026-07-21", "entity": "googlepixel", "news_articles": 0.0114, "volume": 23369800.0, "wiki_views": 2934}
 {"close": 0.7200000286102295, "date": "2026-07-21", "entity": "gopro", "volume": 5784600.0, "wiki_views": 345}
 {"close": 3.5, "date": "2026-07-21", "entity": "grab", "volume": 28595800.0, "wiki_views": 397}
@@ -24872,7 +24872,7 @@
 {"close": 367.80999755859375, "date": "2026-07-21", "entity": "marriott", "volume": 1013100.0, "wiki_views": 1191}
 {"date": "2026-07-21", "entity": "mars", "wiki_views": 214}
 {"close": 38.75, "date": "2026-07-21", "entity": "match", "volume": 1748900.0, "wiki_views": 456}
-{"date": "2026-07-21", "entity": "mattel", "wiki_views": 984}
+{"close": 14.199999809265137, "date": "2026-07-21", "entity": "mattel", "volume": 5294800.0, "wiki_views": 984}
 {"close": 263.9100036621094, "date": "2026-07-21", "entity": "mcdonalds", "news_articles": 0.0092, "volume": 3539500.0, "wiki_views": 3126}
 {"close": 85.19999694824219, "date": "2026-07-21", "entity": "meituan", "volume": 33366001.0, "wiki_views": 176}
 {"date": "2026-07-21", "entity": "mercadolibre", "wiki_views": 343}
@@ -25214,7 +25214,7 @@
 {"close": 36.90999984741211, "date": "2026-07-22", "entity": "generalmills", "volume": 5766800.0, "wiki_views": 622}
 {"date": "2026-07-22", "entity": "glossier", "wiki_views": 48}
 {"date": "2026-07-22", "entity": "glp1_generic", "wiki_views": 572}
-{"date": "2026-07-22", "entity": "gm", "wiki_views": 2403}
+{"close": 82.12999725341797, "date": "2026-07-22", "entity": "gm", "volume": 13059500.0, "wiki_views": 2403}
 {"close": 342.0899963378906, "date": "2026-07-22", "entity": "googlepixel", "news_articles": 0.0106, "volume": 39334100.0, "wiki_views": 3392}
 {"close": 0.7390000224113464, "date": "2026-07-22", "entity": "gopro", "volume": 4990000.0, "wiki_views": 398}
 {"close": 3.3499999046325684, "date": "2026-07-22", "entity": "grab", "volume": 44569800.0, "wiki_views": 491}
@@ -25297,7 +25297,7 @@
 {"close": 369.79998779296875, "date": "2026-07-22", "entity": "marriott", "volume": 915100.0, "wiki_views": 1062}
 {"date": "2026-07-22", "entity": "mars", "wiki_views": 205}
 {"close": 38.029998779296875, "date": "2026-07-22", "entity": "match", "volume": 2667100.0, "wiki_views": 464}
-{"date": "2026-07-22", "entity": "mattel", "wiki_views": 1588}
+{"close": 14.399999618530273, "date": "2026-07-22", "entity": "mattel", "volume": 4570100.0, "wiki_views": 1588}
 {"close": 263.57000732421875, "date": "2026-07-22", "entity": "mcdonalds", "news_articles": 0.0291, "volume": 4524400.0, "wiki_views": 3674}
 {"close": 83.6500015258789, "date": "2026-07-22", "entity": "meituan", "volume": 40530626.0, "wiki_views": 179}
 {"date": "2026-07-22", "entity": "mercadolibre", "wiki_views": 367}
@@ -25639,7 +25639,7 @@
 {"close": 35.54999923706055, "date": "2026-07-23", "entity": "generalmills", "volume": 15296900.0, "wiki_views": 556}
 {"date": "2026-07-23", "entity": "glossier", "wiki_views": 55}
 {"date": "2026-07-23", "entity": "glp1_generic", "wiki_views": 555}
-{"date": "2026-07-23", "entity": "gm", "wiki_views": 2448}
+{"close": 80.66999816894531, "date": "2026-07-23", "entity": "gm", "volume": 9512900.0, "wiki_views": 2448}
 {"close": 317.69000244140625, "date": "2026-07-23", "entity": "googlepixel", "news_articles": 0.0123, "volume": 69419700.0, "wiki_views": 4881}
 {"close": 0.6899999976158142, "date": "2026-07-23", "entity": "gopro", "volume": 4645200.0, "wiki_views": 340}
 {"close": 3.299999952316284, "date": "2026-07-23", "entity": "grab", "volume": 34908600.0, "wiki_views": 448}
@@ -25722,7 +25722,7 @@
 {"close": 364.4700012207031, "date": "2026-07-23", "entity": "marriott", "volume": 1200300.0, "wiki_views": 1070}
 {"date": "2026-07-23", "entity": "mars", "wiki_views": 194}
 {"close": 37.400001525878906, "date": "2026-07-23", "entity": "match", "volume": 2799200.0, "wiki_views": 404}
-{"date": "2026-07-23", "entity": "mattel", "wiki_views": 1983}
+{"close": 14.239999771118164, "date": "2026-07-23", "entity": "mattel", "volume": 4267200.0, "wiki_views": 1983}
 {"close": 262.79998779296875, "date": "2026-07-23", "entity": "mcdonalds", "news_articles": 0.0178, "volume": 5105700.0, "wiki_views": 4178}
 {"close": 87.30000305175781, "date": "2026-07-23", "entity": "meituan", "volume": 63249932.0, "wiki_views": 181}
 {"date": "2026-07-23", "entity": "mercadolibre", "wiki_views": 319}
@@ -26064,7 +26064,7 @@
 {"close": 36.029998779296875, "date": "2026-07-24", "entity": "generalmills", "volume": 10579000.0, "wiki_views": 572}
 {"date": "2026-07-24", "entity": "glossier", "wiki_views": 67}
 {"date": "2026-07-24", "entity": "glp1_generic", "wiki_views": 542}
-{"date": "2026-07-24", "entity": "gm", "wiki_views": 2596}
+{"close": 82.63999938964844, "date": "2026-07-24", "entity": "gm", "volume": 5605600.0, "wiki_views": 2596}
 {"close": 319.739990234375, "date": "2026-07-24", "entity": "googlepixel", "news_articles": 0.0219, "volume": 31806600.0, "wiki_views": 3498}
 {"close": 0.6690000295639038, "date": "2026-07-24", "entity": "gopro", "volume": 3480600.0, "wiki_views": 311}
 {"close": 3.309999942779541, "date": "2026-07-24", "entity": "grab", "volume": 57837500.0, "wiki_views": 419}
@@ -26147,7 +26147,7 @@
 {"close": 374.42999267578125, "date": "2026-07-24", "entity": "marriott", "volume": 1231700.0, "wiki_views": 1008}
 {"date": "2026-07-24", "entity": "mars", "wiki_views": 226}
 {"close": 37.90999984741211, "date": "2026-07-24", "entity": "match", "volume": 2113900.0, "wiki_views": 393}
-{"date": "2026-07-24", "entity": "mattel", "wiki_views": 2031}
+{"close": 14.34000015258789, "date": "2026-07-24", "entity": "mattel", "volume": 2613700.0, "wiki_views": 2031}
 {"close": 264.760009765625, "date": "2026-07-24", "entity": "mcdonalds", "news_articles": 0.011, "volume": 3703500.0, "wiki_views": 3432}
 {"close": 86.69999694824219, "date": "2026-07-24", "entity": "meituan", "volume": 32833485.0, "wiki_views": 178}
 {"date": "2026-07-24", "entity": "mercadolibre", "wiki_views": 292}
@@ -27337,7 +27337,7 @@
 {"close": 36.61000061035156, "date": "2026-07-27", "entity": "generalmills", "volume": 10451900.0, "wiki_views": 671}
 {"date": "2026-07-27", "entity": "glossier", "wiki_views": 59}
 {"date": "2026-07-27", "entity": "glp1_generic", "wiki_views": 685}
-{"date": "2026-07-27", "entity": "gm", "wiki_views": 3059}
+{"close": 87.04000091552734, "date": "2026-07-27", "entity": "gm", "volume": 9870000.0, "wiki_views": 3059}
 {"close": 326.55999755859375, "date": "2026-07-27", "entity": "googlepixel", "news_articles": 0.0131, "volume": 28471600.0, "wiki_views": 3607}
 {"close": 0.6899999976158142, "date": "2026-07-27", "entity": "gopro", "volume": 1800700.0, "wiki_views": 339}
 {"close": 3.3499999046325684, "date": "2026-07-27", "entity": "grab", "volume": 67625200.0, "wiki_views": 444}
@@ -27420,7 +27420,7 @@
 {"close": 383.05999755859375, "date": "2026-07-27", "entity": "marriott", "volume": 1376900.0, "wiki_views": 1083}
 {"date": "2026-07-27", "entity": "mars", "wiki_views": 216}
 {"close": 38.79999923706055, "date": "2026-07-27", "entity": "match", "volume": 1990300.0, "wiki_views": 710}
-{"date": "2026-07-27", "entity": "mattel", "wiki_views": 1917}
+{"close": 14.800000190734863, "date": "2026-07-27", "entity": "mattel", "volume": 3152000.0, "wiki_views": 1917}
 {"close": 270.6700134277344, "date": "2026-07-27", "entity": "mcdonalds", "news_articles": 0.0131, "volume": 4874400.0, "wiki_views": 3275}
 {"close": 89.30000305175781, "date": "2026-07-27", "entity": "meituan", "volume": 65382089.0, "wiki_views": 184}
 {"date": "2026-07-27", "entity": "mercadolibre", "wiki_views": 340}
@@ -27762,7 +27762,7 @@
 {"close": 37.650001525878906, "date": "2026-07-28", "entity": "generalmills", "volume": 9259200.0, "wiki_views": 608}
 {"date": "2026-07-28", "entity": "glossier", "wiki_views": 52}
 {"date": "2026-07-28", "entity": "glp1_generic", "wiki_views": 629}
-{"date": "2026-07-28", "entity": "gm", "wiki_views": 3106}
+{"close": 90.30000305175781, "date": "2026-07-28", "entity": "gm", "volume": 13382300.0, "wiki_views": 3106}
 {"close": 333.7099914550781, "date": "2026-07-28", "entity": "googlepixel", "news_articles": 0.0088, "volume": 29511900.0, "wiki_views": 3249}
 {"close": 0.7200000286102295, "date": "2026-07-28", "entity": "gopro", "volume": 5089200.0, "wiki_views": 337}
 {"close": 3.450000047683716, "date": "2026-07-28", "entity": "grab", "volume": 66801500.0, "wiki_views": 368}
@@ -27845,7 +27845,7 @@
 {"close": 383.5199890136719, "date": "2026-07-28", "entity": "marriott", "volume": 1804600.0, "wiki_views": 1131}
 {"date": "2026-07-28", "entity": "mars", "wiki_views": 238}
 {"close": 39.279998779296875, "date": "2026-07-28", "entity": "match", "volume": 1933300.0, "wiki_views": 444}
-{"date": "2026-07-28", "entity": "mattel", "wiki_views": 1657}
+{"close": 15.4399995803833, "date": "2026-07-28", "entity": "mattel", "volume": 4201100.0, "wiki_views": 1657}
 {"close": 273.0199890136719, "date": "2026-07-28", "entity": "mcdonalds", "news_articles": 0.0088, "volume": 5261500.0, "wiki_views": 3080}
 {"close": 90.30000305175781, "date": "2026-07-28", "entity": "meituan", "volume": 63694323.0, "wiki_views": 197}
 {"date": "2026-07-28", "entity": "mercadolibre", "wiki_views": 315}
@@ -28187,7 +28187,7 @@
 {"close": 37.91999816894531, "date": "2026-07-29", "entity": "generalmills", "volume": 7431200.0, "wiki_views": 547}
 {"date": "2026-07-29", "entity": "glossier", "wiki_views": 83}
 {"date": "2026-07-29", "entity": "glp1_generic", "wiki_views": 577}
-{"date": "2026-07-29", "entity": "gm", "wiki_views": 2668}
+{"close": 89.4000015258789, "date": "2026-07-29", "entity": "gm", "volume": 7981500.0, "wiki_views": 2668}
 {"close": 336.7099914550781, "date": "2026-07-29", "entity": "googlepixel", "news_articles": 0.0173, "volume": 27501600.0, "wiki_views": 3144}
 {"close": 0.6949999928474426, "date": "2026-07-29", "entity": "gopro", "volume": 2779500.0, "wiki_views": 396}
 {"close": 3.3499999046325684, "date": "2026-07-29", "entity": "grab", "volume": 69427700.0, "wiki_views": 346}
@@ -28270,7 +28270,7 @@
 {"close": 381.1199951171875, "date": "2026-07-29", "entity": "marriott", "volume": 1542200.0, "wiki_views": 1059}
 {"date": "2026-07-29", "entity": "mars", "wiki_views": 247}
 {"close": 39.400001525878906, "date": "2026-07-29", "entity": "match", "volume": 2785200.0, "wiki_views": 409}
-{"date": "2026-07-29", "entity": "mattel", "wiki_views": 1541}
+{"close": 15.369999885559082, "date": "2026-07-29", "entity": "mattel", "volume": 3522800.0, "wiki_views": 1541}
 {"close": 271.5199890136719, "date": "2026-07-29", "entity": "mcdonalds", "news_articles": 0.0111, "volume": 3650700.0, "wiki_views": 3201}
 {"close": 92.30000305175781, "date": "2026-07-29", "entity": "meituan", "volume": 81344260.0, "wiki_views": 206}
 {"date": "2026-07-29", "entity": "mercadolibre", "wiki_views": 288}
@@ -28612,7 +28612,7 @@
 {"close": 36.41999816894531, "date": "2026-07-30", "entity": "generalmills", "volume": 8511300.0, "wiki_views": 590}
 {"date": "2026-07-30", "entity": "glossier", "wiki_views": 74}
 {"date": "2026-07-30", "entity": "glp1_generic", "wiki_views": 588}
-{"date": "2026-07-30", "entity": "gm", "wiki_views": 2579}
+{"close": 88.4000015258789, "date": "2026-07-30", "entity": "gm", "volume": 6229000.0, "wiki_views": 2579}
 {"close": 333.6600036621094, "date": "2026-07-30", "entity": "googlepixel", "news_articles": 0.0131, "volume": 30168000.0, "wiki_views": 3149}
 {"close": 0.7149999737739563, "date": "2026-07-30", "entity": "gopro", "volume": 3134100.0, "wiki_views": 391}
 {"close": 3.4000000953674316, "date": "2026-07-30", "entity": "grab", "volume": 44395200.0, "wiki_views": 404}
@@ -28695,7 +28695,7 @@
 {"close": 375.4800109863281, "date": "2026-07-30", "entity": "marriott", "volume": 1593500.0, "wiki_views": 1002}
 {"date": "2026-07-30", "entity": "mars", "wiki_views": 239}
 {"close": 39.310001373291016, "date": "2026-07-30", "entity": "match", "volume": 1703300.0, "wiki_views": 436}
-{"date": "2026-07-30", "entity": "mattel", "wiki_views": 1396}
+{"close": 15.210000038146973, "date": "2026-07-30", "entity": "mattel", "volume": 3470400.0, "wiki_views": 1396}
 {"close": 268.44000244140625, "date": "2026-07-30", "entity": "mcdonalds", "news_articles": 0.0107, "volume": 4040200.0, "wiki_views": 3183}
 {"close": 92.6500015258789, "date": "2026-07-30", "entity": "meituan", "volume": 50353885.0, "wiki_views": 158}
 {"date": "2026-07-30", "entity": "mercadolibre", "wiki_views": 291}
@@ -29037,7 +29037,7 @@
 {"close": 35.75, "date": "2026-07-31", "entity": "generalmills", "volume": 9349400.0, "wiki_views": 563}
 {"date": "2026-07-31", "entity": "glossier", "wiki_views": 73}
 {"date": "2026-07-31", "entity": "glp1_generic", "wiki_views": 563}
-{"date": "2026-07-31", "entity": "gm", "wiki_views": 2467}
+{"close": 88.86000061035156, "date": "2026-07-31", "entity": "gm", "volume": 6678000.0, "wiki_views": 2467}
 {"close": 356.1300048828125, "date": "2026-07-31", "entity": "googlepixel", "news_articles": 0.0107, "volume": 46498000.0, "wiki_views": 3051}
 {"close": 0.7490000128746033, "date": "2026-07-31", "entity": "gopro", "volume": 3960200.0, "wiki_views": 342}
 {"close": 3.5, "date": "2026-07-31", "entity": "grab", "volume": 42223500.0, "wiki_views": 378}
@@ -29120,7 +29120,7 @@
 {"close": 372.8299865722656, "date": "2026-07-31", "entity": "marriott", "volume": 1564300.0, "wiki_views": 1092}
 {"date": "2026-07-31", "entity": "mars", "wiki_views": 289}
 {"close": 39.40999984741211, "date": "2026-07-31", "entity": "match", "volume": 2272000.0, "wiki_views": 369}
-{"date": "2026-07-31", "entity": "mattel", "wiki_views": 1312}
+{"close": 15.09000015258789, "date": "2026-07-31", "entity": "mattel", "volume": 2813900.0, "wiki_views": 1312}
 {"close": 270.6400146484375, "date": "2026-07-31", "entity": "mcdonalds", "news_articles": 0.0093, "volume": 4965200.0, "wiki_views": 2836}
 {"close": 92.5, "date": "2026-07-31", "entity": "meituan", "volume": 50464900.0, "wiki_views": 177}
 {"date": "2026-07-31", "entity": "mercadolibre", "wiki_views": 274}
@@ -30312,7 +30312,7 @@
 {"close": 36.0, "date": "2026-08-03", "entity": "generalmills", "volume": 8553700.0, "wiki_views": 648}
 {"date": "2026-08-03", "entity": "glossier", "wiki_views": 49}
 {"date": "2026-08-03", "entity": "glp1_generic", "wiki_views": 608}
-{"date": "2026-08-03", "entity": "gm", "wiki_views": 2589}
+{"close": 87.68000030517578, "date": "2026-08-03", "entity": "gm", "volume": 4813400.0, "wiki_views": 2589}
 {"close": 373.510009765625, "date": "2026-08-03", "entity": "googlepixel", "news_articles": 0.0088, "volume": 38669700.0, "wiki_views": 2856}
 {"close": 0.7580000162124634, "date": "2026-08-03", "entity": "gopro", "volume": 4411200.0, "wiki_views": 326}
 {"close": 3.6700000762939453, "date": "2026-08-03", "entity": "grab", "volume": 65946700.0, "wiki_views": 457}
@@ -30395,7 +30395,7 @@
 {"close": 346.8299865722656, "date": "2026-08-03", "entity": "marriott", "volume": 4419300.0, "wiki_views": 1197}
 {"date": "2026-08-03", "entity": "mars", "wiki_views": 237}
 {"close": 40.540000915527344, "date": "2026-08-03", "entity": "match", "volume": 4457000.0, "wiki_views": 519}
-{"date": "2026-08-03", "entity": "mattel", "wiki_views": 1642}
+{"close": 14.880000114440918, "date": "2026-08-03", "entity": "mattel", "volume": 4051200.0, "wiki_views": 1642}
 {"close": 265.2300109863281, "date": "2026-08-03", "entity": "mcdonalds", "news_articles": 0.0102, "volume": 7440500.0, "wiki_views": 3466}
 {"close": 93.44999694824219, "date": "2026-08-03", "entity": "meituan", "volume": 39105188.0, "wiki_views": 161}
 {"date": "2026-08-03", "entity": "mercadolibre", "wiki_views": 275}
@@ -30737,7 +30737,7 @@
 {"close": 36.189998626708984, "date": "2026-08-04", "entity": "generalmills", "volume": 7943400.0, "wiki_views": 576}
 {"date": "2026-08-04", "entity": "glossier", "wiki_views": 68}
 {"date": "2026-08-04", "entity": "glp1_generic", "wiki_views": 628}
-{"date": "2026-08-04", "entity": "gm", "wiki_views": 2434}
+{"close": 88.30999755859375, "date": "2026-08-04", "entity": "gm", "volume": 5329800.0, "wiki_views": 2434}
 {"close": 377.6499938964844, "date": "2026-08-04", "entity": "googlepixel", "news_articles": 0.0108, "volume": 35705700.0, "wiki_views": 2896}
 {"close": 0.7680000066757202, "date": "2026-08-04", "entity": "gopro", "volume": 5601000.0, "wiki_views": 352}
 {"close": 3.7200000286102295, "date": "2026-08-04", "entity": "grab", "volume": 103086200.0, "wiki_views": 576}
@@ -30820,7 +30820,7 @@
 {"close": 345.20001220703125, "date": "2026-08-04", "entity": "marriott", "volume": 3376600.0, "wiki_views": 1031}
 {"date": "2026-08-04", "entity": "mars", "wiki_views": 204}
 {"close": 41.2400016784668, "date": "2026-08-04", "entity": "match", "volume": 5031600.0, "wiki_views": 497}
-{"date": "2026-08-04", "entity": "mattel", "wiki_views": 1494}
+{"close": 14.859999656677246, "date": "2026-08-04", "entity": "mattel", "volume": 5873700.0, "wiki_views": 1494}
 {"close": 268.3399963378906, "date": "2026-08-04", "entity": "mcdonalds", "news_articles": 0.0343, "volume": 7486000.0, "wiki_views": 3804}
 {"close": 92.69999694824219, "date": "2026-08-04", "entity": "meituan", "volume": 45144070.0, "wiki_views": 141}
 {"date": "2026-08-04", "entity": "mercadolibre", "wiki_views": 280}
@@ -31162,7 +31162,7 @@
 {"close": 35.93000030517578, "date": "2026-08-05", "entity": "generalmills", "volume": 8193700.0, "wiki_views": 558}
 {"date": "2026-08-05", "entity": "glossier", "wiki_views": 97}
 {"date": "2026-08-05", "entity": "glp1_generic", "wiki_views": 650}
-{"date": "2026-08-05", "entity": "gm", "wiki_views": 2533}
+{"close": 89.16000366210938, "date": "2026-08-05", "entity": "gm", "volume": 6860200.0, "wiki_views": 2533}
 {"close": 362.42999267578125, "date": "2026-08-05", "entity": "googlepixel", "news_articles": 0.0136, "volume": 46926300.0, "wiki_views": 3152}
 {"close": 0.722000002861023, "date": "2026-08-05", "entity": "gopro", "volume": 4129100.0, "wiki_views": 457}
 {"close": 3.740000009536743, "date": "2026-08-05", "entity": "grab", "volume": 70131300.0, "wiki_views": 453}
@@ -31245,7 +31245,7 @@
 {"close": 361.30999755859375, "date": "2026-08-05", "entity": "marriott", "volume": 2051400.0, "wiki_views": 1044}
 {"date": "2026-08-05", "entity": "mars", "wiki_views": 221}
 {"close": 38.150001525878906, "date": "2026-08-05", "entity": "match", "volume": 7529800.0, "wiki_views": 579}
-{"date": "2026-08-05", "entity": "mattel", "wiki_views": 1361}
+{"close": 14.460000038146973, "date": "2026-08-05", "entity": "mattel", "volume": 8397200.0, "wiki_views": 1361}
 {"close": 274.0, "date": "2026-08-05", "entity": "mcdonalds", "news_articles": 0.0256, "volume": 4775300.0, "wiki_views": 3870}
 {"close": 93.05000305175781, "date": "2026-08-05", "entity": "meituan", "volume": 39987699.0, "wiki_views": 179}
 {"date": "2026-08-05", "entity": "mercadolibre", "wiki_views": 364}
@@ -31587,7 +31587,7 @@
 {"close": 36.06999969482422, "date": "2026-08-06", "entity": "generalmills", "volume": 9530000.0, "wiki_views": 608}
 {"date": "2026-08-06", "entity": "glossier", "wiki_views": 40}
 {"date": "2026-08-06", "entity": "glp1_generic", "wiki_views": 618}
-{"date": "2026-08-06", "entity": "gm", "wiki_views": 2512}
+{"close": 86.94000244140625, "date": "2026-08-06", "entity": "gm", "volume": 5431300.0, "wiki_views": 2512}
 {"close": 357.75, "date": "2026-08-06", "entity": "googlepixel", "news_articles": 0.0157, "volume": 25235900.0, "wiki_views": 3135}
 {"close": 0.7289999723434448, "date": "2026-08-06", "entity": "gopro", "volume": 3824000.0, "wiki_views": 355}
 {"close": 3.6700000762939453, "date": "2026-08-06", "entity": "grab", "volume": 40628900.0, "wiki_views": 410}
@@ -31670,7 +31670,7 @@
 {"close": 359.6700134277344, "date": "2026-08-06", "entity": "marriott", "volume": 1677200.0, "wiki_views": 1086}
 {"date": "2026-08-06", "entity": "mars", "wiki_views": 204}
 {"close": 36.61000061035156, "date": "2026-08-06", "entity": "match", "volume": 4154500.0, "wiki_views": 512}
-{"date": "2026-08-06", "entity": "mattel", "wiki_views": 1238}
+{"close": 14.489999771118164, "date": "2026-08-06", "entity": "mattel", "volume": 4102300.0, "wiki_views": 1238}
 {"close": 276.260009765625, "date": "2026-08-06", "entity": "mcdonalds", "news_articles": 0.0144, "volume": 4214900.0, "wiki_views": 3789}
 {"close": 92.19999694824219, "date": "2026-08-06", "entity": "meituan", "volume": 25553923.0, "wiki_views": 177}
 {"date": "2026-08-06", "entity": "mercadolibre", "wiki_views": 468}
@@ -32012,7 +32012,7 @@
 {"close": 36.88999938964844, "date": "2026-08-07", "entity": "generalmills", "volume": 7907000.0, "wiki_views": 553}
 {"date": "2026-08-07", "entity": "glossier", "wiki_views": 46}
 {"date": "2026-08-07", "entity": "glp1_generic", "wiki_views": 579}
-{"date": "2026-08-07", "entity": "gm", "wiki_views": 2334}
+{"close": 87.58000183105469, "date": "2026-08-07", "entity": "gm", "volume": 4024000.0, "wiki_views": 2334}
 {"close": 354.29998779296875, "date": "2026-08-07", "entity": "googlepixel", "news_articles": 0.0161, "volume": 19859900.0, "wiki_views": 2843}
 {"close": 0.7260000109672546, "date": "2026-08-07", "entity": "gopro", "volume": 3948100.0, "wiki_views": 382}
 {"close": 3.6600000858306885, "date": "2026-08-07", "entity": "grab", "volume": 30881200.0, "wiki_views": 376}
@@ -32095,7 +32095,7 @@
 {"close": 353.9100036621094, "date": "2026-08-07", "entity": "marriott", "volume": 2278700.0, "wiki_views": 974}
 {"date": "2026-08-07", "entity": "mars", "wiki_views": 205}
 {"close": 37.2599983215332, "date": "2026-08-07", "entity": "match", "volume": 3267400.0, "wiki_views": 574}
-{"date": "2026-08-07", "entity": "mattel", "wiki_views": 1162}
+{"close": 14.789999961853027, "date": "2026-08-07", "entity": "mattel", "volume": 3424200.0, "wiki_views": 1162}
 {"close": 274.4800109863281, "date": "2026-08-07", "entity": "mcdonalds", "news_articles": 0.011, "volume": 4909700.0, "wiki_views": 3718}
 {"close": 92.19999694824219, "date": "2026-08-07", "entity": "meituan", "volume": 28419007.0, "wiki_views": 187}
 {"date": "2026-08-07", "entity": "mercadolibre", "wiki_views": 356}
@@ -33287,7 +33287,7 @@
 {"close": 37.2599983215332, "date": "2026-08-10", "entity": "generalmills", "volume": 8755300.0, "wiki_views": 543}
 {"date": "2026-08-10", "entity": "glossier", "wiki_views": 49}
 {"date": "2026-08-10", "entity": "glp1_generic", "wiki_views": 696}
-{"date": "2026-08-10", "entity": "gm", "wiki_views": 2534}
+{"close": 87.95999908447266, "date": "2026-08-10", "entity": "gm", "volume": 3446600.0, "wiki_views": 2534}
 {"close": 357.5199890136719, "date": "2026-08-10", "entity": "googlepixel", "news_articles": 0.0174, "volume": 18991400.0, "wiki_views": 2821}
 {"close": 0.699999988079071, "date": "2026-08-10", "entity": "gopro", "volume": 7584900.0, "wiki_views": 452}
 {"close": 3.6700000762939453, "date": "2026-08-10", "entity": "grab", "volume": 22215900.0, "wiki_views": 392}
@@ -33370,7 +33370,7 @@
 {"close": 348.44000244140625, "date": "2026-08-10", "entity": "marriott", "volume": 1716600.0, "wiki_views": 1135}
 {"date": "2026-08-10", "entity": "mars", "wiki_views": 230}
 {"close": 36.72999954223633, "date": "2026-08-10", "entity": "match", "volume": 2727300.0, "wiki_views": 2308}
-{"date": "2026-08-10", "entity": "mattel", "wiki_views": 1166}
+{"close": 14.739999771118164, "date": "2026-08-10", "entity": "mattel", "volume": 3135000.0, "wiki_views": 1166}
 {"close": 273.7200012207031, "date": "2026-08-10", "entity": "mcdonalds", "news_articles": 0.0087, "volume": 4742100.0, "wiki_views": 3349}
 {"close": 93.9000015258789, "date": "2026-08-10", "entity": "meituan", "volume": 25201362.0, "wiki_views": 148}
 {"date": "2026-08-10", "entity": "mercadolibre", "wiki_views": 396}
@@ -33712,7 +33712,7 @@
 {"close": 37.93000030517578, "date": "2026-08-11", "entity": "generalmills", "volume": 7436100.0, "wiki_views": 511}
 {"date": "2026-08-11", "entity": "glossier", "wiki_views": 51}
 {"date": "2026-08-11", "entity": "glp1_generic", "wiki_views": 692}
-{"date": "2026-08-11", "entity": "gm", "wiki_views": 2511}
+{"close": 89.3499984741211, "date": "2026-08-11", "entity": "gm", "volume": 4792100.0, "wiki_views": 2511}
 {"close": 343.79998779296875, "date": "2026-08-11", "entity": "googlepixel", "news_articles": 0.0122, "volume": 29081800.0, "wiki_views": 2699}
 {"close": 0.6200000047683716, "date": "2026-08-11", "entity": "gopro", "volume": 12968100.0, "wiki_views": 381}
 {"close": 3.740000009536743, "date": "2026-08-11", "entity": "grab", "volume": 41169600.0, "wiki_views": 379}
@@ -33795,7 +33795,7 @@
 {"close": 349.489990234375, "date": "2026-08-11", "entity": "marriott", "volume": 2390400.0, "wiki_views": 1155}
 {"date": "2026-08-11", "entity": "mars", "wiki_views": 207}
 {"close": 36.79999923706055, "date": "2026-08-11", "entity": "match", "volume": 2987300.0, "wiki_views": 1215}
-{"date": "2026-08-11", "entity": "mattel", "wiki_views": 1083}
+{"close": 15.029999732971191, "date": "2026-08-11", "entity": "mattel", "volume": 2739500.0, "wiki_views": 1083}
 {"close": 274.1499938964844, "date": "2026-08-11", "entity": "mcdonalds", "news_articles": 0.0191, "volume": 3030600.0, "wiki_views": 3176}
 {"close": 93.05000305175781, "date": "2026-08-11", "entity": "meituan", "volume": 33413204.0, "wiki_views": 217}
 {"date": "2026-08-11", "entity": "mercadolibre", "wiki_views": 361}
@@ -34137,7 +34137,7 @@
 {"close": 38.18000030517578, "date": "2026-08-12", "entity": "generalmills", "volume": 8468900.0, "wiki_views": 576}
 {"date": "2026-08-12", "entity": "glossier", "wiki_views": 71}
 {"date": "2026-08-12", "entity": "glp1_generic", "wiki_views": 637}
-{"date": "2026-08-12", "entity": "gm", "wiki_views": 2521}
+{"close": 86.76000213623047, "date": "2026-08-12", "entity": "gm", "volume": 4832300.0, "wiki_views": 2521}
 {"close": 343.5400085449219, "date": "2026-08-12", "entity": "googlepixel", "news_articles": 0.0861, "volume": 25012000.0, "wiki_views": 2846}
 {"close": 0.574999988079071, "date": "2026-08-12", "entity": "gopro", "volume": 15369700.0, "wiki_views": 388}
 {"close": 3.609999895095825, "date": "2026-08-12", "entity": "grab", "volume": 36625000.0, "wiki_views": 426}
@@ -34220,7 +34220,7 @@
 {"close": 354.5799865722656, "date": "2026-08-12", "entity": "marriott", "volume": 1350800.0, "wiki_views": 1070}
 {"date": "2026-08-12", "entity": "mars", "wiki_views": 223}
 {"close": 36.58000183105469, "date": "2026-08-12", "entity": "match", "volume": 2710500.0, "wiki_views": 621}
-{"date": "2026-08-12", "entity": "mattel", "wiki_views": 985}
+{"close": 14.649999618530273, "date": "2026-08-12", "entity": "mattel", "volume": 3154800.0, "wiki_views": 985}
 {"close": 275.70001220703125, "date": "2026-08-12", "entity": "mcdonalds", "news_articles": 0.0171, "volume": 4351700.0, "wiki_views": 3251}
 {"close": 91.6500015258789, "date": "2026-08-12", "entity": "meituan", "volume": 33443066.0, "wiki_views": 144}
 {"date": "2026-08-12", "entity": "mercadolibre", "wiki_views": 393}
@@ -34562,7 +34562,7 @@
 {"close": 38.90999984741211, "date": "2026-08-13", "entity": "generalmills", "volume": 8153200.0, "wiki_views": 550}
 {"date": "2026-08-13", "entity": "glossier", "wiki_views": 82}
 {"date": "2026-08-13", "entity": "glp1_generic", "wiki_views": 597}
-{"date": "2026-08-13", "entity": "gm", "wiki_views": 2471}
+{"close": 86.38999938964844, "date": "2026-08-13", "entity": "gm", "volume": 3541900.0, "wiki_views": 2471}
 {"close": 346.3599853515625, "date": "2026-08-13", "entity": "googlepixel", "news_articles": 0.0434, "volume": 17866100.0, "wiki_views": 2667}
 {"close": 0.6320000290870667, "date": "2026-08-13", "entity": "gopro", "volume": 10545700.0, "wiki_views": 417}
 {"close": 3.700000047683716, "date": "2026-08-13", "entity": "grab", "volume": 28253300.0, "wiki_views": 343}
@@ -34645,7 +34645,7 @@
 {"close": 352.5299987792969, "date": "2026-08-13", "entity": "marriott", "volume": 997000.0, "wiki_views": 1043}
 {"date": "2026-08-13", "entity": "mars", "wiki_views": 207}
 {"close": 37.279998779296875, "date": "2026-08-13", "entity": "match", "volume": 2593400.0, "wiki_views": 658}
-{"date": "2026-08-13", "entity": "mattel", "wiki_views": 1056}
+{"close": 14.880000114440918, "date": "2026-08-13", "entity": "mattel", "volume": 2818100.0, "wiki_views": 1056}
 {"close": 272.25, "date": "2026-08-13", "entity": "mcdonalds", "news_articles": 0.0161, "volume": 4023300.0, "wiki_views": 3327}
 {"close": 91.25, "date": "2026-08-13", "entity": "meituan", "volume": 21499771.0, "wiki_views": 179}
 {"date": "2026-08-13", "entity": "mercadolibre", "wiki_views": 363}
@@ -34987,7 +34987,7 @@
 {"close": 39.20000076293945, "date": "2026-08-14", "entity": "generalmills", "volume": 5309900.0, "wiki_views": 519}
 {"date": "2026-08-14", "entity": "glossier", "wiki_views": 67}
 {"date": "2026-08-14", "entity": "glp1_generic", "wiki_views": 537}
-{"date": "2026-08-14", "entity": "gm", "wiki_views": 2469}
+{"close": 86.7699966430664, "date": "2026-08-14", "entity": "gm", "volume": 3493600.0, "wiki_views": 2469}
 {"close": 345.8999938964844, "date": "2026-08-14", "entity": "googlepixel", "news_articles": 0.0257, "volume": 17808600.0, "wiki_views": 2553}
 {"close": 0.5950000286102295, "date": "2026-08-14", "entity": "gopro", "volume": 6880800.0, "wiki_views": 334}
 {"close": 3.619999885559082, "date": "2026-08-14", "entity": "grab", "volume": 19084900.0, "wiki_views": 372}
@@ -35070,7 +35070,7 @@
 {"close": 356.7200012207031, "date": "2026-08-14", "entity": "marriott", "volume": 880500.0, "wiki_views": 994}
 {"date": "2026-08-14", "entity": "mars", "wiki_views": 259}
 {"close": 37.95000076293945, "date": "2026-08-14", "entity": "match", "volume": 2939400.0, "wiki_views": 464}
-{"date": "2026-08-14", "entity": "mattel", "wiki_views": 1004}
+{"close": 15.029999732971191, "date": "2026-08-14", "entity": "mattel", "volume": 3265300.0, "wiki_views": 1004}
 {"close": 272.8299865722656, "date": "2026-08-14", "entity": "mcdonalds", "news_articles": 0.0293, "volume": 2735400.0, "wiki_views": 3147}
 {"close": 87.19999694824219, "date": "2026-08-14", "entity": "meituan", "volume": 75329330.0, "wiki_views": 209}
 {"date": "2026-08-14", "entity": "mercadolibre", "wiki_views": 303}
@@ -36261,7 +36261,7 @@
 {"close": 37.97999954223633, "date": "2026-08-17", "entity": "generalmills", "volume": 9479800.0, "wiki_views": 609}
 {"date": "2026-08-17", "entity": "glossier", "wiki_views": 44}
 {"date": "2026-08-17", "entity": "glp1_generic", "wiki_views": 643}
-{"date": "2026-08-17", "entity": "gm", "wiki_views": 2629}
+{"close": 84.37000274658203, "date": "2026-08-17", "entity": "gm", "volume": 4734800.0, "wiki_views": 2629}
 {"close": 344.0, "date": "2026-08-17", "entity": "googlepixel", "news_articles": 0.0146, "volume": 18291300.0, "wiki_views": 2669}
 {"close": 0.6140000224113464, "date": "2026-08-17", "entity": "gopro", "volume": 5761200.0, "wiki_views": 412}
 {"close": 3.5799999237060547, "date": "2026-08-17", "entity": "grab", "volume": 37055600.0, "wiki_views": 416}
@@ -36344,7 +36344,7 @@
 {"close": 356.57000732421875, "date": "2026-08-17", "entity": "marriott", "volume": 1313100.0, "wiki_views": 1126}
 {"date": "2026-08-17", "entity": "mars", "wiki_views": 273}
 {"close": 37.220001220703125, "date": "2026-08-17", "entity": "match", "volume": 2098100.0, "wiki_views": 470}
-{"date": "2026-08-17", "entity": "mattel", "wiki_views": 1116}
+{"close": 14.579999923706055, "date": "2026-08-17", "entity": "mattel", "volume": 4567500.0, "wiki_views": 1116}
 {"close": 265.5299987792969, "date": "2026-08-17", "entity": "mcdonalds", "news_articles": 0.0207, "volume": 4911800.0, "wiki_views": 3326}
 {"close": 87.6500015258789, "date": "2026-08-17", "entity": "meituan", "volume": 26917411.0, "wiki_views": 138}
 {"date": "2026-08-17", "entity": "mercadolibre", "wiki_views": 309}
@@ -36686,7 +36686,7 @@
 {"close": 38.08000183105469, "date": "2026-08-18", "entity": "generalmills", "volume": 7729100.0, "wiki_views": 573}
 {"date": "2026-08-18", "entity": "glossier", "wiki_views": 53}
 {"date": "2026-08-18", "entity": "glp1_generic", "wiki_views": 599}
-{"date": "2026-08-18", "entity": "gm", "wiki_views": 2486}
+{"close": 83.70999908447266, "date": "2026-08-18", "entity": "gm", "volume": 3725300.0, "wiki_views": 2486}
 {"close": 344.20001220703125, "date": "2026-08-18", "entity": "googlepixel", "news_articles": 0.0183, "volume": 19248800.0, "wiki_views": 2843}
 {"close": 0.5920000076293945, "date": "2026-08-18", "entity": "gopro", "volume": 5975100.0, "wiki_views": 405}
 {"close": 3.450000047683716, "date": "2026-08-18", "entity": "grab", "volume": 39828900.0, "wiki_views": 415}
@@ -36769,7 +36769,7 @@
 {"close": 357.3299865722656, "date": "2026-08-18", "entity": "marriott", "volume": 1505400.0, "wiki_views": 1027}
 {"date": "2026-08-18", "entity": "mars", "wiki_views": 238}
 {"close": 38.689998626708984, "date": "2026-08-18", "entity": "match", "volume": 3520100.0, "wiki_views": 448}
-{"date": "2026-08-18", "entity": "mattel", "wiki_views": 1069}
+{"close": 14.5, "date": "2026-08-18", "entity": "mattel", "volume": 2652600.0, "wiki_views": 1069}
 {"close": 266.989990234375, "date": "2026-08-18", "entity": "mcdonalds", "news_articles": 0.0171, "volume": 3089200.0, "wiki_views": 3371}
 {"close": 85.55000305175781, "date": "2026-08-18", "entity": "meituan", "volume": 52928312.0, "wiki_views": 167}
 {"date": "2026-08-18", "entity": "mercadolibre", "wiki_views": 261}
@@ -37111,7 +37111,7 @@
 {"close": 39.9900016784668, "date": "2026-08-19", "entity": "generalmills", "volume": 8056500.0, "wiki_views": 671}
 {"date": "2026-08-19", "entity": "glossier", "wiki_views": 63}
 {"date": "2026-08-19", "entity": "glp1_generic", "wiki_views": 678}
-{"date": "2026-08-19", "entity": "gm", "wiki_views": 2415}
+{"close": 84.95999908447266, "date": "2026-08-19", "entity": "gm", "volume": 4730100.0, "wiki_views": 2415}
 {"close": 344.7200012207031, "date": "2026-08-19", "entity": "googlepixel", "news_articles": 0.033, "volume": 19733800.0, "wiki_views": 2839}
 {"close": 0.6349999904632568, "date": "2026-08-19", "entity": "gopro", "volume": 6643900.0, "wiki_views": 381}
 {"close": 3.5399999618530273, "date": "2026-08-19", "entity": "grab", "volume": 29873600.0, "wiki_views": 410}
@@ -37194,7 +37194,7 @@
 {"close": 359.95001220703125, "date": "2026-08-19", "entity": "marriott", "volume": 1288200.0, "wiki_views": 1415}
 {"date": "2026-08-19", "entity": "mars", "wiki_views": 279}
 {"close": 39.70000076293945, "date": "2026-08-19", "entity": "match", "volume": 4177300.0, "wiki_views": 443}
-{"date": "2026-08-19", "entity": "mattel", "wiki_views": 989}
+{"close": 14.529999732971191, "date": "2026-08-19", "entity": "mattel", "volume": 3008700.0, "wiki_views": 989}
 {"close": 267.45001220703125, "date": "2026-08-19", "entity": "mcdonalds", "news_articles": 0.019, "volume": 5351600.0, "wiki_views": 3532}
 {"close": 87.05000305175781, "date": "2026-08-19", "entity": "meituan", "volume": 36756666.0, "wiki_views": 246}
 {"date": "2026-08-19", "entity": "mercadolibre", "wiki_views": 344}
@@ -37536,7 +37536,7 @@
 {"close": 39.61000061035156, "date": "2026-08-20", "entity": "generalmills", "volume": 8278600.0, "wiki_views": 561}
 {"date": "2026-08-20", "entity": "glossier", "wiki_views": 36}
 {"date": "2026-08-20", "entity": "glp1_generic", "wiki_views": 709}
-{"date": "2026-08-20", "entity": "gm", "wiki_views": 2496}
+{"close": 86.1500015258789, "date": "2026-08-20", "entity": "gm", "volume": 4918500.0, "wiki_views": 2496}
 {"close": 340.6700134277344, "date": "2026-08-20", "entity": "googlepixel", "news_articles": 0.0186, "volume": 18570400.0, "wiki_views": 2961}
 {"close": 0.6150000095367432, "date": "2026-08-20", "entity": "gopro", "volume": 5184600.0, "wiki_views": 363}
 {"close": 3.509999990463257, "date": "2026-08-20", "entity": "grab", "volume": 26139100.0, "wiki_views": 356}
@@ -37619,7 +37619,7 @@
 {"close": 356.6000061035156, "date": "2026-08-20", "entity": "marriott", "volume": 1861800.0, "wiki_views": 938}
 {"date": "2026-08-20", "entity": "mars", "wiki_views": 261}
 {"close": 40.349998474121094, "date": "2026-08-20", "entity": "match", "volume": 2852200.0, "wiki_views": 396}
-{"date": "2026-08-20", "entity": "mattel", "wiki_views": 1085}
+{"close": 14.720000267028809, "date": "2026-08-20", "entity": "mattel", "volume": 2639600.0, "wiki_views": 1085}
 {"close": 269.1300048828125, "date": "2026-08-20", "entity": "mcdonalds", "news_articles": 0.018, "volume": 3526300.0, "wiki_views": 3742}
 {"close": 85.8499984741211, "date": "2026-08-20", "entity": "meituan", "volume": 28598752.0, "wiki_views": 207}
 {"date": "2026-08-20", "entity": "mercadolibre", "wiki_views": 256}
@@ -37961,7 +37961,7 @@
 {"close": 39.970001220703125, "date": "2026-08-21", "entity": "generalmills", "volume": 5186000.0, "wiki_views": 654}
 {"date": "2026-08-21", "entity": "glossier", "wiki_views": 43}
 {"date": "2026-08-21", "entity": "glp1_generic", "wiki_views": 596}
-{"date": "2026-08-21", "entity": "gm", "wiki_views": 2424}
+{"close": 87.93000030517578, "date": "2026-08-21", "entity": "gm", "volume": 5270500.0, "wiki_views": 2424}
 {"close": 344.82000732421875, "date": "2026-08-21", "entity": "googlepixel", "news_articles": 0.01, "volume": 20849800.0, "wiki_views": 2674}
 {"close": 0.6299999952316284, "date": "2026-08-21", "entity": "gopro", "volume": 6485600.0, "wiki_views": 327}
 {"close": 3.4800000190734863, "date": "2026-08-21", "entity": "grab", "volume": 25990500.0, "wiki_views": 355}
@@ -38044,7 +38044,7 @@
 {"close": 356.3900146484375, "date": "2026-08-21", "entity": "marriott", "volume": 994500.0, "wiki_views": 967}
 {"date": "2026-08-21", "entity": "mars", "wiki_views": 240}
 {"close": 40.869998931884766, "date": "2026-08-21", "entity": "match", "volume": 2188700.0, "wiki_views": 384}
-{"date": "2026-08-21", "entity": "mattel", "wiki_views": 976}
+{"close": 14.510000228881836, "date": "2026-08-21", "entity": "mattel", "volume": 4270400.0, "wiki_views": 976}
 {"close": 270.95001220703125, "date": "2026-08-21", "entity": "mcdonalds", "news_articles": 0.0131, "volume": 3776000.0, "wiki_views": 3175}
 {"close": 85.0, "date": "2026-08-21", "entity": "meituan", "volume": 42935990.0, "wiki_views": 156}
 {"date": "2026-08-21", "entity": "mercadolibre", "wiki_views": 250}
@@ -39239,7 +39239,7 @@
 {"close": 40.91999816894531, "date": "2026-08-24", "entity": "generalmills", "volume": 9298900.0, "wiki_views": 638}
 {"date": "2026-08-24", "entity": "glossier", "wiki_views": 54}
 {"date": "2026-08-24", "entity": "glp1_generic", "wiki_views": 708}
-{"app_rank": 0, "date": "2026-08-24", "entity": "gm", "wiki_views": 2556}
+{"app_rank": 0, "close": 86.9800033569336, "date": "2026-08-24", "entity": "gm", "volume": 4746600.0, "wiki_views": 2556}
 {"app_rank": 13, "close": 348.05999755859375, "date": "2026-08-24", "entity": "googlepixel", "volume": 26338200.0, "wiki_views": 2587}
 {"close": 0.6000000238418579, "date": "2026-08-24", "entity": "gopro", "volume": 4899500.0, "wiki_views": 375}
 {"app_rank": 61, "close": 3.5199999809265137, "date": "2026-08-24", "entity": "grab", "volume": 31475000.0, "wiki_views": 306}
@@ -39323,7 +39323,7 @@
 {"app_rank": 0, "close": 360.20001220703125, "date": "2026-08-24", "entity": "marriott", "volume": 954600.0, "wiki_views": 1044}
 {"date": "2026-08-24", "entity": "mars", "wiki_views": 228}
 {"app_rank": 0, "close": 41.72999954223633, "date": "2026-08-24", "entity": "match", "volume": 3224100.0, "wiki_views": 482}
-{"date": "2026-08-24", "entity": "mattel", "wiki_views": 1090}
+{"close": 14.819999694824219, "date": "2026-08-24", "entity": "mattel", "volume": 3645500.0, "wiki_views": 1090}
 {"app_rank": 64, "close": 272.5400085449219, "date": "2026-08-24", "entity": "mcdonalds", "volume": 4115900.0, "wiki_views": 3210}
 {"close": 82.69999694824219, "date": "2026-08-24", "entity": "meituan", "volume": 46001232.0, "wiki_views": 158}
 {"app_rank": 0, "date": "2026-08-24", "entity": "mercadolibre", "wiki_views": 295}
@@ -39666,7 +39666,7 @@
 {"close": 39.779998779296875, "date": "2026-08-25", "entity": "generalmills", "volume": 5872100.0, "wiki_views": 670}
 {"date": "2026-08-25", "entity": "glossier", "wiki_views": 31}
 {"date": "2026-08-25", "entity": "glp1_generic", "wiki_views": 583}
-{"app_rank": 0, "date": "2026-08-25", "entity": "gm", "wiki_views": 2556}
+{"app_rank": 0, "close": 85.80999755859375, "date": "2026-08-25", "entity": "gm", "volume": 4852000.0, "wiki_views": 2556}
 {"app_rank": 14, "close": 346.9599914550781, "date": "2026-08-25", "entity": "googlepixel", "volume": 20649700.0, "wiki_views": 2650}
 {"close": 0.6079999804496765, "date": "2026-08-25", "entity": "gopro", "volume": 5866100.0, "wiki_views": 365}
 {"app_rank": 61, "close": 3.5799999237060547, "date": "2026-08-25", "entity": "grab", "volume": 34914000.0, "wiki_views": 325}
@@ -39750,7 +39750,7 @@
 {"app_rank": 0, "close": 357.7699890136719, "date": "2026-08-25", "entity": "marriott", "volume": 1436100.0, "wiki_views": 947}
 {"date": "2026-08-25", "entity": "mars", "wiki_views": 224}
 {"app_rank": 0, "close": 42.18000030517578, "date": "2026-08-25", "entity": "match", "volume": 3504000.0, "wiki_views": 404}
-{"date": "2026-08-25", "entity": "mattel", "wiki_views": 1108}
+{"close": 15.260000228881836, "date": "2026-08-25", "entity": "mattel", "volume": 4573400.0, "wiki_views": 1108}
 {"app_rank": 78, "close": 268.1000061035156, "date": "2026-08-25", "entity": "mcdonalds", "volume": 3192700.0, "wiki_views": 3323}
 {"close": 77.19999694824219, "date": "2026-08-25", "entity": "meituan", "volume": 91016673.0, "wiki_views": 202}
 {"app_rank": 0, "date": "2026-08-25", "entity": "mercadolibre", "wiki_views": 344}
@@ -40093,7 +40093,7 @@
 {"close": 40.08000183105469, "date": "2026-08-26", "entity": "generalmills", "volume": 9065600.0, "wiki_views": 582}
 {"date": "2026-08-26", "entity": "glossier", "wiki_views": 63}
 {"date": "2026-08-26", "entity": "glp1_generic", "wiki_views": 546}
-{"app_rank": 0, "date": "2026-08-26", "entity": "gm", "wiki_views": 2547}
+{"app_rank": 0, "close": 86.33000183105469, "date": "2026-08-26", "entity": "gm", "volume": 5397500.0, "wiki_views": 2547}
 {"app_rank": 12, "close": 342.0, "date": "2026-08-26", "entity": "googlepixel", "volume": 20420300.0, "wiki_views": 3103}
 {"close": 0.597000002861023, "date": "2026-08-26", "entity": "gopro", "volume": 8095500.0, "wiki_views": 404}
 {"app_rank": 64, "close": 3.640000104904175, "date": "2026-08-26", "entity": "grab", "volume": 33215500.0, "wiki_views": 333}
@@ -40177,7 +40177,7 @@
 {"app_rank": 0, "close": 358.6700134277344, "date": "2026-08-26", "entity": "marriott", "volume": 2033100.0, "wiki_views": 992}
 {"date": "2026-08-26", "entity": "mars", "wiki_views": 233}
 {"app_rank": 0, "close": 42.06999969482422, "date": "2026-08-26", "entity": "match", "volume": 3114600.0, "wiki_views": 385}
-{"date": "2026-08-26", "entity": "mattel", "wiki_views": 1007}
+{"close": 15.229999542236328, "date": "2026-08-26", "entity": "mattel", "volume": 2554400.0, "wiki_views": 1007}
 {"app_rank": 78, "close": 266.92999267578125, "date": "2026-08-26", "entity": "mcdonalds", "volume": 4182300.0, "wiki_views": 3434}
 {"close": 78.05000305175781, "date": "2026-08-26", "entity": "meituan", "volume": 30472291.0, "wiki_views": 180}
 {"app_rank": 0, "date": "2026-08-26", "entity": "mercadolibre", "wiki_views": 304}
@@ -40520,7 +40520,7 @@
 {"close": 40.439998626708984, "date": "2026-08-27", "entity": "generalmills", "volume": 8544200.0, "wiki_views": 544}
 {"date": "2026-08-27", "entity": "glossier", "wiki_views": 40}
 {"date": "2026-08-27", "entity": "glp1_generic", "wiki_views": 565}
-{"app_rank": 0, "date": "2026-08-27", "entity": "gm", "wiki_views": 2555}
+{"app_rank": 0, "close": 86.18000030517578, "date": "2026-08-27", "entity": "gm", "volume": 7592500.0, "wiki_views": 2555}
 {"app_rank": 8, "close": 340.6499938964844, "date": "2026-08-27", "entity": "googlepixel", "volume": 23391400.0, "wiki_views": 2905}
 {"close": 0.6050000190734863, "date": "2026-08-27", "entity": "gopro", "volume": 7074200.0, "wiki_views": 484}
 {"app_rank": 67, "close": 3.5899999141693115, "date": "2026-08-27", "entity": "grab", "volume": 30935000.0, "wiki_views": 334}
@@ -40604,7 +40604,7 @@
 {"app_rank": 0, "close": 353.8699951171875, "date": "2026-08-27", "entity": "marriott", "volume": 1480700.0, "wiki_views": 877}
 {"date": "2026-08-27", "entity": "mars", "wiki_views": 232}
 {"app_rank": 0, "close": 41.220001220703125, "date": "2026-08-27", "entity": "match", "volume": 3846500.0, "wiki_views": 424}
-{"date": "2026-08-27", "entity": "mattel", "wiki_views": 989}
+{"close": 14.920000076293945, "date": "2026-08-27", "entity": "mattel", "volume": 1997300.0, "wiki_views": 989}
 {"app_rank": 77, "close": 260.05999755859375, "date": "2026-08-27", "entity": "mcdonalds", "volume": 5980400.0, "wiki_views": 3500}
 {"close": 77.5, "date": "2026-08-27", "entity": "meituan", "volume": 27630800.0, "wiki_views": 157}
 {"app_rank": 0, "date": "2026-08-27", "entity": "mercadolibre", "wiki_views": 266}
@@ -40947,7 +40947,7 @@
 {"close": 41.54999923706055, "date": "2026-08-28", "entity": "generalmills", "volume": 8925700.0, "wiki_views": 607}
 {"date": "2026-08-28", "entity": "glossier", "wiki_views": 45}
 {"date": "2026-08-28", "entity": "glp1_generic", "wiki_views": 496}
-{"app_rank": 0, "date": "2026-08-28", "entity": "gm", "wiki_views": 2313}
+{"app_rank": 0, "close": 86.2699966430664, "date": "2026-08-28", "entity": "gm", "volume": 7348400.0, "wiki_views": 2313}
 {"app_rank": 8, "close": 346.5899963378906, "date": "2026-08-28", "entity": "googlepixel", "volume": 25347200.0, "wiki_views": 2697}
 {"close": 0.6000000238418579, "date": "2026-08-28", "entity": "gopro", "volume": 8963700.0, "wiki_views": 507}
 {"app_rank": 57, "close": 3.609999895095825, "date": "2026-08-28", "entity": "grab", "volume": 26920700.0, "wiki_views": 323}
@@ -41031,13 +41031,13 @@
 {"app_rank": 0, "close": 351.0799865722656, "date": "2026-08-28", "entity": "marriott", "volume": 1011200.0, "wiki_views": 872}
 {"date": "2026-08-28", "entity": "mars", "wiki_views": 189}
 {"app_rank": 0, "close": 41.58000183105469, "date": "2026-08-28", "entity": "match", "volume": 2173400.0, "wiki_views": 349}
-{"date": "2026-08-28", "entity": "mattel", "wiki_views": 1080}
+{"close": 15.140000343322754, "date": "2026-08-28", "entity": "mattel", "volume": 1917200.0, "wiki_views": 1080}
 {"app_rank": 66, "close": 265.0, "date": "2026-08-28", "entity": "mcdonalds", "volume": 3887300.0, "wiki_views": 3074}
 {"close": 77.5, "date": "2026-08-28", "entity": "meituan", "volume": 33410203.0, "wiki_views": 141}
 {"app_rank": 0, "date": "2026-08-28", "entity": "mercadolibre", "wiki_views": 235}
 {"close": 46.94499969482422, "date": "2026-08-28", "entity": "mercedes", "volume": 2887976.0, "wiki_views": 836}
 {"app_rank": 6, "close": 578.02001953125, "date": "2026-08-28", "entity": "meta", "volume": 16042400.0, "wiki_views": 3954}
-{"app_rank": 0, "close": 42.55799865722656, "date": "2026-08-28", "entity": "mgm", "trends_hit": 100, "volume": 0.0, "wiki_views": 371}
+{"app_rank": 0, "close": 42.279998779296875, "date": "2026-08-28", "entity": "mgm", "trends_hit": 100, "volume": 1668300.0, "wiki_views": 371}
 {"date": "2026-08-28", "entity": "michaelkors", "wiki_views": 117}
 {"app_rank": 12, "close": 513.530029296875, "date": "2026-08-28", "entity": "microsoft", "trends_hit": 200, "volume": 29207300.0, "wiki_views": 7330}
 {"close": 211.60000610351562, "date": "2026-08-28", "entity": "mixue", "volume": 1506387.0, "wiki_views": 524}
@@ -42227,7 +42227,7 @@
 {"close": 41.20000076293945, "date": "2026-08-31", "entity": "generalmills", "volume": 10666400.0, "wiki_views": 566}
 {"date": "2026-08-31", "entity": "glossier", "wiki_views": 88}
 {"date": "2026-08-31", "entity": "glp1_generic", "wiki_views": 564}
-{"app_rank": 0, "date": "2026-08-31", "entity": "gm", "wiki_views": 2689}
+{"app_rank": 0, "close": 86.31999969482422, "date": "2026-08-31", "entity": "gm", "volume": 8256300.0, "wiki_views": 2689}
 {"app_rank": 9, "close": 339.3500061035156, "date": "2026-08-31", "entity": "googlepixel", "volume": 33493600.0, "wiki_views": 4375}
 {"close": 0.8759999871253967, "date": "2026-08-31", "entity": "gopro", "volume": 220002900.0, "wiki_views": 1177}
 {"app_rank": 54, "close": 3.5399999618530273, "date": "2026-08-31", "entity": "grab", "volume": 34043100.0, "wiki_views": 361}
@@ -42311,13 +42311,13 @@
 {"app_rank": 0, "close": 341.760009765625, "date": "2026-08-31", "entity": "marriott", "volume": 1422500.0, "wiki_views": 1102}
 {"date": "2026-08-31", "entity": "mars", "wiki_views": 255}
 {"app_rank": 0, "close": 40.650001525878906, "date": "2026-08-31", "entity": "match", "volume": 3028300.0, "wiki_views": 486}
-{"date": "2026-08-31", "entity": "mattel", "wiki_views": 1098}
+{"close": 14.949999809265137, "date": "2026-08-31", "entity": "mattel", "volume": 3922600.0, "wiki_views": 1098}
 {"app_rank": 62, "close": 263.5400085449219, "date": "2026-08-31", "entity": "mcdonalds", "volume": 5244100.0, "wiki_views": 3484}
 {"close": 78.9000015258789, "date": "2026-08-31", "entity": "meituan", "volume": 92013016.0, "wiki_views": 211}
 {"app_rank": 0, "date": "2026-08-31", "entity": "mercadolibre", "wiki_views": 260}
 {"close": 47.220001220703125, "date": "2026-08-31", "entity": "mercedes", "volume": 5923525.0, "wiki_views": 861}
 {"app_rank": 8, "close": 572.3400268554688, "date": "2026-08-31", "entity": "meta", "volume": 13383800.0, "wiki_views": 3957}
-{"app_rank": 0, "date": "2026-08-31", "entity": "mgm", "wiki_views": 464}
+{"app_rank": 0, "close": 41.36000061035156, "date": "2026-08-31", "entity": "mgm", "volume": 2214900.0, "wiki_views": 464}
 {"date": "2026-08-31", "entity": "michaelkors", "wiki_views": 97}
 {"app_rank": 6, "close": 507.2900085449219, "date": "2026-08-31", "entity": "microsoft", "volume": 27208900.0, "wiki_views": 6146}
 {"close": 209.8000030517578, "date": "2026-08-31", "entity": "mixue", "volume": 284223.0, "wiki_views": 515}
@@ -42654,7 +42654,7 @@
 {"close": 41.09000015258789, "date": "2026-09-01", "entity": "generalmills", "volume": 9608500.0, "wiki_views": 516}
 {"date": "2026-09-01", "entity": "glossier", "wiki_views": 74}
 {"date": "2026-09-01", "entity": "glp1_generic", "wiki_views": 566}
-{"app_rank": 0, "date": "2026-09-01", "entity": "gm", "wiki_views": 2547}
+{"app_rank": 0, "close": 85.62999725341797, "date": "2026-09-01", "entity": "gm", "volume": 5360000.0, "wiki_views": 2547}
 {"app_rank": 9, "close": 335.0199890136719, "date": "2026-09-01", "entity": "googlepixel", "volume": 23342700.0, "wiki_views": 3562}
 {"close": 1.2300000190734863, "date": "2026-09-01", "entity": "gopro", "volume": 500399100.0, "wiki_views": 1653}
 {"app_rank": 67, "close": 3.4600000381469727, "date": "2026-09-01", "entity": "grab", "volume": 39883000.0, "wiki_views": 344}
@@ -42738,13 +42738,13 @@
 {"app_rank": 0, "close": 334.54998779296875, "date": "2026-09-01", "entity": "marriott", "volume": 1676100.0, "wiki_views": 1052}
 {"date": "2026-09-01", "entity": "mars", "wiki_views": 241}
 {"app_rank": 0, "close": 41.90999984741211, "date": "2026-09-01", "entity": "match", "volume": 4402700.0, "wiki_views": 441}
-{"date": "2026-09-01", "entity": "mattel", "wiki_views": 890}
+{"close": 14.59000015258789, "date": "2026-09-01", "entity": "mattel", "volume": 2904800.0, "wiki_views": 890}
 {"app_rank": 75, "close": 261.1099853515625, "date": "2026-09-01", "entity": "mcdonalds", "volume": 3701000.0, "wiki_views": 3777}
 {"close": 76.6500015258789, "date": "2026-09-01", "entity": "meituan", "volume": 52924730.0, "wiki_views": 174}
 {"app_rank": 0, "date": "2026-09-01", "entity": "mercadolibre", "wiki_views": 279}
 {"close": 46.970001220703125, "date": "2026-09-01", "entity": "mercedes", "volume": 2018038.0, "wiki_views": 821}
 {"app_rank": 10, "close": 578.5399780273438, "date": "2026-09-01", "entity": "meta", "volume": 15796900.0, "wiki_views": 4254}
-{"app_rank": 0, "date": "2026-09-01", "entity": "mgm", "wiki_views": 379}
+{"app_rank": 0, "close": 40.77000045776367, "date": "2026-09-01", "entity": "mgm", "volume": 2000800.0, "wiki_views": 379}
 {"date": "2026-09-01", "entity": "michaelkors", "wiki_views": 115}
 {"app_rank": 7, "close": 501.0199890136719, "date": "2026-09-01", "entity": "microsoft", "volume": 21046900.0, "wiki_views": 6462}
 {"close": 209.1999969482422, "date": "2026-09-01", "entity": "mixue", "volume": 218042.0, "wiki_views": 500}
@@ -43081,7 +43081,7 @@
 {"close": 40.58000183105469, "date": "2026-09-02", "entity": "generalmills", "volume": 6584600.0, "wiki_views": 518}
 {"date": "2026-09-02", "entity": "glossier", "wiki_views": 53}
 {"date": "2026-09-02", "entity": "glp1_generic", "wiki_views": 601}
-{"app_rank": 0, "date": "2026-09-02", "entity": "gm", "wiki_views": 2432}
+{"app_rank": 0, "close": 84.87000274658203, "date": "2026-09-02", "entity": "gm", "volume": 5887800.0, "wiki_views": 2432}
 {"app_rank": 8, "close": 337.1199951171875, "date": "2026-09-02", "entity": "googlepixel", "volume": 22582300.0, "wiki_views": 3578}
 {"close": 1.690000057220459, "date": "2026-09-02", "entity": "gopro", "volume": 280458800.0, "wiki_views": 3312}
 {"app_rank": 60, "close": 3.5299999713897705, "date": "2026-09-02", "entity": "grab", "volume": 33462700.0, "wiki_views": 324}
@@ -43165,13 +43165,13 @@
 {"app_rank": 0, "close": 333.1400146484375, "date": "2026-09-02", "entity": "marriott", "volume": 1266600.0, "wiki_views": 1026}
 {"date": "2026-09-02", "entity": "mars", "wiki_views": 224}
 {"app_rank": 0, "close": 42.439998626708984, "date": "2026-09-02", "entity": "match", "volume": 3445700.0, "wiki_views": 409}
-{"date": "2026-09-02", "entity": "mattel", "wiki_views": 1067}
+{"close": 14.640000343322754, "date": "2026-09-02", "entity": "mattel", "volume": 2476900.0, "wiki_views": 1067}
 {"app_rank": 70, "close": 260.95001220703125, "date": "2026-09-02", "entity": "mcdonalds", "volume": 5106800.0, "wiki_views": 3702}
 {"close": 78.75, "date": "2026-09-02", "entity": "meituan", "volume": 51240708.0, "wiki_views": 233}
 {"app_rank": 0, "date": "2026-09-02", "entity": "mercadolibre", "wiki_views": 272}
 {"close": 46.380001068115234, "date": "2026-09-02", "entity": "mercedes", "volume": 1860768.0, "wiki_views": 846}
 {"app_rank": 10, "close": 592.8499755859375, "date": "2026-09-02", "entity": "meta", "volume": 16552700.0, "wiki_views": 4042}
-{"app_rank": 0, "date": "2026-09-02", "entity": "mgm", "wiki_views": 440}
+{"app_rank": 0, "close": 41.439998626708984, "date": "2026-09-02", "entity": "mgm", "volume": 1739600.0, "wiki_views": 440}
 {"date": "2026-09-02", "entity": "michaelkors", "wiki_views": 102}
 {"app_rank": 7, "close": 496.82000732421875, "date": "2026-09-02", "entity": "microsoft", "volume": 15336100.0, "wiki_views": 6714}
 {"close": 208.39999389648438, "date": "2026-09-02", "entity": "mixue", "volume": 191024.0, "wiki_views": 523}
@@ -43508,7 +43508,7 @@
 {"close": 39.2599983215332, "date": "2026-09-03", "entity": "generalmills", "volume": 12924100.0, "wiki_views": 613}
 {"date": "2026-09-03", "entity": "glossier", "wiki_views": 66}
 {"date": "2026-09-03", "entity": "glp1_generic", "wiki_views": 574}
-{"app_rank": 0, "date": "2026-09-03", "entity": "gm", "wiki_views": 2339}
+{"app_rank": 0, "close": 87.22000122070312, "date": "2026-09-03", "entity": "gm", "volume": 5215900.0, "wiki_views": 2339}
 {"app_rank": 8, "close": 342.4800109863281, "date": "2026-09-03", "entity": "googlepixel", "volume": 20726900.0, "wiki_views": 3574}
 {"close": 1.3899999856948853, "date": "2026-09-03", "entity": "gopro", "volume": 179025100.0, "wiki_views": 1823}
 {"app_rank": 59, "close": 3.4200000762939453, "date": "2026-09-03", "entity": "grab", "volume": 33035300.0, "wiki_views": 356}
@@ -43592,13 +43592,13 @@
 {"app_rank": 0, "close": 336.07000732421875, "date": "2026-09-03", "entity": "marriott", "volume": 1401700.0, "wiki_views": 891}
 {"date": "2026-09-03", "entity": "mars", "wiki_views": 230}
 {"app_rank": 0, "close": 42.43000030517578, "date": "2026-09-03", "entity": "match", "volume": 3490400.0, "wiki_views": 379}
-{"date": "2026-09-03", "entity": "mattel", "wiki_views": 1061}
+{"close": 14.300000190734863, "date": "2026-09-03", "entity": "mattel", "volume": 4035500.0, "wiki_views": 1061}
 {"app_rank": 69, "close": 259.6300048828125, "date": "2026-09-03", "entity": "mcdonalds", "volume": 4576000.0, "wiki_views": 3703}
 {"close": 77.6500015258789, "date": "2026-09-03", "entity": "meituan", "volume": 31028252.0, "wiki_views": 219}
 {"app_rank": 0, "date": "2026-09-03", "entity": "mercadolibre", "wiki_views": 242}
 {"close": 47.1349983215332, "date": "2026-09-03", "entity": "mercedes", "volume": 2095223.0, "wiki_views": 810}
 {"app_rank": 9, "close": 610.6799926757812, "date": "2026-09-03", "entity": "meta", "volume": 19737100.0, "wiki_views": 3597}
-{"app_rank": 0, "date": "2026-09-03", "entity": "mgm", "wiki_views": 397}
+{"app_rank": 0, "close": 41.130001068115234, "date": "2026-09-03", "entity": "mgm", "volume": 1660400.0, "wiki_views": 397}
 {"date": "2026-09-03", "entity": "michaelkors", "wiki_views": 108}
 {"app_rank": 9, "close": 510.1199951171875, "date": "2026-09-03", "entity": "microsoft", "volume": 24125900.0, "wiki_views": 7265}
 {"close": 206.39999389648438, "date": "2026-09-03", "entity": "mixue", "volume": 213400.0, "wiki_views": 510}
@@ -43935,7 +43935,7 @@
 {"close": 38.290000915527344, "date": "2026-09-04", "entity": "generalmills", "volume": 7939400.0, "wiki_views": 566}
 {"date": "2026-09-04", "entity": "glossier", "wiki_views": 69}
 {"date": "2026-09-04", "entity": "glp1_generic", "wiki_views": 534}
-{"app_rank": 0, "date": "2026-09-04", "entity": "gm", "wiki_views": 2551}
+{"app_rank": 0, "close": 87.76000213623047, "date": "2026-09-04", "entity": "gm", "volume": 5440300.0, "wiki_views": 2551}
 {"app_rank": 7, "close": 338.4599914550781, "date": "2026-09-04", "entity": "googlepixel", "volume": 23189300.0, "wiki_views": 3155}
 {"close": 1.7000000476837158, "date": "2026-09-04", "entity": "gopro", "volume": 285136100.0, "wiki_views": 1386}
 {"app_rank": 59, "close": 3.4200000762939453, "date": "2026-09-04", "entity": "grab", "volume": 25875100.0, "wiki_views": 313}
@@ -44019,13 +44019,13 @@
 {"app_rank": 0, "close": 336.510009765625, "date": "2026-09-04", "entity": "marriott", "volume": 1175500.0, "wiki_views": 921}
 {"date": "2026-09-04", "entity": "mars", "wiki_views": 236}
 {"app_rank": 0, "close": 41.86000061035156, "date": "2026-09-04", "entity": "match", "volume": 1883800.0, "wiki_views": 390}
-{"date": "2026-09-04", "entity": "mattel", "wiki_views": 1057}
+{"close": 14.529999732971191, "date": "2026-09-04", "entity": "mattel", "volume": 3619500.0, "wiki_views": 1057}
 {"app_rank": 65, "close": 255.69000244140625, "date": "2026-09-04", "entity": "mcdonalds", "volume": 4225500.0, "wiki_views": 3645}
 {"close": 81.75, "date": "2026-09-04", "entity": "meituan", "volume": 55906440.0, "wiki_views": 213}
 {"app_rank": 0, "date": "2026-09-04", "entity": "mercadolibre", "wiki_views": 261}
 {"close": 47.685001373291016, "date": "2026-09-04", "entity": "mercedes", "volume": 2405767.0, "wiki_views": 924}
 {"app_rank": 9, "close": 616.77001953125, "date": "2026-09-04", "entity": "meta", "volume": 15966200.0, "wiki_views": 3091}
-{"app_rank": 0, "date": "2026-09-04", "entity": "mgm", "wiki_views": 342}
+{"app_rank": 0, "close": 41.220001220703125, "date": "2026-09-04", "entity": "mgm", "volume": 1472600.0, "wiki_views": 342}
 {"date": "2026-09-04", "entity": "michaelkors", "wiki_views": 90}
 {"app_rank": 12, "close": 499.70001220703125, "date": "2026-09-04", "entity": "microsoft", "volume": 18101800.0, "wiki_views": 6544}
 {"close": 206.1999969482422, "date": "2026-09-04", "entity": "mixue", "volume": 176268.0, "wiki_views": 581}
@@ -45642,7 +45642,7 @@
 {"close": 37.689998626708984, "date": "2026-09-08", "entity": "generalmills", "volume": 12320700.0, "wiki_views": 531}
 {"date": "2026-09-08", "entity": "glossier", "wiki_views": 75}
 {"date": "2026-09-08", "entity": "glp1_generic", "wiki_views": 607}
-{"app_rank": 0, "date": "2026-09-08", "entity": "gm", "wiki_views": 2474}
+{"app_rank": 0, "close": 85.79000091552734, "date": "2026-09-08", "entity": "gm", "volume": 6236200.0, "wiki_views": 2474}
 {"app_rank": 5, "close": 338.3599853515625, "date": "2026-09-08", "entity": "googlepixel", "volume": 22915800.0, "wiki_views": 2904}
 {"close": 1.4550000429153442, "date": "2026-09-08", "entity": "gopro", "volume": 93712800.0, "wiki_views": 585}
 {"app_rank": 55, "close": 3.25, "date": "2026-09-08", "entity": "grab", "volume": 54655000.0, "wiki_views": 408}
@@ -45726,13 +45726,13 @@
 {"app_rank": 0, "close": 328.7900085449219, "date": "2026-09-08", "entity": "marriott", "volume": 2107400.0, "wiki_views": 1326}
 {"date": "2026-09-08", "entity": "mars", "wiki_views": 547}
 {"app_rank": 0, "close": 41.150001525878906, "date": "2026-09-08", "entity": "match", "volume": 2929800.0, "wiki_views": 353}
-{"date": "2026-09-08", "entity": "mattel", "wiki_views": 1042}
+{"close": 14.140000343322754, "date": "2026-09-08", "entity": "mattel", "volume": 4237100.0, "wiki_views": 1042}
 {"app_rank": 65, "close": 255.80999755859375, "date": "2026-09-08", "entity": "mcdonalds", "volume": 4197600.0, "wiki_views": 3499}
 {"close": 80.5999984741211, "date": "2026-09-08", "entity": "meituan", "volume": 22046144.0, "wiki_views": 171}
 {"app_rank": 0, "date": "2026-09-08", "entity": "mercadolibre", "wiki_views": 251}
 {"close": 47.77000045776367, "date": "2026-09-08", "entity": "mercedes", "volume": 1560970.0, "wiki_views": 914}
 {"app_rank": 11, "close": 613.47998046875, "date": "2026-09-08", "entity": "meta", "volume": 18909700.0, "wiki_views": 3199}
-{"app_rank": 0, "date": "2026-09-08", "entity": "mgm", "wiki_views": 326}
+{"app_rank": 0, "close": 40.7400016784668, "date": "2026-09-08", "entity": "mgm", "volume": 2652800.0, "wiki_views": 326}
 {"date": "2026-09-08", "entity": "michaelkors", "wiki_views": 86}
 {"app_rank": 13, "close": 493.95001220703125, "date": "2026-09-08", "entity": "microsoft", "volume": 18882300.0, "wiki_views": 6886}
 {"close": 203.0, "date": "2026-09-08", "entity": "mixue", "volume": 282597.0, "wiki_views": 503}
@@ -46069,7 +46069,7 @@
 {"close": 37.09000015258789, "date": "2026-09-09", "entity": "generalmills", "volume": 7787800.0, "wiki_views": 566}
 {"date": "2026-09-09", "entity": "glossier", "wiki_views": 63}
 {"date": "2026-09-09", "entity": "glp1_generic", "wiki_views": 736}
-{"app_rank": 0, "date": "2026-09-09", "entity": "gm", "wiki_views": 2571}
+{"app_rank": 0, "close": 83.76000213623047, "date": "2026-09-09", "entity": "gm", "volume": 7775700.0, "wiki_views": 2571}
 {"app_rank": 5, "close": 330.6499938964844, "date": "2026-09-09", "entity": "googlepixel", "volume": 33151600.0, "wiki_views": 3449}
 {"close": 1.4149999618530273, "date": "2026-09-09", "entity": "gopro", "trends_hit": 2000, "volume": 37009222.0, "wiki_views": 581}
 {"app_rank": 56, "close": 3.0399999618530273, "date": "2026-09-09", "entity": "grab", "volume": 150446800.0, "wiki_views": 541}
@@ -46153,13 +46153,13 @@
 {"app_rank": 0, "close": 331.5199890136719, "date": "2026-09-09", "entity": "marriott", "volume": 2227552.0, "wiki_views": 990}
 {"date": "2026-09-09", "entity": "mars", "wiki_views": 255}
 {"app_rank": 0, "close": 41.43000030517578, "date": "2026-09-09", "entity": "match", "volume": 3899300.0, "wiki_views": 415}
-{"date": "2026-09-09", "entity": "mattel", "wiki_views": 1044}
+{"close": 13.760000228881836, "date": "2026-09-09", "entity": "mattel", "volume": 3634700.0, "wiki_views": 1044}
 {"app_rank": 76, "close": 253.47999572753906, "date": "2026-09-09", "entity": "mcdonalds", "volume": 4434000.0, "wiki_views": 3670}
 {"close": 77.80000305175781, "date": "2026-09-09", "entity": "meituan", "volume": 31841713.0, "wiki_views": 208}
 {"app_rank": 0, "date": "2026-09-09", "entity": "mercadolibre", "wiki_views": 281}
 {"close": 46.69499969482422, "date": "2026-09-09", "entity": "mercedes", "volume": 2425162.0, "wiki_views": 840}
 {"app_rank": 9, "close": 653.6900024414062, "date": "2026-09-09", "entity": "meta", "volume": 35900700.0, "wiki_views": 3670}
-{"app_rank": 0, "date": "2026-09-09", "entity": "mgm", "wiki_views": 375}
+{"app_rank": 0, "close": 40.65999984741211, "date": "2026-09-09", "entity": "mgm", "volume": 2795800.0, "wiki_views": 375}
 {"date": "2026-09-09", "entity": "michaelkors", "wiki_views": 106}
 {"app_rank": 12, "close": 491.6499938964844, "date": "2026-09-09", "entity": "microsoft", "trends_hit": 100, "volume": 12889600.0, "wiki_views": 8211}
 {"close": 200.0, "date": "2026-09-09", "entity": "mixue", "volume": 259633.0, "wiki_views": 504}
@@ -46496,7 +46496,7 @@
 {"close": 35.959999084472656, "date": "2026-09-10", "entity": "generalmills", "volume": 9666600.0, "wiki_views": 564}
 {"date": "2026-09-10", "entity": "glossier", "wiki_views": 73}
 {"date": "2026-09-10", "entity": "glp1_generic", "wiki_views": 694}
-{"app_rank": 0, "date": "2026-09-10", "entity": "gm", "wiki_views": 2365}
+{"app_rank": 0, "close": 86.12000274658203, "date": "2026-09-10", "entity": "gm", "volume": 6140900.0, "wiki_views": 2365}
 {"app_rank": 6, "close": 332.6000061035156, "date": "2026-09-10", "entity": "googlepixel", "volume": 23557600.0, "wiki_views": 3422}
 {"date": "2026-09-10", "entity": "gopro", "wiki_views": 511}
 {"app_rank": 65, "close": 3.009999990463257, "date": "2026-09-10", "entity": "grab", "volume": 86488400.0, "wiki_views": 538}
@@ -46580,13 +46580,13 @@
 {"app_rank": 0, "date": "2026-09-10", "entity": "marriott", "wiki_views": 951}
 {"date": "2026-09-10", "entity": "mars", "wiki_views": 212}
 {"app_rank": 0, "close": 41.81999969482422, "date": "2026-09-10", "entity": "match", "volume": 2707200.0, "wiki_views": 355}
-{"date": "2026-09-10", "entity": "mattel", "wiki_views": 1005}
+{"close": 13.8100004196167, "date": "2026-09-10", "entity": "mattel", "volume": 3158200.0, "wiki_views": 1005}
 {"app_rank": 75, "close": 253.0500030517578, "date": "2026-09-10", "entity": "mcdonalds", "volume": 4345400.0, "wiki_views": 3582}
 {"close": 74.75, "date": "2026-09-10", "entity": "meituan", "volume": 47472674.0, "wiki_views": 238}
 {"app_rank": 0, "date": "2026-09-10", "entity": "mercadolibre", "wiki_views": 312}
 {"close": 46.85499954223633, "date": "2026-09-10", "entity": "mercedes", "volume": 1435153.0, "wiki_views": 989}
 {"app_rank": 9, "close": 644.3800048828125, "date": "2026-09-10", "entity": "meta", "volume": 21531900.0, "wiki_views": 3417}
-{"app_rank": 0, "date": "2026-09-10", "entity": "mgm", "wiki_views": 376}
+{"app_rank": 0, "close": 40.72999954223633, "date": "2026-09-10", "entity": "mgm", "volume": 2192500.0, "wiki_views": 376}
 {"date": "2026-09-10", "entity": "michaelkors", "wiki_views": 94}
 {"app_rank": 16, "close": 492.44000244140625, "date": "2026-09-10", "entity": "microsoft", "volume": 16038800.0, "wiki_views": 8959}
 {"close": 193.3000030517578, "date": "2026-09-10", "entity": "mixue", "volume": 275428.0, "wiki_views": 526}
@@ -46923,7 +46923,7 @@
 {"close": 35.849998474121094, "date": "2026-09-11", "entity": "generalmills", "volume": 7640900.0, "wiki_views": 517}
 {"date": "2026-09-11", "entity": "glossier", "wiki_views": 54}
 {"date": "2026-09-11", "entity": "glp1_generic", "wiki_views": 560}
-{"app_rank": 0, "date": "2026-09-11", "entity": "gm", "wiki_views": 2254}
+{"app_rank": 0, "close": 85.62000274658203, "date": "2026-09-11", "entity": "gm", "volume": 7369200.0, "wiki_views": 2254}
 {"app_rank": 5, "close": 338.5, "date": "2026-09-11", "entity": "googlepixel", "volume": 24708300.0, "wiki_views": 3086}
 {"date": "2026-09-11", "entity": "gopro", "wiki_views": 444}
 {"app_rank": 62, "close": 3.049999952316284, "date": "2026-09-11", "entity": "grab", "volume": 63221200.0, "wiki_views": 518}
@@ -47007,13 +47007,13 @@
 {"app_rank": 0, "date": "2026-09-11", "entity": "marriott", "wiki_views": 1115}
 {"date": "2026-09-11", "entity": "mars", "wiki_views": 289}
 {"app_rank": 0, "close": 42.38999938964844, "date": "2026-09-11", "entity": "match", "volume": 2558000.0, "wiki_views": 1070}
-{"date": "2026-09-11", "entity": "mattel", "wiki_views": 1109}
+{"close": 14.010000228881836, "date": "2026-09-11", "entity": "mattel", "volume": 2786200.0, "wiki_views": 1109}
 {"app_rank": 63, "close": 252.52999877929688, "date": "2026-09-11", "entity": "mcdonalds", "volume": 4096800.0, "wiki_views": 3417}
 {"close": 75.0999984741211, "date": "2026-09-11", "entity": "meituan", "volume": 25980880.0, "wiki_views": 242}
 {"app_rank": 0, "date": "2026-09-11", "entity": "mercadolibre", "wiki_views": 262}
 {"close": 46.68000030517578, "date": "2026-09-11", "entity": "mercedes", "volume": 1624791.0, "wiki_views": 928}
 {"app_rank": 10, "close": 648.030029296875, "date": "2026-09-11", "entity": "meta", "volume": 16925000.0, "wiki_views": 3160}
-{"app_rank": 0, "date": "2026-09-11", "entity": "mgm", "wiki_views": 348}
+{"app_rank": 0, "close": 39.88999938964844, "date": "2026-09-11", "entity": "mgm", "volume": 2243700.0, "wiki_views": 348}
 {"date": "2026-09-11", "entity": "michaelkors", "wiki_views": 105}
 {"app_rank": 17, "close": 495.6300048828125, "date": "2026-09-11", "entity": "microsoft", "volume": 14510500.0, "wiki_views": 7826}
 {"close": 195.5, "date": "2026-09-11", "entity": "mixue", "volume": 161312.0, "wiki_views": 537}
@@ -48204,7 +48204,7 @@
 {"close": 36.470001220703125, "date": "2026-09-14", "entity": "generalmills", "volume": 12175100.0, "wiki_views": 547}
 {"date": "2026-09-14", "entity": "glossier", "wiki_views": 61}
 {"date": "2026-09-14", "entity": "glp1_generic", "wiki_views": 700}
-{"app_rank": 0, "date": "2026-09-14", "entity": "gm", "wiki_views": 2274}
+{"app_rank": 0, "close": 87.16000366210938, "date": "2026-09-14", "entity": "gm", "volume": 5557600.0, "wiki_views": 2274}
 {"app_rank": 6, "close": 349.3900146484375, "date": "2026-09-14", "entity": "googlepixel", "volume": 35905400.0, "wiki_views": 2983}
 {"date": "2026-09-14", "entity": "gopro", "wiki_views": 445}
 {"app_rank": 54, "close": 3.0199999809265137, "date": "2026-09-14", "entity": "grab", "volume": 41514500.0, "wiki_views": 517}
@@ -48288,13 +48288,13 @@
 {"app_rank": 0, "date": "2026-09-14", "entity": "marriott", "wiki_views": 1165}
 {"date": "2026-09-14", "entity": "mars", "wiki_views": 277}
 {"app_rank": 0, "date": "2026-09-14", "entity": "match", "wiki_views": 432}
-{"date": "2026-09-14", "entity": "mattel", "wiki_views": 1184}
+{"close": 14.029999732971191, "date": "2026-09-14", "entity": "mattel", "volume": 3071800.0, "wiki_views": 1184}
 {"app_rank": 68, "close": 257.489990234375, "date": "2026-09-14", "entity": "mcdonalds", "volume": 4165000.0, "wiki_views": 3849}
 {"close": 75.05000305175781, "date": "2026-09-14", "entity": "meituan", "volume": 17247251.0, "wiki_views": 214}
 {"app_rank": 0, "date": "2026-09-14", "entity": "mercadolibre", "wiki_views": 232}
 {"close": 46.4900016784668, "date": "2026-09-14", "entity": "mercedes", "volume": 0.0, "wiki_views": 874}
 {"app_rank": 14, "close": 665.5999755859375, "date": "2026-09-14", "entity": "meta", "volume": 19332300.0, "wiki_views": 3384}
-{"app_rank": 0, "date": "2026-09-14", "entity": "mgm", "wiki_views": 372}
+{"app_rank": 0, "close": 39.83000183105469, "date": "2026-09-14", "entity": "mgm", "volume": 1855900.0, "wiki_views": 372}
 {"date": "2026-09-14", "entity": "michaelkors", "wiki_views": 116}
 {"app_rank": 9, "close": 505.4100036621094, "date": "2026-09-14", "entity": "microsoft", "volume": 23091900.0, "wiki_views": 9776}
 {"close": 192.39999389648438, "date": "2026-09-14", "entity": "mixue", "volume": 196406.0, "wiki_views": 1065}
@@ -48631,7 +48631,7 @@
 {"close": 36.58000183105469, "date": "2026-09-15", "entity": "generalmills", "volume": 7504200.0, "wiki_views": 549}
 {"date": "2026-09-15", "entity": "glossier", "wiki_views": 62}
 {"date": "2026-09-15", "entity": "glp1_generic", "wiki_views": 667}
-{"app_rank": 0, "date": "2026-09-15", "entity": "gm", "wiki_views": 2289}
+{"app_rank": 0, "close": 85.37000274658203, "date": "2026-09-15", "entity": "gm", "volume": 6299700.0, "wiki_views": 2289}
 {"app_rank": 5, "close": 344.9800109863281, "date": "2026-09-15", "entity": "googlepixel", "volume": 21928600.0, "wiki_views": 3031}
 {"date": "2026-09-15", "entity": "gopro", "wiki_views": 392}
 {"app_rank": 51, "close": 2.9100000858306885, "date": "2026-09-15", "entity": "grab", "volume": 74126100.0, "wiki_views": 530}
@@ -48715,13 +48715,13 @@
 {"app_rank": 0, "date": "2026-09-15", "entity": "marriott", "wiki_views": 1106}
 {"date": "2026-09-15", "entity": "mars", "wiki_views": 336}
 {"app_rank": 0, "date": "2026-09-15", "entity": "match", "wiki_views": 426}
-{"date": "2026-09-15", "entity": "mattel", "wiki_views": 1128}
+{"close": 13.420000076293945, "date": "2026-09-15", "entity": "mattel", "volume": 6020600.0, "wiki_views": 1128}
 {"app_rank": 73, "close": 252.77999877929688, "date": "2026-09-15", "entity": "mcdonalds", "volume": 4783500.0, "wiki_views": 3739}
 {"close": 74.75, "date": "2026-09-15", "entity": "meituan", "volume": 14849739.0, "wiki_views": 267}
 {"app_rank": 0, "date": "2026-09-15", "entity": "mercadolibre", "wiki_views": 304}
 {"date": "2026-09-15", "entity": "mercedes", "wiki_views": 847}
 {"app_rank": 13, "close": 670.239990234375, "date": "2026-09-15", "entity": "meta", "volume": 19502800.0, "wiki_views": 3462}
-{"app_rank": 0, "date": "2026-09-15", "entity": "mgm", "wiki_views": 353}
+{"app_rank": 0, "close": 39.220001220703125, "date": "2026-09-15", "entity": "mgm", "volume": 2056200.0, "wiki_views": 353}
 {"date": "2026-09-15", "entity": "michaelkors", "wiki_views": 89}
 {"app_rank": 12, "close": 497.1199951171875, "date": "2026-09-15", "entity": "microsoft", "volume": 17794600.0, "wiki_views": 7919}
 {"close": 187.89999389648438, "date": "2026-09-15", "entity": "mixue", "volume": 350742.0, "wiki_views": 619}
@@ -49058,7 +49058,7 @@
 {"close": 36.810001373291016, "date": "2026-09-16", "entity": "generalmills", "volume": 6314900.0, "wiki_views": 565}
 {"date": "2026-09-16", "entity": "glossier", "wiki_views": 51}
 {"date": "2026-09-16", "entity": "glp1_generic", "wiki_views": 540}
-{"app_rank": 0, "date": "2026-09-16", "entity": "gm", "wiki_views": 2644}
+{"app_rank": 0, "close": 84.29000091552734, "date": "2026-09-16", "entity": "gm", "volume": 6427900.0, "wiki_views": 2644}
 {"app_rank": 4, "close": 342.8699951171875, "date": "2026-09-16", "entity": "googlepixel", "volume": 18928900.0, "wiki_views": 3012}
 {"date": "2026-09-16", "entity": "gopro", "wiki_views": 418}
 {"app_rank": 54, "close": 2.869999885559082, "date": "2026-09-16", "entity": "grab", "volume": 84594100.0, "wiki_views": 648}
@@ -49142,13 +49142,13 @@
 {"app_rank": 0, "date": "2026-09-16", "entity": "marriott", "wiki_views": 924}
 {"date": "2026-09-16", "entity": "mars", "wiki_views": 291}
 {"app_rank": 0, "date": "2026-09-16", "entity": "match", "wiki_views": 414}
-{"date": "2026-09-16", "entity": "mattel", "wiki_views": 981}
+{"close": 13.170000076293945, "date": "2026-09-16", "entity": "mattel", "volume": 5891400.0, "wiki_views": 981}
 {"app_rank": 61, "close": 248.55999755859375, "date": "2026-09-16", "entity": "mcdonalds", "volume": 7134200.0, "wiki_views": 3793}
 {"close": 74.44999694824219, "date": "2026-09-16", "entity": "meituan", "volume": 16747522.0, "wiki_views": 233}
 {"app_rank": 0, "date": "2026-09-16", "entity": "mercadolibre", "wiki_views": 285}
 {"date": "2026-09-16", "entity": "mercedes", "wiki_views": 892}
 {"app_rank": 12, "close": 673.3099975585938, "date": "2026-09-16", "entity": "meta", "volume": 17217800.0, "wiki_views": 3355}
-{"app_rank": 0, "date": "2026-09-16", "entity": "mgm", "wiki_views": 352}
+{"app_rank": 0, "close": 38.38999938964844, "date": "2026-09-16", "entity": "mgm", "volume": 2777900.0, "wiki_views": 352}
 {"date": "2026-09-16", "entity": "michaelkors", "wiki_views": 110}
 {"app_rank": 11, "close": 490.29998779296875, "date": "2026-09-16", "entity": "microsoft", "volume": 16670300.0, "wiki_views": 8053}
 {"date": "2026-09-16", "entity": "mixue", "wiki_views": 516}
@@ -49485,7 +49485,7 @@
 {"close": 36.65999984741211, "date": "2026-09-17", "entity": "generalmills", "volume": 5402900.0, "wiki_views": 635}
 {"date": "2026-09-17", "entity": "glossier", "wiki_views": 38}
 {"date": "2026-09-17", "entity": "glp1_generic", "wiki_views": 641}
-{"app_rank": 0, "date": "2026-09-17", "entity": "gm", "wiki_views": 2405}
+{"app_rank": 0, "close": 86.62000274658203, "date": "2026-09-17", "entity": "gm", "volume": 8831900.0, "wiki_views": 2405}
 {"app_rank": 5, "close": 347.3299865722656, "date": "2026-09-17", "entity": "googlepixel", "volume": 19238400.0, "wiki_views": 2909}
 {"date": "2026-09-17", "entity": "gopro", "wiki_views": 444}
 {"app_rank": 50, "close": 2.809999942779541, "date": "2026-09-17", "entity": "grab", "volume": 57156100.0, "wiki_views": 540}
@@ -49569,13 +49569,13 @@
 {"app_rank": 0, "date": "2026-09-17", "entity": "marriott", "wiki_views": 889}
 {"date": "2026-09-17", "entity": "mars", "wiki_views": 281}
 {"app_rank": 0, "date": "2026-09-17", "entity": "match", "wiki_views": 436}
-{"date": "2026-09-17", "entity": "mattel", "wiki_views": 1124}
+{"close": 13.3100004196167, "date": "2026-09-17", "entity": "mattel", "volume": 3925100.0, "wiki_views": 1124}
 {"app_rank": 61, "close": 248.47999572753906, "date": "2026-09-17", "entity": "mcdonalds", "volume": 4941900.0, "wiki_views": 3833}
 {"date": "2026-09-17", "entity": "meituan", "wiki_views": 167}
 {"app_rank": 0, "date": "2026-09-17", "entity": "mercadolibre", "wiki_views": 315}
 {"date": "2026-09-17", "entity": "mercedes", "wiki_views": 887}
 {"app_rank": 6, "close": 682.3099975585938, "date": "2026-09-17", "entity": "meta", "volume": 15928000.0, "wiki_views": 3458}
-{"app_rank": 0, "date": "2026-09-17", "entity": "mgm", "wiki_views": 398}
+{"app_rank": 0, "close": 38.310001373291016, "date": "2026-09-17", "entity": "mgm", "volume": 1943100.0, "wiki_views": 398}
 {"date": "2026-09-17", "entity": "michaelkors", "wiki_views": 113}
 {"app_rank": 13, "close": 497.75, "date": "2026-09-17", "entity": "microsoft", "trends_hit": 500, "volume": 17841600.0, "wiki_views": 9307}
 {"date": "2026-09-17", "entity": "mixue", "wiki_views": 482}
@@ -49912,7 +49912,7 @@
 {"close": 36.31999969482422, "date": "2026-09-18", "entity": "generalmills", "volume": 16384600.0, "wiki_views": 693}
 {"date": "2026-09-18", "entity": "glossier", "wiki_views": 38}
 {"date": "2026-09-18", "entity": "glp1_generic", "wiki_views": 590}
-{"app_rank": 0, "date": "2026-09-18", "entity": "gm", "wiki_views": 2214}
+{"app_rank": 0, "close": 82.19999694824219, "date": "2026-09-18", "entity": "gm", "volume": 21137500.0, "wiki_views": 2214}
 {"app_rank": 7, "close": 349.5400085449219, "date": "2026-09-18", "entity": "googlepixel", "volume": 47526100.0, "wiki_views": 2886}
 {"date": "2026-09-18", "entity": "gopro", "wiki_views": 371}
 {"app_rank": 51, "close": 2.7950000762939453, "date": "2026-09-18", "entity": "grab", "volume": 105430000.0, "wiki_views": 568}
@@ -49996,13 +49996,13 @@
 {"app_rank": 0, "date": "2026-09-18", "entity": "marriott", "wiki_views": 901}
 {"date": "2026-09-18", "entity": "mars", "wiki_views": 246}
 {"app_rank": 0, "date": "2026-09-18", "entity": "match", "wiki_views": 407}
-{"date": "2026-09-18", "entity": "mattel", "wiki_views": 931}
+{"close": 13.260000228881836, "date": "2026-09-18", "entity": "mattel", "volume": 8816000.0, "wiki_views": 931}
 {"app_rank": 32, "close": 248.24000549316406, "date": "2026-09-18", "entity": "mcdonalds", "trends_hit": 5000, "volume": 9565500.0, "wiki_views": 3669}
 {"date": "2026-09-18", "entity": "meituan", "wiki_views": 174}
 {"app_rank": 0, "date": "2026-09-18", "entity": "mercadolibre", "wiki_views": 252}
 {"date": "2026-09-18", "entity": "mercedes", "wiki_views": 779}
 {"app_rank": 6, "close": 665.75, "date": "2026-09-18", "entity": "meta", "volume": 27548000.0, "wiki_views": 3211}
-{"app_rank": 0, "date": "2026-09-18", "entity": "mgm", "wiki_views": 295}
+{"app_rank": 0, "close": 37.810001373291016, "date": "2026-09-18", "entity": "mgm", "volume": 7853800.0, "wiki_views": 295}
 {"date": "2026-09-18", "entity": "michaelkors", "wiki_views": 90}
 {"app_rank": 17, "close": 493.7799987792969, "date": "2026-09-18", "entity": "microsoft", "volume": 39544100.0, "wiki_views": 9094}
 {"date": "2026-09-18", "entity": "mixue", "wiki_views": 442}
@@ -51029,7 +51029,7 @@
 {"app_rank": 24, "date": "2026-09-20", "entity": "wise", "wiki_views": 548}
 {"app_rank": 0, "date": "2026-09-20", "entity": "wizz", "wiki_views": 1072}
 {"date": "2026-09-20", "entity": "wkkellogg", "wiki_views": 252}
-{"app_rank": 17, "date": "2026-09-20", "entity": "woolworths"}
+{"app_rank": 17, "date": "2026-09-20", "entity": "woolworths", "wiki_views": 259}
 {"app_rank": 0, "date": "2026-09-20", "entity": "ww", "wiki_views": 168}
 {"date": "2026-09-20", "entity": "xero", "wiki_views": 80}
 {"date": "2026-09-20", "entity": "xiaomi", "wiki_views": 1169}
@@ -51041,20 +51041,20 @@
 {"date": "2026-09-20", "entity": "zoetis", "wiki_views": 52}
 {"app_rank": 0, "date": "2026-09-21", "entity": "adidas"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "affirm"}
-{"app_rank": 38, "close": 165.7100067138672, "date": "2026-09-21", "entity": "airbnb", "volume": 0.0}
+{"app_rank": 43, "close": 166.83999633789062, "date": "2026-09-21", "entity": "airbnb", "volume": 3300772.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "alaska_air"}
-{"app_rank": 10, "close": 113.60970306396484, "date": "2026-09-21", "entity": "alibaba", "volume": 0.0}
-{"app_rank": 23, "close": 254.5500030517578, "date": "2026-09-21", "entity": "amazon", "volume": 0.0}
+{"app_rank": 10, "close": 115.75, "date": "2026-09-21", "entity": "alibaba", "volume": 9057616.0}
+{"app_rank": 19, "close": 258.45001220703125, "date": "2026-09-21", "entity": "amazon", "volume": 40769944.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "amc"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "american_air"}
-{"close": 15.164999961853027, "date": "2026-09-21", "entity": "americaneagle", "volume": 0.0}
+{"close": 15.460000038146973, "date": "2026-09-21", "entity": "americaneagle", "volume": 5668785.0}
 {"close": 128.14999389648438, "date": "2026-09-21", "entity": "anker", "volume": 2882358.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "apple"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "aristocrat"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "bestbuy"}
-{"app_rank": 46, "close": 77.02999877929688, "date": "2026-09-21", "entity": "block", "volume": 0.0}
-{"app_rank": 36, "close": 167.47000122070312, "date": "2026-09-21", "entity": "booking", "volume": 0.0}
-{"close": 168.91000366210938, "date": "2026-09-21", "entity": "boston_beer", "volume": 0.0}
+{"app_rank": 43, "close": 77.91000366210938, "date": "2026-09-21", "entity": "block", "volume": 3676422.0}
+{"app_rank": 40, "close": 168.52000427246094, "date": "2026-09-21", "entity": "booking", "volume": 6757709.0}
+{"close": 171.39999389648438, "date": "2026-09-21", "entity": "boston_beer", "volume": 225290.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "bumble"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "caesars"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "carmax"}
@@ -51066,43 +51066,43 @@
 {"app_rank": 0, "date": "2026-09-21", "entity": "chipotle"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "cinemark"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "coinbase"}
-{"app_rank": 42, "close": 22.950000762939453, "date": "2026-09-21", "entity": "coles", "volume": 1838131.0}
-{"close": 56.025001525878906, "date": "2026-09-21", "entity": "columbia", "volume": 0.0}
-{"app_rank": 48, "close": 22.684999465942383, "date": "2026-09-21", "entity": "comcast", "volume": 0.0}
-{"close": 35.505001068115234, "date": "2026-09-21", "entity": "converse", "volume": 0.0}
-{"app_rank": 79, "close": 888.7899780273438, "date": "2026-09-21", "entity": "costco", "volume": 0.0}
+{"app_rank": 53, "close": 22.950000762939453, "date": "2026-09-21", "entity": "coles", "volume": 1838131.0}
+{"close": 56.72999954223633, "date": "2026-09-21", "entity": "columbia", "volume": 748133.0}
+{"app_rank": 86, "close": 22.93000030517578, "date": "2026-09-21", "entity": "comcast", "trends_hit": 2000, "volume": 28779146.0}
+{"close": 36.099998474121094, "date": "2026-09-21", "entity": "converse", "volume": 41484306.0}
+{"app_rank": 66, "close": 898.47998046875, "date": "2026-09-21", "entity": "costco", "volume": 2102916.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "crumbl"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "crunch"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "delta"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "dexcom"}
-{"app_rank": 69, "close": 103.55500030517578, "date": "2026-09-21", "entity": "disney", "volume": 0.0}
+{"app_rank": 90, "close": 104.2300033569336, "date": "2026-09-21", "entity": "disney", "trends_hit": 200, "volume": 7019663.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "dominos"}
-{"app_rank": 26, "close": 192.14999389648438, "date": "2026-09-21", "entity": "doordash", "volume": 0.0}
-{"app_rank": 0, "close": 21.905000686645508, "date": "2026-09-21", "entity": "draftkings", "volume": 0.0}
-{"close": 4617.5, "date": "2026-09-21", "entity": "drsquatch", "volume": 0.0}
-{"app_rank": 39, "close": 148.41000366210938, "date": "2026-09-21", "entity": "duolingo", "volume": 0.0}
+{"app_rank": 35, "close": 193.8300018310547, "date": "2026-09-21", "entity": "doordash", "volume": 4820952.0}
+{"app_rank": 0, "close": 21.969999313354492, "date": "2026-09-21", "entity": "draftkings", "trends_hit": 100, "volume": 14466156.0}
+{"close": 4642.5, "date": "2026-09-21", "entity": "drsquatch", "volume": 1651010.0}
+{"app_rank": 49, "close": 149.4199981689453, "date": "2026-09-21", "entity": "duolingo", "volume": 1244481.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "dutchbros"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "ea"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "easyjet"}
-{"app_rank": 91, "close": 109.73999786376953, "date": "2026-09-21", "entity": "ebay", "volume": 0.0}
+{"app_rank": 98, "close": 108.30000305175781, "date": "2026-09-21", "entity": "ebay", "volume": 5101449.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "endeavour"}
-{"close": 94.38999938964844, "date": "2026-09-21", "entity": "esteelauder", "volume": 0.0}
-{"app_rank": 8, "close": 72.80000305175781, "date": "2026-09-21", "entity": "etsy", "volume": 0.0}
+{"close": 96.33999633789062, "date": "2026-09-21", "entity": "esteelauder", "volume": 3087405.0}
+{"app_rank": 10, "close": 73.4800033569336, "date": "2026-09-21", "entity": "etsy", "volume": 2967981.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "expedia"}
-{"close": 417.0899963378906, "date": "2026-09-21", "entity": "ferrari", "volume": 0.0}
-{"close": 10.074999809265137, "date": "2026-09-21", "entity": "firstwatch", "volume": 0.0}
-{"app_rank": 86, "close": 88.94499969482422, "date": "2026-09-21", "entity": "flutter", "volume": 0.0}
+{"close": 416.1300048828125, "date": "2026-09-21", "entity": "ferrari", "volume": 295886.0}
+{"close": 10.140000343322754, "date": "2026-09-21", "entity": "firstwatch", "volume": 1065295.0}
+{"app_rank": 0, "close": 86.86000061035156, "date": "2026-09-21", "entity": "flutter", "trends_hit": 100, "volume": 3389666.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "ford"}
-{"app_rank": 22, "close": 64.63999938964844, "date": "2026-09-21", "entity": "fox", "trends_hit": 1000, "volume": 0.0}
+{"app_rank": 65, "close": 64.79000091552734, "date": "2026-09-21", "entity": "fox", "trends_hit": 1000, "volume": 6018499.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "function_health"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "gamestop"}
-{"app_rank": 0, "date": "2026-09-21", "entity": "gm"}
-{"app_rank": 9, "close": 353.2449951171875, "date": "2026-09-21", "entity": "googlepixel", "trends_hit": 2000, "volume": 0.0}
-{"app_rank": 46, "close": 2.7950000762939453, "date": "2026-09-21", "entity": "grab", "volume": 0.0}
-{"app_rank": 0, "close": 15.800000190734863, "date": "2026-09-21", "entity": "grindr", "volume": 0.0}
-{"app_rank": 61, "close": 25.510000228881836, "date": "2026-09-21", "entity": "gyg", "volume": 249199.0}
+{"app_rank": 0, "close": 83.94999694824219, "date": "2026-09-21", "entity": "gm", "trends_hit": 200, "volume": 7813683.0}
+{"app_rank": 8, "close": 354.9700012207031, "date": "2026-09-21", "entity": "googlepixel", "trends_hit": 2000, "volume": 28211544.0}
+{"app_rank": 47, "close": 2.9100000858306885, "date": "2026-09-21", "entity": "grab", "volume": 69816919.0}
+{"app_rank": 0, "close": 15.890000343322754, "date": "2026-09-21", "entity": "grindr", "volume": 1363057.0}
+{"app_rank": 79, "close": 25.510000228881836, "date": "2026-09-21", "entity": "gyg", "volume": 484479.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "harveynorman"}
-{"close": 169.125, "date": "2026-09-21", "entity": "hershey", "volume": 0.0}
+{"close": 167.89999389648438, "date": "2026-09-21", "entity": "hershey", "volume": 1429144.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "hilton"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "hims"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "hingehealth"}
@@ -51115,53 +51115,54 @@
 {"app_rank": 0, "date": "2026-09-21", "entity": "instacart"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "jbhifi"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "jetblue"}
-{"close": 35.505001068115234, "date": "2026-09-21", "entity": "jordan", "volume": 0.0}
-{"app_rank": 4, "date": "2026-09-21", "entity": "kalshi"}
+{"close": 36.099998474121094, "date": "2026-09-21", "entity": "jordan", "volume": 41484306.0}
+{"app_rank": 4, "date": "2026-09-21", "entity": "kalshi", "trends_hit": 10000}
 {"app_rank": 0, "date": "2026-09-21", "entity": "klarna"}
-{"close": 24.315000534057617, "date": "2026-09-21", "entity": "kraftheinz", "volume": 0.0}
+{"close": 24.3700008392334, "date": "2026-09-21", "entity": "kraftheinz", "volume": 13952582.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "krafton"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "lifetime"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "lightwonder"}
 {"close": 90000.0, "date": "2026-09-21", "entity": "lindt", "volume": 0.0}
-{"app_rank": 3, "close": 169.94000244140625, "date": "2026-09-21", "entity": "livenation", "volume": 0.0}
+{"app_rank": 4, "close": 169.17999267578125, "date": "2026-09-21", "entity": "livenation", "volume": 1857309.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "lowes"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "lvmh"}
-{"app_rank": 60, "close": 15.249799728393555, "date": "2026-09-21", "entity": "lyft", "volume": 0.0}
+{"app_rank": 64, "close": 15.270000457763672, "date": "2026-09-21", "entity": "lyft", "volume": 6925035.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "marriott"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "match"}
-{"app_rank": 62, "close": 246.81500244140625, "date": "2026-09-21", "entity": "mcdonalds", "volume": 0.0}
+{"close": 13.079999923706055, "date": "2026-09-21", "entity": "mattel", "volume": 3528402.0}
+{"app_rank": 54, "close": 247.8800048828125, "date": "2026-09-21", "entity": "mcdonalds", "volume": 5981174.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "mercadolibre"}
-{"app_rank": 8, "close": 711.1099853515625, "date": "2026-09-21", "entity": "meta", "volume": 0.0}
-{"app_rank": 0, "date": "2026-09-21", "entity": "mgm"}
-{"app_rank": 15, "close": 495.0899963378906, "date": "2026-09-21", "entity": "microsoft", "volume": 0.0}
+{"app_rank": 8, "close": 741.2449951171875, "date": "2026-09-21", "entity": "meta", "volume": 48450536.0}
+{"app_rank": 0, "close": 38.72999954223633, "date": "2026-09-21", "entity": "mgm", "trends_hit": 100, "volume": 2427575.0}
+{"app_rank": 15, "close": 501.6099853515625, "date": "2026-09-21", "entity": "microsoft", "volume": 26347908.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "myer"}
 {"close": 76.8499984741211, "date": "2026-09-21", "entity": "nestle", "volume": 0.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "netease"}
-{"app_rank": 12, "close": 72.78500366210938, "date": "2026-09-21", "entity": "netflix", "volume": 0.0}
+{"app_rank": 25, "close": 73.36000061035156, "date": "2026-09-21", "entity": "netflix", "volume": 36838439.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "nexon"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "nike"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "nintendo"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "norwegian"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "nubank"}
-{"close": 27.2549991607666, "date": "2026-09-21", "entity": "on_running", "volume": 0.0}
+{"close": 27.31999969482422, "date": "2026-09-21", "entity": "on_running", "volume": 13283380.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "oscar"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "oura"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "papajohns"}
-{"app_rank": 14, "close": 10.984999656677246, "date": "2026-09-21", "entity": "paramount", "volume": 0.0}
-{"app_rank": 56, "close": 52.41999816894531, "date": "2026-09-21", "entity": "paypal", "volume": 0.0}
-{"app_rank": 18, "close": 78.47000122070312, "date": "2026-09-21", "entity": "pdd", "volume": 0.0}
+{"app_rank": 23, "close": 9.90999984741211, "date": "2026-09-21", "entity": "paramount", "volume": 64531706.0}
+{"app_rank": 50, "close": 52.619998931884766, "date": "2026-09-21", "entity": "paypal", "volume": 9521230.0}
+{"app_rank": 21, "close": 79.29499816894531, "date": "2026-09-21", "entity": "pdd", "volume": 6139649.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "peloton"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "petco"}
 {"date": "2026-09-21", "entity": "petsmart", "trends_hit": 2000}
-{"close": 145.8800048828125, "date": "2026-09-21", "entity": "pg", "volume": 0.0}
-{"app_rank": 41, "close": 18.780000686645508, "date": "2026-09-21", "entity": "pinterest", "volume": 0.0}
+{"close": 146.0800018310547, "date": "2026-09-21", "entity": "pg", "volume": 5703641.0}
+{"app_rank": 42, "close": 19.360000610351562, "date": "2026-09-21", "entity": "pinterest", "volume": 11887584.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "planetfitness"}
 {"close": 22.209999084472656, "date": "2026-09-21", "entity": "puma", "volume": 0.0}
-{"app_rank": 58, "close": 8.789999961853027, "date": "2026-09-21", "entity": "qantas", "volume": 3182857.0}
+{"app_rank": 69, "close": 8.789999961853027, "date": "2026-09-21", "entity": "qantas", "volume": 3185267.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "rbi"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "rea"}
-{"app_rank": 81, "close": 155.9799041748047, "date": "2026-09-21", "entity": "reddit", "volume": 0.0}
-{"app_rank": 94, "date": "2026-09-21", "entity": "revolut"}
+{"app_rank": 88, "close": 158.72999572753906, "date": "2026-09-21", "entity": "reddit", "volume": 5314101.0}
+{"app_rank": 95, "date": "2026-09-21", "entity": "revolut"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "rivian"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "robinhood"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "roblox"}
@@ -51172,50 +51173,50 @@
 {"app_rank": 0, "date": "2026-09-21", "entity": "ryanair"}
 {"close": 274000.0, "date": "2026-09-21", "entity": "samsung", "volume": 22261519.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "sea"}
-{"app_rank": 43, "close": 11.899999618530273, "date": "2026-09-21", "entity": "seek", "volume": 1223265.0}
+{"app_rank": 45, "close": 11.899999618530273, "date": "2026-09-21", "entity": "seek", "volume": 1224835.0}
 {"date": "2026-09-21", "entity": "sega", "trends_hit": 500}
 {"app_rank": 0, "date": "2026-09-21", "entity": "shakeshack"}
-{"app_rank": 63, "date": "2026-09-21", "entity": "shein"}
+{"app_rank": 70, "date": "2026-09-21", "entity": "shein"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "sixflags"}
-{"app_rank": 52, "close": 5.784999847412109, "date": "2026-09-21", "entity": "snap", "volume": 0.0}
+{"app_rank": 45, "close": 5.699999809265137, "date": "2026-09-21", "entity": "snap", "volume": 34805847.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "sofi"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "sony"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "southwest"}
-{"app_rank": 36, "close": 508.55499267578125, "date": "2026-09-21", "entity": "spotify", "volume": 0.0}
+{"app_rank": 31, "close": 516.77001953125, "date": "2026-09-21", "entity": "spotify", "volume": 1509235.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "starbucks"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "starz"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "stellantis"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "sweetgreen"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "taketwo"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "talkspace"}
-{"app_rank": 93, "close": 157.86000061035156, "date": "2026-09-21", "entity": "target", "volume": 0.0}
+{"app_rank": 0, "close": 157.86000061035156, "date": "2026-09-21", "entity": "target", "volume": 0.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "teladoc"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "templewebster"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "tencent"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "tesla"}
-{"close": 12.845000267028809, "date": "2026-09-21", "entity": "timberland", "volume": 0.0}
+{"close": 13.050000190734863, "date": "2026-09-21", "entity": "timberland", "volume": 7472295.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "topgolf"}
-{"app_rank": 40, "close": 40.650001525878906, "date": "2026-09-21", "entity": "trip_com", "volume": 0.0}
+{"app_rank": 41, "close": 40.650001525878906, "date": "2026-09-21", "entity": "trip_com", "volume": 3710444.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "tripadvisor"}
-{"app_rank": 25, "close": 70.27999877929688, "date": "2026-09-21", "entity": "uber", "volume": 0.0}
+{"app_rank": 28, "close": 70.83999633789062, "date": "2026-09-21", "entity": "uber", "volume": 16631377.0}
 {"close": 5.288000106811523, "date": "2026-09-21", "entity": "ubisoft", "volume": 0.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "ulta"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "underdog"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "united"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "vail"}
-{"close": 12.845000267028809, "date": "2026-09-21", "entity": "vans", "volume": 0.0}
+{"close": 13.050000190734863, "date": "2026-09-21", "entity": "vans", "volume": 7472295.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "viking"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "wag"}
-{"app_rank": 33, "close": 106.5999984741211, "date": "2026-09-21", "entity": "walmart", "volume": 0.0}
+{"app_rank": 37, "close": 107.44000244140625, "date": "2026-09-21", "entity": "walmart", "volume": 22725687.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "wayfair"}
-{"app_rank": 84, "close": 29.7549991607666, "date": "2026-09-21", "entity": "wbd", "volume": 0.0}
-{"app_rank": 0, "close": 6.715000152587891, "date": "2026-09-21", "entity": "wendys", "volume": 0.0}
-{"app_rank": 84, "close": 72.73999786376953, "date": "2026-09-21", "entity": "wesfarmers", "volume": 1178710.0}
+{"app_rank": 0, "close": 30.799999237060547, "date": "2026-09-21", "entity": "wbd", "trends_hit": 5000, "volume": 233836583.0}
+{"app_rank": 0, "close": 6.699999809265137, "date": "2026-09-21", "entity": "wendys", "volume": 6546354.0}
+{"app_rank": 86, "close": 72.73999786376953, "date": "2026-09-21", "entity": "wesfarmers", "volume": 1178710.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "whoop"}
 {"app_rank": 0, "date": "2026-09-21", "entity": "wingstop"}
-{"app_rank": 22, "close": 850.5999755859375, "date": "2026-09-21", "entity": "wise", "volume": 0.0}
+{"app_rank": 23, "close": 856.4000244140625, "date": "2026-09-21", "entity": "wise", "volume": 1353484.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "wizz"}
-{"app_rank": 17, "close": 38.099998474121094, "date": "2026-09-21", "entity": "woolworths", "volume": 1112600.0}
+{"app_rank": 21, "close": 38.099998474121094, "date": "2026-09-21", "entity": "woolworths", "volume": 1112600.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "ww"}
-{"app_rank": 89, "close": 138.1999969482422, "date": "2026-09-21", "entity": "yum", "volume": 0.0}
+{"app_rank": 0, "close": 138.1999969482422, "date": "2026-09-21", "entity": "yum", "volume": 0.0}
 {"app_rank": 0, "date": "2026-09-21", "entity": "zip"}

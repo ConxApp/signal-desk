@@ -1787,7 +1787,7 @@
 {"date": "2026-09-20", "entity": "atlassian", "wiki_views": 476}
 {"date": "2026-09-20", "entity": "birkenstock", "wiki_views": 343}
 {"date": "2026-09-20", "entity": "bloom_energy", "news_articles": 0.0041, "wiki_views": 201}
-{"date": "2026-09-20", "entity": "celsius", "wiki_views": 355}
+{"date": "2026-09-20", "entity": "celsius", "news_articles": 0.0, "wiki_views": 355}
 {"date": "2026-09-20", "entity": "crispr", "wiki_views": 41}
 {"date": "2026-09-20", "entity": "crocs", "news_articles": 0.0, "wiki_views": 605}
 {"date": "2026-09-20", "entity": "deckers", "news_articles": 0.0, "wiki_views": 267}
@@ -1795,21 +1795,21 @@
 {"date": "2026-09-20", "entity": "elf", "news_articles": 0.0, "wiki_views": 180}
 {"date": "2026-09-20", "entity": "oddity", "wiki_views": 36}
 {"date": "2026-09-20", "entity": "onon", "wiki_views": 5319}
-{"date": "2026-09-20", "entity": "popmart", "wiki_views": 279}
-{"date": "2026-09-20", "entity": "robinhood", "wiki_views": 523}
+{"date": "2026-09-20", "entity": "popmart", "news_articles": 0.0009, "wiki_views": 279}
+{"date": "2026-09-20", "entity": "robinhood", "news_articles": 0.0047, "wiki_views": 523}
 {"date": "2026-09-20", "entity": "tesla", "wiki_views": 2527}
-{"close": 606.8900146484375, "date": "2026-09-21", "entity": "amd", "volume": 0.0}
-{"close": 197.61000061035156, "date": "2026-09-21", "entity": "atlassian", "volume": 0.0}
-{"close": 30.65999984741211, "date": "2026-09-21", "entity": "birkenstock", "volume": 0.0}
-{"close": 266.6846008300781, "date": "2026-09-21", "entity": "bloom_energy", "volume": 0.0}
-{"close": 28.31999969482422, "date": "2026-09-21", "entity": "celsius", "volume": 0.0}
-{"close": 57.255001068115234, "date": "2026-09-21", "entity": "crispr", "volume": 0.0}
-{"close": 123.2699966430664, "date": "2026-09-21", "entity": "crocs", "volume": 0.0}
-{"close": 78.29499816894531, "date": "2026-09-21", "entity": "deckers", "volume": 0.0}
-{"close": 38.83000183105469, "date": "2026-09-21", "entity": "dutch_bros", "volume": 0.0}
-{"close": 95.88500213623047, "date": "2026-09-21", "entity": "elf", "news_articles": 0.0, "volume": 0.0}
-{"close": 18.66830062866211, "date": "2026-09-21", "entity": "oddity", "volume": 0.0}
-{"close": 27.2549991607666, "date": "2026-09-21", "entity": "onon", "volume": 0.0}
-{"close": 155.10000610351562, "date": "2026-09-21", "entity": "popmart", "volume": 4360208.0}
-{"close": 121.97000122070312, "date": "2026-09-21", "entity": "robinhood", "volume": 0.0}
-{"close": 376.94000244140625, "date": "2026-09-21", "entity": "tesla", "volume": 0.0}
+{"close": 615.52001953125, "date": "2026-09-21", "entity": "amd", "volume": 44156939.0}
+{"close": 195.6699981689453, "date": "2026-09-21", "entity": "atlassian", "volume": 3178465.0}
+{"close": 31.34000015258789, "date": "2026-09-21", "entity": "birkenstock", "volume": 3027824.0}
+{"close": 272.8900146484375, "date": "2026-09-21", "entity": "bloom_energy", "volume": 14493362.0}
+{"close": 28.020000457763672, "date": "2026-09-21", "entity": "celsius", "news_articles": 0.002, "volume": 7878066.0}
+{"close": 58.33000183105469, "date": "2026-09-21", "entity": "crispr", "volume": 1813451.0}
+{"close": 123.69000244140625, "date": "2026-09-21", "entity": "crocs", "volume": 1189043.0}
+{"close": 80.2300033569336, "date": "2026-09-21", "entity": "deckers", "volume": 3709623.0}
+{"close": 39.150001525878906, "date": "2026-09-21", "entity": "dutch_bros", "volume": 6328337.0}
+{"close": 97.79000091552734, "date": "2026-09-21", "entity": "elf", "news_articles": 0.0, "volume": 1756912.0}
+{"close": 18.290000915527344, "date": "2026-09-21", "entity": "oddity", "volume": 925695.0}
+{"close": 27.31999969482422, "date": "2026-09-21", "entity": "onon", "volume": 13283380.0}
+{"close": 155.10000610351562, "date": "2026-09-21", "entity": "popmart", "news_articles": 0.002, "volume": 4357408.0}
+{"close": 123.30000305175781, "date": "2026-09-21", "entity": "robinhood", "news_articles": 0.0228, "volume": 28051623.0}
+{"close": 375.29998779296875, "date": "2026-09-21", "entity": "tesla", "volume": 36296184.0}
