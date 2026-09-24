@@ -14378,7 +14378,7 @@
 {"close": 238.52999877929688, "date": "2026-06-26", "entity": "taketwo", "volume": 6491700.0, "wiki_views": 5078}
 {"close": 5.21999979019165, "date": "2026-06-26", "entity": "talkspace", "volume": 5877607.0, "wiki_views": 17}
 {"close": 140.38999938964844, "date": "2026-06-26", "entity": "target", "news_articles": 8.1929, "volume": 6802500.0, "wiki_views": 1457}
-{"date": "2026-06-26", "entity": "teladoc", "wiki_views": 117}
+{"close": 8.390000343322754, "date": "2026-06-26", "entity": "teladoc", "volume": 9044000.0, "wiki_views": 117}
 {"close": 6.159999847412109, "date": "2026-06-26", "entity": "templewebster", "volume": 942888.0, "wiki_views": 89}
 {"close": 77.94000244140625, "date": "2026-06-26", "entity": "tempursealy", "volume": 8568500.0, "wiki_views": 60}
 {"close": 411.79998779296875, "date": "2026-06-26", "entity": "tencent", "volume": 31872909.0, "wiki_views": 1774}
@@ -15651,7 +15651,7 @@
 {"close": 247.14999389648438, "date": "2026-06-29", "entity": "taketwo", "volume": 3795100.0, "wiki_views": 3495}
 {"close": 5.199999809265137, "date": "2026-06-29", "entity": "talkspace", "volume": 2064093.0, "wiki_views": 30}
 {"close": 133.9199981689453, "date": "2026-06-29", "entity": "target", "news_articles": 8.5517, "volume": 4554400.0, "wiki_views": 1509}
-{"date": "2026-06-29", "entity": "teladoc", "wiki_views": 73}
+{"close": 8.6899995803833, "date": "2026-06-29", "entity": "teladoc", "volume": 6384600.0, "wiki_views": 73}
 {"close": 6.360000133514404, "date": "2026-06-29", "entity": "templewebster", "volume": 743903.0, "wiki_views": 16}
 {"close": 78.1500015258789, "date": "2026-06-29", "entity": "tempursealy", "volume": 2737800.0, "wiki_views": 66}
 {"close": 420.20001220703125, "date": "2026-06-29", "entity": "tencent", "volume": 33066070.0, "wiki_views": 1781}
@@ -16076,7 +16076,7 @@
 {"close": 249.97999572753906, "date": "2026-06-30", "entity": "taketwo", "volume": 3116300.0, "wiki_views": 3159}
 {"close": 5.199999809265137, "date": "2026-06-30", "entity": "talkspace", "volume": 2191002.0, "wiki_views": 23}
 {"close": 130.61000061035156, "date": "2026-06-30", "entity": "target", "news_articles": 8.8482, "volume": 6507600.0, "wiki_views": 1439}
-{"date": "2026-06-30", "entity": "teladoc", "wiki_views": 103}
+{"close": 8.479999542236328, "date": "2026-06-30", "entity": "teladoc", "volume": 3661100.0, "wiki_views": 103}
 {"close": 6.199999809265137, "date": "2026-06-30", "entity": "templewebster", "volume": 750182.0, "wiki_views": 9}
 {"close": 78.4000015258789, "date": "2026-06-30", "entity": "tempursealy", "volume": 1813300.0, "wiki_views": 45}
 {"close": 429.79998779296875, "date": "2026-06-30", "entity": "tencent", "volume": 38994409.0, "wiki_views": 1779}
@@ -16501,7 +16501,7 @@
 {"close": 250.32000732421875, "date": "2026-07-01", "entity": "taketwo", "volume": 2305200.0, "wiki_views": 2876}
 {"close": 5.199999809265137, "date": "2026-07-01", "entity": "talkspace", "volume": 2590143.0, "wiki_views": 23}
 {"close": 130.2899932861328, "date": "2026-07-01", "entity": "target", "volume": 4928800.0, "wiki_views": 1539}
-{"date": "2026-07-01", "entity": "teladoc", "wiki_views": 74}
+{"close": 9.100000381469727, "date": "2026-07-01", "entity": "teladoc", "volume": 5842000.0, "wiki_views": 74}
 {"close": 6.019999980926514, "date": "2026-07-01", "entity": "templewebster", "volume": 854810.0, "wiki_views": 18}
 {"close": 77.16999816894531, "date": "2026-07-01", "entity": "tempursealy", "volume": 2850000.0, "wiki_views": 33}
 {"date": "2026-07-01", "entity": "tencent", "wiki_views": 1659}
@@ -16926,7 +16926,7 @@
 {"close": 254.99000549316406, "date": "2026-07-02", "entity": "taketwo", "volume": 2033700.0, "wiki_views": 2547}
 {"close": 5.199999809265137, "date": "2026-07-02", "entity": "talkspace", "volume": 2697845.0, "wiki_views": 14}
 {"close": 130.2100067138672, "date": "2026-07-02", "entity": "target", "volume": 3272000.0, "wiki_views": 1276}
-{"date": "2026-07-02", "entity": "teladoc", "wiki_views": 65}
+{"close": 9.199999809265137, "date": "2026-07-02", "entity": "teladoc", "volume": 4282400.0, "wiki_views": 65}
 {"close": 5.579999923706055, "date": "2026-07-02", "entity": "templewebster", "volume": 1284914.0, "wiki_views": 10}
 {"close": 78.43000030517578, "date": "2026-07-02", "entity": "tempursealy", "volume": 1774500.0, "wiki_views": 51}
 {"close": 430.20001220703125, "date": "2026-07-02", "entity": "tencent", "volume": 40905100.0, "wiki_views": 1690}
@@ -18625,7 +18625,7 @@
 {"close": 258.4100036621094, "date": "2026-07-06", "entity": "taketwo", "volume": 1898400.0, "wiki_views": 1994}
 {"close": 5.239999771118164, "date": "2026-07-06", "entity": "talkspace", "volume": 3700324.0, "wiki_views": 29}
 {"close": 126.0999984741211, "date": "2026-07-06", "entity": "target", "news_articles": 8.8013, "volume": 5209900.0, "wiki_views": 1522}
-{"date": "2026-07-06", "entity": "teladoc", "wiki_views": 102}
+{"close": 9.289999961853027, "date": "2026-07-06", "entity": "teladoc", "volume": 4504700.0, "wiki_views": 102}
 {"close": 5.599999904632568, "date": "2026-07-06", "entity": "templewebster", "volume": 393535.0, "wiki_views": 10}
 {"close": 78.19999694824219, "date": "2026-07-06", "entity": "tempursealy", "volume": 2100800.0, "wiki_views": 70}
 {"close": 452.0, "date": "2026-07-06", "entity": "tencent", "volume": 41502083.0, "wiki_views": 1979}
@@ -19050,7 +19050,7 @@
 {"close": 257.7900085449219, "date": "2026-07-07", "entity": "taketwo", "volume": 2058900.0, "wiki_views": 1961}
 {"close": 5.210000038146973, "date": "2026-07-07", "entity": "talkspace", "volume": 2608173.0, "wiki_views": 17}
 {"close": 127.55000305175781, "date": "2026-07-07", "entity": "target", "news_articles": 8.3452, "volume": 2996300.0, "wiki_views": 1606}
-{"date": "2026-07-07", "entity": "teladoc", "wiki_views": 95}
+{"close": 9.520000457763672, "date": "2026-07-07", "entity": "teladoc", "volume": 4968100.0, "wiki_views": 95}
 {"close": 5.53000020980835, "date": "2026-07-07", "entity": "templewebster", "volume": 746220.0, "wiki_views": 13}
 {"close": 74.81999969482422, "date": "2026-07-07", "entity": "tempursealy", "volume": 2899400.0, "wiki_views": 67}
 {"close": 461.20001220703125, "date": "2026-07-07", "entity": "tencent", "volume": 55418434.0, "wiki_views": 1989}
@@ -19475,7 +19475,7 @@
 {"close": 251.3800048828125, "date": "2026-07-08", "entity": "taketwo", "volume": 1543900.0, "wiki_views": 1923}
 {"close": 5.21999979019165, "date": "2026-07-08", "entity": "talkspace", "volume": 2453668.0, "wiki_views": 28}
 {"close": 132.4199981689453, "date": "2026-07-08", "entity": "target", "news_articles": 9.1405, "volume": 6780300.0, "wiki_views": 1389}
-{"date": "2026-07-08", "entity": "teladoc", "wiki_views": 111}
+{"close": 9.069999694824219, "date": "2026-07-08", "entity": "teladoc", "volume": 3432600.0, "wiki_views": 111}
 {"close": 5.400000095367432, "date": "2026-07-08", "entity": "templewebster", "volume": 2147669.0, "wiki_views": 8}
 {"close": 73.18000030517578, "date": "2026-07-08", "entity": "tempursealy", "volume": 2027000.0, "wiki_views": 86}
 {"close": 478.79998779296875, "date": "2026-07-08", "entity": "tencent", "volume": 56278627.0, "wiki_views": 2150}
@@ -19900,7 +19900,7 @@
 {"close": 246.10000610351562, "date": "2026-07-09", "entity": "taketwo", "volume": 2375700.0, "wiki_views": 1806}
 {"close": 5.21999979019165, "date": "2026-07-09", "entity": "talkspace", "volume": 2391752.0, "wiki_views": 20}
 {"close": 132.27000427246094, "date": "2026-07-09", "entity": "target", "news_articles": 9.1249, "volume": 4459500.0, "wiki_views": 1497}
-{"date": "2026-07-09", "entity": "teladoc", "wiki_views": 87}
+{"close": 9.210000038146973, "date": "2026-07-09", "entity": "teladoc", "volume": 2995800.0, "wiki_views": 87}
 {"close": 5.679999828338623, "date": "2026-07-09", "entity": "templewebster", "volume": 565742.0, "wiki_views": 12}
 {"close": 75.13999938964844, "date": "2026-07-09", "entity": "tempursealy", "volume": 2371800.0, "wiki_views": 51}
 {"close": 469.6000061035156, "date": "2026-07-09", "entity": "tencent", "volume": 42402152.0, "wiki_views": 2259}
@@ -20325,7 +20325,7 @@
 {"close": 243.1999969482422, "date": "2026-07-10", "entity": "taketwo", "volume": 2249100.0, "wiki_views": 1727}
 {"close": 5.230000019073486, "date": "2026-07-10", "entity": "talkspace", "volume": 2307109.0, "wiki_views": 28}
 {"close": 135.13999938964844, "date": "2026-07-10", "entity": "target", "news_articles": 8.2931, "volume": 3403200.0, "wiki_views": 1530}
-{"date": "2026-07-10", "entity": "teladoc", "wiki_views": 71}
+{"close": 9.279999732971191, "date": "2026-07-10", "entity": "teladoc", "volume": 2282100.0, "wiki_views": 71}
 {"close": 5.619999885559082, "date": "2026-07-10", "entity": "templewebster", "volume": 498585.0, "wiki_views": 13}
 {"close": 73.55000305175781, "date": "2026-07-10", "entity": "tempursealy", "volume": 1951100.0, "wiki_views": 67}
 {"close": 460.20001220703125, "date": "2026-07-10", "entity": "tencent", "volume": 40440298.0, "wiki_views": 2196}
@@ -21599,7 +21599,7 @@
 {"close": 244.10000610351562, "date": "2026-07-13", "entity": "taketwo", "volume": 1252300.0, "wiki_views": 1735}
 {"close": 5.230000019073486, "date": "2026-07-13", "entity": "talkspace", "volume": 1944287.0, "wiki_views": 16}
 {"close": 134.77000427246094, "date": "2026-07-13", "entity": "target", "news_articles": 8.5604, "volume": 4243700.0, "wiki_views": 1686}
-{"date": "2026-07-13", "entity": "teladoc", "wiki_views": 80}
+{"close": 9.649999618530273, "date": "2026-07-13", "entity": "teladoc", "volume": 5547600.0, "wiki_views": 80}
 {"close": 5.349999904632568, "date": "2026-07-13", "entity": "templewebster", "volume": 506243.0, "wiki_views": 16}
 {"close": 71.76000213623047, "date": "2026-07-13", "entity": "tempursealy", "volume": 1743200.0, "wiki_views": 84}
 {"close": 457.6000061035156, "date": "2026-07-13", "entity": "tencent", "volume": 24291842.0, "wiki_views": 1804}
@@ -22024,7 +22024,7 @@
 {"close": 237.0399932861328, "date": "2026-07-14", "entity": "taketwo", "volume": 1461500.0, "wiki_views": 1473}
 {"close": 5.21999979019165, "date": "2026-07-14", "entity": "talkspace", "volume": 1257734.0, "wiki_views": 11}
 {"close": 134.0, "date": "2026-07-14", "entity": "target", "news_articles": 9.1542, "volume": 2506800.0, "wiki_views": 1504}
-{"date": "2026-07-14", "entity": "teladoc", "wiki_views": 90}
+{"close": 9.270000457763672, "date": "2026-07-14", "entity": "teladoc", "volume": 3258400.0, "wiki_views": 90}
 {"close": 5.329999923706055, "date": "2026-07-14", "entity": "templewebster", "volume": 529198.0, "wiki_views": 22}
 {"close": 72.26000213623047, "date": "2026-07-14", "entity": "tempursealy", "volume": 1460400.0, "wiki_views": 56}
 {"close": 456.20001220703125, "date": "2026-07-14", "entity": "tencent", "volume": 25540540.0, "wiki_views": 1805}
@@ -22449,7 +22449,7 @@
 {"close": 243.8000030517578, "date": "2026-07-15", "entity": "taketwo", "volume": 1630200.0, "wiki_views": 1565}
 {"close": 5.210000038146973, "date": "2026-07-15", "entity": "talkspace", "volume": 1464388.0, "wiki_views": 20}
 {"close": 138.2899932861328, "date": "2026-07-15", "entity": "target", "news_articles": 9.2033, "volume": 5224000.0, "wiki_views": 1467}
-{"date": "2026-07-15", "entity": "teladoc", "wiki_views": 105}
+{"close": 9.720000267028809, "date": "2026-07-15", "entity": "teladoc", "volume": 5436400.0, "wiki_views": 105}
 {"close": 5.25, "date": "2026-07-15", "entity": "templewebster", "volume": 755218.0, "wiki_views": 10}
 {"close": 73.2699966430664, "date": "2026-07-15", "entity": "tempursealy", "volume": 1428700.0, "wiki_views": 61}
 {"close": 474.0, "date": "2026-07-15", "entity": "tencent", "volume": 33780856.0, "wiki_views": 1667}
@@ -22874,7 +22874,7 @@
 {"close": 239.57000732421875, "date": "2026-07-16", "entity": "taketwo", "volume": 1558400.0, "wiki_views": 1535}
 {"close": 5.21999979019165, "date": "2026-07-16", "entity": "talkspace", "volume": 1574076.0, "wiki_views": 23}
 {"close": 140.2100067138672, "date": "2026-07-16", "entity": "target", "news_articles": 9.0186, "volume": 4297200.0, "wiki_views": 1314}
-{"date": "2026-07-16", "entity": "teladoc", "wiki_views": 77}
+{"close": 9.470000267028809, "date": "2026-07-16", "entity": "teladoc", "volume": 3741700.0, "wiki_views": 77}
 {"close": 5.28000020980835, "date": "2026-07-16", "entity": "templewebster", "volume": 623743.0, "wiki_views": 12}
 {"close": 75.20999908447266, "date": "2026-07-16", "entity": "tempursealy", "volume": 1514600.0, "wiki_views": 59}
 {"close": 484.0, "date": "2026-07-16", "entity": "tencent", "volume": 42851475.0, "wiki_views": 1681}
@@ -23299,7 +23299,7 @@
 {"close": 236.67999267578125, "date": "2026-07-17", "entity": "taketwo", "volume": 2361000.0, "wiki_views": 1508}
 {"close": 5.215000152587891, "date": "2026-07-17", "entity": "talkspace", "volume": 1108857.0, "wiki_views": 24}
 {"close": 139.60000610351562, "date": "2026-07-17", "entity": "target", "news_articles": 8.3285, "volume": 5187800.0, "wiki_views": 1614}
-{"date": "2026-07-17", "entity": "teladoc", "wiki_views": 57}
+{"close": 9.430000305175781, "date": "2026-07-17", "entity": "teladoc", "volume": 3613700.0, "wiki_views": 57}
 {"close": 5.159999847412109, "date": "2026-07-17", "entity": "templewebster", "volume": 515479.0, "wiki_views": 11}
 {"close": 72.7300033569336, "date": "2026-07-17", "entity": "tempursealy", "volume": 1408400.0, "wiki_views": 50}
 {"close": 461.6000061035156, "date": "2026-07-17", "entity": "tencent", "volume": 36237657.0, "wiki_views": 1797}
@@ -24572,7 +24572,7 @@
 {"close": 238.97999572753906, "date": "2026-07-20", "entity": "taketwo", "volume": 1352100.0, "wiki_views": 1307}
 {"close": 5.210000038146973, "date": "2026-07-20", "entity": "talkspace", "volume": 993492.0, "wiki_views": 26}
 {"close": 139.58999633789062, "date": "2026-07-20", "entity": "target", "news_articles": 8.4122, "volume": 3388200.0, "wiki_views": 1292}
-{"date": "2026-07-20", "entity": "teladoc", "wiki_views": 59}
+{"close": 9.649999618530273, "date": "2026-07-20", "entity": "teladoc", "volume": 3572500.0, "wiki_views": 59}
 {"close": 5.079999923706055, "date": "2026-07-20", "entity": "templewebster", "volume": 727731.0, "wiki_views": 10}
 {"close": 70.30000305175781, "date": "2026-07-20", "entity": "tempursealy", "volume": 1984600.0, "wiki_views": 80}
 {"close": 477.79998779296875, "date": "2026-07-20", "entity": "tencent", "volume": 30822839.0, "wiki_views": 1618}
@@ -24997,7 +24997,7 @@
 {"close": 235.92999267578125, "date": "2026-07-21", "entity": "taketwo", "volume": 1195700.0, "wiki_views": 1353}
 {"close": 5.21999979019165, "date": "2026-07-21", "entity": "talkspace", "volume": 731175.0, "wiki_views": 16}
 {"close": 138.47999572753906, "date": "2026-07-21", "entity": "target", "news_articles": 8.6652, "volume": 2413200.0, "wiki_views": 1342}
-{"date": "2026-07-21", "entity": "teladoc", "wiki_views": 74}
+{"close": 9.710000038146973, "date": "2026-07-21", "entity": "teladoc", "volume": 3211600.0, "wiki_views": 74}
 {"close": 5.0, "date": "2026-07-21", "entity": "templewebster", "volume": 476215.0, "wiki_views": 14}
 {"close": 69.93000030517578, "date": "2026-07-21", "entity": "tempursealy", "volume": 2144700.0, "wiki_views": 70}
 {"close": 474.0, "date": "2026-07-21", "entity": "tencent", "volume": 21362780.0, "wiki_views": 1606}
@@ -25422,7 +25422,7 @@
 {"close": 233.5800018310547, "date": "2026-07-22", "entity": "taketwo", "volume": 1273800.0, "wiki_views": 1340}
 {"close": 5.210000038146973, "date": "2026-07-22", "entity": "talkspace", "volume": 1846909.0, "wiki_views": 13}
 {"close": 137.9199981689453, "date": "2026-07-22", "entity": "target", "news_articles": 8.8631, "volume": 2283200.0, "wiki_views": 1474}
-{"date": "2026-07-22", "entity": "teladoc", "wiki_views": 83}
+{"close": 8.920000076293945, "date": "2026-07-22", "entity": "teladoc", "volume": 4785400.0, "wiki_views": 83}
 {"close": 4.949999809265137, "date": "2026-07-22", "entity": "templewebster", "volume": 588393.0, "wiki_views": 18}
 {"close": 70.13999938964844, "date": "2026-07-22", "entity": "tempursealy", "volume": 1607200.0, "wiki_views": 68}
 {"close": 440.6000061035156, "date": "2026-07-22", "entity": "tencent", "volume": 66379871.0, "wiki_views": 1626}
@@ -25847,7 +25847,7 @@
 {"close": 230.25, "date": "2026-07-23", "entity": "taketwo", "volume": 1486000.0, "wiki_views": 1515}
 {"date": "2026-07-23", "entity": "talkspace", "wiki_views": 15}
 {"close": 134.47999572753906, "date": "2026-07-23", "entity": "target", "news_articles": 8.5335, "volume": 3207400.0, "wiki_views": 1423}
-{"date": "2026-07-23", "entity": "teladoc", "wiki_views": 76}
+{"close": 8.65999984741211, "date": "2026-07-23", "entity": "teladoc", "volume": 5131100.0, "wiki_views": 76}
 {"close": 4.96999979019165, "date": "2026-07-23", "entity": "templewebster", "volume": 699363.0, "wiki_views": 27}
 {"close": 68.8499984741211, "date": "2026-07-23", "entity": "tempursealy", "volume": 2451000.0, "wiki_views": 66}
 {"close": 445.20001220703125, "date": "2026-07-23", "entity": "tencent", "volume": 22888528.0, "wiki_views": 1714}
@@ -26272,7 +26272,7 @@
 {"close": 231.64999389648438, "date": "2026-07-24", "entity": "taketwo", "volume": 1343400.0, "wiki_views": 1496}
 {"date": "2026-07-24", "entity": "talkspace", "wiki_views": 10}
 {"close": 136.77999877929688, "date": "2026-07-24", "entity": "target", "news_articles": 8.8155, "volume": 2485400.0, "wiki_views": 1579}
-{"date": "2026-07-24", "entity": "teladoc", "wiki_views": 89}
+{"close": 8.770000457763672, "date": "2026-07-24", "entity": "teladoc", "volume": 4347700.0, "wiki_views": 89}
 {"close": 4.929999828338623, "date": "2026-07-24", "entity": "templewebster", "volume": 767120.0, "wiki_views": 15}
 {"close": 71.55999755859375, "date": "2026-07-24", "entity": "tempursealy", "volume": 1367400.0, "wiki_views": 46}
 {"close": 434.6000061035156, "date": "2026-07-24", "entity": "tencent", "volume": 22959603.0, "wiki_views": 1694}
@@ -27545,7 +27545,7 @@
 {"close": 243.9499969482422, "date": "2026-07-27", "entity": "taketwo", "volume": 2027500.0, "wiki_views": 1448}
 {"date": "2026-07-27", "entity": "talkspace", "wiki_views": 19}
 {"close": 140.33999633789062, "date": "2026-07-27", "entity": "target", "news_articles": 7.9713, "volume": 3039300.0, "wiki_views": 1532}
-{"date": "2026-07-27", "entity": "teladoc", "wiki_views": 85}
+{"close": 8.90999984741211, "date": "2026-07-27", "entity": "teladoc", "volume": 3342500.0, "wiki_views": 85}
 {"close": 5.019999980926514, "date": "2026-07-27", "entity": "templewebster", "volume": 489862.0, "wiki_views": 15}
 {"close": 72.91000366210938, "date": "2026-07-27", "entity": "tempursealy", "volume": 2447600.0, "wiki_views": 64}
 {"close": 443.0, "date": "2026-07-27", "entity": "tencent", "volume": 14454552.0, "wiki_views": 1667}
@@ -27970,7 +27970,7 @@
 {"close": 247.6199951171875, "date": "2026-07-28", "entity": "taketwo", "volume": 1943100.0, "wiki_views": 1478}
 {"date": "2026-07-28", "entity": "talkspace", "wiki_views": 18}
 {"close": 144.1999969482422, "date": "2026-07-28", "entity": "target", "news_articles": 8.3354, "volume": 4621700.0, "wiki_views": 1572}
-{"date": "2026-07-28", "entity": "teladoc", "wiki_views": 95}
+{"close": 9.359999656677246, "date": "2026-07-28", "entity": "teladoc", "volume": 4872600.0, "wiki_views": 95}
 {"close": 5.380000114440918, "date": "2026-07-28", "entity": "templewebster", "volume": 597834.0, "wiki_views": 25}
 {"close": 72.0999984741211, "date": "2026-07-28", "entity": "tempursealy", "volume": 2146200.0, "wiki_views": 52}
 {"close": 447.20001220703125, "date": "2026-07-28", "entity": "tencent", "volume": 18143997.0, "wiki_views": 1695}
@@ -28395,7 +28395,7 @@
 {"close": 246.42999267578125, "date": "2026-07-29", "entity": "taketwo", "volume": 2480600.0, "wiki_views": 1484}
 {"date": "2026-07-29", "entity": "talkspace", "wiki_views": 21}
 {"close": 145.89999389648438, "date": "2026-07-29", "entity": "target", "news_articles": 9.0335, "volume": 3198400.0, "wiki_views": 1402}
-{"date": "2026-07-29", "entity": "teladoc", "wiki_views": 72}
+{"close": 9.180000305175781, "date": "2026-07-29", "entity": "teladoc", "volume": 8245300.0, "wiki_views": 72}
 {"close": 5.829999923706055, "date": "2026-07-29", "entity": "templewebster", "volume": 1456119.0, "wiki_views": 18}
 {"close": 68.4000015258789, "date": "2026-07-29", "entity": "tempursealy", "volume": 4880400.0, "wiki_views": 43}
 {"close": 466.3999938964844, "date": "2026-07-29", "entity": "tencent", "volume": 36203193.0, "wiki_views": 1633}
@@ -28820,7 +28820,7 @@
 {"close": 247.42999267578125, "date": "2026-07-30", "entity": "taketwo", "volume": 2309500.0, "wiki_views": 1342}
 {"date": "2026-07-30", "entity": "talkspace", "wiki_views": 12}
 {"close": 144.50999450683594, "date": "2026-07-30", "entity": "target", "news_articles": 9.2031, "volume": 2627500.0, "wiki_views": 1341}
-{"date": "2026-07-30", "entity": "teladoc", "wiki_views": 107}
+{"close": 6.579999923706055, "date": "2026-07-30", "entity": "teladoc", "volume": 26313800.0, "wiki_views": 107}
 {"close": 5.489999771118164, "date": "2026-07-30", "entity": "templewebster", "volume": 1023699.0, "wiki_views": 13}
 {"close": 66.87000274658203, "date": "2026-07-30", "entity": "tempursealy", "volume": 2530300.0, "wiki_views": 47}
 {"close": 471.79998779296875, "date": "2026-07-30", "entity": "tencent", "volume": 31791979.0, "wiki_views": 1609}
@@ -29245,7 +29245,7 @@
 {"close": 242.9199981689453, "date": "2026-07-31", "entity": "taketwo", "volume": 1931000.0, "wiki_views": 1346}
 {"close": 5.21999979019165, "date": "2026-07-31", "entity": "talkspace", "volume": 1774888.0, "wiki_views": 27}
 {"close": 144.49000549316406, "date": "2026-07-31", "entity": "target", "news_articles": 8.7515, "volume": 3312000.0, "wiki_views": 1262}
-{"date": "2026-07-31", "entity": "teladoc", "wiki_views": 81}
+{"close": 6.710000038146973, "date": "2026-07-31", "entity": "teladoc", "volume": 8564900.0, "wiki_views": 81}
 {"close": 5.550000190734863, "date": "2026-07-31", "entity": "templewebster", "volume": 549823.0, "wiki_views": 11}
 {"close": 65.33000183105469, "date": "2026-07-31", "entity": "tempursealy", "volume": 3046100.0, "wiki_views": 49}
 {"close": 475.20001220703125, "date": "2026-07-31", "entity": "tencent", "volume": 31100240.0, "wiki_views": 1767}
@@ -30520,7 +30520,7 @@
 {"close": 245.14999389648438, "date": "2026-08-03", "entity": "taketwo", "volume": 1630000.0, "wiki_views": 1455}
 {"date": "2026-08-03", "entity": "talkspace", "wiki_views": 28}
 {"close": 149.35000610351562, "date": "2026-08-03", "entity": "target", "news_articles": 8.3328, "volume": 4856900.0, "wiki_views": 1456}
-{"date": "2026-08-03", "entity": "teladoc", "wiki_views": 161}
+{"close": 6.679999828338623, "date": "2026-08-03", "entity": "teladoc", "volume": 7278500.0, "wiki_views": 161}
 {"close": 5.550000190734863, "date": "2026-08-03", "entity": "templewebster", "volume": 728123.0, "wiki_views": 25}
 {"close": 66.63999938964844, "date": "2026-08-03", "entity": "tempursealy", "volume": 2237300.0, "wiki_views": 55}
 {"close": 490.3999938964844, "date": "2026-08-03", "entity": "tencent", "volume": 38649910.0, "wiki_views": 1821}
@@ -30945,7 +30945,7 @@
 {"close": 240.22000122070312, "date": "2026-08-04", "entity": "taketwo", "volume": 2096600.0, "wiki_views": 1465}
 {"date": "2026-08-04", "entity": "talkspace", "wiki_views": 23}
 {"close": 148.11000061035156, "date": "2026-08-04", "entity": "target", "news_articles": 8.433, "volume": 3181100.0, "wiki_views": 1428}
-{"date": "2026-08-04", "entity": "teladoc", "wiki_views": 60}
+{"close": 6.710000038146973, "date": "2026-08-04", "entity": "teladoc", "volume": 6270100.0, "wiki_views": 60}
 {"close": 5.519999980926514, "date": "2026-08-04", "entity": "templewebster", "volume": 481936.0, "wiki_views": 22}
 {"close": 69.69000244140625, "date": "2026-08-04", "entity": "tempursealy", "volume": 2929700.0, "wiki_views": 59}
 {"close": 487.6000061035156, "date": "2026-08-04", "entity": "tencent", "volume": 24860019.0, "wiki_views": 1652}
@@ -31370,7 +31370,7 @@
 {"close": 234.91000366210938, "date": "2026-08-05", "entity": "taketwo", "volume": 2109200.0, "wiki_views": 1794}
 {"date": "2026-08-05", "entity": "talkspace", "wiki_views": 18}
 {"close": 147.6999969482422, "date": "2026-08-05", "entity": "target", "news_articles": 8.2793, "volume": 4230300.0, "wiki_views": 1276}
-{"date": "2026-08-05", "entity": "teladoc", "wiki_views": 65}
+{"close": 6.929999828338623, "date": "2026-08-05", "entity": "teladoc", "volume": 5631800.0, "wiki_views": 65}
 {"close": 6.139999866485596, "date": "2026-08-05", "entity": "templewebster", "volume": 1072993.0, "wiki_views": 15}
 {"close": 69.58000183105469, "date": "2026-08-05", "entity": "tempursealy", "volume": 2759700.0, "wiki_views": 44}
 {"close": 492.20001220703125, "date": "2026-08-05", "entity": "tencent", "volume": 25662478.0, "wiki_views": 1758}
@@ -31795,7 +31795,7 @@
 {"close": 232.47000122070312, "date": "2026-08-06", "entity": "taketwo", "volume": 3985700.0, "wiki_views": 2121}
 {"close": 5.210000038146973, "date": "2026-08-06", "entity": "talkspace", "volume": 661495.0, "wiki_views": 21}
 {"close": 147.0800018310547, "date": "2026-08-06", "entity": "target", "news_articles": 8.5918, "volume": 2501300.0, "wiki_views": 1212}
-{"date": "2026-08-06", "entity": "teladoc", "wiki_views": 60}
+{"close": 6.679999828338623, "date": "2026-08-06", "entity": "teladoc", "volume": 4598400.0, "wiki_views": 60}
 {"close": 6.199999809265137, "date": "2026-08-06", "entity": "templewebster", "volume": 1243877.0, "wiki_views": 19}
 {"close": 64.87000274658203, "date": "2026-08-06", "entity": "tempursealy", "volume": 5632500.0, "wiki_views": 68}
 {"close": 479.20001220703125, "date": "2026-08-06", "entity": "tencent", "volume": 21801977.0, "wiki_views": 1691}
@@ -32220,7 +32220,7 @@
 {"close": 246.5, "date": "2026-08-07", "entity": "taketwo", "volume": 3987100.0, "wiki_views": 3042}
 {"date": "2026-08-07", "entity": "talkspace", "wiki_views": 22}
 {"close": 149.6999969482422, "date": "2026-08-07", "entity": "target", "news_articles": 8.0952, "volume": 2848000.0, "wiki_views": 1129}
-{"date": "2026-08-07", "entity": "teladoc", "wiki_views": 58}
+{"close": 7.130000114440918, "date": "2026-08-07", "entity": "teladoc", "volume": 4762300.0, "wiki_views": 58}
 {"close": 6.050000190734863, "date": "2026-08-07", "entity": "templewebster", "volume": 827349.0, "wiki_views": 18}
 {"close": 65.25, "date": "2026-08-07", "entity": "tempursealy", "volume": 3294600.0, "wiki_views": 65}
 {"close": 478.79998779296875, "date": "2026-08-07", "entity": "tencent", "volume": 16319939.0, "wiki_views": 1621}
@@ -33495,7 +33495,7 @@
 {"close": 253.57000732421875, "date": "2026-08-10", "entity": "taketwo", "volume": 3776700.0, "wiki_views": 2228}
 {"date": "2026-08-10", "entity": "talkspace", "wiki_views": 60}
 {"close": 152.02000427246094, "date": "2026-08-10", "entity": "target", "news_articles": 8.5033, "volume": 5256500.0, "wiki_views": 1253}
-{"date": "2026-08-10", "entity": "teladoc", "wiki_views": 51}
+{"close": 7.079999923706055, "date": "2026-08-10", "entity": "teladoc", "volume": 4566700.0, "wiki_views": 51}
 {"close": 5.809999942779541, "date": "2026-08-10", "entity": "templewebster", "volume": 768289.0, "wiki_views": 31}
 {"close": 64.81999969482422, "date": "2026-08-10", "entity": "tempursealy", "volume": 4653700.0, "wiki_views": 62}
 {"close": 481.3999938964844, "date": "2026-08-10", "entity": "tencent", "volume": 15508724.0, "wiki_views": 1668}
@@ -33920,7 +33920,7 @@
 {"close": 250.5, "date": "2026-08-11", "entity": "taketwo", "volume": 2447600.0, "wiki_views": 2190}
 {"close": 5.239999771118164, "date": "2026-08-11", "entity": "talkspace", "volume": 1770005.0, "wiki_views": 27}
 {"close": 152.2899932861328, "date": "2026-08-11", "entity": "target", "news_articles": 7.5836, "volume": 4171400.0, "wiki_views": 1409}
-{"date": "2026-08-11", "entity": "teladoc", "wiki_views": 64}
+{"close": 6.809999942779541, "date": "2026-08-11", "entity": "teladoc", "volume": 3393300.0, "wiki_views": 64}
 {"close": 5.679999828338623, "date": "2026-08-11", "entity": "templewebster", "volume": 1013642.0, "wiki_views": 31}
 {"close": 65.23999786376953, "date": "2026-08-11", "entity": "tempursealy", "volume": 2192300.0, "wiki_views": 62}
 {"close": 470.79998779296875, "date": "2026-08-11", "entity": "tencent", "volume": 19558079.0, "wiki_views": 1708}
@@ -34345,7 +34345,7 @@
 {"close": 243.0, "date": "2026-08-12", "entity": "taketwo", "volume": 1842200.0, "wiki_views": 1973}
 {"close": 5.239999771118164, "date": "2026-08-12", "entity": "talkspace", "volume": 1441969.0, "wiki_views": 28}
 {"close": 154.0, "date": "2026-08-12", "entity": "target", "news_articles": 8.1042, "volume": 4601300.0, "wiki_views": 2007}
-{"date": "2026-08-12", "entity": "teladoc", "wiki_views": 64}
+{"close": 6.710000038146973, "date": "2026-08-12", "entity": "teladoc", "volume": 4092300.0, "wiki_views": 64}
 {"close": 5.340000152587891, "date": "2026-08-12", "entity": "templewebster", "volume": 1375639.0, "wiki_views": 27}
 {"close": 64.25, "date": "2026-08-12", "entity": "tempursealy", "volume": 1816100.0, "wiki_views": 48}
 {"close": 461.6000061035156, "date": "2026-08-12", "entity": "tencent", "volume": 27593015.0, "wiki_views": 1691}
@@ -34770,7 +34770,7 @@
 {"close": 241.91000366210938, "date": "2026-08-13", "entity": "taketwo", "volume": 1667600.0, "wiki_views": 1908}
 {"close": 5.25, "date": "2026-08-13", "entity": "talkspace", "volume": 1216693.0, "wiki_views": 27}
 {"close": 155.50999450683594, "date": "2026-08-13", "entity": "target", "news_articles": 8.8112, "volume": 3650200.0, "wiki_views": 1155}
-{"date": "2026-08-13", "entity": "teladoc", "wiki_views": 96}
+{"close": 6.960000038146973, "date": "2026-08-13", "entity": "teladoc", "volume": 3754500.0, "wiki_views": 96}
 {"close": 5.239999771118164, "date": "2026-08-13", "entity": "templewebster", "volume": 1036637.0, "wiki_views": 40}
 {"close": 66.33999633789062, "date": "2026-08-13", "entity": "tempursealy", "volume": 4374800.0, "wiki_views": 46}
 {"close": 441.0, "date": "2026-08-13", "entity": "tencent", "volume": 66424623.0, "wiki_views": 1846}
@@ -35195,7 +35195,7 @@
 {"close": 246.9499969482422, "date": "2026-08-14", "entity": "taketwo", "volume": 1118900.0, "wiki_views": 1707}
 {"close": 5.25, "date": "2026-08-14", "entity": "talkspace", "volume": 2409426.0, "wiki_views": 25}
 {"close": 154.47999572753906, "date": "2026-08-14", "entity": "target", "news_articles": 8.2521, "volume": 3615800.0, "wiki_views": 1321}
-{"date": "2026-08-14", "entity": "teladoc", "wiki_views": 54}
+{"close": 6.809999942779541, "date": "2026-08-14", "entity": "teladoc", "volume": 3075100.0, "wiki_views": 54}
 {"close": 5.190000057220459, "date": "2026-08-14", "entity": "templewebster", "volume": 1307971.0, "wiki_views": 23}
 {"close": 66.05999755859375, "date": "2026-08-14", "entity": "tempursealy", "volume": 2707500.0, "wiki_views": 33}
 {"close": 440.0, "date": "2026-08-14", "entity": "tencent", "volume": 30601060.0, "wiki_views": 1754}
@@ -36469,7 +36469,7 @@
 {"close": 241.61000061035156, "date": "2026-08-17", "entity": "taketwo", "volume": 1654700.0, "wiki_views": 1431}
 {"close": 5.25, "date": "2026-08-17", "entity": "talkspace", "volume": 0.0, "wiki_views": 36}
 {"close": 151.00999450683594, "date": "2026-08-17", "entity": "target", "news_articles": 7.8268, "volume": 6122400.0, "wiki_views": 1308}
-{"date": "2026-08-17", "entity": "teladoc", "wiki_views": 68}
+{"close": 6.539999961853027, "date": "2026-08-17", "entity": "teladoc", "volume": 4103000.0, "wiki_views": 68}
 {"close": 5.139999866485596, "date": "2026-08-17", "entity": "templewebster", "volume": 1001600.0, "wiki_views": 35}
 {"close": 65.01000213623047, "date": "2026-08-17", "entity": "tempursealy", "volume": 2595800.0, "wiki_views": 59}
 {"close": 446.3999938964844, "date": "2026-08-17", "entity": "tencent", "volume": 19842808.0, "wiki_views": 1654}
@@ -36894,7 +36894,7 @@
 {"close": 242.39999389648438, "date": "2026-08-18", "entity": "taketwo", "volume": 1907900.0, "wiki_views": 1609}
 {"close": 5.25, "date": "2026-08-18", "entity": "talkspace", "volume": 0.0, "wiki_views": 29}
 {"close": 152.47999572753906, "date": "2026-08-18", "entity": "target", "news_articles": 7.9185, "volume": 5788000.0, "wiki_views": 1366}
-{"date": "2026-08-18", "entity": "teladoc", "wiki_views": 57}
+{"close": 6.46999979019165, "date": "2026-08-18", "entity": "teladoc", "volume": 4230300.0, "wiki_views": 57}
 {"close": 5.050000190734863, "date": "2026-08-18", "entity": "templewebster", "volume": 742321.0, "wiki_views": 26}
 {"close": 63.88999938964844, "date": "2026-08-18", "entity": "tempursealy", "volume": 3184200.0, "wiki_views": 65}
 {"close": 442.3999938964844, "date": "2026-08-18", "entity": "tencent", "volume": 23218078.0, "wiki_views": 1654}
@@ -37319,7 +37319,7 @@
 {"close": 237.0399932861328, "date": "2026-08-19", "entity": "taketwo", "volume": 2667100.0, "wiki_views": 2436}
 {"date": "2026-08-19", "entity": "talkspace", "wiki_views": 26}
 {"close": 159.0, "date": "2026-08-19", "entity": "target", "news_articles": 8.5083, "volume": 9467500.0, "wiki_views": 1409}
-{"date": "2026-08-19", "entity": "teladoc", "wiki_views": 79}
+{"close": 6.659999847412109, "date": "2026-08-19", "entity": "teladoc", "volume": 3226800.0, "wiki_views": 79}
 {"close": 4.150000095367432, "date": "2026-08-19", "entity": "templewebster", "volume": 9432267.0, "wiki_views": 39}
 {"close": 66.0199966430664, "date": "2026-08-19", "entity": "tempursealy", "volume": 2516000.0, "wiki_views": 80}
 {"close": 447.20001220703125, "date": "2026-08-19", "entity": "tencent", "volume": 19773887.0, "wiki_views": 1936}
@@ -37744,7 +37744,7 @@
 {"close": 240.14999389648438, "date": "2026-08-20", "entity": "taketwo", "volume": 2445800.0, "wiki_views": 3906}
 {"date": "2026-08-20", "entity": "talkspace", "wiki_views": 31}
 {"close": 158.25, "date": "2026-08-20", "entity": "target", "news_articles": 8.3823, "volume": 6059900.0, "wiki_views": 1440}
-{"date": "2026-08-20", "entity": "teladoc", "wiki_views": 50}
+{"close": 6.489999771118164, "date": "2026-08-20", "entity": "teladoc", "volume": 3023000.0, "wiki_views": 50}
 {"close": 4.510000228881836, "date": "2026-08-20", "entity": "templewebster", "volume": 3879276.0, "wiki_views": 21}
 {"close": 64.26000213623047, "date": "2026-08-20", "entity": "tempursealy", "volume": 4687700.0, "wiki_views": 52}
 {"close": 451.3999938964844, "date": "2026-08-20", "entity": "tencent", "volume": 19621298.0, "wiki_views": 2022}
@@ -38169,7 +38169,7 @@
 {"close": 239.6199951171875, "date": "2026-08-21", "entity": "taketwo", "volume": 1618900.0, "wiki_views": 5044}
 {"date": "2026-08-21", "entity": "talkspace", "wiki_views": 31}
 {"close": 165.44000244140625, "date": "2026-08-21", "entity": "target", "news_articles": 8.1869, "volume": 6232700.0, "wiki_views": 1184}
-{"date": "2026-08-21", "entity": "teladoc", "wiki_views": 62}
+{"close": 6.389999866485596, "date": "2026-08-21", "entity": "teladoc", "volume": 3468300.0, "wiki_views": 62}
 {"close": 4.300000190734863, "date": "2026-08-21", "entity": "templewebster", "volume": 2918104.0, "wiki_views": 44}
 {"close": 64.70999908447266, "date": "2026-08-21", "entity": "tempursealy", "volume": 2730000.0, "wiki_views": 48}
 {"close": 457.0, "date": "2026-08-21", "entity": "tencent", "volume": 22326906.0, "wiki_views": 1840}
@@ -39449,7 +39449,7 @@
 {"app_rank": 0, "close": 233.5, "date": "2026-08-24", "entity": "taketwo", "trends_hit": 200, "volume": 2712900.0, "wiki_views": 4474}
 {"app_rank": 0, "date": "2026-08-24", "entity": "talkspace", "wiki_views": 32}
 {"app_rank": 87, "close": 169.88999938964844, "date": "2026-08-24", "entity": "target", "volume": 6410700.0, "wiki_views": 1430}
-{"app_rank": 0, "date": "2026-08-24", "entity": "teladoc", "wiki_views": 70}
+{"app_rank": 0, "close": 6.199999809265137, "date": "2026-08-24", "entity": "teladoc", "volume": 3173900.0, "wiki_views": 70}
 {"app_rank": 0, "date": "2026-08-24", "entity": "templewebster", "wiki_views": 26}
 {"close": 64.30999755859375, "date": "2026-08-24", "entity": "tempursealy", "volume": 2041100.0, "wiki_views": 64}
 {"app_rank": 0, "close": 440.0, "date": "2026-08-24", "entity": "tencent", "volume": 29180102.0, "wiki_views": 1801}
@@ -39876,7 +39876,7 @@
 {"app_rank": 0, "close": 232.92999267578125, "date": "2026-08-25", "entity": "taketwo", "volume": 1591600.0, "wiki_views": 3772}
 {"app_rank": 0, "date": "2026-08-25", "entity": "talkspace", "wiki_views": 57}
 {"app_rank": 0, "close": 163.47000122070312, "date": "2026-08-25", "entity": "target", "volume": 7597500.0, "wiki_views": 2027}
-{"app_rank": 0, "date": "2026-08-25", "entity": "teladoc", "wiki_views": 72}
+{"app_rank": 0, "close": 6.190000057220459, "date": "2026-08-25", "entity": "teladoc", "volume": 3265200.0, "wiki_views": 72}
 {"app_rank": 0, "date": "2026-08-25", "entity": "templewebster", "wiki_views": 35}
 {"close": 64.08999633789062, "date": "2026-08-25", "entity": "tempursealy", "volume": 2528400.0, "wiki_views": 55}
 {"app_rank": 0, "close": 442.0, "date": "2026-08-25", "entity": "tencent", "volume": 13032108.0, "wiki_views": 1828}
@@ -40303,7 +40303,7 @@
 {"app_rank": 0, "close": 233.4499969482422, "date": "2026-08-26", "entity": "taketwo", "volume": 2165900.0, "wiki_views": 4446}
 {"app_rank": 0, "date": "2026-08-26", "entity": "talkspace", "wiki_views": 24}
 {"app_rank": 0, "close": 164.0399932861328, "date": "2026-08-26", "entity": "target", "volume": 4660300.0, "wiki_views": 1813}
-{"app_rank": 0, "date": "2026-08-26", "entity": "teladoc", "wiki_views": 64}
+{"app_rank": 0, "close": 6.329999923706055, "date": "2026-08-26", "entity": "teladoc", "volume": 3086700.0, "wiki_views": 64}
 {"app_rank": 0, "date": "2026-08-26", "entity": "templewebster", "wiki_views": 17}
 {"close": 62.83000183105469, "date": "2026-08-26", "entity": "tempursealy", "volume": 4425000.0, "wiki_views": 119}
 {"app_rank": 0, "close": 445.3999938964844, "date": "2026-08-26", "entity": "tencent", "volume": 14643242.0, "wiki_views": 1978}
@@ -40730,7 +40730,7 @@
 {"app_rank": 0, "close": 233.0, "date": "2026-08-27", "entity": "taketwo", "volume": 4228100.0, "wiki_views": 5566}
 {"app_rank": 0, "date": "2026-08-27", "entity": "talkspace", "wiki_views": 35}
 {"app_rank": 0, "close": 165.92999267578125, "date": "2026-08-27", "entity": "target", "volume": 4746000.0, "wiki_views": 1442}
-{"app_rank": 0, "date": "2026-08-27", "entity": "teladoc", "wiki_views": 45}
+{"app_rank": 0, "close": 6.360000133514404, "date": "2026-08-27", "entity": "teladoc", "volume": 2478800.0, "wiki_views": 45}
 {"app_rank": 0, "date": "2026-08-27", "entity": "templewebster", "wiki_views": 16}
 {"close": 62.47999954223633, "date": "2026-08-27", "entity": "tempursealy", "volume": 6095900.0, "wiki_views": 128}
 {"app_rank": 0, "close": 447.79998779296875, "date": "2026-08-27", "entity": "tencent", "volume": 11487100.0, "wiki_views": 1983}
@@ -40937,7 +40937,7 @@
 {"close": 135.08999633789062, "date": "2026-08-28", "entity": "footlocker", "volume": 5353000.0, "wiki_views": 298}
 {"app_rank": 0, "close": 13.880000114440918, "date": "2026-08-28", "entity": "ford", "volume": 40250300.0, "wiki_views": 2336}
 {"app_rank": 0, "close": 68.41999816894531, "date": "2026-08-28", "entity": "fox", "volume": 3622700.0, "wiki_views": 807}
-{"close": 71.11000061035156, "date": "2026-08-28", "entity": "freshpet", "volume": 0.0, "wiki_views": 20}
+{"close": 70.81999969482422, "date": "2026-08-28", "entity": "freshpet", "volume": 1118500.0, "wiki_views": 20}
 {"app_rank": 0, "date": "2026-08-28", "entity": "function_health", "wiki_views": 60}
 {"date": "2026-08-28", "entity": "funko", "wiki_views": 273}
 {"close": 170.9499969482422, "date": "2026-08-28", "entity": "galderma", "volume": 338235.0, "wiki_views": 94}
@@ -41157,7 +41157,7 @@
 {"app_rank": 0, "close": 235.38999938964844, "date": "2026-08-28", "entity": "taketwo", "volume": 3706600.0, "wiki_views": 8549}
 {"app_rank": 0, "date": "2026-08-28", "entity": "talkspace", "wiki_views": 22}
 {"app_rank": 0, "close": 163.17999267578125, "date": "2026-08-28", "entity": "target", "volume": 3643800.0, "wiki_views": 1427}
-{"app_rank": 0, "date": "2026-08-28", "entity": "teladoc", "wiki_views": 62}
+{"app_rank": 0, "close": 6.5, "date": "2026-08-28", "entity": "teladoc", "volume": 3669000.0, "wiki_views": 62}
 {"app_rank": 0, "date": "2026-08-28", "entity": "templewebster", "wiki_views": 19}
 {"close": 64.37000274658203, "date": "2026-08-28", "entity": "tempursealy", "volume": 8545400.0, "wiki_views": 111}
 {"app_rank": 0, "close": 455.20001220703125, "date": "2026-08-28", "entity": "tencent", "volume": 27742475.0, "wiki_views": 1889}
@@ -42217,7 +42217,7 @@
 {"close": 135.10000610351562, "date": "2026-08-31", "entity": "footlocker", "volume": 4706300.0, "wiki_views": 285}
 {"app_rank": 0, "close": 13.9399995803833, "date": "2026-08-31", "entity": "ford", "volume": 41054600.0, "wiki_views": 2376}
 {"app_rank": 94, "close": 67.3499984741211, "date": "2026-08-31", "entity": "fox", "volume": 6165600.0, "wiki_views": 833}
-{"date": "2026-08-31", "entity": "freshpet", "wiki_views": 17}
+{"close": 69.86000061035156, "date": "2026-08-31", "entity": "freshpet", "volume": 1430300.0, "wiki_views": 17}
 {"app_rank": 0, "date": "2026-08-31", "entity": "function_health", "wiki_views": 72}
 {"date": "2026-08-31", "entity": "funko", "wiki_views": 321}
 {"close": 167.89999389648438, "date": "2026-08-31", "entity": "galderma", "volume": 604917.0, "wiki_views": 118}
@@ -42437,7 +42437,7 @@
 {"app_rank": 0, "close": 219.6999969482422, "date": "2026-08-31", "entity": "taketwo", "trends_hit": 200, "volume": 6843700.0, "wiki_views": 4301}
 {"app_rank": 0, "date": "2026-08-31", "entity": "talkspace", "wiki_views": 23}
 {"app_rank": 0, "close": 160.8800048828125, "date": "2026-08-31", "entity": "target", "volume": 3911400.0, "wiki_views": 6405}
-{"app_rank": 0, "date": "2026-08-31", "entity": "teladoc", "wiki_views": 50}
+{"app_rank": 0, "close": 6.340000152587891, "date": "2026-08-31", "entity": "teladoc", "volume": 5132500.0, "wiki_views": 50}
 {"app_rank": 0, "date": "2026-08-31", "entity": "templewebster", "wiki_views": 14}
 {"date": "2026-08-31", "entity": "tempursealy", "wiki_views": 93}
 {"app_rank": 0, "date": "2026-08-31", "entity": "tencent", "wiki_views": 1818}
@@ -42644,7 +42644,7 @@
 {"close": 132.9499969482422, "date": "2026-09-01", "entity": "footlocker", "volume": 3546200.0, "wiki_views": 374}
 {"app_rank": 0, "close": 13.84000015258789, "date": "2026-09-01", "entity": "ford", "volume": 50110700.0, "wiki_views": 2314}
 {"app_rank": 0, "close": 65.93000030517578, "date": "2026-09-01", "entity": "fox", "volume": 4929700.0, "wiki_views": 848}
-{"date": "2026-09-01", "entity": "freshpet", "wiki_views": 23}
+{"close": 70.30999755859375, "date": "2026-09-01", "entity": "freshpet", "volume": 1000400.0, "wiki_views": 23}
 {"app_rank": 0, "date": "2026-09-01", "entity": "function_health", "wiki_views": 72}
 {"date": "2026-09-01", "entity": "funko", "wiki_views": 290}
 {"close": 167.10000610351562, "date": "2026-09-01", "entity": "galderma", "volume": 405763.0, "wiki_views": 137}
@@ -42864,7 +42864,7 @@
 {"app_rank": 0, "close": 216.67999267578125, "date": "2026-09-01", "entity": "taketwo", "volume": 2802300.0, "wiki_views": 3396}
 {"app_rank": 0, "date": "2026-09-01", "entity": "talkspace", "wiki_views": 32}
 {"app_rank": 0, "close": 163.75, "date": "2026-09-01", "entity": "target", "volume": 3982800.0, "wiki_views": 1392}
-{"app_rank": 0, "date": "2026-09-01", "entity": "teladoc", "wiki_views": 61}
+{"app_rank": 0, "close": 6.260000228881836, "date": "2026-09-01", "entity": "teladoc", "volume": 3448300.0, "wiki_views": 61}
 {"app_rank": 0, "date": "2026-09-01", "entity": "templewebster", "wiki_views": 20}
 {"date": "2026-09-01", "entity": "tempursealy", "wiki_views": 90}
 {"app_rank": 0, "date": "2026-09-01", "entity": "tencent", "wiki_views": 1676}
@@ -43071,7 +43071,7 @@
 {"close": 137.33999633789062, "date": "2026-09-02", "entity": "footlocker", "volume": 3194329.0, "wiki_views": 300}
 {"app_rank": 0, "close": 14.140000343322754, "date": "2026-09-02", "entity": "ford", "volume": 58183000.0, "wiki_views": 2482}
 {"app_rank": 0, "close": 67.5199966430664, "date": "2026-09-02", "entity": "fox", "volume": 4715200.0, "wiki_views": 914}
-{"date": "2026-09-02", "entity": "freshpet", "wiki_views": 32}
+{"close": 70.76499938964844, "date": "2026-09-02", "entity": "freshpet", "volume": 820100.0, "wiki_views": 32}
 {"app_rank": 0, "date": "2026-09-02", "entity": "function_health", "wiki_views": 64}
 {"date": "2026-09-02", "entity": "funko", "wiki_views": 265}
 {"close": 166.0, "date": "2026-09-02", "entity": "galderma", "volume": 467560.0, "wiki_views": 114}
@@ -43291,7 +43291,7 @@
 {"app_rank": 0, "close": 216.13999938964844, "date": "2026-09-02", "entity": "taketwo", "volume": 2483600.0, "wiki_views": 3064}
 {"app_rank": 0, "date": "2026-09-02", "entity": "talkspace", "wiki_views": 13}
 {"app_rank": 0, "close": 163.36000061035156, "date": "2026-09-02", "entity": "target", "volume": 2804600.0, "wiki_views": 1400}
-{"app_rank": 0, "date": "2026-09-02", "entity": "teladoc", "wiki_views": 56}
+{"app_rank": 0, "close": 6.460000038146973, "date": "2026-09-02", "entity": "teladoc", "volume": 3898000.0, "wiki_views": 56}
 {"app_rank": 0, "date": "2026-09-02", "entity": "templewebster", "wiki_views": 17}
 {"date": "2026-09-02", "entity": "tempursealy", "wiki_views": 82}
 {"app_rank": 0, "date": "2026-09-02", "entity": "tencent", "wiki_views": 1690}
@@ -43498,7 +43498,7 @@
 {"date": "2026-09-03", "entity": "footlocker", "wiki_views": 308}
 {"app_rank": 0, "date": "2026-09-03", "entity": "ford", "trends_hit": 500, "wiki_views": 2399}
 {"app_rank": 0, "close": 67.70999908447266, "date": "2026-09-03", "entity": "fox", "volume": 3936800.0, "wiki_views": 962}
-{"date": "2026-09-03", "entity": "freshpet", "wiki_views": 27}
+{"close": 69.68000030517578, "date": "2026-09-03", "entity": "freshpet", "volume": 1222200.0, "wiki_views": 27}
 {"app_rank": 0, "date": "2026-09-03", "entity": "function_health", "wiki_views": 81}
 {"date": "2026-09-03", "entity": "funko", "wiki_views": 258}
 {"close": 162.85000610351562, "date": "2026-09-03", "entity": "galderma", "volume": 639592.0, "wiki_views": 134}
@@ -43718,7 +43718,7 @@
 {"app_rank": 0, "close": 214.1300048828125, "date": "2026-09-03", "entity": "taketwo", "trends_hit": 200, "volume": 2701500.0, "wiki_views": 2588}
 {"app_rank": 0, "date": "2026-09-03", "entity": "talkspace", "wiki_views": 15}
 {"app_rank": 0, "close": 164.00999450683594, "date": "2026-09-03", "entity": "target", "volume": 1986800.0, "wiki_views": 1355}
-{"app_rank": 0, "date": "2026-09-03", "entity": "teladoc", "wiki_views": 82}
+{"app_rank": 0, "close": 6.46999979019165, "date": "2026-09-03", "entity": "teladoc", "volume": 2566500.0, "wiki_views": 82}
 {"app_rank": 0, "date": "2026-09-03", "entity": "templewebster", "wiki_views": 15}
 {"date": "2026-09-03", "entity": "tempursealy", "wiki_views": 77}
 {"app_rank": 0, "date": "2026-09-03", "entity": "tencent", "wiki_views": 1724}
@@ -43925,7 +43925,7 @@
 {"date": "2026-09-04", "entity": "footlocker", "wiki_views": 231}
 {"app_rank": 0, "date": "2026-09-04", "entity": "ford", "wiki_views": 2526}
 {"app_rank": 0, "close": 65.41999816894531, "date": "2026-09-04", "entity": "fox", "volume": 4823000.0, "wiki_views": 1135}
-{"date": "2026-09-04", "entity": "freshpet", "wiki_views": 14}
+{"close": 70.23999786376953, "date": "2026-09-04", "entity": "freshpet", "volume": 763400.0, "wiki_views": 14}
 {"app_rank": 0, "date": "2026-09-04", "entity": "function_health", "wiki_views": 37}
 {"date": "2026-09-04", "entity": "funko", "wiki_views": 298}
 {"close": 158.64999389648438, "date": "2026-09-04", "entity": "galderma", "volume": 656023.0, "wiki_views": 109}
@@ -44145,7 +44145,7 @@
 {"app_rank": 0, "close": 214.69000244140625, "date": "2026-09-04", "entity": "taketwo", "volume": 2080000.0, "wiki_views": 2438}
 {"app_rank": 0, "date": "2026-09-04", "entity": "talkspace", "wiki_views": 19}
 {"app_rank": 0, "close": 164.44000244140625, "date": "2026-09-04", "entity": "target", "volume": 2865600.0, "wiki_views": 1196}
-{"app_rank": 0, "date": "2026-09-04", "entity": "teladoc", "wiki_views": 49}
+{"app_rank": 0, "close": 6.28000020980835, "date": "2026-09-04", "entity": "teladoc", "volume": 2954300.0, "wiki_views": 49}
 {"app_rank": 0, "date": "2026-09-04", "entity": "templewebster", "wiki_views": 6}
 {"date": "2026-09-04", "entity": "tempursealy", "wiki_views": 74}
 {"app_rank": 0, "date": "2026-09-04", "entity": "tencent", "wiki_views": 1756}
@@ -45632,7 +45632,7 @@
 {"date": "2026-09-08", "entity": "footlocker", "wiki_views": 314}
 {"app_rank": 0, "date": "2026-09-08", "entity": "ford", "wiki_views": 2555}
 {"app_rank": 80, "close": 65.2300033569336, "date": "2026-09-08", "entity": "fox", "volume": 4034000.0, "wiki_views": 816}
-{"date": "2026-09-08", "entity": "freshpet", "wiki_views": 14}
+{"close": 67.27999877929688, "date": "2026-09-08", "entity": "freshpet", "volume": 941800.0, "wiki_views": 14}
 {"app_rank": 0, "date": "2026-09-08", "entity": "function_health", "wiki_views": 49}
 {"date": "2026-09-08", "entity": "funko", "wiki_views": 329}
 {"close": 162.6999969482422, "date": "2026-09-08", "entity": "galderma", "volume": 578373.0, "wiki_views": 151}
@@ -45852,7 +45852,7 @@
 {"app_rank": 0, "close": 213.2899932861328, "date": "2026-09-08", "entity": "taketwo", "volume": 2575900.0, "wiki_views": 2012}
 {"app_rank": 0, "date": "2026-09-08", "entity": "talkspace", "wiki_views": 17}
 {"app_rank": 0, "close": 162.7100067138672, "date": "2026-09-08", "entity": "target", "volume": 2659600.0, "wiki_views": 1385}
-{"app_rank": 0, "date": "2026-09-08", "entity": "teladoc", "wiki_views": 55}
+{"app_rank": 0, "close": 6.260000228881836, "date": "2026-09-08", "entity": "teladoc", "volume": 3778400.0, "wiki_views": 55}
 {"app_rank": 0, "date": "2026-09-08", "entity": "templewebster", "wiki_views": 13}
 {"date": "2026-09-08", "entity": "tempursealy", "wiki_views": 86}
 {"app_rank": 0, "date": "2026-09-08", "entity": "tencent", "wiki_views": 1793}
@@ -46059,7 +46059,7 @@
 {"date": "2026-09-09", "entity": "footlocker", "wiki_views": 321}
 {"app_rank": 0, "date": "2026-09-09", "entity": "ford", "wiki_views": 2504}
 {"app_rank": 0, "close": 63.86000061035156, "date": "2026-09-09", "entity": "fox", "volume": 7425500.0, "wiki_views": 865}
-{"date": "2026-09-09", "entity": "freshpet", "wiki_views": 23}
+{"close": 67.20999908447266, "date": "2026-09-09", "entity": "freshpet", "volume": 1089800.0, "wiki_views": 23}
 {"app_rank": 0, "date": "2026-09-09", "entity": "function_health", "wiki_views": 62}
 {"date": "2026-09-09", "entity": "funko", "wiki_views": 278}
 {"close": 155.4499969482422, "date": "2026-09-09", "entity": "galderma", "volume": 494702.0, "wiki_views": 144}
@@ -46279,7 +46279,7 @@
 {"app_rank": 0, "close": 211.13999938964844, "date": "2026-09-09", "entity": "taketwo", "volume": 2176800.0, "wiki_views": 1923}
 {"app_rank": 0, "date": "2026-09-09", "entity": "talkspace", "wiki_views": 24}
 {"app_rank": 0, "close": 157.52000427246094, "date": "2026-09-09", "entity": "target", "volume": 3393400.0, "wiki_views": 1239}
-{"app_rank": 0, "date": "2026-09-09", "entity": "teladoc", "wiki_views": 75}
+{"app_rank": 0, "close": 6.099999904632568, "date": "2026-09-09", "entity": "teladoc", "volume": 3780800.0, "wiki_views": 75}
 {"app_rank": 0, "date": "2026-09-09", "entity": "templewebster", "wiki_views": 16}
 {"date": "2026-09-09", "entity": "tempursealy", "wiki_views": 58}
 {"app_rank": 0, "date": "2026-09-09", "entity": "tencent", "wiki_views": 1792}
@@ -46486,7 +46486,7 @@
 {"date": "2026-09-10", "entity": "footlocker", "wiki_views": 302}
 {"app_rank": 0, "date": "2026-09-10", "entity": "ford", "wiki_views": 2406}
 {"app_rank": 0, "close": 65.18000030517578, "date": "2026-09-10", "entity": "fox", "volume": 4643000.0, "wiki_views": 840}
-{"date": "2026-09-10", "entity": "freshpet", "wiki_views": 22}
+{"close": 65.16999816894531, "date": "2026-09-10", "entity": "freshpet", "volume": 1383500.0, "wiki_views": 22}
 {"app_rank": 0, "date": "2026-09-10", "entity": "function_health", "wiki_views": 88}
 {"date": "2026-09-10", "entity": "funko", "wiki_views": 296}
 {"close": 153.6999969482422, "date": "2026-09-10", "entity": "galderma", "volume": 441366.0, "wiki_views": 144}
@@ -46706,7 +46706,7 @@
 {"app_rank": 0, "date": "2026-09-10", "entity": "taketwo", "trends_hit": 200, "wiki_views": 2049}
 {"app_rank": 0, "date": "2026-09-10", "entity": "talkspace", "wiki_views": 23}
 {"app_rank": 0, "close": 155.72999572753906, "date": "2026-09-10", "entity": "target", "volume": 3209200.0, "wiki_views": 1268}
-{"app_rank": 0, "date": "2026-09-10", "entity": "teladoc", "wiki_views": 66}
+{"app_rank": 0, "close": 6.090000152587891, "date": "2026-09-10", "entity": "teladoc", "volume": 2519000.0, "wiki_views": 66}
 {"app_rank": 0, "date": "2026-09-10", "entity": "templewebster", "wiki_views": 19}
 {"date": "2026-09-10", "entity": "tempursealy", "wiki_views": 65}
 {"app_rank": 0, "date": "2026-09-10", "entity": "tencent", "wiki_views": 1791}
@@ -46913,7 +46913,7 @@
 {"date": "2026-09-11", "entity": "footlocker", "wiki_views": 282}
 {"app_rank": 0, "date": "2026-09-11", "entity": "ford", "wiki_views": 2325}
 {"app_rank": 0, "close": 65.94000244140625, "date": "2026-09-11", "entity": "fox", "volume": 2988200.0, "wiki_views": 890}
-{"date": "2026-09-11", "entity": "freshpet", "wiki_views": 23}
+{"close": 63.7400016784668, "date": "2026-09-11", "entity": "freshpet", "volume": 1090600.0, "wiki_views": 23}
 {"app_rank": 0, "date": "2026-09-11", "entity": "function_health", "wiki_views": 73}
 {"date": "2026-09-11", "entity": "funko", "wiki_views": 273}
 {"close": 154.9499969482422, "date": "2026-09-11", "entity": "galderma", "volume": 403337.0, "wiki_views": 109}
@@ -47133,7 +47133,7 @@
 {"app_rank": 0, "date": "2026-09-11", "entity": "taketwo", "wiki_views": 1905}
 {"app_rank": 0, "date": "2026-09-11", "entity": "talkspace", "wiki_views": 12}
 {"app_rank": 0, "close": 155.8300018310547, "date": "2026-09-11", "entity": "target", "volume": 2643900.0, "wiki_views": 1278}
-{"app_rank": 0, "date": "2026-09-11", "entity": "teladoc", "wiki_views": 56}
+{"app_rank": 0, "close": 6.159999847412109, "date": "2026-09-11", "entity": "teladoc", "volume": 2565300.0, "wiki_views": 56}
 {"app_rank": 0, "date": "2026-09-11", "entity": "templewebster", "wiki_views": 13}
 {"date": "2026-09-11", "entity": "tempursealy", "wiki_views": 50}
 {"app_rank": 0, "date": "2026-09-11", "entity": "tencent", "wiki_views": 1664}
@@ -48194,7 +48194,7 @@
 {"date": "2026-09-14", "entity": "footlocker", "wiki_views": 261}
 {"app_rank": 0, "date": "2026-09-14", "entity": "ford", "wiki_views": 2607}
 {"app_rank": 35, "close": 68.52999877929688, "date": "2026-09-14", "entity": "fox", "volume": 4577500.0, "wiki_views": 845}
-{"date": "2026-09-14", "entity": "freshpet", "wiki_views": 39}
+{"close": 63.77000045776367, "date": "2026-09-14", "entity": "freshpet", "volume": 870400.0, "wiki_views": 39}
 {"app_rank": 0, "date": "2026-09-14", "entity": "function_health", "wiki_views": 134}
 {"date": "2026-09-14", "entity": "funko", "wiki_views": 339}
 {"close": 155.60000610351562, "date": "2026-09-14", "entity": "galderma", "volume": 295140.0, "wiki_views": 116}
@@ -48414,7 +48414,7 @@
 {"app_rank": 0, "date": "2026-09-14", "entity": "taketwo", "wiki_views": 1555}
 {"app_rank": 0, "date": "2026-09-14", "entity": "talkspace", "wiki_views": 23}
 {"app_rank": 0, "close": 158.6999969482422, "date": "2026-09-14", "entity": "target", "volume": 3288000.0, "wiki_views": 1444}
-{"app_rank": 0, "date": "2026-09-14", "entity": "teladoc", "wiki_views": 77}
+{"app_rank": 0, "close": 6.5, "date": "2026-09-14", "entity": "teladoc", "volume": 3469500.0, "wiki_views": 77}
 {"app_rank": 0, "date": "2026-09-14", "entity": "templewebster", "wiki_views": 19}
 {"date": "2026-09-14", "entity": "tempursealy", "wiki_views": 44}
 {"app_rank": 0, "date": "2026-09-14", "entity": "tencent", "wiki_views": 1739}
@@ -48621,7 +48621,7 @@
 {"date": "2026-09-15", "entity": "footlocker", "wiki_views": 277}
 {"app_rank": 0, "date": "2026-09-15", "entity": "ford", "wiki_views": 2462}
 {"app_rank": 0, "close": 67.56999969482422, "date": "2026-09-15", "entity": "fox", "volume": 4587100.0, "wiki_views": 863}
-{"date": "2026-09-15", "entity": "freshpet", "wiki_views": 28}
+{"close": 62.689998626708984, "date": "2026-09-15", "entity": "freshpet", "volume": 1062100.0, "wiki_views": 28}
 {"app_rank": 0, "date": "2026-09-15", "entity": "function_health", "wiki_views": 108}
 {"date": "2026-09-15", "entity": "funko", "wiki_views": 315}
 {"close": 153.3000030517578, "date": "2026-09-15", "entity": "galderma", "volume": 392362.0, "wiki_views": 115}
@@ -48841,7 +48841,7 @@
 {"app_rank": 0, "date": "2026-09-15", "entity": "taketwo", "wiki_views": 1689}
 {"app_rank": 0, "date": "2026-09-15", "entity": "talkspace", "wiki_views": 24}
 {"app_rank": 0, "close": 154.39999389648438, "date": "2026-09-15", "entity": "target", "volume": 3620400.0, "wiki_views": 1624}
-{"app_rank": 0, "date": "2026-09-15", "entity": "teladoc", "wiki_views": 47}
+{"app_rank": 0, "close": 6.579999923706055, "date": "2026-09-15", "entity": "teladoc", "volume": 3551800.0, "wiki_views": 47}
 {"app_rank": 0, "date": "2026-09-15", "entity": "templewebster", "wiki_views": 15}
 {"date": "2026-09-15", "entity": "tempursealy", "wiki_views": 67}
 {"app_rank": 0, "date": "2026-09-15", "entity": "tencent", "wiki_views": 1657}
@@ -49048,7 +49048,7 @@
 {"date": "2026-09-16", "entity": "footlocker", "wiki_views": 289}
 {"app_rank": 0, "date": "2026-09-16", "entity": "ford", "wiki_views": 2488}
 {"app_rank": 100, "close": 66.16000366210938, "date": "2026-09-16", "entity": "fox", "volume": 4579300.0, "wiki_views": 828}
-{"date": "2026-09-16", "entity": "freshpet", "wiki_views": 22}
+{"close": 62.029998779296875, "date": "2026-09-16", "entity": "freshpet", "volume": 1065700.0, "wiki_views": 22}
 {"app_rank": 0, "date": "2026-09-16", "entity": "function_health", "wiki_views": 91}
 {"date": "2026-09-16", "entity": "funko", "wiki_views": 250}
 {"close": 154.0500030517578, "date": "2026-09-16", "entity": "galderma", "volume": 827551.0, "wiki_views": 114}
@@ -49268,7 +49268,7 @@
 {"app_rank": 0, "date": "2026-09-16", "entity": "taketwo", "wiki_views": 1558}
 {"app_rank": 0, "date": "2026-09-16", "entity": "talkspace", "wiki_views": 29}
 {"app_rank": 93, "close": 154.67999267578125, "date": "2026-09-16", "entity": "target", "volume": 2744400.0, "wiki_views": 1434}
-{"app_rank": 0, "date": "2026-09-16", "entity": "teladoc", "wiki_views": 63}
+{"app_rank": 0, "close": 6.429999828338623, "date": "2026-09-16", "entity": "teladoc", "volume": 2752100.0, "wiki_views": 63}
 {"app_rank": 0, "date": "2026-09-16", "entity": "templewebster", "wiki_views": 18}
 {"date": "2026-09-16", "entity": "tempursealy", "wiki_views": 46}
 {"app_rank": 0, "date": "2026-09-16", "entity": "tencent", "wiki_views": 1722}
@@ -49475,7 +49475,7 @@
 {"date": "2026-09-17", "entity": "footlocker", "wiki_views": 216}
 {"app_rank": 0, "date": "2026-09-17", "entity": "ford", "wiki_views": 2483}
 {"app_rank": 0, "close": 64.9800033569336, "date": "2026-09-17", "entity": "fox", "volume": 4197300.0, "wiki_views": 827}
-{"date": "2026-09-17", "entity": "freshpet", "wiki_views": 24}
+{"close": 61.56999969482422, "date": "2026-09-17", "entity": "freshpet", "volume": 1121800.0, "wiki_views": 24}
 {"app_rank": 0, "date": "2026-09-17", "entity": "function_health", "wiki_views": 88}
 {"date": "2026-09-17", "entity": "funko", "wiki_views": 255}
 {"close": 157.85000610351562, "date": "2026-09-17", "entity": "galderma", "volume": 826794.0, "wiki_views": 113}
@@ -49695,7 +49695,7 @@
 {"app_rank": 0, "date": "2026-09-17", "entity": "taketwo", "wiki_views": 1715}
 {"app_rank": 0, "date": "2026-09-17", "entity": "talkspace", "wiki_views": 22}
 {"app_rank": 0, "close": 159.8300018310547, "date": "2026-09-17", "entity": "target", "volume": 4094500.0, "wiki_views": 1358}
-{"app_rank": 0, "date": "2026-09-17", "entity": "teladoc", "wiki_views": 60}
+{"app_rank": 0, "close": 6.28000020980835, "date": "2026-09-17", "entity": "teladoc", "volume": 2536400.0, "wiki_views": 60}
 {"app_rank": 0, "date": "2026-09-17", "entity": "templewebster", "wiki_views": 17}
 {"date": "2026-09-17", "entity": "tempursealy", "wiki_views": 86}
 {"app_rank": 0, "date": "2026-09-17", "entity": "tencent", "wiki_views": 1759}
@@ -49706,7 +49706,7 @@
 {"app_rank": 0, "date": "2026-09-17", "entity": "topgolf", "wiki_views": 159}
 {"date": "2026-09-17", "entity": "topps", "wiki_views": 259}
 {"date": "2026-09-17", "entity": "toyota", "wiki_views": 2364}
-{"close": 32.81999969482422, "date": "2026-09-17", "entity": "tractorsupply", "volume": 8484625.0, "wiki_views": 187}
+{"close": 32.81999969482422, "date": "2026-09-17", "entity": "tractorsupply", "volume": 8485000.0, "wiki_views": 187}
 {"date": "2026-09-17", "entity": "traderjoes", "wiki_views": 1217}
 {"date": "2026-09-17", "entity": "treasurywine", "wiki_views": 31}
 {"app_rank": 48, "close": 40.36000061035156, "date": "2026-09-17", "entity": "trip_com", "volume": 4138900.0, "wiki_views": 228}
@@ -49902,7 +49902,7 @@
 {"date": "2026-09-18", "entity": "footlocker", "wiki_views": 258}
 {"app_rank": 0, "date": "2026-09-18", "entity": "ford", "wiki_views": 2540}
 {"app_rank": 0, "close": 64.44999694824219, "date": "2026-09-18", "entity": "fox", "volume": 13252400.0, "wiki_views": 790}
-{"date": "2026-09-18", "entity": "freshpet", "wiki_views": 13}
+{"close": 61.439998626708984, "date": "2026-09-18", "entity": "freshpet", "volume": 1639600.0, "wiki_views": 13}
 {"app_rank": 0, "date": "2026-09-18", "entity": "function_health", "wiki_views": 81}
 {"date": "2026-09-18", "entity": "funko", "wiki_views": 222}
 {"close": 158.14999389648438, "date": "2026-09-18", "entity": "galderma", "volume": 7617665.0, "wiki_views": 106}
@@ -50122,7 +50122,7 @@
 {"app_rank": 0, "date": "2026-09-18", "entity": "taketwo", "wiki_views": 1650}
 {"app_rank": 0, "date": "2026-09-18", "entity": "talkspace", "wiki_views": 11}
 {"app_rank": 0, "close": 158.19000244140625, "date": "2026-09-18", "entity": "target", "volume": 6811500.0, "wiki_views": 1166}
-{"app_rank": 0, "date": "2026-09-18", "entity": "teladoc", "wiki_views": 53}
+{"app_rank": 0, "close": 6.300000190734863, "date": "2026-09-18", "entity": "teladoc", "volume": 5496200.0, "wiki_views": 53}
 {"app_rank": 0, "date": "2026-09-18", "entity": "templewebster", "wiki_views": 13}
 {"date": "2026-09-18", "entity": "tempursealy", "wiki_views": 58}
 {"app_rank": 0, "date": "2026-09-18", "entity": "tencent", "wiki_views": 1724}
@@ -50133,7 +50133,7 @@
 {"app_rank": 0, "date": "2026-09-18", "entity": "topgolf", "wiki_views": 165}
 {"date": "2026-09-18", "entity": "topps", "wiki_views": 216}
 {"date": "2026-09-18", "entity": "toyota", "wiki_views": 2347}
-{"date": "2026-09-18", "entity": "tractorsupply", "wiki_views": 147}
+{"close": 32.209999084472656, "date": "2026-09-18", "entity": "tractorsupply", "volume": 14847700.0, "wiki_views": 147}
 {"date": "2026-09-18", "entity": "traderjoes", "wiki_views": 1198}
 {"date": "2026-09-18", "entity": "treasurywine", "wiki_views": 32}
 {"app_rank": 61, "close": 40.68000030517578, "date": "2026-09-18", "entity": "trip_com", "volume": 3841500.0, "wiki_views": 177}
@@ -51182,7 +51182,7 @@
 {"date": "2026-09-21", "entity": "footlocker", "wiki_views": 254}
 {"app_rank": 0, "date": "2026-09-21", "entity": "ford", "wiki_views": 2321}
 {"app_rank": 65, "close": 64.79000091552734, "date": "2026-09-21", "entity": "fox", "trends_hit": 1000, "volume": 6039200.0, "wiki_views": 1455}
-{"date": "2026-09-21", "entity": "freshpet", "wiki_views": 28}
+{"close": 61.369998931884766, "date": "2026-09-21", "entity": "freshpet", "volume": 1218500.0, "wiki_views": 28}
 {"app_rank": 0, "date": "2026-09-21", "entity": "function_health", "wiki_views": 58}
 {"date": "2026-09-21", "entity": "funko", "wiki_views": 254}
 {"close": 161.25, "date": "2026-09-21", "entity": "galderma", "volume": 635985.0, "wiki_views": 140}
@@ -51402,7 +51402,7 @@
 {"app_rank": 0, "date": "2026-09-21", "entity": "taketwo", "wiki_views": 1496}
 {"app_rank": 0, "date": "2026-09-21", "entity": "talkspace", "wiki_views": 31}
 {"app_rank": 0, "close": 157.7100067138672, "date": "2026-09-21", "entity": "target", "volume": 2254900.0, "wiki_views": 1174}
-{"app_rank": 0, "date": "2026-09-21", "entity": "teladoc", "wiki_views": 49}
+{"app_rank": 0, "close": 6.269999980926514, "date": "2026-09-21", "entity": "teladoc", "volume": 2995000.0, "wiki_views": 49}
 {"app_rank": 0, "date": "2026-09-21", "entity": "templewebster", "wiki_views": 10}
 {"date": "2026-09-21", "entity": "tempursealy", "wiki_views": 50}
 {"app_rank": 0, "date": "2026-09-21", "entity": "tencent", "wiki_views": 1547}
@@ -51413,7 +51413,7 @@
 {"app_rank": 0, "date": "2026-09-21", "entity": "topgolf", "wiki_views": 147}
 {"date": "2026-09-21", "entity": "topps", "wiki_views": 272}
 {"date": "2026-09-21", "entity": "toyota", "wiki_views": 2312}
-{"date": "2026-09-21", "entity": "tractorsupply", "wiki_views": 174}
+{"close": 32.33000183105469, "date": "2026-09-21", "entity": "tractorsupply", "volume": 9059200.0, "wiki_views": 174}
 {"date": "2026-09-21", "entity": "traderjoes", "wiki_views": 1271}
 {"date": "2026-09-21", "entity": "treasurywine", "wiki_views": 63}
 {"app_rank": 41, "close": 40.650001525878906, "date": "2026-09-21", "entity": "trip_com", "volume": 3711900.0, "wiki_views": 238}
@@ -51901,18 +51901,18 @@
 {"date": "2026-09-23", "entity": "acushnet", "wiki_views": 127}
 {"app_rank": 0, "date": "2026-09-23", "entity": "adidas", "wiki_views": 2430}
 {"app_rank": 0, "date": "2026-09-23", "entity": "affirm", "wiki_views": 237}
-{"app_rank": 47, "close": 149.5800018310547, "date": "2026-09-23", "entity": "airbnb", "volume": 13664800.0, "wiki_views": 1366}
+{"app_rank": 47, "close": 149.5800018310547, "date": "2026-09-23", "entity": "airbnb", "volume": 13684300.0, "wiki_views": 1366}
 {"app_rank": 0, "date": "2026-09-23", "entity": "alaska_air", "wiki_views": 130}
 {"date": "2026-09-23", "entity": "albertsons", "wiki_views": 567}
 {"date": "2026-09-23", "entity": "aldi", "wiki_views": 1903}
-{"app_rank": 13, "close": 110.80000305175781, "date": "2026-09-23", "entity": "alibaba", "volume": 12177700.0, "wiki_views": 1389}
+{"app_rank": 13, "close": 110.80000305175781, "date": "2026-09-23", "entity": "alibaba", "volume": 12223700.0, "wiki_views": 1389}
 {"date": "2026-09-23", "entity": "align", "wiki_views": 112}
 {"date": "2026-09-23", "entity": "allbirds", "wiki_views": 271}
 {"date": "2026-09-23", "entity": "alo", "wiki_views": 670}
 {"date": "2026-09-23", "entity": "alterra", "wiki_views": 97}
-{"app_rank": 23, "close": 249.27000427246094, "date": "2026-09-23", "entity": "amazon", "trends_hit": 100, "volume": 43999500.0, "wiki_views": 8186}
+{"app_rank": 23, "close": 249.27000427246094, "date": "2026-09-23", "entity": "amazon", "trends_hit": 100, "volume": 44209200.0, "wiki_views": 8186}
 {"app_rank": 0, "date": "2026-09-23", "entity": "amc", "wiki_views": 514}
-{"close": 614.6099853515625, "date": "2026-09-23", "entity": "amd", "volume": 16299200.0, "wiki_views": 2109}
+{"close": 614.6099853515625, "date": "2026-09-23", "entity": "amd", "volume": 16338200.0, "wiki_views": 2109}
 {"app_rank": 0, "date": "2026-09-23", "entity": "american_air", "wiki_views": 2078}
 {"close": 15.920000076293945, "date": "2026-09-23", "entity": "americaneagle", "volume": 5779200.0, "wiki_views": 567}
 {"date": "2026-09-23", "entity": "amorepacific", "wiki_views": 134}
@@ -51936,13 +51936,13 @@
 {"close": 89.9800033569336, "date": "2026-09-23", "entity": "bjs", "volume": 2370400.0, "wiki_views": 504}
 {"app_rank": 44, "close": 74.68000030517578, "date": "2026-09-23", "entity": "block", "volume": 5172400.0, "wiki_views": 686}
 {"date": "2026-09-23", "entity": "bmw", "wiki_views": 2735}
-{"app_rank": 40, "close": 155.89999389648438, "date": "2026-09-23", "entity": "booking", "volume": 13865300.0, "wiki_views": 349}
+{"app_rank": 40, "close": 155.89999389648438, "date": "2026-09-23", "entity": "booking", "volume": 13881600.0, "wiki_views": 349}
 {"date": "2026-09-23", "entity": "boston_beer", "wiki_views": 141}
 {"date": "2026-09-23", "entity": "breville", "wiki_views": 122}
 {"date": "2026-09-23", "entity": "brinker", "wiki_views": 228}
 {"date": "2026-09-23", "entity": "brooks", "wiki_views": 193}
 {"date": "2026-09-23", "entity": "brownforman", "wiki_views": 150}
-{"close": 25.959999084472656, "date": "2026-09-23", "entity": "buildabear", "volume": 737500.0, "wiki_views": 277}
+{"close": 25.959999084472656, "date": "2026-09-23", "entity": "buildabear", "volume": 775300.0, "wiki_views": 277}
 {"app_rank": 0, "date": "2026-09-23", "entity": "bumble", "wiki_views": 390}
 {"close": 1035.5, "date": "2026-09-23", "entity": "burberry", "volume": 2166379.0, "wiki_views": 502}
 {"date": "2026-09-23", "entity": "burlington", "wiki_views": 31}
@@ -51980,7 +51980,7 @@
 {"app_rank": 0, "close": 22.549999237060547, "date": "2026-09-23", "entity": "comcast", "volume": 37643127.0, "wiki_views": 1450}
 {"date": "2026-09-23", "entity": "conagra", "wiki_views": 251}
 {"date": "2026-09-23", "entity": "constellation", "wiki_views": 212}
-{"close": 36.04999923706055, "date": "2026-09-23", "entity": "converse", "volume": 40509200.0, "wiki_views": 1474}
+{"close": 36.04999923706055, "date": "2026-09-23", "entity": "converse", "volume": 40581400.0, "wiki_views": 1474}
 {"date": "2026-09-23", "entity": "corsair", "wiki_views": 112}
 {"app_rank": 91, "close": 904.7000122070312, "date": "2026-09-23", "entity": "costco", "volume": 2280700.0, "wiki_views": 2379}
 {"date": "2026-09-23", "entity": "coty", "wiki_views": 10}
@@ -52036,7 +52036,7 @@
 {"date": "2026-09-23", "entity": "footlocker", "wiki_views": 254}
 {"app_rank": 0, "date": "2026-09-23", "entity": "ford", "wiki_views": 2288}
 {"app_rank": 100, "close": 63.959999084472656, "date": "2026-09-23", "entity": "fox", "volume": 4677500.0, "wiki_views": 2341}
-{"date": "2026-09-23", "entity": "freshpet", "wiki_views": 44}
+{"close": 59.209999084472656, "date": "2026-09-23", "entity": "freshpet", "volume": 917100.0, "wiki_views": 44}
 {"app_rank": 0, "date": "2026-09-23", "entity": "function_health", "wiki_views": 99}
 {"date": "2026-09-23", "entity": "funko", "wiki_views": 257}
 {"close": 162.1999969482422, "date": "2026-09-23", "entity": "galderma", "volume": 0.0, "wiki_views": 163}
@@ -52047,9 +52047,9 @@
 {"date": "2026-09-23", "entity": "glossier", "wiki_views": 58}
 {"date": "2026-09-23", "entity": "glp1_generic", "wiki_views": 762}
 {"app_rank": 0, "date": "2026-09-23", "entity": "gm", "wiki_views": 2249}
-{"app_rank": 5, "close": 337.8299865722656, "date": "2026-09-23", "entity": "googlepixel", "trends_hit": 100, "volume": 35463700.0, "wiki_views": 2902}
+{"app_rank": 5, "close": 337.8299865722656, "date": "2026-09-23", "entity": "googlepixel", "trends_hit": 100, "volume": 35576200.0, "wiki_views": 2902}
 {"date": "2026-09-23", "entity": "gopro", "wiki_views": 325}
-{"app_rank": 55, "close": 3.200000047683716, "date": "2026-09-23", "entity": "grab", "volume": 131120100.0, "wiki_views": 861}
+{"app_rank": 55, "close": 3.200000047683716, "date": "2026-09-23", "entity": "grab", "volume": 131466300.0, "wiki_views": 861}
 {"app_rank": 0, "date": "2026-09-23", "entity": "grindr", "wiki_views": 505}
 {"app_rank": 49, "close": 25.049999237060547, "date": "2026-09-23", "entity": "gyg", "volume": 384996.0, "wiki_views": 156}
 {"date": "2026-09-23", "entity": "gymshark", "wiki_views": 370}
@@ -52131,14 +52131,14 @@
 {"date": "2026-09-23", "entity": "mars", "wiki_views": 235}
 {"app_rank": 0, "date": "2026-09-23", "entity": "match", "wiki_views": 454}
 {"date": "2026-09-23", "entity": "mattel", "wiki_views": 980}
-{"app_rank": 61, "close": 238.32000732421875, "date": "2026-09-23", "entity": "mcdonalds", "volume": 16576600.0, "wiki_views": 4370}
+{"app_rank": 61, "close": 238.32000732421875, "date": "2026-09-23", "entity": "mcdonalds", "volume": 16605700.0, "wiki_views": 4370}
 {"date": "2026-09-23", "entity": "meituan", "wiki_views": 195}
 {"app_rank": 0, "date": "2026-09-23", "entity": "mercadolibre", "wiki_views": 316}
 {"date": "2026-09-23", "entity": "mercedes", "wiki_views": 792}
-{"app_rank": 4, "close": 744.0999755859375, "date": "2026-09-23", "entity": "meta", "volume": 30346000.0, "wiki_views": 4385}
+{"app_rank": 4, "close": 744.0999755859375, "date": "2026-09-23", "entity": "meta", "volume": 30829200.0, "wiki_views": 4385}
 {"app_rank": 0, "date": "2026-09-23", "entity": "mgm", "wiki_views": 370}
 {"close": 15.430000305175781, "date": "2026-09-23", "entity": "michaelkors", "volume": 4749987.0, "wiki_views": 130}
-{"app_rank": 16, "close": 500.5899963378906, "date": "2026-09-23", "entity": "microsoft", "volume": 19415500.0, "wiki_views": 7598}
+{"app_rank": 16, "close": 500.5899963378906, "date": "2026-09-23", "entity": "microsoft", "volume": 19445600.0, "wiki_views": 7598}
 {"date": "2026-09-23", "entity": "mixue", "wiki_views": 519}
 {"date": "2026-09-23", "entity": "molson", "wiki_views": 390}
 {"date": "2026-09-23", "entity": "moncler", "wiki_views": 295}
@@ -52147,11 +52147,11 @@
 {"app_rank": 0, "close": 0.17499999701976776, "date": "2026-09-23", "entity": "myer", "volume": 36012642.0, "wiki_views": 244}
 {"date": "2026-09-23", "entity": "nestle", "wiki_views": 2132}
 {"app_rank": 0, "date": "2026-09-23", "entity": "netease", "wiki_views": 793}
-{"app_rank": 65, "close": 71.36000061035156, "date": "2026-09-23", "entity": "netflix", "volume": 32756600.0, "wiki_views": 6103}
+{"app_rank": 65, "close": 71.36000061035156, "date": "2026-09-23", "entity": "netflix", "volume": 32807500.0, "wiki_views": 6103}
 {"date": "2026-09-23", "entity": "newbalance", "wiki_views": 976}
 {"app_rank": 0, "date": "2026-09-23", "entity": "nexon", "wiki_views": 469}
 {"date": "2026-09-23", "entity": "nickscali", "wiki_views": 16}
-{"app_rank": 0, "close": 36.04999923706055, "date": "2026-09-23", "entity": "nike", "volume": 40509200.0, "wiki_views": 3551}
+{"app_rank": 0, "close": 36.04999923706055, "date": "2026-09-23", "entity": "nike", "volume": 40581400.0, "wiki_views": 3551}
 {"app_rank": 0, "close": 13.119999885559082, "date": "2026-09-23", "entity": "nintendo", "trends_hit": 1000, "volume": 1254600.0, "wiki_views": 7204}
 {"date": "2026-09-23", "entity": "northface", "wiki_views": 524}
 {"app_rank": 0, "close": 14.180000305175781, "date": "2026-09-23", "entity": "norwegian", "volume": 22807743.0, "wiki_views": 127}
@@ -52176,14 +52176,14 @@
 {"app_rank": 89, "close": 9.960000038146973, "date": "2026-09-23", "entity": "paramount", "volume": 33609800.0, "wiki_views": 4886}
 {"date": "2026-09-23", "entity": "patagonia", "wiki_views": 439}
 {"app_rank": 46, "close": 52.5099983215332, "date": "2026-09-23", "entity": "paypal", "volume": 11559900.0, "wiki_views": 2053}
-{"app_rank": 25, "close": 79.19999694824219, "date": "2026-09-23", "entity": "pdd", "volume": 5303300.0, "wiki_views": 597}
+{"app_rank": 25, "close": 79.19999694824219, "date": "2026-09-23", "entity": "pdd", "volume": 5316900.0, "wiki_views": 597}
 {"app_rank": 0, "close": 4.800000190734863, "date": "2026-09-23", "entity": "peloton", "volume": 11285798.0, "wiki_views": 177}
 {"date": "2026-09-23", "entity": "pepsi", "wiki_views": 1576}
 {"date": "2026-09-23", "entity": "pernod", "wiki_views": 333}
 {"app_rank": 0, "date": "2026-09-23", "entity": "petco", "wiki_views": 177}
 {"date": "2026-09-23", "entity": "petsmart", "wiki_views": 150}
 {"close": 147.38999938964844, "date": "2026-09-23", "entity": "pg", "volume": 6580200.0, "wiki_views": 1936}
-{"app_rank": 45, "close": 18.450000762939453, "date": "2026-09-23", "entity": "pinterest", "volume": 14739200.0, "wiki_views": 2824}
+{"app_rank": 45, "close": 18.450000762939453, "date": "2026-09-23", "entity": "pinterest", "volume": 14749400.0, "wiki_views": 2824}
 {"app_rank": 0, "date": "2026-09-23", "entity": "planetfitness", "wiki_views": 209}
 {"date": "2026-09-23", "entity": "playtika", "wiki_views": 97}
 {"date": "2026-09-23", "entity": "pokemon_tcg", "wiki_views": 1077}
@@ -52198,7 +52198,7 @@
 {"date": "2026-09-23", "entity": "puig", "wiki_views": 155}
 {"close": 22.299999237060547, "date": "2026-09-23", "entity": "puma", "volume": 601436.0, "wiki_views": 1361}
 {"app_rank": 56, "close": 9.140000343322754, "date": "2026-09-23", "entity": "qantas", "volume": 10681596.0, "wiki_views": 1319}
-{"close": 197.24000549316406, "date": "2026-09-23", "entity": "qualcomm", "volume": 9713400.0, "wiki_views": 1520}
+{"close": 197.24000549316406, "date": "2026-09-23", "entity": "qualcomm", "volume": 9739300.0, "wiki_views": 1520}
 {"date": "2026-09-23", "entity": "ralphlauren", "wiki_views": 404}
 {"date": "2026-09-23", "entity": "rarebeauty", "wiki_views": 173}
 {"app_rank": 0, "date": "2026-09-23", "entity": "rbi", "wiki_views": 669}
@@ -52235,7 +52235,7 @@
 {"date": "2026-09-23", "entity": "skims", "wiki_views": 304}
 {"date": "2026-09-23", "entity": "sleepnumber", "wiki_views": 64}
 {"date": "2026-09-23", "entity": "smucker", "wiki_views": 307}
-{"app_rank": 41, "close": 5.289999961853027, "date": "2026-09-23", "entity": "snap", "volume": 35924600.0, "wiki_views": 439}
+{"app_rank": 41, "close": 5.289999961853027, "date": "2026-09-23", "entity": "snap", "volume": 36066600.0, "wiki_views": 439}
 {"app_rank": 0, "close": 16.549999237060547, "date": "2026-09-23", "entity": "sofi", "volume": 55923418.0, "wiki_views": 562}
 {"date": "2026-09-23", "entity": "sonny_angel", "wiki_views": 133}
 {"date": "2026-09-23", "entity": "sonos", "wiki_views": 214}
@@ -52248,7 +52248,7 @@
 {"date": "2026-09-23", "entity": "squareenix", "wiki_views": 1054}
 {"date": "2026-09-23", "entity": "squishmallows", "wiki_views": 206}
 {"date": "2026-09-23", "entity": "stanley", "wiki_views": 329}
-{"app_rank": 0, "date": "2026-09-23", "entity": "starbucks", "wiki_views": 2311}
+{"app_rank": 0, "close": 94.13999938964844, "date": "2026-09-23", "entity": "starbucks", "volume": 8252400.0, "wiki_views": 2311}
 {"app_rank": 0, "date": "2026-09-23", "entity": "starz", "wiki_views": 522}
 {"app_rank": 0, "date": "2026-09-23", "entity": "stellantis", "wiki_views": 3249}
 {"date": "2026-09-23", "entity": "swatch", "wiki_views": 410}
@@ -52256,7 +52256,7 @@
 {"app_rank": 0, "date": "2026-09-23", "entity": "taketwo", "wiki_views": 1541}
 {"app_rank": 0, "date": "2026-09-23", "entity": "talkspace", "wiki_views": 24}
 {"app_rank": 0, "close": 156.25999450683594, "date": "2026-09-23", "entity": "target", "volume": 2987000.0, "wiki_views": 1846}
-{"app_rank": 0, "date": "2026-09-23", "entity": "teladoc", "wiki_views": 95}
+{"app_rank": 0, "close": 6.130000114440918, "date": "2026-09-23", "entity": "teladoc", "volume": 2966500.0, "wiki_views": 95}
 {"app_rank": 0, "date": "2026-09-23", "entity": "templewebster", "wiki_views": 19}
 {"date": "2026-09-23", "entity": "tempursealy", "wiki_views": 57}
 {"app_rank": 0, "date": "2026-09-23", "entity": "tencent", "wiki_views": 1856}
@@ -52267,7 +52267,7 @@
 {"app_rank": 0, "date": "2026-09-23", "entity": "topgolf", "wiki_views": 132}
 {"date": "2026-09-23", "entity": "topps", "wiki_views": 310}
 {"date": "2026-09-23", "entity": "toyota", "wiki_views": 2489}
-{"date": "2026-09-23", "entity": "tractorsupply", "wiki_views": 207}
+{"close": 32.290000915527344, "date": "2026-09-23", "entity": "tractorsupply", "volume": 10448900.0, "wiki_views": 207}
 {"date": "2026-09-23", "entity": "traderjoes", "wiki_views": 1242}
 {"date": "2026-09-23", "entity": "treasurywine", "wiki_views": 53}
 {"app_rank": 57, "close": 40.630001068115234, "date": "2026-09-23", "entity": "trip_com", "volume": 5373200.0, "wiki_views": 234}
@@ -52275,7 +52275,7 @@
 {"date": "2026-09-23", "entity": "trupanion", "wiki_views": 19}
 {"date": "2026-09-23", "entity": "turtlebeach", "wiki_views": 52}
 {"date": "2026-09-23", "entity": "tyson", "wiki_views": 322}
-{"app_rank": 38, "close": 69.41999816894531, "date": "2026-09-23", "entity": "uber", "volume": 17977000.0, "wiki_views": 1532}
+{"app_rank": 38, "close": 69.41999816894531, "date": "2026-09-23", "entity": "uber", "volume": 18010100.0, "wiki_views": 1532}
 {"date": "2026-09-23", "entity": "ubisoft", "wiki_views": 1260}
 {"date": "2026-09-23", "entity": "ugg", "wiki_views": 194}
 {"app_rank": 0, "date": "2026-09-23", "entity": "ulta", "wiki_views": 242}
@@ -52296,7 +52296,7 @@
 {"date": "2026-09-23", "entity": "vuori", "wiki_views": 288}
 {"date": "2026-09-23", "entity": "vw", "wiki_views": 1826}
 {"app_rank": 0, "date": "2026-09-23", "entity": "wag", "wiki_views": 38}
-{"app_rank": 37, "close": 110.52999877929688, "date": "2026-09-23", "entity": "walmart", "volume": 22711500.0, "wiki_views": 3299}
+{"app_rank": 37, "close": 110.52999877929688, "date": "2026-09-23", "entity": "walmart", "volume": 22770800.0, "wiki_views": 3299}
 {"app_rank": 0, "date": "2026-09-23", "entity": "wayfair", "wiki_views": 377}
 {"app_rank": 0, "close": 30.760000228881836, "date": "2026-09-23", "entity": "wbd", "trends_hit": 1000, "volume": 111086700.0, "wiki_views": 4800}
 {"date": "2026-09-23", "entity": "weber", "wiki_views": 76}
@@ -52322,17 +52322,21 @@
 {"date": "2026-09-23", "entity": "zoetis", "wiki_views": 132}
 {"app_rank": 0, "date": "2026-09-24", "entity": "adidas"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "affirm"}
-{"app_rank": 53, "date": "2026-09-24", "entity": "airbnb"}
+{"app_rank": 50, "close": 151.38999938964844, "date": "2026-09-24", "entity": "airbnb", "volume": 8592772.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "alaska_air"}
-{"app_rank": 18, "date": "2026-09-24", "entity": "alibaba"}
-{"app_rank": 30, "date": "2026-09-24", "entity": "amazon"}
+{"app_rank": 15, "close": 110.62999725341797, "date": "2026-09-24", "entity": "alibaba", "volume": 7356053.0}
+{"app_rank": 20, "close": 249.3800048828125, "date": "2026-09-24", "entity": "amazon", "volume": 32701576.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "amc"}
+{"close": 629.260009765625, "date": "2026-09-24", "entity": "amd", "volume": 25202032.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "american_air"}
+{"close": 16.079999923706055, "date": "2026-09-24", "entity": "americaneagle", "volume": 3784609.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "apple"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "aristocrat"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "bestbuy"}
-{"app_rank": 44, "date": "2026-09-24", "entity": "block"}
-{"app_rank": 43, "date": "2026-09-24", "entity": "booking"}
+{"close": 91.83999633789062, "date": "2026-09-24", "entity": "bjs", "volume": 1632559.0}
+{"app_rank": 42, "close": 76.73999786376953, "date": "2026-09-24", "entity": "block", "volume": 3653660.0}
+{"app_rank": 36, "close": 157.41000366210938, "date": "2026-09-24", "entity": "booking", "volume": 9411763.0}
+{"close": 25.100000381469727, "date": "2026-09-24", "entity": "buildabear", "volume": 614740.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "bumble"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "caesars"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "carmax"}
@@ -52344,36 +52348,39 @@
 {"app_rank": 0, "date": "2026-09-24", "entity": "chipotle"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "cinemark"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "coinbase"}
-{"app_rank": 51, "close": 22.899999618530273, "date": "2026-09-24", "entity": "coles", "volume": 1464548.0}
+{"app_rank": 65, "close": 22.899999618530273, "date": "2026-09-24", "entity": "coles", "volume": 1475481.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "comcast"}
-{"app_rank": 91, "date": "2026-09-24", "entity": "costco"}
+{"close": 35.9900016784668, "date": "2026-09-24", "entity": "converse", "volume": 38150546.0}
+{"app_rank": 86, "close": 896.47998046875, "date": "2026-09-24", "entity": "costco", "volume": 2831452.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "crumbl"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "crunch"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "delta"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "dexcom"}
-{"app_rank": 80, "date": "2026-09-24", "entity": "disney"}
+{"app_rank": 90, "close": 105.55999755859375, "date": "2026-09-24", "entity": "disney", "volume": 7844238.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "dominos"}
-{"app_rank": 34, "date": "2026-09-24", "entity": "doordash"}
+{"app_rank": 34, "close": 187.52999877929688, "date": "2026-09-24", "entity": "doordash", "volume": 5333468.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "draftkings"}
-{"app_rank": 53, "date": "2026-09-24", "entity": "duolingo"}
+{"app_rank": 64, "close": 147.75, "date": "2026-09-24", "entity": "duolingo", "volume": 1239523.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "dutchbros"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "ea"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "easyjet"}
-{"app_rank": 99, "date": "2026-09-24", "entity": "ebay"}
+{"app_rank": 0, "date": "2026-09-24", "entity": "ebay"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "endeavour"}
-{"app_rank": 8, "date": "2026-09-24", "entity": "etsy"}
+{"app_rank": 12, "close": 68.9800033569336, "date": "2026-09-24", "entity": "etsy", "volume": 4841279.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "expedia"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "flutter"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "ford"}
-{"app_rank": 84, "date": "2026-09-24", "entity": "fox"}
+{"app_rank": 0, "close": 63.84000015258789, "date": "2026-09-24", "entity": "fox", "volume": 4082348.0}
+{"close": 58.310001373291016, "date": "2026-09-24", "entity": "freshpet", "volume": 812042.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "function_health"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "gamestop"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "gm"}
-{"app_rank": 7, "date": "2026-09-24", "entity": "googlepixel"}
-{"app_rank": 48, "date": "2026-09-24", "entity": "grab"}
+{"app_rank": 6, "close": 342.3599853515625, "date": "2026-09-24", "entity": "googlepixel", "volume": 23558214.0}
+{"app_rank": 48, "close": 3.109999895095825, "date": "2026-09-24", "entity": "grab", "volume": 65443351.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "grindr"}
-{"app_rank": 24, "close": 24.530000686645508, "date": "2026-09-24", "entity": "gyg", "volume": 566918.0}
+{"app_rank": 27, "close": 24.530000686645508, "date": "2026-09-24", "entity": "gyg", "volume": 566918.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "harveynorman"}
+{"close": 86.80999755859375, "date": "2026-09-24", "entity": "hasbro", "volume": 1659333.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "hilton"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "hims"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "hingehealth"}
@@ -52386,100 +52393,107 @@
 {"app_rank": 0, "date": "2026-09-24", "entity": "instacart"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "jbhifi"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "jetblue"}
-{"app_rank": 16, "date": "2026-09-24", "entity": "kalshi"}
+{"app_rank": 17, "date": "2026-09-24", "entity": "kalshi"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "klarna"}
 {"close": 21390.0, "date": "2026-09-24", "entity": "konami", "volume": 446200.0}
+{"close": 23.860000610351562, "date": "2026-09-24", "entity": "kraftheinz", "volume": 13462538.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "krafton"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "lifetime"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "lightwonder"}
-{"app_rank": 1, "date": "2026-09-24", "entity": "livenation"}
+{"app_rank": 1, "close": 171.05999755859375, "date": "2026-09-24", "entity": "livenation", "volume": 1936388.0}
+{"close": 99.55999755859375, "date": "2026-09-24", "entity": "logitech", "volume": 1167266.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "lowes"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "lvmh"}
-{"app_rank": 83, "date": "2026-09-24", "entity": "lyft"}
+{"app_rank": 81, "close": 14.75, "date": "2026-09-24", "entity": "lyft", "volume": 7771704.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "marriott"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "match"}
-{"app_rank": 62, "date": "2026-09-24", "entity": "mcdonalds"}
+{"app_rank": 60, "close": 237.02000427246094, "date": "2026-09-24", "entity": "mcdonalds", "volume": 7226648.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "mercadolibre"}
-{"app_rank": 5, "date": "2026-09-24", "entity": "meta"}
+{"app_rank": 5, "close": 777.5900268554688, "date": "2026-09-24", "entity": "meta", "volume": 34646511.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "mgm"}
-{"app_rank": 15, "date": "2026-09-24", "entity": "microsoft"}
+{"app_rank": 15, "close": 497.92999267578125, "date": "2026-09-24", "entity": "microsoft", "volume": 16611248.0}
 {"app_rank": 0, "close": 0.19499999284744263, "date": "2026-09-24", "entity": "myer", "volume": 25316721.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "netease"}
-{"app_rank": 45, "date": "2026-09-24", "entity": "netflix", "trends_hit": 500}
+{"app_rank": 53, "close": 71.72000122070312, "date": "2026-09-24", "entity": "netflix", "trends_hit": 500, "volume": 28121254.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "nexon"}
-{"app_rank": 0, "date": "2026-09-24", "entity": "nike"}
-{"app_rank": 0, "date": "2026-09-24", "entity": "nintendo"}
+{"app_rank": 0, "close": 35.9900016784668, "date": "2026-09-24", "entity": "nike", "volume": 38150546.0}
+{"app_rank": 0, "close": 12.829999923706055, "date": "2026-09-24", "entity": "nintendo", "volume": 142996.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "norwegian"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "nubank"}
+{"close": 30.459999084472656, "date": "2026-09-24", "entity": "on_running", "volume": 10994312.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "oscar"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "oura"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "papajohns"}
 {"close": 155.1999969482422, "date": "2026-09-24", "entity": "paradox", "volume": 0.0}
-{"app_rank": 74, "date": "2026-09-24", "entity": "paramount"}
-{"app_rank": 43, "date": "2026-09-24", "entity": "paypal"}
-{"app_rank": 18, "date": "2026-09-24", "entity": "pdd"}
+{"app_rank": 0, "close": 10.180000305175781, "date": "2026-09-24", "entity": "paramount", "volume": 15087914.0}
+{"app_rank": 46, "close": 52.599998474121094, "date": "2026-09-24", "entity": "paypal", "volume": 7981909.0}
+{"app_rank": 24, "close": 78.19999694824219, "date": "2026-09-24", "entity": "pdd", "volume": 3974074.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "peloton"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "petco"}
-{"app_rank": 50, "date": "2026-09-24", "entity": "pinterest"}
+{"close": 145.67999267578125, "date": "2026-09-24", "entity": "pg", "volume": 7310866.0}
+{"app_rank": 51, "close": 18.719999313354492, "date": "2026-09-24", "entity": "pinterest", "volume": 11741597.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "planetfitness"}
-{"close": 38.220001220703125, "date": "2026-09-24", "entity": "prada", "volume": 1095658.0}
+{"close": 38.220001220703125, "date": "2026-09-24", "entity": "prada", "volume": 1095458.0}
 {"close": 22.350000381469727, "date": "2026-09-24", "entity": "puma", "volume": 0.0}
-{"app_rank": 58, "close": 9.020000457763672, "date": "2026-09-24", "entity": "qantas", "volume": 5774454.0}
+{"app_rank": 67, "close": 9.020000457763672, "date": "2026-09-24", "entity": "qantas", "volume": 5786964.0}
+{"close": 194.25999450683594, "date": "2026-09-24", "entity": "qualcomm", "volume": 9058984.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "rbi"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "rea"}
-{"app_rank": 82, "date": "2026-09-24", "entity": "reddit"}
+{"app_rank": 95, "close": 152.72000122070312, "date": "2026-09-24", "entity": "reddit", "volume": 3233149.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "revolut"}
 {"close": 171.4499969482422, "date": "2026-09-24", "entity": "richemont", "volume": 0.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "rivian"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "robinhood"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "roblox"}
-{"app_rank": 85, "date": "2026-09-24", "entity": "roku"}
+{"app_rank": 0, "date": "2026-09-24", "entity": "roku"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "rover"}
-{"app_rank": 0, "date": "2026-09-24", "entity": "royalcaribbean"}
+{"app_rank": 0, "close": 238.97999572753906, "date": "2026-09-24", "entity": "royalcaribbean", "volume": 5461749.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "rush_street"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "ryanair"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "sea"}
-{"app_rank": 47, "close": 11.350000381469727, "date": "2026-09-24", "entity": "seek", "volume": 2332081.0}
+{"app_rank": 56, "close": 11.350000381469727, "date": "2026-09-24", "entity": "seek", "volume": 2335341.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "shakeshack"}
-{"app_rank": 69, "date": "2026-09-24", "entity": "shein"}
+{"app_rank": 78, "date": "2026-09-24", "entity": "shein"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "sixflags"}
-{"app_rank": 60, "date": "2026-09-24", "entity": "snap"}
+{"app_rank": 47, "close": 5.429999828338623, "date": "2026-09-24", "entity": "snap", "volume": 27655885.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "sofi"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "sony"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "southwest"}
-{"app_rank": 36, "date": "2026-09-24", "entity": "spotify"}
-{"app_rank": 0, "date": "2026-09-24", "entity": "starbucks"}
+{"app_rank": 33, "close": 511.3800048828125, "date": "2026-09-24", "entity": "spotify", "volume": 1211998.0}
+{"app_rank": 98, "close": 93.6500015258789, "date": "2026-09-24", "entity": "starbucks", "volume": 6763024.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "starz"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "stellantis"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "sweetgreen"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "taketwo"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "talkspace"}
-{"app_rank": 0, "date": "2026-09-24", "entity": "target"}
-{"app_rank": 0, "date": "2026-09-24", "entity": "teladoc"}
+{"app_rank": 0, "close": 156.14999389648438, "date": "2026-09-24", "entity": "target", "volume": 3216609.0}
+{"app_rank": 0, "close": 6.139999866485596, "date": "2026-09-24", "entity": "teladoc", "volume": 2925097.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "templewebster"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "tencent"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "tesla"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "topgolf"}
-{"app_rank": 70, "date": "2026-09-24", "entity": "trip_com"}
+{"close": 31.440000534057617, "date": "2026-09-24", "entity": "tractorsupply", "volume": 9247936.0}
+{"app_rank": 66, "close": 40.040000915527344, "date": "2026-09-24", "entity": "trip_com", "volume": 4537729.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "tripadvisor"}
-{"app_rank": 31, "date": "2026-09-24", "entity": "uber"}
+{"app_rank": 24, "close": 69.22000122070312, "date": "2026-09-24", "entity": "uber", "volume": 14421686.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "ulta"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "underdog"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "united"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "vail"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "viking"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "wag"}
-{"app_rank": 26, "date": "2026-09-24", "entity": "walmart"}
+{"app_rank": 34, "close": 107.58999633789062, "date": "2026-09-24", "entity": "walmart", "volume": 24642812.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "wayfair"}
-{"app_rank": 0, "date": "2026-09-24", "entity": "wbd", "trends_hit": 500}
-{"app_rank": 0, "date": "2026-09-24", "entity": "wendys"}
-{"app_rank": 27, "close": 73.87000274658203, "date": "2026-09-24", "entity": "wesfarmers", "volume": 1442250.0}
+{"app_rank": 0, "close": 30.84000015258789, "date": "2026-09-24", "entity": "wbd", "trends_hit": 500, "volume": 45934291.0}
+{"app_rank": 0, "close": 6.505000114440918, "date": "2026-09-24", "entity": "wendys", "volume": 4071108.0}
+{"app_rank": 33, "close": 73.87000274658203, "date": "2026-09-24", "entity": "wesfarmers", "volume": 1451457.0}
+{"close": 32.97999954223633, "date": "2026-09-24", "entity": "whirlpool", "volume": 2073328.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "whoop"}
 {"app_rank": 0, "date": "2026-09-24", "entity": "wingstop"}
-{"app_rank": 32, "close": 855.7999877929688, "date": "2026-09-24", "entity": "wise", "volume": 0.0}
+{"app_rank": 28, "close": 845.5999755859375, "date": "2026-09-24", "entity": "wise", "volume": 983929.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "wizz"}
-{"app_rank": 20, "close": 38.27000045776367, "date": "2026-09-24", "entity": "woolworths", "volume": 1573168.0}
+{"app_rank": 22, "close": 38.27000045776367, "date": "2026-09-24", "entity": "woolworths", "volume": 1583592.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "ww"}
-{"close": 26.579999923706055, "date": "2026-09-24", "entity": "xiaomi", "volume": 82395640.0}
-{"app_rank": 56, "date": "2026-09-24", "entity": "yum"}
+{"close": 26.579999923706055, "date": "2026-09-24", "entity": "xiaomi", "volume": 82395440.0}
+{"app_rank": 80, "close": 137.33999633789062, "date": "2026-09-24", "entity": "yum", "volume": 2497470.0}
 {"app_rank": 0, "date": "2026-09-24", "entity": "zip"}
