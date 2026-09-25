@@ -1813,22 +1813,22 @@
 {"close": 155.10000610351562, "date": "2026-09-21", "entity": "popmart", "news_articles": 0.0018, "volume": 4357408.0, "wiki_views": 293}
 {"close": 123.30000305175781, "date": "2026-09-21", "entity": "robinhood", "news_articles": 0.024, "volume": 28301500.0, "wiki_views": 612}
 {"close": 375.29998779296875, "date": "2026-09-21", "entity": "tesla", "volume": 36599600.0, "wiki_views": 2626}
-{"close": 623.77001953125, "date": "2026-09-22", "entity": "amd", "news_articles": 0.067, "volume": 28282800.0, "wiki_views": 130}
-{"close": 188.64999389648438, "date": "2026-09-22", "entity": "atlassian", "volume": 2958065.0, "wiki_views": 953}
-{"close": 31.68000030517578, "date": "2026-09-22", "entity": "birkenstock", "news_articles": 0.0009, "volume": 2235849.0, "wiki_views": 376}
+{"close": 623.77001953125, "date": "2026-09-22", "entity": "amd", "news_articles": 0.0577, "volume": 28282800.0, "wiki_views": 130}
+{"close": 188.64999389648438, "date": "2026-09-22", "entity": "atlassian", "volume": 2960900.0, "wiki_views": 953}
+{"close": 31.68000030517578, "date": "2026-09-22", "entity": "birkenstock", "news_articles": 0.0009, "volume": 2236600.0, "wiki_views": 376}
 {"close": 276.5299987792969, "date": "2026-09-22", "entity": "bloom_energy", "news_articles": 0.0095, "volume": 10586100.0, "wiki_views": 305}
 {"close": 29.389999389648438, "date": "2026-09-22", "entity": "celsius", "news_articles": 0.0, "volume": 7318800.0, "wiki_views": 407}
-{"close": 59.029998779296875, "date": "2026-09-22", "entity": "crispr", "news_articles": 0.0019, "volume": 2080418.0, "wiki_views": 51}
-{"close": 124.58000183105469, "date": "2026-09-22", "entity": "crocs", "news_articles": 0.0, "volume": 1032931.0, "wiki_views": 514}
-{"close": 79.83000183105469, "date": "2026-09-22", "entity": "deckers", "news_articles": 0.0, "volume": 3501872.0, "wiki_views": 310}
-{"close": 38.7599983215332, "date": "2026-09-22", "entity": "dutch_bros", "news_articles": 0.0095, "volume": 5872627.0, "wiki_views": 20}
-{"close": 102.12000274658203, "date": "2026-09-22", "entity": "elf", "news_articles": 0.0, "volume": 1220986.0, "wiki_views": 191}
-{"close": 18.780000686645508, "date": "2026-09-22", "entity": "oddity", "volume": 1027512.0, "wiki_views": 48}
+{"close": 59.029998779296875, "date": "2026-09-22", "entity": "crispr", "news_articles": 0.0019, "volume": 2080800.0, "wiki_views": 51}
+{"close": 124.58000183105469, "date": "2026-09-22", "entity": "crocs", "news_articles": 0.0, "volume": 1041300.0, "wiki_views": 514}
+{"close": 79.83000183105469, "date": "2026-09-22", "entity": "deckers", "news_articles": 0.0, "volume": 3551200.0, "wiki_views": 310}
+{"close": 38.7599983215332, "date": "2026-09-22", "entity": "dutch_bros", "news_articles": 0.0095, "volume": 5910000.0, "wiki_views": 20}
+{"close": 102.12000274658203, "date": "2026-09-22", "entity": "elf", "news_articles": 0.0, "volume": 1231900.0, "wiki_views": 191}
+{"close": 18.780000686645508, "date": "2026-09-22", "entity": "oddity", "volume": 1027500.0, "wiki_views": 48}
 {"close": 29.389999389648438, "date": "2026-09-22", "entity": "onon", "news_articles": 0.3602, "volume": 43259800.0, "wiki_views": 3768}
 {"close": 154.1999969482422, "date": "2026-09-22", "entity": "popmart", "news_articles": 0.0019, "volume": 3413210.0, "wiki_views": 298}
 {"close": 124.25, "date": "2026-09-22", "entity": "robinhood", "news_articles": 0.0085, "volume": 16047600.0, "wiki_views": 602}
 {"close": 378.8999938964844, "date": "2026-09-22", "entity": "tesla", "trends_hit": 500, "volume": 28229900.0, "wiki_views": 2899}
-{"close": 614.6099853515625, "date": "2026-09-23", "entity": "amd", "volume": 16338200.0, "wiki_views": 158}
+{"close": 614.6099853515625, "date": "2026-09-23", "entity": "amd", "news_articles": 0.0721, "volume": 16338200.0, "wiki_views": 158}
 {"close": 195.0800018310547, "date": "2026-09-23", "entity": "atlassian", "volume": 2407900.0, "wiki_views": 923}
 {"close": 31.420000076293945, "date": "2026-09-23", "entity": "birkenstock", "news_articles": 0.0042, "volume": 1307700.0, "wiki_views": 437}
 {"close": 275.19000244140625, "date": "2026-09-23", "entity": "bloom_energy", "news_articles": 0.01, "volume": 8193500.0, "wiki_views": 284}
@@ -1837,24 +1837,29 @@
 {"close": 124.62000274658203, "date": "2026-09-23", "entity": "crocs", "news_articles": 0.0, "volume": 1381400.0, "wiki_views": 548}
 {"close": 78.58999633789062, "date": "2026-09-23", "entity": "deckers", "news_articles": 0.0028, "volume": 3217800.0, "wiki_views": 277}
 {"close": 38.43000030517578, "date": "2026-09-23", "entity": "dutch_bros", "news_articles": 0.0014, "volume": 4525500.0, "wiki_views": 13}
-{"close": 100.77999877929688, "date": "2026-09-23", "entity": "elf", "news_articles": 0.0008, "volume": 1045800.0, "wiki_views": 202}
+{"close": 100.77999877929688, "date": "2026-09-23", "entity": "elf", "news_articles": 0.0013, "volume": 1045800.0, "wiki_views": 202}
 {"close": 17.829999923706055, "date": "2026-09-23", "entity": "oddity", "volume": 882500.0, "wiki_views": 44}
 {"close": 30.15999984741211, "date": "2026-09-23", "entity": "onon", "news_articles": 0.3391, "volume": 17750000.0, "wiki_views": 2791}
 {"close": 153.5, "date": "2026-09-23", "entity": "popmart", "news_articles": 0.0, "volume": 3526032.0, "wiki_views": 290}
-{"close": 122.69999694824219, "date": "2026-09-23", "entity": "robinhood", "news_articles": 0.003, "volume": 19079900.0, "wiki_views": 582}
+{"close": 122.69999694824219, "date": "2026-09-23", "entity": "robinhood", "news_articles": 0.0033, "volume": 19079900.0, "wiki_views": 582}
 {"close": 380.1199951171875, "date": "2026-09-23", "entity": "tesla", "volume": 33522500.0, "wiki_views": 2776}
-{"close": 629.260009765625, "date": "2026-09-24", "entity": "amd", "volume": 25202032.0}
-{"close": 192.61000061035156, "date": "2026-09-24", "entity": "atlassian", "volume": 1688746.0}
-{"close": 31.790000915527344, "date": "2026-09-24", "entity": "birkenstock", "volume": 1463488.0}
-{"close": 266.6499938964844, "date": "2026-09-24", "entity": "bloom_energy", "news_articles": 0.0016, "volume": 18034647.0}
-{"close": 28.43000030517578, "date": "2026-09-24", "entity": "celsius", "volume": 5665271.0}
-{"close": 55.70000076293945, "date": "2026-09-24", "entity": "crispr", "volume": 1554714.0}
-{"close": 123.44000244140625, "date": "2026-09-24", "entity": "crocs", "news_articles": 0.0, "volume": 920461.0}
-{"close": 78.68000030517578, "date": "2026-09-24", "entity": "deckers", "volume": 2056251.0}
-{"close": 38.5099983215332, "date": "2026-09-24", "entity": "dutch_bros", "volume": 2774871.0}
-{"close": 100.56999969482422, "date": "2026-09-24", "entity": "elf", "volume": 1157371.0}
-{"close": 18.06999969482422, "date": "2026-09-24", "entity": "oddity", "volume": 661067.0}
-{"close": 30.459999084472656, "date": "2026-09-24", "entity": "onon", "news_articles": 0.6489, "volume": 10994312.0}
-{"close": 151.10000610351562, "date": "2026-09-24", "entity": "popmart", "volume": 4697678.0}
-{"close": 120.81999969482422, "date": "2026-09-24", "entity": "robinhood", "volume": 14733345.0}
-{"close": 377.94000244140625, "date": "2026-09-24", "entity": "tesla", "volume": 25925858.0}
+{"close": 629.260009765625, "date": "2026-09-24", "entity": "amd", "news_articles": 0.025, "volume": 25259300.0, "wiki_views": 135}
+{"close": 192.61000061035156, "date": "2026-09-24", "entity": "atlassian", "volume": 1690100.0, "wiki_views": 814}
+{"close": 31.790000915527344, "date": "2026-09-24", "entity": "birkenstock", "volume": 1463500.0, "wiki_views": 900}
+{"close": 266.6499938964844, "date": "2026-09-24", "entity": "bloom_energy", "news_articles": 0.0122, "volume": 18049900.0, "wiki_views": 401}
+{"close": 28.43000030517578, "date": "2026-09-24", "entity": "celsius", "volume": 5719700.0, "wiki_views": 372}
+{"close": 55.70000076293945, "date": "2026-09-24", "entity": "crispr", "volume": 1554900.0, "wiki_views": 59}
+{"close": 123.44000244140625, "date": "2026-09-24", "entity": "crocs", "news_articles": 0.0, "volume": 1005400.0, "wiki_views": 586}
+{"close": 78.68000030517578, "date": "2026-09-24", "entity": "deckers", "volume": 2121200.0, "wiki_views": 277}
+{"close": 38.5099983215332, "date": "2026-09-24", "entity": "dutch_bros", "volume": 2776400.0, "wiki_views": 8}
+{"close": 100.56999969482422, "date": "2026-09-24", "entity": "elf", "news_articles": 0.0, "volume": 1157800.0, "wiki_views": 199}
+{"close": 18.06999969482422, "date": "2026-09-24", "entity": "oddity", "volume": 661100.0, "wiki_views": 37}
+{"close": 30.459999084472656, "date": "2026-09-24", "entity": "onon", "news_articles": 0.6489, "volume": 10998100.0, "wiki_views": 2468}
+{"close": 151.10000610351562, "date": "2026-09-24", "entity": "popmart", "volume": 4697678.0, "wiki_views": 227}
+{"close": 120.81999969482422, "date": "2026-09-24", "entity": "robinhood", "news_articles": 0.0019, "volume": 14942300.0, "wiki_views": 491}
+{"close": 377.94000244140625, "date": "2026-09-24", "entity": "tesla", "volume": 26088000.0, "wiki_views": 2929}
+{"date": "2026-09-25", "entity": "amd", "news_articles": 0.0272}
+{"date": "2026-09-25", "entity": "bloom_energy", "news_articles": 0.0068}
+{"date": "2026-09-25", "entity": "elf", "news_articles": 0.0}
+{"close": 152.10000610351562, "date": "2026-09-25", "entity": "popmart", "volume": 2578838.0}
+{"date": "2026-09-25", "entity": "robinhood", "news_articles": 0.0051}
