@@ -1854,7 +1854,7 @@
 {"close": 38.5099983215332, "date": "2026-09-24", "entity": "dutch_bros", "volume": 2776400.0, "wiki_views": 8}
 {"close": 100.56999969482422, "date": "2026-09-24", "entity": "elf", "news_articles": 0.0, "volume": 1157800.0, "wiki_views": 199}
 {"close": 18.06999969482422, "date": "2026-09-24", "entity": "oddity", "volume": 661100.0, "wiki_views": 37}
-{"close": 30.459999084472656, "date": "2026-09-24", "entity": "onon", "news_articles": 0.6489, "volume": 10998100.0, "wiki_views": 2468}
+{"close": 30.459999084472656, "date": "2026-09-24", "entity": "onon", "news_articles": 0.3585, "volume": 10998100.0, "wiki_views": 2468}
 {"close": 151.10000610351562, "date": "2026-09-24", "entity": "popmart", "news_articles": 0.0038, "volume": 4697678.0, "wiki_views": 227}
 {"close": 120.81999969482422, "date": "2026-09-24", "entity": "robinhood", "news_articles": 0.0019, "volume": 14969900.0, "wiki_views": 491}
 {"close": 377.94000244140625, "date": "2026-09-24", "entity": "tesla", "volume": 26165700.0, "wiki_views": 2929}
@@ -1869,7 +1869,7 @@
 {"close": 37.88999938964844, "date": "2026-09-25", "entity": "dutch_bros", "volume": 3254000.0, "wiki_views": 10}
 {"close": 99.51000213623047, "date": "2026-09-25", "entity": "elf", "news_articles": 0.0, "volume": 1150500.0, "wiki_views": 203}
 {"close": 18.639999389648438, "date": "2026-09-25", "entity": "oddity", "volume": 712000.0, "wiki_views": 39}
-{"close": 29.959999084472656, "date": "2026-09-25", "entity": "onon", "volume": 12676400.0, "wiki_views": 2268}
+{"close": 29.959999084472656, "date": "2026-09-25", "entity": "onon", "news_articles": 0.4098, "volume": 12676400.0, "wiki_views": 2268}
 {"close": 152.10000610351562, "date": "2026-09-25", "entity": "popmart", "news_articles": 0.0102, "volume": 2577238.0, "wiki_views": 244}
 {"close": 119.4000015258789, "date": "2026-09-25", "entity": "robinhood", "news_articles": 0.0051, "volume": 13889500.0, "wiki_views": 619}
 {"close": 372.1099853515625, "date": "2026-09-25", "entity": "tesla", "volume": 45925500.0, "wiki_views": 2858}
