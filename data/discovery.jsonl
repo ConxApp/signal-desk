@@ -15814,7 +15814,7 @@
 {"close": 71.73999786376953, "date": "2026-06-30", "entity": "danone", "volume": 2232925.0, "wiki_views": 506}
 {"close": 206.00999450683594, "date": "2026-06-30", "entity": "darden", "volume": 1321600.0, "wiki_views": 384}
 {"close": 37.13999938964844, "date": "2026-06-30", "entity": "delonghi", "volume": 134005.0, "wiki_views": 147}
-{"date": "2026-06-30", "entity": "delta", "wiki_views": 2478}
+{"close": 93.66000366210938, "date": "2026-06-30", "entity": "delta", "volume": 7617400.0, "wiki_views": 2478}
 {"date": "2026-06-30", "entity": "dennys", "wiki_views": 547}
 {"date": "2026-06-30", "entity": "dexcom", "wiki_views": 183}
 {"close": 80.37999725341797, "date": "2026-06-30", "entity": "diageo", "volume": 911800.0, "wiki_views": 1097}
@@ -16239,7 +16239,7 @@
 {"close": 72.19999694824219, "date": "2026-07-01", "entity": "danone", "volume": 1646431.0, "wiki_views": 496}
 {"close": 201.9499969482422, "date": "2026-07-01", "entity": "darden", "volume": 1417800.0, "wiki_views": 324}
 {"close": 38.459999084472656, "date": "2026-07-01", "entity": "delonghi", "volume": 173217.0, "wiki_views": 128}
-{"date": "2026-07-01", "entity": "delta", "wiki_views": 2351}
+{"close": 93.05999755859375, "date": "2026-07-01", "entity": "delta", "volume": 6114700.0, "wiki_views": 2351}
 {"date": "2026-07-01", "entity": "dennys", "wiki_views": 436}
 {"date": "2026-07-01", "entity": "dexcom", "wiki_views": 176}
 {"close": 78.69999694824219, "date": "2026-07-01", "entity": "diageo", "volume": 1291600.0, "wiki_views": 1136}
@@ -16664,7 +16664,7 @@
 {"close": 73.95999908447266, "date": "2026-07-02", "entity": "danone", "volume": 1520802.0, "wiki_views": 441}
 {"close": 204.32000732421875, "date": "2026-07-02", "entity": "darden", "volume": 1506100.0, "wiki_views": 339}
 {"close": 39.7400016784668, "date": "2026-07-02", "entity": "delonghi", "volume": 220600.0, "wiki_views": 127}
-{"date": "2026-07-02", "entity": "delta", "wiki_views": 2061}
+{"close": 92.75, "date": "2026-07-02", "entity": "delta", "volume": 6074000.0, "wiki_views": 2061}
 {"date": "2026-07-02", "entity": "dennys", "wiki_views": 419}
 {"date": "2026-07-02", "entity": "dexcom", "wiki_views": 227}
 {"close": 82.16000366210938, "date": "2026-07-02", "entity": "diageo", "volume": 1000500.0, "wiki_views": 1324}
@@ -18363,7 +18363,7 @@
 {"close": 72.5, "date": "2026-07-06", "entity": "danone", "volume": 963175.0, "wiki_views": 386}
 {"close": 203.22000122070312, "date": "2026-07-06", "entity": "darden", "volume": 1356800.0, "wiki_views": 404}
 {"close": 38.36000061035156, "date": "2026-07-06", "entity": "delonghi", "volume": 91765.0, "wiki_views": 135}
-{"date": "2026-07-06", "entity": "delta", "wiki_views": 2564}
+{"close": 91.68000030517578, "date": "2026-07-06", "entity": "delta", "volume": 6342200.0, "wiki_views": 2564}
 {"date": "2026-07-06", "entity": "dennys", "wiki_views": 454}
 {"date": "2026-07-06", "entity": "dexcom", "wiki_views": 164}
 {"close": 81.66999816894531, "date": "2026-07-06", "entity": "diageo", "volume": 968500.0, "wiki_views": 1156}
@@ -18788,7 +18788,7 @@
 {"close": 74.0, "date": "2026-07-07", "entity": "danone", "volume": 1378320.0, "wiki_views": 478}
 {"close": 204.5, "date": "2026-07-07", "entity": "darden", "volume": 1239500.0, "wiki_views": 380}
 {"close": 38.15999984741211, "date": "2026-07-07", "entity": "delonghi", "volume": 120701.0, "wiki_views": 154}
-{"date": "2026-07-07", "entity": "delta", "wiki_views": 2513}
+{"close": 88.62999725341797, "date": "2026-07-07", "entity": "delta", "volume": 8338700.0, "wiki_views": 2513}
 {"date": "2026-07-07", "entity": "dennys", "wiki_views": 396}
 {"date": "2026-07-07", "entity": "dexcom", "wiki_views": 176}
 {"close": 82.83999633789062, "date": "2026-07-07", "entity": "diageo", "volume": 939500.0, "wiki_views": 1284}
@@ -19213,7 +19213,7 @@
 {"close": 73.18000030517578, "date": "2026-07-08", "entity": "danone", "volume": 1611334.0, "wiki_views": 436}
 {"close": 201.10000610351562, "date": "2026-07-08", "entity": "darden", "volume": 1781800.0, "wiki_views": 346}
 {"close": 37.08000183105469, "date": "2026-07-08", "entity": "delonghi", "volume": 143529.0, "wiki_views": 163}
-{"date": "2026-07-08", "entity": "delta", "wiki_views": 2380}
+{"close": 87.29000091552734, "date": "2026-07-08", "entity": "delta", "volume": 8721300.0, "wiki_views": 2380}
 {"date": "2026-07-08", "entity": "dennys", "wiki_views": 358}
 {"date": "2026-07-08", "entity": "dexcom", "wiki_views": 203}
 {"close": 80.8499984741211, "date": "2026-07-08", "entity": "diageo", "volume": 948600.0, "wiki_views": 1155}
@@ -19638,7 +19638,7 @@
 {"close": 72.41999816894531, "date": "2026-07-09", "entity": "danone", "volume": 1359810.0, "wiki_views": 426}
 {"close": 201.9199981689453, "date": "2026-07-09", "entity": "darden", "volume": 1631600.0, "wiki_views": 417}
 {"close": 37.540000915527344, "date": "2026-07-09", "entity": "delonghi", "volume": 163932.0, "wiki_views": 167}
-{"date": "2026-07-09", "entity": "delta", "wiki_views": 2521}
+{"close": 89.0, "date": "2026-07-09", "entity": "delta", "volume": 9522200.0, "wiki_views": 2521}
 {"date": "2026-07-09", "entity": "dennys", "wiki_views": 395}
 {"date": "2026-07-09", "entity": "dexcom", "wiki_views": 178}
 {"close": 80.61000061035156, "date": "2026-07-09", "entity": "diageo", "volume": 808100.0, "wiki_views": 1249}
@@ -20063,7 +20063,7 @@
 {"close": 72.41999816894531, "date": "2026-07-10", "entity": "danone", "volume": 946400.0, "wiki_views": 447}
 {"close": 204.25, "date": "2026-07-10", "entity": "darden", "volume": 1554100.0, "wiki_views": 390}
 {"close": 37.220001220703125, "date": "2026-07-10", "entity": "delonghi", "volume": 168848.0, "wiki_views": 154}
-{"date": "2026-07-10", "entity": "delta", "wiki_views": 2548}
+{"close": 87.38999938964844, "date": "2026-07-10", "entity": "delta", "volume": 10939200.0, "wiki_views": 2548}
 {"date": "2026-07-10", "entity": "dennys", "wiki_views": 536}
 {"date": "2026-07-10", "entity": "dexcom", "wiki_views": 187}
 {"close": 82.02999877929688, "date": "2026-07-10", "entity": "diageo", "volume": 562300.0, "wiki_views": 1260}
@@ -21337,7 +21337,7 @@
 {"close": 72.19999694824219, "date": "2026-07-13", "entity": "danone", "volume": 895214.0, "wiki_views": 499}
 {"close": 196.69000244140625, "date": "2026-07-13", "entity": "darden", "volume": 1781000.0, "wiki_views": 398}
 {"close": 37.720001220703125, "date": "2026-07-13", "entity": "delonghi", "volume": 82291.0, "wiki_views": 130}
-{"date": "2026-07-13", "entity": "delta", "wiki_views": 2483}
+{"close": 86.19000244140625, "date": "2026-07-13", "entity": "delta", "volume": 8573900.0, "wiki_views": 2483}
 {"date": "2026-07-13", "entity": "dennys", "wiki_views": 391}
 {"date": "2026-07-13", "entity": "dexcom", "wiki_views": 202}
 {"close": 82.5, "date": "2026-07-13", "entity": "diageo", "volume": 966900.0, "wiki_views": 1116}
@@ -21762,7 +21762,7 @@
 {"close": 71.72000122070312, "date": "2026-07-14", "entity": "danone", "volume": 924362.0, "wiki_views": 514}
 {"close": 195.74000549316406, "date": "2026-07-14", "entity": "darden", "volume": 1313200.0, "wiki_views": 421}
 {"close": 37.279998779296875, "date": "2026-07-14", "entity": "delonghi", "volume": 165702.0, "wiki_views": 133}
-{"date": "2026-07-14", "entity": "delta", "wiki_views": 2621}
+{"close": 85.51000213623047, "date": "2026-07-14", "entity": "delta", "volume": 6732300.0, "wiki_views": 2621}
 {"date": "2026-07-14", "entity": "dennys", "wiki_views": 358}
 {"date": "2026-07-14", "entity": "dexcom", "wiki_views": 204}
 {"close": 80.94000244140625, "date": "2026-07-14", "entity": "diageo", "volume": 1049300.0, "wiki_views": 1046}
@@ -22187,7 +22187,7 @@
 {"close": 71.86000061035156, "date": "2026-07-15", "entity": "danone", "volume": 1005717.0, "wiki_views": 476}
 {"close": 196.05999755859375, "date": "2026-07-15", "entity": "darden", "volume": 1304200.0, "wiki_views": 431}
 {"close": 37.779998779296875, "date": "2026-07-15", "entity": "delonghi", "volume": 143515.0, "wiki_views": 128}
-{"date": "2026-07-15", "entity": "delta", "wiki_views": 2407}
+{"close": 85.95999908447266, "date": "2026-07-15", "entity": "delta", "volume": 6791100.0, "wiki_views": 2407}
 {"date": "2026-07-15", "entity": "dennys", "wiki_views": 373}
 {"date": "2026-07-15", "entity": "dexcom", "wiki_views": 171}
 {"close": 82.20999908447266, "date": "2026-07-15", "entity": "diageo", "volume": 831300.0, "wiki_views": 1182}
@@ -22612,7 +22612,7 @@
 {"close": 72.76000213623047, "date": "2026-07-16", "entity": "danone", "volume": 886235.0, "wiki_views": 456}
 {"close": 201.2100067138672, "date": "2026-07-16", "entity": "darden", "volume": 1393700.0, "wiki_views": 523}
 {"close": 40.959999084472656, "date": "2026-07-16", "entity": "delonghi", "volume": 395720.0, "wiki_views": 109}
-{"date": "2026-07-16", "entity": "delta", "wiki_views": 2572}
+{"close": 86.69999694824219, "date": "2026-07-16", "entity": "delta", "volume": 5884000.0, "wiki_views": 2572}
 {"date": "2026-07-16", "entity": "dennys", "wiki_views": 402}
 {"date": "2026-07-16", "entity": "dexcom", "wiki_views": 173}
 {"close": 85.4800033569336, "date": "2026-07-16", "entity": "diageo", "volume": 1261700.0, "wiki_views": 1125}
@@ -23037,7 +23037,7 @@
 {"close": 72.9800033569336, "date": "2026-07-17", "entity": "danone", "volume": 1136216.0, "wiki_views": 437}
 {"close": 198.52999877929688, "date": "2026-07-17", "entity": "darden", "volume": 1049400.0, "wiki_views": 540}
 {"close": 40.040000915527344, "date": "2026-07-17", "entity": "delonghi", "volume": 182036.0, "wiki_views": 110}
-{"date": "2026-07-17", "entity": "delta", "wiki_views": 2554}
+{"close": 84.16999816894531, "date": "2026-07-17", "entity": "delta", "volume": 6462900.0, "wiki_views": 2554}
 {"date": "2026-07-17", "entity": "dennys", "wiki_views": 377}
 {"date": "2026-07-17", "entity": "dexcom", "wiki_views": 199}
 {"close": 84.0, "date": "2026-07-17", "entity": "diageo", "volume": 775500.0, "wiki_views": 1253}
@@ -24310,7 +24310,7 @@
 {"close": 73.13999938964844, "date": "2026-07-20", "entity": "danone", "volume": 876122.0, "wiki_views": 490}
 {"close": 194.82000732421875, "date": "2026-07-20", "entity": "darden", "volume": 1718300.0, "wiki_views": 339}
 {"close": 39.13999938964844, "date": "2026-07-20", "entity": "delonghi", "volume": 119359.0, "wiki_views": 95}
-{"date": "2026-07-20", "entity": "delta", "wiki_views": 2696}
+{"close": 84.54000091552734, "date": "2026-07-20", "entity": "delta", "volume": 6578700.0, "wiki_views": 2696}
 {"date": "2026-07-20", "entity": "dennys", "wiki_views": 422}
 {"date": "2026-07-20", "entity": "dexcom", "wiki_views": 214}
 {"close": 84.83999633789062, "date": "2026-07-20", "entity": "diageo", "volume": 939500.0, "wiki_views": 1077}
@@ -24735,7 +24735,7 @@
 {"close": 71.45999908447266, "date": "2026-07-21", "entity": "danone", "volume": 1530523.0, "wiki_views": 497}
 {"close": 193.38999938964844, "date": "2026-07-21", "entity": "darden", "volume": 1282800.0, "wiki_views": 376}
 {"close": 39.5, "date": "2026-07-21", "entity": "delonghi", "volume": 196253.0, "wiki_views": 96}
-{"date": "2026-07-21", "entity": "delta", "wiki_views": 2509}
+{"close": 84.62999725341797, "date": "2026-07-21", "entity": "delta", "volume": 4030500.0, "wiki_views": 2509}
 {"date": "2026-07-21", "entity": "dennys", "wiki_views": 412}
 {"date": "2026-07-21", "entity": "dexcom", "wiki_views": 135}
 {"close": 83.55000305175781, "date": "2026-07-21", "entity": "diageo", "volume": 632900.0, "wiki_views": 1117}
@@ -25160,7 +25160,7 @@
 {"close": 69.87999725341797, "date": "2026-07-22", "entity": "danone", "volume": 1953533.0, "wiki_views": 512}
 {"close": 193.94000244140625, "date": "2026-07-22", "entity": "darden", "volume": 1477300.0, "wiki_views": 424}
 {"close": 38.619998931884766, "date": "2026-07-22", "entity": "delonghi", "volume": 181869.0, "wiki_views": 116}
-{"date": "2026-07-22", "entity": "delta", "wiki_views": 2683}
+{"close": 83.5199966430664, "date": "2026-07-22", "entity": "delta", "volume": 5144800.0, "wiki_views": 2683}
 {"date": "2026-07-22", "entity": "dennys", "wiki_views": 407}
 {"date": "2026-07-22", "entity": "dexcom", "wiki_views": 173}
 {"close": 84.33000183105469, "date": "2026-07-22", "entity": "diageo", "volume": 866900.0, "wiki_views": 1150}
@@ -25585,7 +25585,7 @@
 {"close": 68.44000244140625, "date": "2026-07-23", "entity": "danone", "volume": 2084383.0, "wiki_views": 472}
 {"close": 194.1199951171875, "date": "2026-07-23", "entity": "darden", "volume": 1171800.0, "wiki_views": 414}
 {"close": 38.2599983215332, "date": "2026-07-23", "entity": "delonghi", "volume": 142779.0, "wiki_views": 95}
-{"date": "2026-07-23", "entity": "delta", "wiki_views": 2745}
+{"close": 81.97000122070312, "date": "2026-07-23", "entity": "delta", "volume": 8061800.0, "wiki_views": 2745}
 {"date": "2026-07-23", "entity": "dennys", "wiki_views": 356}
 {"date": "2026-07-23", "entity": "dexcom", "wiki_views": 161}
 {"close": 82.26000213623047, "date": "2026-07-23", "entity": "diageo", "volume": 945500.0, "wiki_views": 1061}
@@ -26010,7 +26010,7 @@
 {"close": 70.0, "date": "2026-07-24", "entity": "danone", "volume": 1236855.0, "wiki_views": 443}
 {"close": 196.30999755859375, "date": "2026-07-24", "entity": "darden", "volume": 970800.0, "wiki_views": 361}
 {"close": 38.599998474121094, "date": "2026-07-24", "entity": "delonghi", "volume": 146710.0, "wiki_views": 116}
-{"date": "2026-07-24", "entity": "delta", "wiki_views": 2340}
+{"close": 85.05999755859375, "date": "2026-07-24", "entity": "delta", "volume": 5461200.0, "wiki_views": 2340}
 {"date": "2026-07-24", "entity": "dennys", "wiki_views": 377}
 {"date": "2026-07-24", "entity": "dexcom", "wiki_views": 123}
 {"close": 83.08000183105469, "date": "2026-07-24", "entity": "diageo", "volume": 845400.0, "wiki_views": 1107}
@@ -27283,7 +27283,7 @@
 {"close": 70.76000213623047, "date": "2026-07-27", "entity": "danone", "volume": 1174853.0, "wiki_views": 469}
 {"close": 204.10000610351562, "date": "2026-07-27", "entity": "darden", "volume": 1554900.0, "wiki_views": 346}
 {"close": 38.81999969482422, "date": "2026-07-27", "entity": "delonghi", "volume": 93449.0, "wiki_views": 111}
-{"date": "2026-07-27", "entity": "delta", "wiki_views": 2924}
+{"close": 86.66999816894531, "date": "2026-07-27", "entity": "delta", "volume": 7591100.0, "wiki_views": 2924}
 {"date": "2026-07-27", "entity": "dennys", "wiki_views": 441}
 {"date": "2026-07-27", "entity": "dexcom", "wiki_views": 147}
 {"close": 85.16000366210938, "date": "2026-07-27", "entity": "diageo", "volume": 1134600.0, "wiki_views": 1210}
@@ -27708,7 +27708,7 @@
 {"close": 72.23999786376953, "date": "2026-07-28", "entity": "danone", "volume": 1373689.0, "wiki_views": 476}
 {"close": 206.97999572753906, "date": "2026-07-28", "entity": "darden", "volume": 1658400.0, "wiki_views": 404}
 {"close": 39.099998474121094, "date": "2026-07-28", "entity": "delonghi", "volume": 139440.0, "wiki_views": 109}
-{"date": "2026-07-28", "entity": "delta", "wiki_views": 2702}
+{"close": 89.37000274658203, "date": "2026-07-28", "entity": "delta", "volume": 7214700.0, "wiki_views": 2702}
 {"date": "2026-07-28", "entity": "dennys", "wiki_views": 389}
 {"date": "2026-07-28", "entity": "dexcom", "wiki_views": 170}
 {"close": 88.9000015258789, "date": "2026-07-28", "entity": "diageo", "volume": 1331700.0, "wiki_views": 1186}
@@ -28133,7 +28133,7 @@
 {"close": 70.58000183105469, "date": "2026-07-29", "entity": "danone", "volume": 2623564.0, "wiki_views": 466}
 {"close": 212.22999572753906, "date": "2026-07-29", "entity": "darden", "volume": 1356300.0, "wiki_views": 334}
 {"close": 39.400001525878906, "date": "2026-07-29", "entity": "delonghi", "volume": 148211.0, "wiki_views": 169}
-{"date": "2026-07-29", "entity": "delta", "wiki_views": 2636}
+{"close": 86.25, "date": "2026-07-29", "entity": "delta", "volume": 5459800.0, "wiki_views": 2636}
 {"date": "2026-07-29", "entity": "dennys", "wiki_views": 363}
 {"date": "2026-07-29", "entity": "dexcom", "wiki_views": 174}
 {"close": 89.16000366210938, "date": "2026-07-29", "entity": "diageo", "volume": 1537300.0, "wiki_views": 1170}
@@ -28558,7 +28558,7 @@
 {"close": 68.33999633789062, "date": "2026-07-30", "entity": "danone", "volume": 1627553.0, "wiki_views": 561}
 {"close": 206.97000122070312, "date": "2026-07-30", "entity": "darden", "volume": 1636500.0, "wiki_views": 314}
 {"close": 40.220001220703125, "date": "2026-07-30", "entity": "delonghi", "volume": 298963.0, "wiki_views": 100}
-{"date": "2026-07-30", "entity": "delta", "wiki_views": 2533}
+{"close": 88.58999633789062, "date": "2026-07-30", "entity": "delta", "volume": 5717300.0, "wiki_views": 2533}
 {"date": "2026-07-30", "entity": "dennys", "wiki_views": 379}
 {"date": "2026-07-30", "entity": "dexcom", "wiki_views": 171}
 {"close": 89.05999755859375, "date": "2026-07-30", "entity": "diageo", "volume": 1132600.0, "wiki_views": 1163}
@@ -28983,7 +28983,7 @@
 {"close": 67.5199966430664, "date": "2026-07-31", "entity": "danone", "volume": 1637850.0, "wiki_views": 472}
 {"close": 203.5800018310547, "date": "2026-07-31", "entity": "darden", "volume": 1451400.0, "wiki_views": 344}
 {"close": 40.47999954223633, "date": "2026-07-31", "entity": "delonghi", "volume": 274492.0, "wiki_views": 86}
-{"date": "2026-07-31", "entity": "delta", "wiki_views": 2558}
+{"close": 87.44000244140625, "date": "2026-07-31", "entity": "delta", "volume": 4772500.0, "wiki_views": 2558}
 {"date": "2026-07-31", "entity": "dennys", "wiki_views": 409}
 {"date": "2026-07-31", "entity": "dexcom", "wiki_views": 174}
 {"close": 88.05999755859375, "date": "2026-07-31", "entity": "diageo", "volume": 864500.0, "wiki_views": 1132}
@@ -30258,7 +30258,7 @@
 {"close": 67.80000305175781, "date": "2026-08-03", "entity": "danone", "volume": 1326713.0, "wiki_views": 501}
 {"close": 206.24000549316406, "date": "2026-08-03", "entity": "darden", "volume": 1211500.0, "wiki_views": 358}
 {"close": 40.70000076293945, "date": "2026-08-03", "entity": "delonghi", "volume": 189525.0, "wiki_views": 90}
-{"date": "2026-08-03", "entity": "delta", "wiki_views": 2695}
+{"close": 91.58999633789062, "date": "2026-08-03", "entity": "delta", "volume": 5485700.0, "wiki_views": 2695}
 {"date": "2026-08-03", "entity": "dennys", "wiki_views": 426}
 {"date": "2026-08-03", "entity": "dexcom", "wiki_views": 193}
 {"close": 88.51000213623047, "date": "2026-08-03", "entity": "diageo", "volume": 853900.0, "wiki_views": 1217}
@@ -30683,7 +30683,7 @@
 {"close": 68.0199966430664, "date": "2026-08-04", "entity": "danone", "volume": 1557391.0, "wiki_views": 498}
 {"close": 204.57000732421875, "date": "2026-08-04", "entity": "darden", "volume": 1119200.0, "wiki_views": 322}
 {"close": 41.0, "date": "2026-08-04", "entity": "delonghi", "volume": 208675.0, "wiki_views": 107}
-{"date": "2026-08-04", "entity": "delta", "wiki_views": 2649}
+{"close": 92.7699966430664, "date": "2026-08-04", "entity": "delta", "volume": 5184400.0, "wiki_views": 2649}
 {"date": "2026-08-04", "entity": "dennys", "wiki_views": 392}
 {"date": "2026-08-04", "entity": "dexcom", "wiki_views": 166}
 {"close": 87.83000183105469, "date": "2026-08-04", "entity": "diageo", "volume": 1450000.0, "wiki_views": 1242}
@@ -31108,7 +31108,7 @@
 {"close": 68.0, "date": "2026-08-05", "entity": "danone", "volume": 1258333.0, "wiki_views": 451}
 {"close": 208.85000610351562, "date": "2026-08-05", "entity": "darden", "volume": 890000.0, "wiki_views": 376}
 {"close": 41.599998474121094, "date": "2026-08-05", "entity": "delonghi", "volume": 152354.0, "wiki_views": 108}
-{"date": "2026-08-05", "entity": "delta", "wiki_views": 2726}
+{"close": 93.13999938964844, "date": "2026-08-05", "entity": "delta", "volume": 5028300.0, "wiki_views": 2726}
 {"date": "2026-08-05", "entity": "dennys", "wiki_views": 364}
 {"date": "2026-08-05", "entity": "dexcom", "wiki_views": 164}
 {"close": 88.43000030517578, "date": "2026-08-05", "entity": "diageo", "volume": 1890400.0, "wiki_views": 1326}
@@ -31533,7 +31533,7 @@
 {"close": 68.16000366210938, "date": "2026-08-06", "entity": "danone", "volume": 1004855.0, "wiki_views": 480}
 {"close": 210.94000244140625, "date": "2026-08-06", "entity": "darden", "volume": 1080400.0, "wiki_views": 329}
 {"close": 41.29999923706055, "date": "2026-08-06", "entity": "delonghi", "volume": 223644.0, "wiki_views": 107}
-{"date": "2026-08-06", "entity": "delta", "wiki_views": 2842}
+{"close": 91.9800033569336, "date": "2026-08-06", "entity": "delta", "volume": 5234300.0, "wiki_views": 2842}
 {"date": "2026-08-06", "entity": "dennys", "wiki_views": 390}
 {"date": "2026-08-06", "entity": "dexcom", "wiki_views": 159}
 {"close": 92.80000305175781, "date": "2026-08-06", "entity": "diageo", "volume": 3518300.0, "wiki_views": 1637}
@@ -31958,7 +31958,7 @@
 {"close": 68.22000122070312, "date": "2026-08-07", "entity": "danone", "volume": 1022001.0, "wiki_views": 422}
 {"close": 213.75999450683594, "date": "2026-08-07", "entity": "darden", "volume": 975300.0, "wiki_views": 312}
 {"close": 41.099998474121094, "date": "2026-08-07", "entity": "delonghi", "volume": 151710.0, "wiki_views": 92}
-{"date": "2026-08-07", "entity": "delta", "wiki_views": 2592}
+{"close": 91.33999633789062, "date": "2026-08-07", "entity": "delta", "volume": 3386100.0, "wiki_views": 2592}
 {"date": "2026-08-07", "entity": "dennys", "wiki_views": 369}
 {"date": "2026-08-07", "entity": "dexcom", "wiki_views": 142}
 {"close": 96.3499984741211, "date": "2026-08-07", "entity": "diageo", "volume": 3135300.0, "wiki_views": 1666}
@@ -33233,7 +33233,7 @@
 {"close": 68.0, "date": "2026-08-10", "entity": "danone", "volume": 886581.0, "wiki_views": 479}
 {"close": 217.97000122070312, "date": "2026-08-10", "entity": "darden", "volume": 890500.0, "wiki_views": 403}
 {"close": 41.2400016784668, "date": "2026-08-10", "entity": "delonghi", "volume": 104553.0, "wiki_views": 102}
-{"date": "2026-08-10", "entity": "delta", "wiki_views": 2668}
+{"close": 89.20999908447266, "date": "2026-08-10", "entity": "delta", "volume": 3760100.0, "wiki_views": 2668}
 {"date": "2026-08-10", "entity": "dennys", "wiki_views": 437}
 {"date": "2026-08-10", "entity": "dexcom", "wiki_views": 153}
 {"close": 97.11000061035156, "date": "2026-08-10", "entity": "diageo", "volume": 1786300.0, "wiki_views": 1307}
@@ -33658,7 +33658,7 @@
 {"close": 67.30000305175781, "date": "2026-08-11", "entity": "danone", "volume": 953284.0, "wiki_views": 482}
 {"close": 218.89999389648438, "date": "2026-08-11", "entity": "darden", "volume": 1037100.0, "wiki_views": 384}
 {"close": 41.7400016784668, "date": "2026-08-11", "entity": "delonghi", "volume": 126513.0, "wiki_views": 103}
-{"date": "2026-08-11", "entity": "delta", "wiki_views": 2664}
+{"close": 90.41000366210938, "date": "2026-08-11", "entity": "delta", "volume": 2893400.0, "wiki_views": 2664}
 {"date": "2026-08-11", "entity": "dennys", "wiki_views": 428}
 {"date": "2026-08-11", "entity": "dexcom", "wiki_views": 169}
 {"close": 94.94000244140625, "date": "2026-08-11", "entity": "diageo", "volume": 1600800.0, "wiki_views": 1160}
@@ -34083,7 +34083,7 @@
 {"close": 67.0199966430664, "date": "2026-08-12", "entity": "danone", "volume": 1065438.0, "wiki_views": 391}
 {"close": 227.67999267578125, "date": "2026-08-12", "entity": "darden", "volume": 1436500.0, "wiki_views": 359}
 {"close": 40.400001525878906, "date": "2026-08-12", "entity": "delonghi", "volume": 138075.0, "wiki_views": 101}
-{"date": "2026-08-12", "entity": "delta", "wiki_views": 2342}
+{"close": 89.93000030517578, "date": "2026-08-12", "entity": "delta", "volume": 3192700.0, "wiki_views": 2342}
 {"date": "2026-08-12", "entity": "dennys", "wiki_views": 411}
 {"date": "2026-08-12", "entity": "dexcom", "wiki_views": 160}
 {"close": 93.95999908447266, "date": "2026-08-12", "entity": "diageo", "volume": 1038500.0, "wiki_views": 1205}
@@ -34508,7 +34508,7 @@
 {"close": 67.9800033569336, "date": "2026-08-13", "entity": "danone", "volume": 1037343.0, "wiki_views": 504}
 {"close": 223.5, "date": "2026-08-13", "entity": "darden", "volume": 1095600.0, "wiki_views": 403}
 {"close": 40.29999923706055, "date": "2026-08-13", "entity": "delonghi", "volume": 108836.0, "wiki_views": 114}
-{"date": "2026-08-13", "entity": "delta", "wiki_views": 3489}
+{"close": 91.30999755859375, "date": "2026-08-13", "entity": "delta", "volume": 3553300.0, "wiki_views": 3489}
 {"date": "2026-08-13", "entity": "dennys", "wiki_views": 425}
 {"date": "2026-08-13", "entity": "dexcom", "wiki_views": 154}
 {"close": 95.01000213623047, "date": "2026-08-13", "entity": "diageo", "volume": 1161600.0, "wiki_views": 1245}
@@ -34933,7 +34933,7 @@
 {"close": 67.23999786376953, "date": "2026-08-14", "entity": "danone", "volume": 806390.0, "wiki_views": 407}
 {"close": 225.25999450683594, "date": "2026-08-14", "entity": "darden", "volume": 678000.0, "wiki_views": 394}
 {"close": 40.20000076293945, "date": "2026-08-14", "entity": "delonghi", "volume": 87570.0, "wiki_views": 90}
-{"date": "2026-08-14", "entity": "delta", "wiki_views": 11161}
+{"close": 89.3499984741211, "date": "2026-08-14", "entity": "delta", "volume": 4459900.0, "wiki_views": 11161}
 {"date": "2026-08-14", "entity": "dennys", "wiki_views": 560}
 {"date": "2026-08-14", "entity": "dexcom", "wiki_views": 153}
 {"close": 95.44000244140625, "date": "2026-08-14", "entity": "diageo", "volume": 623600.0, "wiki_views": 1174}
@@ -36207,7 +36207,7 @@
 {"close": 65.23999786376953, "date": "2026-08-17", "entity": "danone", "volume": 1171816.0, "wiki_views": 464}
 {"close": 225.5, "date": "2026-08-17", "entity": "darden", "volume": 1242600.0, "wiki_views": 372}
 {"close": 39.959999084472656, "date": "2026-08-17", "entity": "delonghi", "volume": 106917.0, "wiki_views": 91}
-{"date": "2026-08-17", "entity": "delta", "wiki_views": 2688}
+{"close": 87.58999633789062, "date": "2026-08-17", "entity": "delta", "volume": 3939400.0, "wiki_views": 2688}
 {"date": "2026-08-17", "entity": "dennys", "wiki_views": 368}
 {"date": "2026-08-17", "entity": "dexcom", "wiki_views": 146}
 {"close": 91.81999969482422, "date": "2026-08-17", "entity": "diageo", "volume": 1172300.0, "wiki_views": 1298}
@@ -36632,7 +36632,7 @@
 {"close": 65.4800033569336, "date": "2026-08-18", "entity": "danone", "volume": 1144191.0, "wiki_views": 447}
 {"close": 218.86000061035156, "date": "2026-08-18", "entity": "darden", "volume": 1001500.0, "wiki_views": 305}
 {"close": 39.63999938964844, "date": "2026-08-18", "entity": "delonghi", "volume": 104916.0, "wiki_views": 124}
-{"date": "2026-08-18", "entity": "delta", "wiki_views": 2619}
+{"close": 85.69999694824219, "date": "2026-08-18", "entity": "delta", "volume": 4605500.0, "wiki_views": 2619}
 {"date": "2026-08-18", "entity": "dennys", "wiki_views": 356}
 {"date": "2026-08-18", "entity": "dexcom", "wiki_views": 178}
 {"close": 90.9800033569336, "date": "2026-08-18", "entity": "diageo", "volume": 618900.0, "wiki_views": 1315}
@@ -37057,7 +37057,7 @@
 {"close": 65.68000030517578, "date": "2026-08-19", "entity": "danone", "volume": 902570.0, "wiki_views": 443}
 {"close": 221.88999938964844, "date": "2026-08-19", "entity": "darden", "volume": 1087300.0, "wiki_views": 284}
 {"close": 39.86000061035156, "date": "2026-08-19", "entity": "delonghi", "volume": 67772.0, "wiki_views": 115}
-{"date": "2026-08-19", "entity": "delta", "wiki_views": 2662}
+{"close": 83.29000091552734, "date": "2026-08-19", "entity": "delta", "volume": 5489100.0, "wiki_views": 2662}
 {"date": "2026-08-19", "entity": "dennys", "wiki_views": 382}
 {"date": "2026-08-19", "entity": "dexcom", "wiki_views": 166}
 {"close": 92.9000015258789, "date": "2026-08-19", "entity": "diageo", "volume": 917100.0, "wiki_views": 1351}
@@ -37482,7 +37482,7 @@
 {"close": 66.18000030517578, "date": "2026-08-20", "entity": "danone", "volume": 782634.0, "wiki_views": 507}
 {"close": 217.9499969482422, "date": "2026-08-20", "entity": "darden", "volume": 925100.0, "wiki_views": 299}
 {"close": 39.84000015258789, "date": "2026-08-20", "entity": "delonghi", "volume": 75547.0, "wiki_views": 116}
-{"date": "2026-08-20", "entity": "delta", "wiki_views": 2503}
+{"close": 81.05999755859375, "date": "2026-08-20", "entity": "delta", "volume": 6169400.0, "wiki_views": 2503}
 {"date": "2026-08-20", "entity": "dennys", "wiki_views": 369}
 {"date": "2026-08-20", "entity": "dexcom", "wiki_views": 171}
 {"close": 93.8499984741211, "date": "2026-08-20", "entity": "diageo", "volume": 856400.0, "wiki_views": 1233}
@@ -37907,7 +37907,7 @@
 {"close": 66.31999969482422, "date": "2026-08-21", "entity": "danone", "volume": 907661.0, "wiki_views": 432}
 {"close": 221.60000610351562, "date": "2026-08-21", "entity": "darden", "volume": 759900.0, "wiki_views": 322}
 {"close": 40.5, "date": "2026-08-21", "entity": "delonghi", "volume": 68667.0, "wiki_views": 129}
-{"date": "2026-08-21", "entity": "delta", "wiki_views": 2634}
+{"close": 82.41000366210938, "date": "2026-08-21", "entity": "delta", "volume": 5075800.0, "wiki_views": 2634}
 {"date": "2026-08-21", "entity": "dennys", "wiki_views": 399}
 {"date": "2026-08-21", "entity": "dexcom", "wiki_views": 129}
 {"close": 94.62000274658203, "date": "2026-08-21", "entity": "diageo", "volume": 1049700.0, "wiki_views": 1301}
@@ -39185,7 +39185,7 @@
 {"close": 66.13999938964844, "date": "2026-08-24", "entity": "danone", "volume": 811168.0, "wiki_views": 501}
 {"close": 225.55999755859375, "date": "2026-08-24", "entity": "darden", "volume": 888600.0, "wiki_views": 337}
 {"close": 40.779998779296875, "date": "2026-08-24", "entity": "delonghi", "volume": 69295.0, "wiki_views": 120}
-{"app_rank": 0, "date": "2026-08-24", "entity": "delta", "wiki_views": 2804}
+{"app_rank": 0, "close": 82.4800033569336, "date": "2026-08-24", "entity": "delta", "volume": 4080000.0, "wiki_views": 2804}
 {"date": "2026-08-24", "entity": "dennys", "wiki_views": 399}
 {"app_rank": 0, "date": "2026-08-24", "entity": "dexcom", "wiki_views": 155}
 {"close": 96.06999969482422, "date": "2026-08-24", "entity": "diageo", "volume": 711900.0, "wiki_views": 1193}
@@ -39612,7 +39612,7 @@
 {"close": 65.44000244140625, "date": "2026-08-25", "entity": "danone", "volume": 926555.0, "wiki_views": 410}
 {"close": 220.41000366210938, "date": "2026-08-25", "entity": "darden", "volume": 700200.0, "wiki_views": 386}
 {"close": 40.86000061035156, "date": "2026-08-25", "entity": "delonghi", "volume": 106362.0, "wiki_views": 117}
-{"app_rank": 0, "date": "2026-08-25", "entity": "delta", "wiki_views": 2891}
+{"app_rank": 0, "close": 83.62000274658203, "date": "2026-08-25", "entity": "delta", "volume": 5705000.0, "wiki_views": 2891}
 {"date": "2026-08-25", "entity": "dennys", "wiki_views": 426}
 {"app_rank": 0, "date": "2026-08-25", "entity": "dexcom", "wiki_views": 158}
 {"close": 94.75, "date": "2026-08-25", "entity": "diageo", "volume": 1008000.0, "wiki_views": 1121}
@@ -40039,7 +40039,7 @@
 {"close": 65.72000122070312, "date": "2026-08-26", "entity": "danone", "volume": 918367.0, "wiki_views": 516}
 {"close": 218.80999755859375, "date": "2026-08-26", "entity": "darden", "volume": 653100.0, "wiki_views": 429}
 {"close": 41.7400016784668, "date": "2026-08-26", "entity": "delonghi", "volume": 117645.0, "wiki_views": 106}
-{"app_rank": 0, "date": "2026-08-26", "entity": "delta", "wiki_views": 2604}
+{"app_rank": 0, "close": 83.08000183105469, "date": "2026-08-26", "entity": "delta", "volume": 5730700.0, "wiki_views": 2604}
 {"date": "2026-08-26", "entity": "dennys", "wiki_views": 422}
 {"app_rank": 0, "date": "2026-08-26", "entity": "dexcom", "wiki_views": 150}
 {"close": 93.66999816894531, "date": "2026-08-26", "entity": "diageo", "volume": 1618400.0, "wiki_views": 1193}
@@ -40466,7 +40466,7 @@
 {"close": 64.69999694824219, "date": "2026-08-27", "entity": "danone", "volume": 777474.0, "wiki_views": 460}
 {"close": 211.1300048828125, "date": "2026-08-27", "entity": "darden", "volume": 881500.0, "wiki_views": 363}
 {"close": 40.939998626708984, "date": "2026-08-27", "entity": "delonghi", "volume": 147648.0, "wiki_views": 104}
-{"app_rank": 0, "date": "2026-08-27", "entity": "delta", "wiki_views": 2617}
+{"app_rank": 0, "close": 81.13999938964844, "date": "2026-08-27", "entity": "delta", "volume": 4711900.0, "wiki_views": 2617}
 {"date": "2026-08-27", "entity": "dennys", "wiki_views": 418}
 {"app_rank": 0, "date": "2026-08-27", "entity": "dexcom", "wiki_views": 128}
 {"close": 92.08999633789062, "date": "2026-08-27", "entity": "diageo", "volume": 607700.0, "wiki_views": 1122}
@@ -40893,7 +40893,7 @@
 {"close": 64.4000015258789, "date": "2026-08-28", "entity": "danone", "volume": 1196999.0, "wiki_views": 455}
 {"close": 215.6300048828125, "date": "2026-08-28", "entity": "darden", "volume": 779500.0, "wiki_views": 478}
 {"close": 41.540000915527344, "date": "2026-08-28", "entity": "delonghi", "volume": 65371.0, "wiki_views": 98}
-{"app_rank": 0, "date": "2026-08-28", "entity": "delta", "wiki_views": 2266}
+{"app_rank": 0, "close": 80.06999969482422, "date": "2026-08-28", "entity": "delta", "volume": 3801200.0, "wiki_views": 2266}
 {"date": "2026-08-28", "entity": "dennys", "wiki_views": 394}
 {"app_rank": 0, "date": "2026-08-28", "entity": "dexcom", "wiki_views": 130}
 {"close": 92.98999786376953, "date": "2026-08-28", "entity": "diageo", "volume": 486800.0, "wiki_views": 1177}
@@ -42173,7 +42173,7 @@
 {"close": 64.27999877929688, "date": "2026-08-31", "entity": "danone", "volume": 1515060.0, "wiki_views": 426}
 {"close": 214.25999450683594, "date": "2026-08-31", "entity": "darden", "volume": 1194500.0, "wiki_views": 343}
 {"close": 42.31999969482422, "date": "2026-08-31", "entity": "delonghi", "volume": 297780.0, "wiki_views": 119}
-{"app_rank": 0, "date": "2026-08-31", "entity": "delta", "wiki_views": 2501}
+{"app_rank": 0, "close": 78.0, "date": "2026-08-31", "entity": "delta", "volume": 6100400.0, "wiki_views": 2501}
 {"date": "2026-08-31", "entity": "dennys", "wiki_views": 409}
 {"app_rank": 0, "date": "2026-08-31", "entity": "dexcom", "wiki_views": 128}
 {"close": 91.8499984741211, "date": "2026-08-31", "entity": "diageo", "volume": 507300.0, "wiki_views": 1199}
@@ -42600,7 +42600,7 @@
 {"close": 64.54000091552734, "date": "2026-09-01", "entity": "danone", "volume": 844001.0, "wiki_views": 416}
 {"close": 215.55999755859375, "date": "2026-09-01", "entity": "darden", "volume": 1020500.0, "wiki_views": 330}
 {"close": 41.619998931884766, "date": "2026-09-01", "entity": "delonghi", "volume": 192587.0, "wiki_views": 120}
-{"app_rank": 0, "date": "2026-09-01", "entity": "delta", "wiki_views": 2363}
+{"app_rank": 0, "close": 76.37999725341797, "date": "2026-09-01", "entity": "delta", "volume": 6566700.0, "wiki_views": 2363}
 {"date": "2026-09-01", "entity": "dennys", "wiki_views": 398}
 {"app_rank": 0, "date": "2026-09-01", "entity": "dexcom", "wiki_views": 146}
 {"close": 90.05999755859375, "date": "2026-09-01", "entity": "diageo", "volume": 949800.0, "wiki_views": 1170}
@@ -43027,7 +43027,7 @@
 {"close": 64.26000213623047, "date": "2026-09-02", "entity": "danone", "volume": 840373.0, "wiki_views": 460}
 {"close": 220.02999877929688, "date": "2026-09-02", "entity": "darden", "volume": 1257200.0, "wiki_views": 360}
 {"close": 39.97999954223633, "date": "2026-09-02", "entity": "delonghi", "volume": 112253.0, "wiki_views": 183}
-{"app_rank": 0, "date": "2026-09-02", "entity": "delta", "wiki_views": 2545}
+{"app_rank": 0, "close": 78.13999938964844, "date": "2026-09-02", "entity": "delta", "volume": 4896400.0, "wiki_views": 2545}
 {"date": "2026-09-02", "entity": "dennys", "wiki_views": 371}
 {"app_rank": 0, "date": "2026-09-02", "entity": "dexcom", "wiki_views": 147}
 {"close": 91.13999938964844, "date": "2026-09-02", "entity": "diageo", "volume": 841000.0, "wiki_views": 1125}
@@ -43454,7 +43454,7 @@
 {"close": 63.599998474121094, "date": "2026-09-03", "entity": "danone", "volume": 1091916.0, "wiki_views": 391}
 {"close": 218.0399932861328, "date": "2026-09-03", "entity": "darden", "volume": 853900.0, "wiki_views": 358}
 {"close": 39.91999816894531, "date": "2026-09-03", "entity": "delonghi", "volume": 126446.0, "wiki_views": 118}
-{"app_rank": 0, "date": "2026-09-03", "entity": "delta", "wiki_views": 2450}
+{"app_rank": 0, "close": 78.75, "date": "2026-09-03", "entity": "delta", "volume": 4433000.0, "wiki_views": 2450}
 {"date": "2026-09-03", "entity": "dennys", "wiki_views": 395}
 {"app_rank": 0, "date": "2026-09-03", "entity": "dexcom", "wiki_views": 156}
 {"close": 90.68000030517578, "date": "2026-09-03", "entity": "diageo", "volume": 691900.0, "wiki_views": 1092}
@@ -43881,7 +43881,7 @@
 {"close": 63.720001220703125, "date": "2026-09-04", "entity": "danone", "volume": 1119551.0, "wiki_views": 417}
 {"close": 216.8800048828125, "date": "2026-09-04", "entity": "darden", "volume": 620100.0, "wiki_views": 297}
 {"date": "2026-09-04", "entity": "delonghi", "wiki_views": 115}
-{"app_rank": 0, "date": "2026-09-04", "entity": "delta", "wiki_views": 2350}
+{"app_rank": 0, "close": 80.16999816894531, "date": "2026-09-04", "entity": "delta", "volume": 5130500.0, "wiki_views": 2350}
 {"date": "2026-09-04", "entity": "dennys", "wiki_views": 364}
 {"app_rank": 0, "date": "2026-09-04", "entity": "dexcom", "wiki_views": 126}
 {"close": 89.19000244140625, "date": "2026-09-04", "entity": "diageo", "volume": 1068500.0, "wiki_views": 1148}
@@ -45287,7 +45287,7 @@
 {"date": "2026-09-07", "entity": "liquiddeath", "wiki_views": 398}
 {"app_rank": 6, "date": "2026-09-07", "entity": "livenation", "wiki_views": 595}
 {"date": "2026-09-07", "entity": "logitech", "wiki_views": 384}
-{"date": "2026-09-07", "entity": "loreal", "wiki_views": 747}
+{"close": 384.6499938964844, "date": "2026-09-07", "entity": "loreal", "volume": 134817.0, "wiki_views": 747}
 {"date": "2026-09-07", "entity": "lovesac", "wiki_views": 56}
 {"date": "2026-09-07", "entity": "lovisa", "wiki_views": 6}
 {"app_rank": 0, "date": "2026-09-07", "entity": "lowes", "wiki_views": 684}
@@ -45588,7 +45588,7 @@
 {"close": 64.91999816894531, "date": "2026-09-08", "entity": "danone", "volume": 1455041.0, "wiki_views": 463}
 {"close": 212.9199981689453, "date": "2026-09-08", "entity": "darden", "volume": 948400.0, "wiki_views": 347}
 {"date": "2026-09-08", "entity": "delonghi", "wiki_views": 102}
-{"app_rank": 0, "date": "2026-09-08", "entity": "delta", "wiki_views": 2634}
+{"app_rank": 0, "close": 78.95999908447266, "date": "2026-09-08", "entity": "delta", "volume": 5269100.0, "wiki_views": 2634}
 {"date": "2026-09-08", "entity": "dennys", "wiki_views": 419}
 {"app_rank": 0, "date": "2026-09-08", "entity": "dexcom", "wiki_views": 128}
 {"close": 87.13999938964844, "date": "2026-09-08", "entity": "diageo", "volume": 861200.0, "wiki_views": 1147}
@@ -46015,7 +46015,7 @@
 {"close": 62.959999084472656, "date": "2026-09-09", "entity": "danone", "volume": 1197212.0, "wiki_views": 538}
 {"close": 209.4199981689453, "date": "2026-09-09", "entity": "darden", "volume": 1207400.0, "wiki_views": 279}
 {"date": "2026-09-09", "entity": "delonghi", "wiki_views": 99}
-{"app_rank": 0, "date": "2026-09-09", "entity": "delta", "wiki_views": 2599}
+{"app_rank": 0, "close": 78.75, "date": "2026-09-09", "entity": "delta", "volume": 4575700.0, "wiki_views": 2599}
 {"date": "2026-09-09", "entity": "dennys", "trends_hit": 500, "wiki_views": 446}
 {"app_rank": 0, "date": "2026-09-09", "entity": "dexcom", "wiki_views": 127}
 {"close": 86.0999984741211, "date": "2026-09-09", "entity": "diageo", "volume": 1590300.0, "wiki_views": 1316}
@@ -46442,7 +46442,7 @@
 {"close": 61.7599983215332, "date": "2026-09-10", "entity": "danone", "volume": 1523443.0, "wiki_views": 436}
 {"close": 207.52999877929688, "date": "2026-09-10", "entity": "darden", "volume": 1018100.0, "wiki_views": 328}
 {"date": "2026-09-10", "entity": "delonghi", "wiki_views": 122}
-{"app_rank": 0, "date": "2026-09-10", "entity": "delta", "wiki_views": 2486}
+{"app_rank": 0, "close": 78.23999786376953, "date": "2026-09-10", "entity": "delta", "volume": 5913100.0, "wiki_views": 2486}
 {"date": "2026-09-10", "entity": "dennys", "wiki_views": 407}
 {"app_rank": 0, "date": "2026-09-10", "entity": "dexcom", "wiki_views": 137}
 {"close": 86.30999755859375, "date": "2026-09-10", "entity": "diageo", "volume": 891600.0, "wiki_views": 1151}
@@ -46869,7 +46869,7 @@
 {"close": 61.380001068115234, "date": "2026-09-11", "entity": "danone", "volume": 914872.0, "wiki_views": 444}
 {"close": 209.88999938964844, "date": "2026-09-11", "entity": "darden", "volume": 1176500.0, "wiki_views": 379}
 {"date": "2026-09-11", "entity": "delonghi", "wiki_views": 100}
-{"app_rank": 0, "date": "2026-09-11", "entity": "delta", "wiki_views": 2680}
+{"app_rank": 0, "close": 79.91000366210938, "date": "2026-09-11", "entity": "delta", "volume": 4769700.0, "wiki_views": 2680}
 {"date": "2026-09-11", "entity": "dennys", "wiki_views": 394}
 {"app_rank": 0, "date": "2026-09-11", "entity": "dexcom", "wiki_views": 153}
 {"close": 86.62999725341797, "date": "2026-09-11", "entity": "diageo", "volume": 1550900.0, "wiki_views": 1163}
@@ -48150,7 +48150,7 @@
 {"close": 62.279998779296875, "date": "2026-09-14", "entity": "danone", "volume": 1393034.0, "wiki_views": 407}
 {"close": 218.57000732421875, "date": "2026-09-14", "entity": "darden", "volume": 1290400.0, "wiki_views": 361}
 {"date": "2026-09-14", "entity": "delonghi", "wiki_views": 117}
-{"app_rank": 0, "date": "2026-09-14", "entity": "delta", "wiki_views": 2585}
+{"app_rank": 0, "close": 79.80000305175781, "date": "2026-09-14", "entity": "delta", "volume": 5396700.0, "wiki_views": 2585}
 {"date": "2026-09-14", "entity": "dennys", "wiki_views": 375}
 {"app_rank": 0, "date": "2026-09-14", "entity": "dexcom", "wiki_views": 151}
 {"close": 88.37999725341797, "date": "2026-09-14", "entity": "diageo", "volume": 965200.0, "wiki_views": 1048}
@@ -48577,7 +48577,7 @@
 {"close": 61.58000183105469, "date": "2026-09-15", "entity": "danone", "volume": 1120969.0, "wiki_views": 417}
 {"close": 209.1199951171875, "date": "2026-09-15", "entity": "darden", "volume": 1610300.0, "wiki_views": 410}
 {"date": "2026-09-15", "entity": "delonghi", "wiki_views": 89}
-{"app_rank": 0, "date": "2026-09-15", "entity": "delta", "wiki_views": 2481}
+{"app_rank": 0, "close": 78.88999938964844, "date": "2026-09-15", "entity": "delta", "volume": 6154300.0, "wiki_views": 2481}
 {"date": "2026-09-15", "entity": "dennys", "wiki_views": 401}
 {"app_rank": 0, "date": "2026-09-15", "entity": "dexcom", "wiki_views": 138}
 {"close": 86.80000305175781, "date": "2026-09-15", "entity": "diageo", "volume": 650400.0, "wiki_views": 1049}
@@ -48703,7 +48703,7 @@
 {"date": "2026-09-15", "entity": "liquiddeath", "wiki_views": 409}
 {"app_rank": 9, "close": 170.24000549316406, "date": "2026-09-15", "entity": "livenation", "trends_hit": 10000, "volume": 1871300.0, "wiki_views": 644}
 {"close": 101.13999938964844, "date": "2026-09-15", "entity": "logitech", "volume": 752400.0, "wiki_views": 361}
-{"close": 378.45001220703125, "date": "2026-09-15", "entity": "loreal", "volume": 0.0, "wiki_views": 878}
+{"close": 381.20001220703125, "date": "2026-09-15", "entity": "loreal", "volume": 245847.0, "wiki_views": 878}
 {"date": "2026-09-15", "entity": "lovesac", "wiki_views": 38}
 {"date": "2026-09-15", "entity": "lovisa", "wiki_views": 7}
 {"app_rank": 0, "close": 194.61000061035156, "date": "2026-09-15", "entity": "lowes", "volume": 4093200.0, "wiki_views": 3214}
@@ -49004,7 +49004,7 @@
 {"close": 60.91999816894531, "date": "2026-09-16", "entity": "danone", "volume": 1248909.0, "wiki_views": 460}
 {"close": 208.0800018310547, "date": "2026-09-16", "entity": "darden", "volume": 1098500.0, "wiki_views": 374}
 {"date": "2026-09-16", "entity": "delonghi", "wiki_views": 103}
-{"app_rank": 0, "date": "2026-09-16", "entity": "delta", "wiki_views": 2571}
+{"app_rank": 0, "close": 77.87000274658203, "date": "2026-09-16", "entity": "delta", "volume": 6982700.0, "wiki_views": 2571}
 {"date": "2026-09-16", "entity": "dennys", "wiki_views": 374}
 {"app_rank": 0, "date": "2026-09-16", "entity": "dexcom", "wiki_views": 125}
 {"close": 86.94999694824219, "date": "2026-09-16", "entity": "diageo", "volume": 1381300.0, "wiki_views": 1036}
@@ -49130,7 +49130,7 @@
 {"date": "2026-09-16", "entity": "liquiddeath", "wiki_views": 378}
 {"app_rank": 7, "close": 171.1300048828125, "date": "2026-09-16", "entity": "livenation", "volume": 1722300.0, "wiki_views": 716}
 {"close": 99.52999877929688, "date": "2026-09-16", "entity": "logitech", "volume": 602900.0, "wiki_views": 359}
-{"date": "2026-09-16", "entity": "loreal", "wiki_views": 924}
+{"close": 381.8999938964844, "date": "2026-09-16", "entity": "loreal", "volume": 294809.0, "wiki_views": 924}
 {"date": "2026-09-16", "entity": "lovesac", "wiki_views": 37}
 {"date": "2026-09-16", "entity": "lovisa", "wiki_views": 9}
 {"app_rank": 0, "close": 194.10000610351562, "date": "2026-09-16", "entity": "lowes", "volume": 2983800.0, "wiki_views": 752}
@@ -49431,7 +49431,7 @@
 {"date": "2026-09-17", "entity": "danone", "wiki_views": 538}
 {"close": 206.74000549316406, "date": "2026-09-17", "entity": "darden", "volume": 893200.0, "wiki_views": 383}
 {"date": "2026-09-17", "entity": "delonghi", "wiki_views": 98}
-{"app_rank": 0, "date": "2026-09-17", "entity": "delta", "wiki_views": 2284}
+{"app_rank": 0, "close": 79.43000030517578, "date": "2026-09-17", "entity": "delta", "volume": 6084600.0, "wiki_views": 2284}
 {"date": "2026-09-17", "entity": "dennys", "wiki_views": 336}
 {"app_rank": 0, "date": "2026-09-17", "entity": "dexcom", "wiki_views": 124}
 {"close": 86.72000122070312, "date": "2026-09-17", "entity": "diageo", "volume": 1508600.0, "wiki_views": 1084}
@@ -49557,7 +49557,7 @@
 {"date": "2026-09-17", "entity": "liquiddeath", "wiki_views": 403}
 {"app_rank": 11, "close": 168.33999633789062, "date": "2026-09-17", "entity": "livenation", "volume": 1447800.0, "wiki_views": 560}
 {"close": 102.54000091552734, "date": "2026-09-17", "entity": "logitech", "volume": 653800.0, "wiki_views": 500}
-{"date": "2026-09-17", "entity": "loreal", "wiki_views": 956}
+{"close": 380.1000061035156, "date": "2026-09-17", "entity": "loreal", "volume": 246575.0, "wiki_views": 956}
 {"date": "2026-09-17", "entity": "lovesac", "wiki_views": 34}
 {"date": "2026-09-17", "entity": "lovisa", "wiki_views": 3}
 {"app_rank": 0, "close": 194.19000244140625, "date": "2026-09-17", "entity": "lowes", "volume": 2338700.0, "wiki_views": 595}
@@ -49858,7 +49858,7 @@
 {"close": 60.540000915527344, "date": "2026-09-18", "entity": "danone", "trends_hit": 200, "volume": 3342770.0, "wiki_views": 440}
 {"close": 209.27999877929688, "date": "2026-09-18", "entity": "darden", "volume": 1706900.0, "wiki_views": 381}
 {"date": "2026-09-18", "entity": "delonghi", "wiki_views": 64}
-{"app_rank": 0, "date": "2026-09-18", "entity": "delta", "wiki_views": 2278}
+{"app_rank": 0, "close": 79.62000274658203, "date": "2026-09-18", "entity": "delta", "volume": 24904500.0, "wiki_views": 2278}
 {"date": "2026-09-18", "entity": "dennys", "wiki_views": 374}
 {"app_rank": 0, "date": "2026-09-18", "entity": "dexcom", "wiki_views": 148}
 {"close": 85.58999633789062, "date": "2026-09-18", "entity": "diageo", "volume": 985200.0, "wiki_views": 1039}
@@ -49984,7 +49984,7 @@
 {"date": "2026-09-18", "entity": "liquiddeath", "wiki_views": 432}
 {"app_rank": 10, "close": 167.1199951171875, "date": "2026-09-18", "entity": "livenation", "volume": 4476600.0, "wiki_views": 527}
 {"close": 101.19999694824219, "date": "2026-09-18", "entity": "logitech", "volume": 792000.0, "wiki_views": 440}
-{"date": "2026-09-18", "entity": "loreal", "wiki_views": 899}
+{"close": 376.04998779296875, "date": "2026-09-18", "entity": "loreal", "volume": 1005560.0, "wiki_views": 899}
 {"date": "2026-09-18", "entity": "lovesac", "wiki_views": 27}
 {"date": "2026-09-18", "entity": "lovisa", "wiki_views": 9}
 {"app_rank": 0, "close": 192.49000549316406, "date": "2026-09-18", "entity": "lowes", "volume": 5881200.0, "wiki_views": 524}
@@ -51138,7 +51138,7 @@
 {"date": "2026-09-21", "entity": "danone", "wiki_views": 470}
 {"close": 211.30999755859375, "date": "2026-09-21", "entity": "darden", "volume": 1724900.0, "wiki_views": 353}
 {"date": "2026-09-21", "entity": "delonghi", "wiki_views": 90}
-{"app_rank": 0, "date": "2026-09-21", "entity": "delta", "wiki_views": 2575}
+{"app_rank": 0, "close": 82.5, "date": "2026-09-21", "entity": "delta", "volume": 9196700.0, "wiki_views": 2575}
 {"date": "2026-09-21", "entity": "dennys", "wiki_views": 345}
 {"app_rank": 0, "date": "2026-09-21", "entity": "dexcom", "wiki_views": 132}
 {"close": 86.81999969482422, "date": "2026-09-21", "entity": "diageo", "volume": 795500.0, "wiki_views": 2621}
@@ -51264,7 +51264,7 @@
 {"date": "2026-09-21", "entity": "liquiddeath", "wiki_views": 434}
 {"app_rank": 4, "close": 169.17999267578125, "date": "2026-09-21", "entity": "livenation", "volume": 1871900.0, "wiki_views": 445}
 {"close": 105.12000274658203, "date": "2026-09-21", "entity": "logitech", "volume": 903000.0, "wiki_views": 365}
-{"date": "2026-09-21", "entity": "loreal", "wiki_views": 807}
+{"close": 383.79998779296875, "date": "2026-09-21", "entity": "loreal", "volume": 189907.0, "wiki_views": 807}
 {"date": "2026-09-21", "entity": "lovesac", "wiki_views": 47}
 {"date": "2026-09-21", "entity": "lovisa", "wiki_views": 5}
 {"app_rank": 0, "close": 190.97999572753906, "date": "2026-09-21", "entity": "lowes", "volume": 3558400.0, "wiki_views": 459}
@@ -51565,7 +51565,7 @@
 {"date": "2026-09-22", "entity": "danone", "wiki_views": 412}
 {"close": 213.5399932861328, "date": "2026-09-22", "entity": "darden", "volume": 1314000.0, "wiki_views": 319}
 {"date": "2026-09-22", "entity": "delonghi", "wiki_views": 96}
-{"app_rank": 0, "date": "2026-09-22", "entity": "delta", "wiki_views": 2487}
+{"app_rank": 0, "close": 83.91999816894531, "date": "2026-09-22", "entity": "delta", "volume": 8635900.0, "wiki_views": 2487}
 {"date": "2026-09-22", "entity": "dennys", "wiki_views": 361}
 {"app_rank": 0, "date": "2026-09-22", "entity": "dexcom", "wiki_views": 148}
 {"close": 87.37000274658203, "date": "2026-09-22", "entity": "diageo", "volume": 573936.0, "wiki_views": 1590}
@@ -51691,7 +51691,7 @@
 {"date": "2026-09-22", "entity": "liquiddeath", "wiki_views": 422}
 {"app_rank": 3, "close": 169.83999633789062, "date": "2026-09-22", "entity": "livenation", "volume": 1811100.0, "wiki_views": 579}
 {"date": "2026-09-22", "entity": "logitech", "wiki_views": 391}
-{"date": "2026-09-22", "entity": "loreal", "wiki_views": 767}
+{"close": 389.5, "date": "2026-09-22", "entity": "loreal", "volume": 296924.0, "wiki_views": 767}
 {"date": "2026-09-22", "entity": "lovesac", "wiki_views": 69}
 {"date": "2026-09-22", "entity": "lovisa", "wiki_views": 12}
 {"app_rank": 0, "date": "2026-09-22", "entity": "lowes", "wiki_views": 12117}
@@ -51992,7 +51992,7 @@
 {"date": "2026-09-23", "entity": "danone", "wiki_views": 415}
 {"close": 213.69000244140625, "date": "2026-09-23", "entity": "darden", "volume": 1874100.0, "wiki_views": 348}
 {"date": "2026-09-23", "entity": "delonghi", "wiki_views": 123}
-{"app_rank": 0, "date": "2026-09-23", "entity": "delta", "wiki_views": 2421}
+{"app_rank": 0, "close": 81.75, "date": "2026-09-23", "entity": "delta", "volume": 6651900.0, "wiki_views": 2421}
 {"date": "2026-09-23", "entity": "dennys", "wiki_views": 376}
 {"app_rank": 0, "date": "2026-09-23", "entity": "dexcom", "wiki_views": 164}
 {"close": 86.11000061035156, "date": "2026-09-23", "entity": "diageo", "volume": 816622.0, "wiki_views": 1434}
@@ -52118,7 +52118,7 @@
 {"date": "2026-09-23", "entity": "liquiddeath", "wiki_views": 702}
 {"app_rank": 1, "close": 169.02999877929688, "date": "2026-09-23", "entity": "livenation", "volume": 2072500.0, "wiki_views": 560}
 {"close": 104.6500015258789, "date": "2026-09-23", "entity": "logitech", "volume": 727600.0, "wiki_views": 589}
-{"date": "2026-09-23", "entity": "loreal", "wiki_views": 833}
+{"close": 380.5, "date": "2026-09-23", "entity": "loreal", "volume": 394207.0, "wiki_views": 833}
 {"date": "2026-09-23", "entity": "lovesac", "wiki_views": 39}
 {"date": "2026-09-23", "entity": "lovisa", "wiki_views": 3}
 {"app_rank": 0, "close": 191.36000061035156, "date": "2026-09-23", "entity": "lowes", "volume": 2934348.0, "wiki_views": 494}
@@ -52419,7 +52419,7 @@
 {"date": "2026-09-24", "entity": "danone", "wiki_views": 429}
 {"close": 207.24000549316406, "date": "2026-09-24", "entity": "darden", "volume": 1953600.0, "wiki_views": 539}
 {"date": "2026-09-24", "entity": "delonghi", "wiki_views": 105}
-{"app_rank": 0, "date": "2026-09-24", "entity": "delta", "wiki_views": 2262}
+{"app_rank": 0, "close": 82.76000213623047, "date": "2026-09-24", "entity": "delta", "volume": 6253600.0, "wiki_views": 2262}
 {"date": "2026-09-24", "entity": "dennys", "wiki_views": 335}
 {"app_rank": 0, "date": "2026-09-24", "entity": "dexcom", "wiki_views": 124}
 {"date": "2026-09-24", "entity": "diageo", "wiki_views": 1293}
@@ -52545,7 +52545,7 @@
 {"date": "2026-09-24", "entity": "liquiddeath", "wiki_views": 566}
 {"app_rank": 1, "close": 171.05999755859375, "date": "2026-09-24", "entity": "livenation", "volume": 1936500.0, "wiki_views": 550}
 {"close": 99.55999755859375, "date": "2026-09-24", "entity": "logitech", "volume": 1167266.0, "wiki_views": 457}
-{"date": "2026-09-24", "entity": "loreal", "wiki_views": 911}
+{"close": 384.6499938964844, "date": "2026-09-24", "entity": "loreal", "volume": 332010.0, "wiki_views": 911}
 {"date": "2026-09-24", "entity": "lovesac", "wiki_views": 36}
 {"date": "2026-09-24", "entity": "lovisa", "wiki_views": 9}
 {"app_rank": 0, "date": "2026-09-24", "entity": "lowes", "wiki_views": 442}
@@ -52846,7 +52846,7 @@
 {"date": "2026-09-25", "entity": "danone", "wiki_views": 457}
 {"close": 199.75, "date": "2026-09-25", "entity": "darden", "volume": 1913200.0, "wiki_views": 432}
 {"date": "2026-09-25", "entity": "delonghi", "wiki_views": 113}
-{"app_rank": 0, "date": "2026-09-25", "entity": "delta", "wiki_views": 2084}
+{"app_rank": 0, "close": 84.94000244140625, "date": "2026-09-25", "entity": "delta", "volume": 7067200.0, "wiki_views": 2084}
 {"date": "2026-09-25", "entity": "dennys", "wiki_views": 404}
 {"app_rank": 0, "date": "2026-09-25", "entity": "dexcom", "wiki_views": 129}
 {"date": "2026-09-25", "entity": "diageo", "wiki_views": 1186}
@@ -52972,7 +52972,7 @@
 {"date": "2026-09-25", "entity": "liquiddeath", "wiki_views": 540}
 {"app_rank": 2, "close": 170.8699951171875, "date": "2026-09-25", "entity": "livenation", "volume": 1153200.0, "wiki_views": 475}
 {"date": "2026-09-25", "entity": "logitech", "wiki_views": 351}
-{"date": "2026-09-25", "entity": "loreal", "wiki_views": 776}
+{"close": 381.8500061035156, "date": "2026-09-25", "entity": "loreal", "volume": 267986.0, "wiki_views": 776}
 {"date": "2026-09-25", "entity": "lovesac", "wiki_views": 45}
 {"date": "2026-09-25", "entity": "lovisa", "wiki_views": 5}
 {"app_rank": 0, "date": "2026-09-25", "entity": "lowes", "wiki_views": 512}
@@ -54030,19 +54030,19 @@
 {"date": "2026-09-27", "entity": "zoetis", "wiki_views": 65}
 {"app_rank": 0, "close": 147.6999969482422, "date": "2026-09-28", "entity": "adidas", "volume": 0.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "affirm"}
-{"app_rank": 41, "close": 157.41000366210938, "date": "2026-09-28", "entity": "airbnb", "volume": 0.0}
+{"app_rank": 45, "close": 156.0800018310547, "date": "2026-09-28", "entity": "airbnb", "volume": 3911828.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "alaska_air"}
-{"app_rank": 13, "close": 109.36499786376953, "date": "2026-09-28", "entity": "alibaba", "volume": 0.0}
-{"app_rank": 20, "close": 246.9499969482422, "date": "2026-09-28", "entity": "amazon", "trends_hit": 2000, "volume": 0.0}
+{"app_rank": 13, "close": 108.76000213623047, "date": "2026-09-28", "entity": "alibaba", "volume": 5826555.0}
+{"app_rank": 14, "close": 246.14999389648438, "date": "2026-09-28", "entity": "amazon", "trends_hit": 2000, "volume": 31876881.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "amc"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "american_air"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "apple"}
-{"app_rank": 0, "date": "2026-09-28", "entity": "aristocrat"}
+{"app_rank": 0, "close": 58.38999938964844, "date": "2026-09-28", "entity": "aristocrat", "volume": 1058599.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "bestbuy"}
-{"close": 96.33989715576172, "date": "2026-09-28", "entity": "bjs", "volume": 0.0}
-{"app_rank": 48, "close": 73.74500274658203, "date": "2026-09-28", "entity": "block", "volume": 0.0}
+{"close": 96.80999755859375, "date": "2026-09-28", "entity": "bjs", "volume": 1794478.0}
+{"app_rank": 47, "close": 73.30999755859375, "date": "2026-09-28", "entity": "block", "volume": 5520497.0}
 {"close": 55.41999816894531, "date": "2026-09-28", "entity": "bmw", "volume": 0.0}
-{"app_rank": 38, "close": 164.3800048828125, "date": "2026-09-28", "entity": "booking", "volume": 0.0}
+{"app_rank": 41, "close": 163.8699951171875, "date": "2026-09-28", "entity": "booking", "volume": 8227076.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "bumble"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "caesars"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "carmax"}
@@ -54054,41 +54054,41 @@
 {"app_rank": 0, "date": "2026-09-28", "entity": "chipotle"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "cinemark"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "coinbase"}
-{"app_rank": 42, "date": "2026-09-28", "entity": "coles"}
-{"app_rank": 63, "close": 21.719999313354492, "date": "2026-09-28", "entity": "comcast", "volume": 0.0}
-{"close": 36.130001068115234, "date": "2026-09-28", "entity": "converse", "volume": 0.0}
-{"app_rank": 87, "close": 929.9199829101562, "date": "2026-09-28", "entity": "costco", "volume": 0.0}
+{"app_rank": 50, "close": 23.3799991607666, "date": "2026-09-28", "entity": "coles", "volume": 2534726.0}
+{"app_rank": 97, "close": 21.790000915527344, "date": "2026-09-28", "entity": "comcast", "volume": 27810526.0}
+{"close": 36.38999938964844, "date": "2026-09-28", "entity": "converse", "volume": 33792976.0}
+{"app_rank": 81, "close": 922.9199829101562, "date": "2026-09-28", "entity": "costco", "volume": 2405379.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "crumbl"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "crunch"}
-{"app_rank": 0, "date": "2026-09-28", "entity": "delta"}
+{"app_rank": 0, "close": 84.02999877929688, "date": "2026-09-28", "entity": "delta", "trends_hit": 2000, "volume": 7517384.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "dexcom"}
-{"app_rank": 61, "close": 105.41000366210938, "date": "2026-09-28", "entity": "disney", "volume": 0.0}
+{"app_rank": 67, "close": 105.58999633789062, "date": "2026-09-28", "entity": "disney", "volume": 11826021.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "dominos"}
-{"app_rank": 27, "close": 182.47000122070312, "date": "2026-09-28", "entity": "doordash", "volume": 0.0}
+{"app_rank": 32, "close": 178.38999938964844, "date": "2026-09-28", "entity": "doordash", "volume": 6846911.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "draftkings"}
-{"app_rank": 50, "close": 136.10000610351562, "date": "2026-09-28", "entity": "duolingo", "volume": 0.0}
+{"app_rank": 39, "close": 134.3000030517578, "date": "2026-09-28", "entity": "duolingo", "volume": 1622907.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "dutchbros"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "ea"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "easyjet"}
-{"app_rank": 98, "close": 108.19000244140625, "date": "2026-09-28", "entity": "ebay", "volume": 0.0}
+{"app_rank": 0, "close": 108.19000244140625, "date": "2026-09-28", "entity": "ebay", "volume": 0.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "endeavour"}
-{"app_rank": 8, "close": 68.82270050048828, "date": "2026-09-28", "entity": "etsy", "volume": 0.0}
+{"app_rank": 9, "close": 68.91999816894531, "date": "2026-09-28", "entity": "etsy", "volume": 2631208.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "expedia"}
-{"close": 13.569999694824219, "date": "2026-09-28", "entity": "figs", "volume": 0.0}
+{"close": 13.619999885559082, "date": "2026-09-28", "entity": "figs", "volume": 2517164.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "flutter"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "ford"}
-{"app_rank": 64, "close": 63.369998931884766, "date": "2026-09-28", "entity": "fox", "volume": 0.0}
+{"app_rank": 95, "close": 63.060001373291016, "date": "2026-09-28", "entity": "fox", "volume": 2937839.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "function_health"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "gamestop"}
-{"close": 22.610000610351562, "date": "2026-09-28", "entity": "gap", "volume": 0.0}
-{"close": 33.84000015258789, "date": "2026-09-28", "entity": "generalmills", "volume": 0.0}
+{"close": 22.950000762939453, "date": "2026-09-28", "entity": "gap", "volume": 10393329.0}
+{"close": 33.599998474121094, "date": "2026-09-28", "entity": "generalmills", "volume": 10632455.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "gm"}
-{"app_rank": 12, "close": 340.4150085449219, "date": "2026-09-28", "entity": "googlepixel", "volume": 0.0}
-{"app_rank": 36, "close": 3.0999999046325684, "date": "2026-09-28", "entity": "grab", "volume": 0.0}
+{"app_rank": 12, "close": 342.75, "date": "2026-09-28", "entity": "googlepixel", "volume": 19152264.0}
+{"app_rank": 40, "close": 3.0950000286102295, "date": "2026-09-28", "entity": "grab", "volume": 66692783.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "grindr"}
-{"app_rank": 19, "date": "2026-09-28", "entity": "gyg"}
+{"app_rank": 21, "close": 24.530000686645508, "date": "2026-09-28", "entity": "gyg", "volume": 235035.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "harveynorman"}
-{"close": 165.21499633789062, "date": "2026-09-28", "entity": "hershey", "volume": 0.0}
+{"close": 164.41000366210938, "date": "2026-09-28", "entity": "hershey", "volume": 1398012.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "hilton"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "hims"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "hingehealth"}
@@ -54105,67 +54105,68 @@
 {"app_rank": 0, "date": "2026-09-28", "entity": "klarna"}
 {"date": "2026-09-28", "entity": "konami", "trends_hit": 1000}
 {"app_rank": 0, "date": "2026-09-28", "entity": "krafton"}
-{"close": 153.1999969482422, "date": "2026-09-28", "entity": "labubu", "volume": 4378321.0}
+{"close": 153.1999969482422, "date": "2026-09-28", "entity": "labubu", "volume": 4376521.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "lifetime"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "lightwonder"}
-{"app_rank": 8, "close": 172.0800018310547, "date": "2026-09-28", "entity": "livenation", "volume": 0.0}
+{"app_rank": 8, "close": 171.88999938964844, "date": "2026-09-28", "entity": "livenation", "volume": 2205803.0}
+{"date": "2026-09-28", "entity": "loreal", "trends_hit": 2000}
 {"app_rank": 0, "date": "2026-09-28", "entity": "lowes"}
 {"app_rank": 0, "close": 398.20001220703125, "date": "2026-09-28", "entity": "lvmh", "volume": 0.0}
-{"app_rank": 60, "close": 14.704999923706055, "date": "2026-09-28", "entity": "lyft", "volume": 0.0}
+{"app_rank": 65, "close": 14.880000114440918, "date": "2026-09-28", "entity": "lyft", "volume": 6723323.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "marriott"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "match"}
-{"app_rank": 61, "close": 234.66000366210938, "date": "2026-09-28", "entity": "mcdonalds", "trends_hit": 2000, "volume": 0.0}
+{"app_rank": 55, "close": 233.60000610351562, "date": "2026-09-28", "entity": "mcdonalds", "trends_hit": 2000, "volume": 5321935.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "mercadolibre"}
-{"app_rank": 7, "close": 720.0700073242188, "date": "2026-09-28", "entity": "meta", "volume": 0.0}
-{"app_rank": 0, "close": 32.54999923706055, "date": "2026-09-28", "entity": "mgm", "volume": 0.0}
-{"app_rank": 18, "close": 509.2099914550781, "date": "2026-09-28", "entity": "microsoft", "volume": 0.0}
-{"app_rank": 0, "date": "2026-09-28", "entity": "myer"}
+{"app_rank": 7, "close": 715.6199951171875, "date": "2026-09-28", "entity": "meta", "volume": 27629348.0}
+{"app_rank": 0, "close": 31.860000610351562, "date": "2026-09-28", "entity": "mgm", "volume": 9313808.0}
+{"app_rank": 19, "close": 509.2200012207031, "date": "2026-09-28", "entity": "microsoft", "volume": 19545869.0}
+{"app_rank": 0, "close": 0.18000000715255737, "date": "2026-09-28", "entity": "myer", "volume": 4809104.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "netease"}
-{"app_rank": 14, "close": 69.56500244140625, "date": "2026-09-28", "entity": "netflix", "volume": 0.0}
+{"app_rank": 17, "close": 69.2300033569336, "date": "2026-09-28", "entity": "netflix", "volume": 43070286.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "nexon"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "nike"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "nintendo"}
-{"app_rank": 0, "close": 14.255000114440918, "date": "2026-09-28", "entity": "norwegian", "volume": 0.0}
-{"app_rank": 0, "close": 12.364999771118164, "date": "2026-09-28", "entity": "nubank", "volume": 0.0}
+{"app_rank": 0, "close": 14.3100004196167, "date": "2026-09-28", "entity": "norwegian", "volume": 23280899.0}
+{"app_rank": 0, "close": 12.229999542236328, "date": "2026-09-28", "entity": "nubank", "volume": 143251890.0}
 {"close": 230.0500030517578, "date": "2026-09-28", "entity": "nvidia", "trends_hit": 1000, "volume": 0.0}
-{"close": 29.614999771118164, "date": "2026-09-28", "entity": "on_running", "volume": 0.0}
+{"close": 30.0, "date": "2026-09-28", "entity": "on_running", "volume": 7273826.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "oscar"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "oura"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "papajohns"}
 {"close": 149.89999389648438, "date": "2026-09-28", "entity": "paradox", "volume": 0.0}
-{"app_rank": 20, "close": 10.175000190734863, "date": "2026-09-28", "entity": "paramount", "trends_hit": 10000, "volume": 0.0}
-{"app_rank": 49, "close": 54.16999816894531, "date": "2026-09-28", "entity": "paypal", "volume": 0.0}
-{"app_rank": 17, "close": 78.55999755859375, "date": "2026-09-28", "entity": "pdd", "volume": 0.0}
+{"app_rank": 37, "close": 10.279999732971191, "date": "2026-09-28", "entity": "paramount", "trends_hit": 10000, "volume": 24105595.0}
+{"app_rank": 42, "close": 54.279998779296875, "date": "2026-09-28", "entity": "paypal", "volume": 9859245.0}
+{"app_rank": 17, "close": 78.48999786376953, "date": "2026-09-28", "entity": "pdd", "volume": 3656035.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "peloton"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "petco"}
-{"app_rank": 45, "close": 18.735000610351562, "date": "2026-09-28", "entity": "pinterest", "volume": 0.0}
+{"app_rank": 46, "close": 18.40999984741211, "date": "2026-09-28", "entity": "pinterest", "volume": 8811776.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "planetfitness"}
 {"close": 22.780000686645508, "date": "2026-09-28", "entity": "puma", "volume": 0.0}
-{"app_rank": 67, "date": "2026-09-28", "entity": "qantas"}
+{"app_rank": 72, "close": 8.979999542236328, "date": "2026-09-28", "entity": "qantas", "volume": 3708749.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "rbi"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "rea"}
-{"app_rank": 97, "close": 147.30499267578125, "date": "2026-09-28", "entity": "reddit", "volume": 0.0}
+{"app_rank": 93, "close": 143.0800018310547, "date": "2026-09-28", "entity": "reddit", "volume": 4296105.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "revolut"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "rivian"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "robinhood"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "roblox"}
-{"app_rank": 52, "close": 153.10000610351562, "date": "2026-09-28", "entity": "roku", "volume": 0.0}
+{"app_rank": 86, "close": 152.6699981689453, "date": "2026-09-28", "entity": "roku", "volume": 1786973.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "rover"}
-{"app_rank": 0, "close": 243.10000610351562, "date": "2026-09-28", "entity": "royalcaribbean", "volume": 0.0}
+{"app_rank": 0, "close": 242.58999633789062, "date": "2026-09-28", "entity": "royalcaribbean", "volume": 3363879.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "rush_street"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "ryanair"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "sea"}
-{"app_rank": 51, "date": "2026-09-28", "entity": "seek"}
+{"app_rank": 58, "close": 11.119999885559082, "date": "2026-09-28", "entity": "seek", "volume": 1719888.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "shakeshack"}
-{"app_rank": 55, "date": "2026-09-28", "entity": "shein"}
+{"app_rank": 51, "date": "2026-09-28", "entity": "shein"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "sixflags"}
-{"app_rank": 58, "close": 5.309999942779541, "date": "2026-09-28", "entity": "snap", "volume": 0.0}
+{"app_rank": 49, "close": 5.21999979019165, "date": "2026-09-28", "entity": "snap", "volume": 27355912.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "sofi"}
 {"app_rank": 0, "close": 23.19499969482422, "date": "2026-09-28", "entity": "sony", "trends_hit": 1000, "volume": 0.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "southwest"}
-{"app_rank": 39, "close": 503.2099914550781, "date": "2026-09-28", "entity": "spotify", "volume": 0.0}
-{"app_rank": 0, "date": "2026-09-28", "entity": "starbucks"}
-{"app_rank": 0, "close": 21.90999984741211, "date": "2026-09-28", "entity": "starz", "volume": 0.0}
+{"app_rank": 38, "close": 497.510009765625, "date": "2026-09-28", "entity": "spotify", "volume": 1254566.0}
+{"app_rank": 0, "close": 95.2699966430664, "date": "2026-09-28", "entity": "starbucks", "volume": 7300804.0}
+{"app_rank": 0, "close": 21.5, "date": "2026-09-28", "entity": "starz", "volume": 390180.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "stellantis"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "sweetgreen"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "taketwo"}
@@ -54176,26 +54177,26 @@
 {"app_rank": 0, "date": "2026-09-28", "entity": "tencent"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "tesla"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "topgolf"}
-{"app_rank": 57, "close": 40.040000915527344, "date": "2026-09-28", "entity": "trip_com", "volume": 0.0}
+{"app_rank": 55, "close": 39.900001525878906, "date": "2026-09-28", "entity": "trip_com", "volume": 2581595.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "tripadvisor"}
-{"app_rank": 31, "close": 68.48500061035156, "date": "2026-09-28", "entity": "uber", "volume": 0.0}
+{"app_rank": 31, "close": 68.16000366210938, "date": "2026-09-28", "entity": "uber", "volume": 16628805.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "ulta"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "underdog"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "united"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "vail"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "viking"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "wag"}
-{"app_rank": 40, "close": 109.23999786376953, "date": "2026-09-28", "entity": "walmart", "trends_hit": 2000, "volume": 0.0}
+{"app_rank": 41, "close": 108.7300033569336, "date": "2026-09-28", "entity": "walmart", "trends_hit": 2000, "volume": 16778183.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "wayfair"}
-{"app_rank": 89, "close": 30.854999542236328, "date": "2026-09-28", "entity": "wbd", "volume": 0.0}
+{"app_rank": 91, "close": 30.899999618530273, "date": "2026-09-28", "entity": "wbd", "volume": 43505123.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "wendys"}
-{"app_rank": 89, "date": "2026-09-28", "entity": "wesfarmers"}
-{"close": 31.770000457763672, "date": "2026-09-28", "entity": "whirlpool", "volume": 0.0}
+{"app_rank": 96, "close": 73.58999633789062, "date": "2026-09-28", "entity": "wesfarmers", "volume": 1128102.0}
+{"close": 31.399999618530273, "date": "2026-09-28", "entity": "whirlpool", "trends_hit": 2000, "volume": 3681468.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "whoop"}
 {"app_rank": 0, "date": "2026-09-28", "entity": "wingstop"}
-{"app_rank": 25, "close": 854.0, "date": "2026-09-28", "entity": "wise", "volume": 0.0}
+{"app_rank": 30, "close": 854.0, "date": "2026-09-28", "entity": "wise", "volume": 0.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "wizz"}
-{"app_rank": 14, "date": "2026-09-28", "entity": "woolworths"}
+{"app_rank": 15, "close": 38.86000061035156, "date": "2026-09-28", "entity": "woolworths", "volume": 1308221.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "ww"}
-{"app_rank": 54, "close": 138.0399932861328, "date": "2026-09-28", "entity": "yum", "volume": 0.0}
+{"app_rank": 74, "close": 138.27999877929688, "date": "2026-09-28", "entity": "yum", "volume": 1840736.0}
 {"app_rank": 0, "date": "2026-09-28", "entity": "zip"}
