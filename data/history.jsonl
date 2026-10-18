@@ -2165,7 +2165,7 @@
 {"close": 28.15999984741211, "date": "2026-10-15", "entity": "celsius", "news_articles": 0.0063, "volume": 6148000.0, "wiki_views": 348}
 {"close": 51.52000045776367, "date": "2026-10-15", "entity": "crispr", "news_articles": 0.001, "volume": 1352700.0, "wiki_views": 79}
 {"close": 124.7699966430664, "date": "2026-10-15", "entity": "crocs", "news_articles": 0.0, "volume": 1483400.0, "wiki_views": 542}
-{"close": 86.58000183105469, "date": "2026-10-15", "entity": "deckers", "volume": 3140100.0, "wiki_views": 246}
+{"close": 86.58000183105469, "date": "2026-10-15", "entity": "deckers", "news_articles": 0.0, "volume": 3140100.0, "wiki_views": 246}
 {"close": 41.099998474121094, "date": "2026-10-15", "entity": "dutch_bros", "news_articles": 0.0052, "volume": 4709600.0, "wiki_views": 2}
 {"close": 116.11000061035156, "date": "2026-10-15", "entity": "elf", "news_articles": 0.0, "trends_hit": 200, "volume": 2295500.0, "wiki_views": 269}
 {"close": 23.170000076293945, "date": "2026-10-15", "entity": "oddity", "volume": 900800.0, "wiki_views": 44}
@@ -2180,9 +2180,9 @@
 {"close": 28.190000534057617, "date": "2026-10-16", "entity": "celsius", "news_articles": 0.0013, "volume": 4618600.0}
 {"close": 49.25, "date": "2026-10-16", "entity": "crispr", "news_articles": 0.0, "volume": 1518000.0}
 {"close": 123.13999938964844, "date": "2026-10-16", "entity": "crocs", "news_articles": 0.0, "volume": 1017000.0}
-{"close": 85.70999908447266, "date": "2026-10-16", "entity": "deckers", "volume": 2697700.0}
+{"close": 85.70999908447266, "date": "2026-10-16", "entity": "deckers", "news_articles": 0.0, "volume": 2697700.0}
 {"close": 41.15999984741211, "date": "2026-10-16", "entity": "dutch_bros", "news_articles": 0.0013, "volume": 4773600.0}
-{"close": 113.54000091552734, "date": "2026-10-16", "entity": "elf", "news_articles": 0.0, "volume": 1617000.0}
+{"close": 113.54000091552734, "date": "2026-10-16", "entity": "elf", "news_articles": 0.0007, "volume": 1617000.0}
 {"close": 22.43000030517578, "date": "2026-10-16", "entity": "oddity", "volume": 574200.0}
 {"close": 34.75, "date": "2026-10-16", "entity": "onon", "news_articles": 0.3702, "volume": 10189700.0}
 {"close": 142.1999969482422, "date": "2026-10-16", "entity": "popmart", "news_articles": 0.008, "volume": 8641610.0}
@@ -2191,6 +2191,11 @@
 {"date": "2026-10-17", "entity": "celsius", "news_articles": 0.0}
 {"date": "2026-10-17", "entity": "crispr", "news_articles": 0.0}
 {"date": "2026-10-17", "entity": "crocs", "news_articles": 0.0}
+{"date": "2026-10-17", "entity": "deckers", "news_articles": 0.0032}
 {"date": "2026-10-17", "entity": "dutch_bros", "news_articles": 0.0}
+{"date": "2026-10-17", "entity": "elf", "news_articles": 0.0}
 {"date": "2026-10-17", "entity": "popmart", "news_articles": 0.0011}
 {"date": "2026-10-17", "entity": "robinhood", "news_articles": 0.0}
+{"date": "2026-10-18", "entity": "deckers", "news_articles": 0.0}
+{"date": "2026-10-18", "entity": "elf", "news_articles": 0.0}
+{"date": "2026-10-18", "entity": "popmart", "news_articles": 0.0}
