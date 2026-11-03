@@ -2440,5 +2440,7 @@
 {"close": 112.66999816894531, "date": "2026-11-02", "entity": "elf", "volume": 0.0}
 {"close": 21.399999618530273, "date": "2026-11-02", "entity": "oddity", "volume": 0.0}
 {"close": 35.52080154418945, "date": "2026-11-02", "entity": "onon", "volume": 0.0}
+{"close": 136.5, "date": "2026-11-02", "entity": "popmart", "volume": 8162061.0}
 {"close": 86.56999969482422, "date": "2026-11-02", "entity": "robinhood", "volume": 0.0}
 {"close": 412.3599853515625, "date": "2026-11-02", "entity": "tesla", "volume": 0.0}
+{"date": "2026-11-03", "entity": "tesla", "trends_hit": 200}
