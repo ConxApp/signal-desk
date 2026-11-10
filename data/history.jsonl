@@ -2530,13 +2530,13 @@
 {"date": "2026-11-08", "entity": "elf", "news_articles": 0.0, "wiki_views": 182}
 {"date": "2026-11-08", "entity": "oddity", "news_articles": 0.0, "wiki_views": 31}
 {"date": "2026-11-08", "entity": "onon", "news_articles": 0.2551, "wiki_views": 1012}
-{"date": "2026-11-08", "entity": "popmart", "wiki_views": 348}
+{"date": "2026-11-08", "entity": "popmart", "news_articles": 0.0, "wiki_views": 348}
 {"date": "2026-11-08", "entity": "robinhood", "news_articles": 0.0035, "wiki_views": 196}
 {"date": "2026-11-08", "entity": "tesla", "wiki_views": 3542}
 {"close": 502.4375915527344, "date": "2026-11-09", "entity": "amd", "news_articles": 0.0471, "volume": 0.0}
 {"close": 155.0050048828125, "date": "2026-11-09", "entity": "atlassian", "volume": 0.0}
 {"close": 38.44499969482422, "date": "2026-11-09", "entity": "birkenstock", "volume": 0.0}
-{"close": 197.10000610351562, "date": "2026-11-09", "entity": "bloom_energy", "volume": 0.0}
+{"close": 197.10000610351562, "date": "2026-11-09", "entity": "bloom_energy", "news_articles": 0.0, "volume": 0.0}
 {"close": 32.6422004699707, "date": "2026-11-09", "entity": "celsius", "volume": 0.0}
 {"close": 50.46500015258789, "date": "2026-11-09", "entity": "crispr", "volume": 0.0}
 {"close": 160.1649932861328, "date": "2026-11-09", "entity": "crocs", "volume": 0.0}
@@ -2545,5 +2545,10 @@
 {"close": 119.86499786376953, "date": "2026-11-09", "entity": "elf", "news_articles": 0.0, "volume": 0.0}
 {"close": 20.709999084472656, "date": "2026-11-09", "entity": "oddity", "news_articles": 0.0, "volume": 0.0}
 {"close": 37.05500030517578, "date": "2026-11-09", "entity": "onon", "news_articles": 0.4399, "volume": 0.0}
+{"close": 143.1999969482422, "date": "2026-11-09", "entity": "popmart", "news_articles": 0.0, "volume": 3839614.0}
 {"close": 84.19999694824219, "date": "2026-11-09", "entity": "robinhood", "news_articles": 0.0, "volume": 0.0}
 {"close": 377.8599853515625, "date": "2026-11-09", "entity": "tesla", "volume": 0.0}
+{"date": "2026-11-10", "entity": "bloom_energy", "news_articles": 0.0}
+{"date": "2026-11-10", "entity": "elf", "news_articles": 0.0}
+{"close": 144.0, "date": "2026-11-10", "entity": "popmart", "news_articles": 0.0, "volume": 0.0}
+{"date": "2026-11-10", "entity": "robinhood", "news_articles": 0.0}
