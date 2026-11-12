@@ -2548,10 +2548,10 @@
 {"close": 143.1999969482422, "date": "2026-11-09", "entity": "popmart", "news_articles": 0.0, "volume": 3839614.0, "wiki_views": 259}
 {"close": 83.31999969482422, "date": "2026-11-09", "entity": "robinhood", "news_articles": 0.0, "volume": 15184600.0, "wiki_views": 259}
 {"close": 378.04998779296875, "date": "2026-11-09", "entity": "tesla", "volume": 36341400.0, "wiki_views": 3992}
-{"close": 515.2100219726562, "date": "2026-11-10", "entity": "amd", "volume": 46907700.0, "wiki_views": 959}
+{"close": 515.2100219726562, "date": "2026-11-10", "entity": "amd", "volume": 47159100.0, "wiki_views": 959}
 {"close": 148.60000610351562, "date": "2026-11-10", "entity": "atlassian", "volume": 4356200.0, "wiki_views": 766}
 {"close": 37.27000045776367, "date": "2026-11-10", "entity": "birkenstock", "volume": 1053600.0, "wiki_views": 242}
-{"close": 185.4199981689453, "date": "2026-11-10", "entity": "bloom_energy", "news_articles": 0.0, "volume": 13213800.0, "wiki_views": 337}
+{"close": 185.4199981689453, "date": "2026-11-10", "entity": "bloom_energy", "news_articles": 0.0, "volume": 13364300.0, "wiki_views": 337}
 {"close": 32.79999923706055, "date": "2026-11-10", "entity": "celsius", "volume": 4573900.0, "wiki_views": 295}
 {"close": 45.150001525878906, "date": "2026-11-10", "entity": "crispr", "volume": 4007600.0, "wiki_views": 57}
 {"close": 159.66000366210938, "date": "2026-11-10", "entity": "crocs", "news_articles": 0.0, "volume": 890000.0, "wiki_views": 435}
@@ -2559,10 +2559,10 @@
 {"close": 35.290000915527344, "date": "2026-11-10", "entity": "dutch_bros", "volume": 6114200.0, "wiki_views": 1}
 {"close": 118.51000213623047, "date": "2026-11-10", "entity": "elf", "news_articles": 0.0037, "volume": 1102100.0, "wiki_views": 172}
 {"close": 19.5049991607666, "date": "2026-11-10", "entity": "oddity", "volume": 1282600.0, "wiki_views": 30}
-{"close": 34.70000076293945, "date": "2026-11-10", "entity": "onon", "news_articles": 0.4907, "volume": 25350800.0, "wiki_views": 779}
+{"close": 34.70000076293945, "date": "2026-11-10", "entity": "onon", "news_articles": 0.4752, "volume": 25350800.0, "wiki_views": 779}
 {"close": 146.60000610351562, "date": "2026-11-10", "entity": "popmart", "news_articles": 0.0074, "volume": 6170348.0, "wiki_views": 231}
-{"close": 81.33000183105469, "date": "2026-11-10", "entity": "robinhood", "news_articles": 0.0, "volume": 13402500.0, "wiki_views": 198}
-{"close": 379.7799987792969, "date": "2026-11-10", "entity": "tesla", "volume": 23871400.0, "wiki_views": 3509}
+{"close": 81.33000183105469, "date": "2026-11-10", "entity": "robinhood", "news_articles": 0.0, "volume": 13460500.0, "wiki_views": 198}
+{"close": 379.7799987792969, "date": "2026-11-10", "entity": "tesla", "volume": 23999800.0, "wiki_views": 3509}
 {"close": 539.5399780273438, "date": "2026-11-11", "entity": "amd", "volume": 0.0}
 {"close": 152.02000427246094, "date": "2026-11-11", "entity": "atlassian", "volume": 0.0}
 {"close": 35.93000030517578, "date": "2026-11-11", "entity": "birkenstock", "volume": 0.0}
@@ -2574,7 +2574,9 @@
 {"close": 35.595001220703125, "date": "2026-11-11", "entity": "dutch_bros", "volume": 0.0}
 {"close": 116.2699966430664, "date": "2026-11-11", "entity": "elf", "news_articles": 0.0047, "volume": 0.0}
 {"close": 19.549999237060547, "date": "2026-11-11", "entity": "oddity", "volume": 0.0}
-{"close": 34.720001220703125, "date": "2026-11-11", "entity": "onon", "volume": 0.0}
-{"close": 145.0, "date": "2026-11-11", "entity": "popmart", "news_articles": 0.0047, "volume": 4349978.0}
+{"close": 34.720001220703125, "date": "2026-11-11", "entity": "onon", "news_articles": 0.3329, "volume": 0.0}
+{"close": 145.0, "date": "2026-11-11", "entity": "popmart", "news_articles": 0.0047, "volume": 4357178.0}
 {"close": 83.08000183105469, "date": "2026-11-11", "entity": "robinhood", "news_articles": 0.0, "volume": 0.0}
 {"close": 390.19000244140625, "date": "2026-11-11", "entity": "tesla", "volume": 0.0}
+{"date": "2026-11-12", "entity": "elf", "news_articles": 0.0}
+{"date": "2026-11-12", "entity": "onon", "news_articles": 0.1138}
