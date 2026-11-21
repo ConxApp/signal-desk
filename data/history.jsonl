@@ -2715,6 +2715,7 @@
 {"close": 345.82000732421875, "date": "2026-11-20", "entity": "tesla", "trends_hit": 1000, "volume": 45990400.0, "wiki_views": 2570}
 {"date": "2026-11-21", "entity": "amd", "news_articles": 0.2069}
 {"date": "2026-11-21", "entity": "bloom_energy", "news_articles": 0.1182}
+{"date": "2026-11-21", "entity": "crispr", "news_articles": 0.0}
 {"date": "2026-11-21", "entity": "crocs", "news_articles": 0.0}
 {"date": "2026-11-21", "entity": "deckers", "trends_hit": 5000}
 {"date": "2026-11-21", "entity": "dutch_bros", "news_articles": 0.0}
