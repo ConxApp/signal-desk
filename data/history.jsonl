@@ -2713,7 +2713,7 @@
 {"close": 140.39999389648438, "date": "2026-11-20", "entity": "popmart", "news_articles": 0.0, "volume": 7132430.0, "wiki_views": 183}
 {"close": 62.16999816894531, "date": "2026-11-20", "entity": "robinhood", "news_articles": 0.0, "volume": 28127700.0, "wiki_views": 215}
 {"close": 345.82000732421875, "date": "2026-11-20", "entity": "tesla", "trends_hit": 1000, "volume": 45990400.0, "wiki_views": 2570}
-{"date": "2026-11-21", "entity": "amd", "news_articles": 0.2069, "wiki_views": 100}
+{"date": "2026-11-21", "entity": "amd", "news_articles": 0.1378, "wiki_views": 100}
 {"date": "2026-11-21", "entity": "atlassian", "wiki_views": 332}
 {"date": "2026-11-21", "entity": "birkenstock", "wiki_views": 246}
 {"date": "2026-11-21", "entity": "bloom_energy", "news_articles": 0.0788, "wiki_views": 207}
@@ -2728,6 +2728,7 @@
 {"date": "2026-11-21", "entity": "popmart", "wiki_views": 217}
 {"date": "2026-11-21", "entity": "robinhood", "wiki_views": 237}
 {"date": "2026-11-21", "entity": "tesla", "wiki_views": 2391}
+{"date": "2026-11-22", "entity": "amd", "news_articles": 0.0392}
 {"date": "2026-11-22", "entity": "bloom_energy", "news_articles": 0.0}
 {"date": "2026-11-22", "entity": "celsius", "news_articles": 0.0}
 {"date": "2026-11-22", "entity": "crispr", "news_articles": 0.0}
